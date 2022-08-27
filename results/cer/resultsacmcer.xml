@@ -1,0 +1,2372 @@
+<articles>
+  <article>
+    <journaltitle>1. ACM Transactions on Software Engineering and Methodology</journaltitle>
+    <title>1. Facilitating the Transition from Use Case Models to Analysis Models: Approach and Experiments</title>
+    <doi>1. </doi>
+    <pubdate>1. 2013</pubdate>
+    <volume>1. 22</volume>
+    <issue>1. 1</issue>
+    <fpage>1. </fpage>
+    <lpage>1. </lpage>
+    <abstract>1. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>1.1.  General Terms: Design, Documentation, Experimentation, Measurement</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>1.1.  -</h1>
+      <h1>1.2.  1. INTRODUCTION</h1>
+      <h1>1.3.  2. USE CASE MODELING APPROACH (RUCM)</h1>
+      <h1>1.4.  2.1. Use Case Template</h1>
+      <h1>1.5.  2.2. Restriction Rules</h1>
+      <h1>1.6.  3. EXPERIMENT PLANNING</h1>
+      <h1>1.7.  3.1. Experiment Definition</h1>
+      <h1>1.8.  3.2. Context Selection and Subjects</h1>
+      <h1>1.9.  3.3. Hypotheses Formulation</h1>
+      <h1>1.10.  3.4. Experiment Design</h1>
+      <h1>1.11.  3.5. Instrumentation</h1>
+      <h1>1.12.  3.6. Evaluation Measurement and Data Collection</h1>
+      <h1>1.13.  4. EXPERIMENT RESULTS AND ANALYSIS</h1>
+      <h1>1.14.  4.1. Usage of Restriction Rules</h1>
+      <h1>1.15.  4.2. Quality of Analysis Models</h1>
+      <h1>1.16.  4.3. Summary of Analysis Results</h1>
+      <h1>1.17.  5. DISCUSSION</h1>
+      <h1>1.18.  5.1. Threats to Validity</h1>
+      <h1>1.19.  5.2. Practical Implications and Limitations</h1>
+      <h1>1.20.  6. RELATED WORK</h1>
+      <h1>1.21.  6.1. Use Case Template</h1>
+      <h1>1.22.  6.2. Restriction Rules</h1>
+      <h1>1.23.  6.3. Empirical Evaluation</h1>
+      <h1>1.24.  7. CONCLUSION</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>2. ACM Computing Surveys</journaltitle>
+    <title>2. Automatic Software Repair: A Bibliography</title>
+    <doi>2. </doi>
+    <pubdate>2. 2017</pubdate>
+    <volume>2. 51</volume>
+    <issue>2. 1</issue>
+    <fpage>2. </fpage>
+    <lpage>2. </lpage>
+    <abstract>2. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>2.1.  MARTIN MONPERRUS</author>
+      <author>2.2.  University of Lille</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>2.1.  1 INTRODUCTION</h1>
+      <h1>2.2.  CORE CONCEPTS FOR AUTOMATIC REPAIR</h1>
+      <h1>2.3.  BEHAVIORAL REPAIR</h1>
+      <h1>2.4.  Repair and Oracles</h1>
+      <h1>2.5.  Static Analysis</h1>
+      <h1>2.6.  Crashing Inputs</h1>
+      <h1>2.7.  Other Oracles</h1>
+      <h1>2.8.  Domain Specific Repair</h1>
+      <h1>2.9.  Fault Classes and Repair</h1>
+      <h1>2.10.  STATE REPAIR</h1>
+      <h1>2.11.  Reinitialization and Restart</h1>
+      <h1>2.12.  Checkpoint and Rollback</h1>
+      <h1>2.13.  Alternatives</h1>
+      <h1>2.14.  Reconfiguration</h1>
+      <h1>2.15.  4.5 Input Modification</h1>
+      <h1>2.16.  Environment Perturbation</h1>
+      <h1>2.17.  Rollforward</h1>
+      <h1>2.18.  Collaborative Repair</h1>
+      <h1>2.19.  EMPIRICAL KNOWLEDGE ON REPAIR</h1>
+      <h1>2.20.  RELATED TECHNIQUES</h1>
+      <h1>2.21.  Forward Engineering for Repair</h1>
+      <h1>2.22.  Repair Suggestions</h1>
+      <h1>2.23.  Theoretical Software Repair</h1>
+      <h1>2.24.  CONCLUSION</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>3. ACM Computing Surveys</journaltitle>
+    <title>3. Metamorphic Testing: A Review of Challenges and Opportunities</title>
+    <doi>3. </doi>
+    <pubdate>3. 2018</pubdate>
+    <volume>3. 51</volume>
+    <issue>3. 1</issue>
+    <fpage>3. </fpage>
+    <lpage>3. </lpage>
+    <abstract>3. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>3.1.  TSONG YUEH CHEN</author>
+      <author>3.2.  FEI-CHING KUO</author>
+      <author>3.3.  Swinburne University of Technology HUAI LIU</author>
+      <author>3.4.  Victoria University PAK-LOK POON</author>
+      <author>3.5.  RMIT University DAVE TOWEY</author>
+      <author>3.6.  University of Nottingham Ningbo China T. H. TSE</author>
+      <author>3.7.  The University of Hong Kong ZHI QUAN ZHOU</author>
+      <author>3.8.  University of Wollongong</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>3.1.  -</h1>
+      <h1>3.2.  1 INTRODUCTION</h1>
+      <h1>3.3.  BACKGROUND</h1>
+      <h1>3.4.  Are Successful Test Cases Really Useless?</h1>
+      <h1>3.5.  The Intuition and Formalization of MT</h1>
+      <h1>3.6.  2.3 Advantages of MT</h1>
+      <h1>3.7.  FREQUENTLY MISUNDERSTOOD CONCEPTS IN MT</h1>
+      <h1>3.8.  MT IN TESTING</h1>
+      <h1>3.9.  MT as an Approach to Alleviating the Oracle Problem</h1>
+      <h1>3.10.  MT as a New Test Case Generation Strategy</h1>
+      <h1>3.11.  EXTENSION OF MT BEYOND TESTING</h1>
+      <h1>3.12.  Proving MRs</h1>
+      <h1>3.13.  A Framework for Verification, Validation, and Quality Assessment</h1>
+      <h1>3.14.  6 INTEGRATION WITH OTHER TECHNIQUES</h1>
+      <h1>3.15.  MORE RESEARCH OPPORTUNITIES</h1>
+      <h1>3.16.  CONCLUSION</h1>
+    </section1>
+    <section2>
+      <h2>3.1.  The following is a formal presentation of the MT methodology.</h2>
+      <h2>3.2.  Example 3. For the sine function, its specification is usually given by the equation</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>4. ACM Transactions on Database Systems</journaltitle>
+    <title>4. TriAL: A Navigational Algebra for RDF Triplestores</title>
+    <doi>4. </doi>
+    <pubdate>4. 2018</pubdate>
+    <volume>4. 43</volume>
+    <issue>4. 1</issue>
+    <fpage>4. </fpage>
+    <lpage>4. </lpage>
+    <abstract>4. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>4.1.  Additional Key Words and Phrases: RDF, Triple Algebra, Query evaluation</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>4.1.  1 INTRODUCTION</h1>
+      <h1>4.2.  PRELIMINARIES AND MOTIVATION</h1>
+      <h1>4.3.  2.1 Basic Definitions</h1>
+      <h1>4.4.  2.2 Limitations of Graph Queries over RDF</h1>
+      <h1>4.5.  AN ALGEBRA FOR RDF</h1>
+      <h1>4.6.  A DECLARATIVE LANGUAGE</h1>
+      <h1>4.7.  TripleDatalog¬ and ReachTripleDatalog¬ Programs</h1>
+      <h1>4.8.  Triple Algebra and Other Relational Query Languages</h1>
+      <h1>4.9.  5.1 Low-complexity Fragments</h1>
+      <h1>4.10.  6 TRIPLE ALGEBRA AS A GRAPH LANGUAGE</h1>
+      <h1>4.11.  TRIAL IN PRACTICE</h1>
+      <h1>4.12.  Implementing TriAL∗</h1>
+      <h1>4.13.  Real World RDF Data and a Comparison with SPARQL Engines</h1>
+      <h1>4.14.  TriAL∗ to Compute Property Path Queries</h1>
+      <h1>4.15.  Synthetic Data and TriAL∗ Queries</h1>
+      <h1>4.16.  Practical Lessons</h1>
+      <h1>4.17.  RELATED WORK</h1>
+      <h1>4.18.  9 CONCLUSIONS AND FUTURE WORK</h1>
+      <h1>4.19.  ACKNOWLEDGMENTS</h1>
+    </section1>
+    <section2>
+      <h2>4.1.  Suppose one wants to answer the following query:</h2>
+      <h2>4.2.  4This is our analogue of URIs in RDF.</h2>
+      <h2>4.3.  3 , we could simply add</h2>
+      <h2>4.4.  Proposition 4.2.</h2>
+      <h2>4.5.  Proposition 4.5.</h2>
+      <h2>4.6.  Proposition 4.6.</h2>
+      <h2>4.7.  Proposition 4.7.</h2>
+      <h2>4.8.  Proof. We first show that</h2>
+      <h2>4.9.  PROCEDURE 1: Computing Joins</h2>
+      <h2>4.10.  PROCEDURE 2: Computing Stars</h2>
+      <h2>4.11.  Proposition 5.3.</h2>
+      <h2>4.12.  The QueryComputation</h2>
+      <h2>4.13.  Proposition 5.5.</h2>
+      <h2>4.14.  The problem QueryComputation</h2>
+      <h2>4.15.  Corollary 6.2.</h2>
+      <h2>4.16.  Corollary 6.3.</h2>
+      <h2>4.17.  Theorem 6.4.</h2>
+      <h2>4.18.  Next, consider the following TriAL expressions:</h2>
+      <h2>4.19.  Corollary 6.5.</h2>
+      <h2>4.20.  WITH actors AS (</h2>
+      <h2>4.21.  SELECT yagofacts.s, yagofacts.p, yf2.s</h2>
+      <h2>4.22.  FROM yagofacts, yagofacts yf2</h2>
+      <h2>4.23.  WITH RECURSIVE rec(s, p, o) AS (</h2>
+      <h2>4.24.  SELECT * FROM actors</h2>
+      <h2>4.25.  UNION</h2>
+      <h2>4.26.  SELECT rec.s, actors.p, actors.o</h2>
+      <h2>4.27.  FROM actors, rec</h2>
+      <h2>4.28.  SELECT * FROM rec</h2>
+      <h2>4.29.  SELECT * WHERE {?x exp1 ?y}, or</h2>
+    </section2>
+    <section3>
+      <h3>4.1.  St. Andrews</h3>
+      <h3>4.2.  Edinburgh</h3>
+      <h3>4.3.  London</h3>
+      <h3>4.4.  Train Op 1</h3>
+      <h3>4.5.  Train Op 2</h3>
+      <h3>4.6.  EastCoast</h3>
+      <h3>4.7.  Train Op 1</h3>
+      <h3>4.8.  Train Op 2</h3>
+      <h3>4.9.  Edinburgh</h3>
+      <h3>4.10.  London</h3>
+      <h3>4.11.  Brussels</h3>
+      <h3>4.12.  NatExpress</h3>
+      <h3>4.13.  EastCoast</h3>
+      <h3>4.14.  Eurostar</h3>
+      <h3>4.15.  NatExpress</h3>
+      <h3>4.16.  St. Andrews NatExpress Edinburgh</h3>
+      <h3>4.17.  Edinburgh EastCoast London</h3>
+      <h3>4.18.  London Eurostar Brussels</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>5. ACM Transactions on Intelligent Systems and Technology</journaltitle>
+    <title>5. Sparse Passive-Aggressive Learning for Bounded Online Kernel Methods</title>
+    <doi>5. </doi>
+    <pubdate>5. 2018</pubdate>
+    <volume>5. 9</volume>
+    <issue>5. 4</issue>
+    <fpage>5. </fpage>
+    <lpage>5. </lpage>
+    <abstract>5. 1</abstract>
+    <keywords/>
+    <authors/>
+    <affiliations/>
+    <section1>
+      <h1>5.1.  -</h1>
+      <h1>5.2.  RELATED WORK</h1>
+      <h1>5.3.  Online Learning</h1>
+      <h1>5.4.  Kernel Methods</h1>
+      <h1>5.5.  Multiple-Kernel Learning</h1>
+      <h1>5.6.  SPARSE PASSIVE-AGGRESSIVE LEARNING WITH KERNELS</h1>
+      <h1>5.7.  Problem Seting and Preliminaries</h1>
+      <h1>5.8.  4 BOUNDED ONLINE MULTIPLE-KERNEL LEARNING</h1>
+      <h1>5.9.  4.1 Problem Seting and Preliminaries</h1>
+      <h1>5.10.  Bounded Online Multiple-Kernel Learning Using the SPA Algorithm</h1>
+      <h1>5.11.  5 THEORETICAL ANALYSIS</h1>
+      <h1>5.12.  EXPERIMENTS</h1>
+      <h1>5.13.  Experiments for Single-Kernel Classification</h1>
+      <h1>5.14.  6.2 Experiments for Online Multiple-Kernel Classification</h1>
+      <h1>5.15.  CONCLUSIONS</h1>
+    </section1>
+    <section2>
+      <h2>5.1.  We further rewrite the classifier as</h2>
+      <h2>5.2.  ALGORITHM 1: Sparse PA Learning with Kernels (SPA)</h2>
+      <h2>5.3.  Algorithm Perceptron OGD PA-I</h2>
+      <h2>5.4.  Algorithm LIBSVM Pegasos BOGD</h2>
+      <h2>5.5.  Algorithm LIBSVM Pegasos BOGD</h2>
+      <h2>5.6.  ALGORITHM 4: The Bounded OMKC-SD Using the Stochastic update</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>6. ACM Transactions on Database Systems</journaltitle>
+    <title>6. Bounded Query Rewriting Using Views</title>
+    <doi>6. </doi>
+    <pubdate>6. 2018</pubdate>
+    <volume>6. 43</volume>
+    <issue>6. 1</issue>
+    <fpage>6. </fpage>
+    <lpage>6. </lpage>
+    <abstract>6. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>6.1.  YANG CAO</author>
+      <author>6.2.  University of Edinburgh WENFEI FAN</author>
+      <author>6.3.  University of Edinburgh</author>
+      <author>6.4.  Beihang University FLORIS GEERTS</author>
+      <author>6.5.  University of Antwerp PING LU</author>
+      <author>6.6.  Beihang University</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>6.1.  -</h1>
+      <h1>6.2.  Query classes. We express queries and views in the same language L.</h1>
+      <h1>6.3.  Theorem 3.1. Problem VBRP(L) is</h1>
+      <h1>6.4.  Theorem 3.4. Problem BOP(L) is</h1>
+      <h1>6.5.  BOP is coNP-complete for CQ, UCQ, and ∃FO+, and then prove that</h1>
+      <h1>6.6.  A ξ is in PTIME, where</h1>
+      <h1>6.7.  We use a set V of three Boolean CQ views defined as follows:</h1>
+    </section1>
+    <section2>
+      <h2>6.1.  Q2, for queries Q1 and Q2 in CQ, UCQ, or ∃FO+.</h2>
+      <h2>6.2.  When database schema R and access schema A are both fixed, BOP remains coNP-hard for CQ,</h2>
+      <h2>6.3.  UCQ, and ∃FO+, and is still undecidable for FO.</h2>
+      <h2>6.4.  Lemma 3.6. A CQ query Q (v¯) that satisfies A has bounded output if and only if all nonconstant</h2>
+      <h2>6.5.  Lemma 3.7. For a query Q (x¯) in CQ (UCQ, ∃FO+) and an access schema A, Q (x¯) has bounded</h2>
+      <h2>6.6.  Lemma 3.12. A query Q has an M-bounded rewriting under A using V if and only if there exists a unique maximum plan ξ ∈ QPQ up to A-equivalence such that Q A ξ .</h2>
+      <h2>6.7.  R, A, M, and V, VBRP(ACQ ) is coNP-hard when A has one of the (1) A consists of a single access constraint of the form R (A → B, N ) and N ≥ 2; or (2) A consists of two constraints R (A → B, 1) and R (∅ → (E, F ), N ), and N ≥ 6; or (3) A consists of two constraints R ((A, B) → C, 1) and R (∅ → E, N ), and N ≥ 2.</h2>
+      <h2>6.8.  Theorem 4.2. When R, A, M, and V are fixed, (1) for any subclass C of ACQ, VBRP(C) is in</h2>
+      <h2>6.9.  PTIME if and only if for each query Q ∈ C, it is in PTIME to check whether Q ≡A ξ , where ξ is a</h2>
+      <h2>6.10.  R, A, M, V, given a CQ Q and query plans ξ , ξ ∈ QPQ , it is in</h2>
+      <h2>6.11.  When R, A, M, and V are fixed, VBRP is in PTIME for ACQ if A consists of</h2>
+      <h2>6.12.  Proposition 4.5. For fixed R, A, M, and V, VBRP(CQ ) is NP-complete even when A consists of</h2>
+      <h2>6.13.  FDs only. It remains NP-complete when none of R, A, M, and V is fixed.</h2>
+      <h2>6.14.  Lemma 4.6. If A consists of FDs only, it is in PTIME to decide whether a plan ξ ∈ QPQ conforms</h2>
+      <h2>6.15.  Theorem 5.1. For any R, V, and M, and under any A,</h2>
+      <h2>6.16.  A, which can be identified in PTIME in M, |Q |, |V |, and |A |; and</h2>
+      <h2>6.17.  Here A, Q, and V are all defined over the same R.</h2>
+      <h2>6.18.  Theorem 5.2. For any R and under any A,</h2>
+      <h2>6.19.  Here A and Q are defined over the same R.</h2>
+      <h2>6.20.  Lemma 6.2. For R, A, V, Q, and M given in the proof of Theorem 3.1, Q has an M-bounded rewrit</h2>
+    </section2>
+    <section3>
+      <h3>6.1.  VBRP is Σp3 -hard for CQ, and that</h3>
+      <h3>6.2.  Upper bound. We next provide an Σp3 algorithm for VBRP(∃FO+), as follows:</h3>
+      <h3>6.3.  Theorem 6.1. VBRP+(L1, L2) is Σp3 -hard</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>7. ACM Transactions on Database Systems</journaltitle>
+    <title>7. Designing a Query Language for RDF: Marrying Open and Closed Worlds</title>
+    <doi>7. </doi>
+    <pubdate>7. 2017</pubdate>
+    <volume>7. 42</volume>
+    <issue>7. 4</issue>
+    <fpage>7. </fpage>
+    <lpage>7. </lpage>
+    <abstract>7. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>7.1.  MARCELO ARENAS</author>
+      <author>7.2.  Pontificia Universidad Católica de Chile</author>
+      <author>7.3.  Center for Semantic Web Research MARTIN UGARTE</author>
+      <author>7.4.  Université Libre de Bruxelles</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>7.1.  -</h1>
+      <h1>7.2.  1 INTRODUCTION</h1>
+      <h1>7.3.  PRELIMINARIES</h1>
+      <h1>7.4.  2.1 The RDF eQury Language SPARQL</h1>
+      <h1>7.5.  3 WEAK MONOTONICITY VERSUS WELL DESIGNEDNESS</h1>
+      <h1>7.6.  3.1 The Notion of Weak Monotonicity</h1>
+      <h1>7.7.  3.2 The Notion of Well Designedness</h1>
+      <h1>7.8.  4 CAPTURING WEAK MONOTONICITY UNDER SUBSUMPTION EQUIVALENCE</h1>
+      <h1>7.9.  Sketch of the Proof of Theorem 4.1</h1>
+      <h1>7.10.  CAPTURING WEAKLY MONOTONE FRAGMENTS OF SPARQL</h1>
+      <h1>7.11.  5.2 Capturing Weak Monotonicity for Subsumption-Free Graph Paterns</h1>
+      <h1>7.12.  5.3 Including the UNION Operator</h1>
+      <h1>7.13.  CAPTURING CONSTRUCT QUERIES</h1>
+      <h1>7.14.  THE COMPLEXITY OF THE EVALUATION PROBLEM</h1>
+      <h1>7.15.  A Bit of Background on Computational Complexity</h1>
+      <h1>7.16.  The Evaluation Problem for Simple Paterns and NS-Paterns</h1>
+      <h1>7.17.  The Evaluation Problem for CONSTRUCT Queries</h1>
+      <h1>7.18.  8 PRACTICAL IMPLICATIONS</h1>
+      <h1>7.19.  8.1 Recursion in SPARQL</h1>
+      <h1>7.20.  8.2 Query Reformulation</h1>
+      <h1>7.21.  8.3 Evaluation of Weakly Monotone Graph Paterns</h1>
+      <h1>7.22.  9 CONCLUDING REMARKS AND FUTURE WORK</h1>
+      <h1>7.23.  APPENDIX A</h1>
+      <h1>7.24.  PROOF OF THEOREM 4.1</h1>
+      <h1>7.25.  ACKNOWLEDGMENTS</h1>
+    </section1>
+    <section2>
+      <h2>7.1.  1From now on, we use the term OPT as a shorthand of the operator OPTIONAL.</h2>
+      <h2>7.2.  The following example illustrates the syntax and semantics of SPARQL.</h2>
+      <h2>7.3.  Example 3.3. Let P be the graph pattern defined by:</h2>
+      <h2>7.4.  To prove this theorem, we use the following two results:</h2>
+      <h2>7.5.  Proof of Theorem 3.5. Define the graph pattern</h2>
+      <h2>7.6.  To prove this theorem, we use the following result:</h2>
+      <h2>7.7.  Proof of Theorem 3.8. Let P be the graph pattern defined as</h2>
+      <h2>7.8.  Evaluating P over these graphs, we obtain:</h2>
+      <h2>7.9.  Proposition 5.1.</h2>
+      <h2>7.10.  Let G be an RDF graph and μ be a mapping.</h2>
+      <h2>7.11.  Finally, we are ready to prove our main proposition.</h2>
+      <h2>7.12.  Theorem 7.3. Eval (SP–SPARQL) is DP-complete.</h2>
+      <h2>7.13.  Finally, define the graph pattern P by</h2>
+      <h2>7.14.  Eval (G) An RDF graph G, a CONSTRUCT query Q ∈ G and a tripe t Is t ∈ ans(Q, G )?</h2>
+    </section2>
+    <section3>
+      <h3>7.1.  P1 UNION P2 UNION · · · UNION Pn,</h3>
+      <h3>7.2.  MINUS (Q1 UNION · · · UNION Qn ).</h3>
+      <h3>7.3.  Theorem 7.7. Eval (CONSTRUCT[AUF]) is NP-complete.</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>8. ACM Computing Surveys</journaltitle>
+    <title>8. A Survey on Reactive Programming</title>
+    <doi>8. 10.1145/2501654.2501666</doi>
+    <pubdate>8. 2013</pubdate>
+    <volume>8. 45</volume>
+    <issue>8. 4</issue>
+    <fpage>8. </fpage>
+    <lpage>8. </lpage>
+    <abstract>8. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>8.1.  ENGINEER BAINOMUGISHA</author>
+      <author>8.2.  ANDONI LOMBIDE CARRETON</author>
+      <author>8.3.  TOM VAN CUTSEM</author>
+      <author>8.4.  General Terms: Design, Languages</author>
+    </authors>
+    <affiliations>
+      <institution>8.1.  STIJN MOSTINCKX, and WOLFGANG DE MEUTER</institution>
+      <country>8.1.  USA</country>
+    </affiliations>
+    <section1>
+      <h1>8.1.  1. INTRODUCTION</h1>
+      <h1>8.2.  2. REACTIVE PROGRAMMING</h1>
+      <h1>8.3.  2.1. Distinguishing Features of Reactive Programming Languages</h1>
+      <h1>8.4.  3. TAXONOMY</h1>
+      <h1>8.5.  3.1. Basic Abstractions</h1>
+      <h1>8.6.  3.2. Evaluation Model</h1>
+      <h1>8.7.  3.3. Glitch Avoidance</h1>
+      <h1>8.8.  3.4. Lifting Operations</h1>
+      <h1>8.9.  3.5. Multidirectionality</h1>
+      <h1>8.10.  3.6. Support for Distribution</h1>
+      <h1>8.11.  3.7. Discussion</h1>
+      <h1>8.12.  4. LANGUAGE SURVEY</h1>
+      <h1>8.13.  4.1. The FRP Siblings</h1>
+      <h1>8.14.  Fran</h1>
+      <h1>8.15.  Yampa</h1>
+      <h1>8.16.  FrTime</h1>
+      <h1>8.17.  Flapjax</h1>
+      <h1>8.18.  Frappe´</h1>
+      <h1>8.19.  AmbientTalk/R</h1>
+      <h1>8.20.  Scala.React</h1>
+      <h1>8.21.  4.2. The Cousins of Reactive Programming</h1>
+      <h1>8.22.  SuperGlue</h1>
+      <h1>8.23.  Trellis</h1>
+      <h1>8.24.  Lamport Cells</h1>
+      <h1>8.25.  Radul/Sussman Propagators</h1>
+      <h1>8.26.  Coherence</h1>
+      <h1>8.27.  4.3. Synchronous, Dataflow, and Synchronous Dataflow Languages</h1>
+      <h1>8.28.  5. OPEN ISSUES AND POSSIBLE SOLUTIONS</h1>
+      <h1>8.29.  5.1. Multidirectionality</h1>
+      <h1>8.30.  5.2. Distributed Reactive Programming</h1>
+      <h1>8.31.  6. CONCLUSIONS</h1>
+      <h1>8.32.  ACKNOWLEDGMENTS</h1>
+    </section1>
+    <section2>
+      <h2>8.1.  Push-based</h2>
+      <h2>8.2.  Push data to the consumer</h2>
+      <h2>8.3.  Pull data from the producer</h2>
+      <h2>8.4.  Pull-based</h2>
+      <h2>8.5.  Producer</h2>
+      <h2>8.6.  Consumer</h2>
+      <h2>8.7.  The FRP siblings</h2>
+      <h2>8.8.  Programming languages</h2>
+      <h2>8.9.  The cousins of reactive proramming</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>9. Journal of the ACM</journaltitle>
+    <title>9. A Learning Theory Approach to Noninteractive Database Privacy</title>
+    <doi>9. 10.1145/2450142.2450148</doi>
+    <pubdate>9. 2013</pubdate>
+    <volume>9. 60</volume>
+    <issue>9. 2</issue>
+    <fpage>9. </fpage>
+    <lpage>9. </lpage>
+    <abstract>9. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>9.1.  General Terms: Algorithms, Security, Theory</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>9.1.  -</h1>
+      <h1>9.2.  Definition 2.1 (Differential Privacy [Dwork et al. 2006b]). A database access mech</h1>
+      <h1>9.3.  Laplace mechanism preserves</h1>
+      <h1>9.4.  Definition 3.1 (The Exponential Mechanism [McSherry and Talwar 2007]). The ex</h1>
+      <h1>9.5.  PROPOSITION 3.3. The Net mechanism is -differentially private.</h1>
+      <h1>9.6.  PROPOSITION 3.4. For any class of queries C (not necessarily counting queries) the</h1>
+      <h1>9.7.  Net mechanism is (α, δ)-useful for any α such that:</h1>
+      <h1>9.8.  COROLLARY 3.5. For any class of counting queries C the Net mechanism is (α, δ)-useful for any α such that:</h1>
+      <h1>9.9.  THEOREM 3.9. For any class of counting queries C:</h1>
+      <h1>9.10.  THEOREM 3.10. For any class of counting queries C, there exists constant c such that</h1>
+      <h1>9.11.  LEMMA 3.11. For any 0 &lt; δ &lt; 1, let M be an (α, δ)-useful mechanism for C. Given</h1>
+      <h1>9.12.  THEOREM 3.12. For any class of counting queries C, for any 0 &lt; δ &lt; 1, if M is an</h1>
+      <h1>9.13.  THEOREM 4.2. ReleaseIntervals is -differentially private.</h1>
+      <h1>9.14.  THEOREM 5.1. No mechanism A can answer median queries M with outputs that</h1>
+      <h1>9.15.  COROLLARY 5.2. No mechanism operating on continuous valued datasets can be</h1>
+      <h1>9.16.  Definition 6.5 (Projected Halfspace Data Structure). A T dimensional projected</h1>
+      <h1>9.17.  Eval( fy, DH):</h1>
+      <h1>9.18.  THEOREM 6.8. ReleaseHalfspaces preserves -differential privacy.</h1>
+      <h1>9.19.  Definition A.1 (Differential Privacy (private n version)). A database access mecha</h1>
+      <h1>9.20.  THEOREM A.3. PrivateNRelease preserves -differential privacy in the private-n model.</h1>
+    </section1>
+    <section2>
+      <h2>9.1.  THEOREM 2.10 [DWORK ET AL. 2006B]. The</h2>
+      <h2>9.2.  ALGORITHM 1: NetMechanism(D, C, , α)</h2>
+      <h2>9.3.  Solving for α yields</h2>
+      <h2>9.4.  Definition 6.1 (Halfspace Queries). For a unit vector y ∈ Rd, the halfspace query</h2>
+      <h2>9.5.  CLAIM 6.7. There is a γ -net UT for unit vectors in RT of size |UT | ≤ ( 2 γT )T , such that</h2>
+      <h2>9.6.  ALGORITHM 3: ReleaseHalfspaces(D, d, γ, α, )</h2>
+      <h2>9.7.  ALGORITHM 4: PrivateNRelease(D, C, , α)</h2>
+    </section2>
+    <section3>
+      <h3>9.1.  We can now present our algorithm.</h3>
+      <h3>9.2.  ReleaseHalfSpaces(D, d, γ , α, ) is such that for each unit vector y ∈ Rd with margin</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>10. ACM Transactions on Database Systems</journaltitle>
+    <title>10. Declarative Probabilistic Programming with Datalog</title>
+    <doi>10. </doi>
+    <pubdate>10. 2017</pubdate>
+    <volume>10. 42</volume>
+    <issue>10. 4</issue>
+    <fpage>10. </fpage>
+    <lpage>10. </lpage>
+    <abstract>10. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>10.1.  VINCE BÁRÁNY</author>
+      <author>10.2.  BALDER TEN CATE</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>10.1.  1 INTRODUCTION</h1>
+      <h1>10.2.  PRELIMINARIES</h1>
+      <h1>10.3.  Schemas and Instances</h1>
+      <h1>10.4.  Datalog Programs</h1>
+      <h1>10.5.  Probability Spaces</h1>
+      <h1>10.6.  GENERATIVE DATALOG</h1>
+      <h1>10.7.  3.1 Syntax</h1>
+      <h1>10.8.  Probabilistic Semantics</h1>
+      <h1>10.9.  Discussion</h1>
+      <h1>10.10.  CHASING GENERATIVE PROGRAMS</h1>
+      <h1>10.11.  Properties of the Chase</h1>
+      <h1>10.12.  Proof of Theorem 3.8</h1>
+      <h1>10.13.  PROBABILISTIC-PROGRAMMING DATALOG</h1>
+      <h1>10.14.  5.1 Invariance Under First-Order Equivalence</h1>
+      <h1>10.15.  PPDL EXAMPLES</h1>
+      <h1>10.16.  Stochastic Context-Free Grammars in PPDL</h1>
+      <h1>10.17.  RELATED WORK</h1>
+      <h1>10.18.  7.1 Imperative Specifications</h1>
+      <h1>10.19.  Logic over Probabilistic Databases</h1>
+      <h1>10.20.  Model Representation via Formula Grounding</h1>
+      <h1>10.21.  CONCLUDING REMARKS</h1>
+      <h1>10.22.  ACKNOWLEDGMENTS</h1>
+    </section1>
+    <section2>
+      <h2>10.1.  Visits(p, Poisson[λ]) ← LivesIn(p, c ), AvgVisits(c, λ).</h2>
+      <h2>10.2.  Visits(p, Poisson[λ]) ← WorksFor(p, e ), LocatedIn(e, c ), AvgVisits(c, λ).</h2>
+      <h2>10.3.  PersonCity(p, c ) ← LivesIn(p, c )</h2>
+      <h2>10.4.  PersonCity(p, c ) ← WorksFor(p, e ), LocatedIn(e, c )</h2>
+      <h2>10.5.  Visits(p, Poisson[λ]) ← PersonCity(p, c ), AvgVisits(c, λ)</h2>
+      <h2>10.6.  Datalog programs, which specify how to infer a distribution over possible outcomes given an input</h2>
+      <h2>10.7.  In other words, μ P,I is μ G,I conditioned on Φ.</h2>
+      <h2>10.8.  Theorem 5.5. If two PPDL[Δ] programs are FO-equivalent, then they are semantically equivalent</h2>
+      <h2>10.9.  Theorem 5.6. First-order equivalence is decidable for weakly acyclic GDatalog[Δ] programs. Se</h2>
+      <h2>10.10.  Definition 6.1 (MLN Program).</h2>
+      <h2>10.11.  Probabilistic Context-Free Grammar (PCFG). An SCFG is a tuple (T, N, S, ρ), where:</h2>
+      <h2>10.12.  Knows(x ) ← Follows(x, y), Shares(y, 1).</h2>
+    </section2>
+    <section3>
+      <h3>10.1.  Logic Networks (MLNs) into PPDL, and a translation from stochastic context-free grammars into</h3>
+      <h3>10.2.  An MLN program is a tuple (T , Γ, Ψ,W ), where:</h3>
+      <h3>10.3.  Choice(i, Flip[p]) ←</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>11. ACM Transactions on Database Systems</journaltitle>
+    <title>11. Linear Time Membership in a Class of Regular Expressions with Counting, Interleaving, and Unordered Concatenation</title>
+    <doi>11. </doi>
+    <pubdate>11. 2017</pubdate>
+    <volume>11. 42</volume>
+    <issue>11. 4</issue>
+    <fpage>11. </fpage>
+    <lpage>11. </lpage>
+    <abstract>11. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>11.1.  DARIO COLAZZO</author>
+      <author>11.2.  Università di Pisa CARLO SARTIANI</author>
+      <author>11.3.  Università della Basilicata</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>11.1.  INTRODUCTION</h1>
+      <h1>11.2.  TYPE AND CONSTRAINT LANGUAGE</h1>
+      <h1>11.3.  The Type Language</h1>
+      <h1>11.4.  The Constraint Language</h1>
+      <h1>11.5.  2.3 Constraint Extraction</h1>
+      <h1>11.6.  3 BASIC RESIDUATION ALGORITHM</h1>
+      <h1>11.7.  4 STABILITY</h1>
+      <h1>11.8.  5 FLAT MEMBERSHIP ALGORITHM</h1>
+      <h1>11.9.  5.1 Flat Constraints</h1>
+      <h1>11.10.  5.3 Exploiting Stability</h1>
+      <h1>11.11.  6.2 XSD Schemas</h1>
+      <h1>11.12.  7 EXPERIMENTAL EVALUATION</h1>
+      <h1>11.13.  Derivative-Based Membership Algorithm</h1>
+      <h1>11.14.  7.2 Experimental Setup</h1>
+      <h1>11.15.  7.3 Datasets</h1>
+      <h1>11.16.  Regular Expression Experiments</h1>
+      <h1>11.17.  Schema Experiments</h1>
+      <h1>11.18.  RELATED WORK</h1>
+      <h1>11.19.  Complexity Results</h1>
+      <h1>11.20.  Restricted Classes of Regular Expressions</h1>
+      <h1>11.21.  9 CONCLUSIONS</h1>
+    </section1>
+    <section2>
+      <h2>11.1.  A type T is conflict-free if for each subexpression (U + V ) or</h2>
+      <h2>11.2.  Proposition 2.7.</h2>
+      <h2>11.3.  Denfiition 2.10 (Flat Constraints).</h2>
+      <h2>11.4.  2Recall that a symbol appears at most once in each conflict-free type.</h2>
+      <h2>11.5.  4oc denotes a generic record of OC[], for example, OC[j].</h2>
+      <h2>11.6.  Theorem 5.8 (Soundness). MemberFlat</h2>
+      <h2>11.7.  Let F be one of the following constraints:</h2>
+    </section2>
+    <section3>
+      <h3>11.1.  Lower-bound:</h3>
+      <h3>11.2.  Lower-bound</h3>
+      <h3>11.3.  Proposition 5.11 (Linear Complexity). MemberFlatStab</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>12. ACM Computing Surveys</journaltitle>
+    <title>12. Overview of Auditory Representations in Human-Machine Interfaces</title>
+    <doi>12. 10.1145/2543581.2543586</doi>
+    <pubdate>12. 2013</pubdate>
+    <volume>12. 46</volume>
+    <issue>12. 2</issue>
+    <fpage>12. </fpage>
+    <lpage>12. </lpage>
+    <abstract>12. 1</abstract>
+    <keywords>
+      <keyword>12.1.  Additional Key Words and Phrases</keyword>
+      <keyword>12.2.  Auditory icon</keyword>
+      <keyword>12.3.  earcon</keyword>
+      <keyword>12.4.  sonification</keyword>
+    </keywords>
+    <authors>
+      <author>12.1.  General Terms: Design</author>
+      <author>12.2.  Human Factors</author>
+      <author>12.3.  Auditory Display</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>12.1.  -</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>13. ACM Transactions on Intelligent Systems and Technology</journaltitle>
+    <title>13. Augmented Collaborative Filtering for Sparseness Reduction in Personalized POI Recommendation</title>
+    <doi>13. 10.1145/3086635</doi>
+    <pubdate>13. 2017</pubdate>
+    <volume>13. 8</volume>
+    <issue>13. 5</issue>
+    <fpage>13. </fpage>
+    <lpage>13. </lpage>
+    <abstract>13. 1</abstract>
+    <keywords/>
+    <authors/>
+    <affiliations>
+      <institution>13.1.  Information systems</institution>
+      <country>13.1.  </country>
+    </affiliations>
+    <section1>
+      <h1>13.1.  -</h1>
+      <h1>13.2.  1. INTRODUCTION</h1>
+      <h1>13.3.  2. RELATED WORK</h1>
+      <h1>13.4.  2.1. GPS-based Recommendation</h1>
+      <h1>13.5.  2.2. Check-In-based Recommendation</h1>
+      <h1>13.6.  2.3. Geotag-based Recommendation</h1>
+      <h1>13.7.  3. POI DISCOVERY</h1>
+      <h1>13.8.  4. RECOMMENDATION SCHEME</h1>
+      <h1>13.9.  4.1. Pairwise Preference Mining</h1>
+      <h1>13.10.  4.2. Bi-relational Hypergraph Representation</h1>
+      <h1>13.11.  4.3. Ranking-based Matrix Factorization</h1>
+      <h1>13.12.  4.4. Optimization</h1>
+      <h1>13.13.  5. EXPERIMENTAL CONFIGURATION</h1>
+      <h1>13.14.  5.2. Evaluation Methodology and Metrics</h1>
+      <h1>13.15.  5.3. Competitors</h1>
+      <h1>13.16.  5.4. Parameter Settings</h1>
+      <h1>13.17.  6. EXPERIMENT RESULTS AND DISCUSSIONS</h1>
+      <h1>13.18.  6.1. Overall Performance</h1>
+      <h1>13.19.  6.2. Performance Across Different User Groups</h1>
+      <h1>13.20.  6.3. Performance of Approach Variants</h1>
+      <h1>13.21.  6.4. Parameter Tuning</h1>
+      <h1>13.22.  7. CONCLUSION AND FUTURE WORK</h1>
+    </section1>
+    <section2>
+      <h2>13.1.  1http://www.flickr.com/. 2http://www.netflixprize.com/.</h2>
+      <h2>13.2.  4http://www.wikitravel.org/. 5http://www.tripadvisor.com/.</h2>
+      <h2>13.3.  ALGORITHM 1: Stochastic Gradient Descent</h2>
+      <h2>13.4.  6http://www.mapdevelopers.com/geocode_bounding_box.php.</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>14. Journal of the ACM</journaltitle>
+    <title>14. Market Equilibrium via a Primal-Dual Algorithm for a Convex Program</title>
+    <doi>14. </doi>
+    <pubdate>14. 2008</pubdate>
+    <volume>14. 55</volume>
+    <issue>14. 5</issue>
+    <fpage>14. </fpage>
+    <lpage>14. </lpage>
+    <abstract>14. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>14.1.  NIKHIL R. DEVANUR</author>
+      <author>14.2.  General Terms: Algorithms, Economics</author>
+    </authors>
+    <affiliations>
+      <institution>14.1.  Stanford University</institution>
+      <institution>14.2.  University of California at Berkeley</institution>
+      <country>14.1.  USA</country>
+      <country>14.2.  USA</country>
+    </affiliations>
+    <section1>
+      <h1>14.1.  CHRISTOS H. PAPADIMITRIOU</h1>
+      <h1>14.2.  This contradicts the fact that the Invariant holds.</h1>
+      <h1>14.3.  The two imply that</h1>
+      <h1>14.4.  THEOREM 8.12.</h1>
+    </section1>
+    <section2>
+      <h2>14.1.  1. Introduction</h2>
+      <h2>14.2.  2. Fisher’s Linear Case and the Eisenberg–Gale Convex Program</h2>
+      <h2>14.3.  3. High Level Idea of the Algorithm</h2>
+      <h2>14.4.  4. The Enhanced Setting and How to Deal with It</h2>
+      <h2>14.5.  5. A Simple Algorithm</h2>
+      <h2>14.6.  6. Finding Tight Sets</h2>
+      <h2>14.7.  LEMMA 6.4. x ∗ and S∗ can be found using n max-flow computations.</h2>
+      <h2>14.8.  7. Termination with Market Clearing Prices</h2>
+      <h2>14.9.  LEMMA 7.1. At the termination of a phase, the prices of goods in the newly</h2>
+      <h2>14.10.  LEMMA 7.2. Each phase consists of at most n iterations.</h2>
+      <h2>14.11.  LEMMA 7.3. Consider two phases P and P , not necessarily consecutive, such</h2>
+      <h2>14.12.  COROLLARY 7.5. Algorithm 1 terminates with market clearing prices in at</h2>
+      <h2>14.13.  8. Establishing Polynomial Running Time</h2>
+      <h2>14.14.  THEOREM 8.4. A maximum-flow f is balanced iff it has Property 1.</h2>
+      <h2>14.15.  LEMMA 8.5. If f and f ∗ are respectively a feasible and a balanced flow in</h2>
+      <h2>14.16.  LEMMA 8.9. The number of iterations executed in a phase is at most n. More</h2>
+      <h2>14.17.  Algorithm 2 executes at most</h2>
+      <h2>14.18.  9. Discussion</h2>
+    </section2>
+    <section3>
+      <h3>14.1.  LEMMA 5.1. For given prices p network, N ( p) satisfies the Invariant iff</h3>
+      <h3>14.2.  LEMMA 8.2. Let f and f be any two maximum flows in N ( p). If γi ( p, f ) &lt;</h3>
+      <h3>14.3.  COROLLARY 8.7. For any given p, all balanced flows in N ( p) have the same</h3>
+      <h3>14.4.  LEMMA 8.10. If p0 and p∗ are price vectors before and after a phase,</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>15. ACM Transactions on Software Engineering and Methodology</journaltitle>
+    <title>15. GreASE: A Tool for Efficient “Nonequivalence” Checking</title>
+    <doi>15. 10.1145/2560563</doi>
+    <pubdate>15. 2014</pubdate>
+    <volume>15. 23</volume>
+    <issue>15. 3</issue>
+    <fpage>15. </fpage>
+    <lpage>15. </lpage>
+    <abstract>15. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>15.1.  NICOLETTA DE FRANCESCO</author>
+      <author>15.2.  GIUSEPPE LETTIERI</author>
+      <author>15.3.  rsity o</author>
+      <author>15.4.  ANTONELLA SANTONE</author>
+      <author>15.5.  University of Sannio GIGLIOLA VAGLINI</author>
+      <author>15.6.  University of Pisa</author>
+      <author>15.7.  General Terms: Theory, Verification</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>15.1.  1. INTRODUCTION</h1>
+      <h1>15.2.  2. PRELIMINARIES</h1>
+      <h1>15.3.  3. THE APPROACH</h1>
+      <h1>15.4.  3.1. The Greedy Algorithm on AND/OR Graphs</h1>
+      <h1>15.5.  3.2. AND/OR Graph for Strong and Weak Equivalences Checking</h1>
+      <h1>15.6.  3.3. Application of the Method to CCS Processes</h1>
+      <h1>15.7.  3.4. Heuristic Functions</h1>
+      <h1>15.8.  3.5. Infinite CCS Processes</h1>
+      <h1>15.9.  4. EXPERIMENTAL RESULTS</h1>
+      <h1>15.10.  5. RELATED WORK</h1>
+      <h1>15.11.  6. CONCLUSION AND FUTURE WORK</h1>
+    </section1>
+    <section2>
+      <h2>15.1.  Initially:</h2>
+      <h2>15.2.  2Note that the Concurrency WorkBench of New Century tool uses nil instead of 0.</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>16. ACM Computing Surveys</journaltitle>
+    <title>16. Renegotiation in Service Level Agreement Management for a Cloud-Based System</title>
+    <doi>16. 10.1145/2716319</doi>
+    <pubdate>16. 2015</pubdate>
+    <volume>16. 47</volume>
+    <issue>16. 3</issue>
+    <fpage>16. </fpage>
+    <lpage>16. </lpage>
+    <abstract>16. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>16.1.  AHMAD FADZIL M. HANI</author>
+      <author>16.2.  Centre for Intelligent Signal</author>
+      <author>16.3.  Imaging Research (CISIR)</author>
+      <author>16.4.  Universiti Teknologi PETRONAS</author>
+      <author>16.5.  Universiti Teknologi PETRONAS</author>
+      <author>16.6.  Universiti Teknologi PETRONAS</author>
+      <author>16.7.  MOHD FADZIL HASSAN, Department of Computer Information Science,</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>16.1.  1. INTRODUCTION</h1>
+      <h1>16.2.  2. MATERIAL AND METHODS</h1>
+      <h1>16.3.  3. SLAM</h1>
+      <h1>16.4.  3.1. SLA Negotiation</h1>
+      <h1>16.5.  3.2. Resource Provisioning</h1>
+      <h1>16.6.  3.3. Service Monitoring and Assessment</h1>
+      <h1>16.7.  3.4. Service Termination and Penalty Management</h1>
+      <h1>16.8.  3.5. SLAM Service</h1>
+      <h1>16.9.  3.6. Main Issues in SLAM</h1>
+      <h1>16.10.  4. SLA RENEGOTIATION</h1>
+      <h1>16.11.  4.1. High-Level View on SLA Negotiation and Renegotiation</h1>
+      <h1>16.12.  4.2. Decision-Making Strategies Used in SLA Negotiation for Consideration in SLA Renegotiation</h1>
+      <h1>16.13.  5. DISCUSSION</h1>
+      <h1>16.14.  6. CONCLUSION</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>17. ACM Transactions on Software Engineering and Methodology</journaltitle>
+    <title>17. Scaling Predictive Analysis of Concurrent Programs by Removing Trace Redundancy</title>
+    <doi>17. </doi>
+    <pubdate>17. 2013</pubdate>
+    <volume>17. 22</volume>
+    <issue>17. 1</issue>
+    <fpage>17. </fpage>
+    <lpage>17. </lpage>
+    <abstract>17. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>17.1.  JEFF HUANG</author>
+      <author>17.2.  JINGUO ZHOU</author>
+      <author>17.3.  CHARLES ZHANG</author>
+      <author>17.4.  Hong Kong University of Science</author>
+      <author>17.5.  General Terms: Algorithms, Performance, Theory</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>17.1.  -</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>18. ACM Computing Surveys</journaltitle>
+    <title>18. The State of Public Infrastructure-as-a-Service Cloud Security</title>
+    <doi>18. 10.1145/2767181</doi>
+    <pubdate>18. 2015</pubdate>
+    <volume>18. 47</volume>
+    <issue>18. 4</issue>
+    <fpage>18. </fpage>
+    <lpage>18. </lpage>
+    <abstract>18. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>18.1.  WEI HUANG</author>
+      <author>18.2.  AFSHAR GANJALI</author>
+      <author>18.3.  BEOM HEYN KIM</author>
+      <author>18.4.  SUKWON OH</author>
+      <author>18.5.  DAVID LIE</author>
+      <author>18.6.  Additional Key Words and Phrases: Public Infrastructure-as-a-Service Cloud</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>18.1.  1. INTRODUCTION</h1>
+      <h1>18.2.  2. PRELIMINARIES</h1>
+      <h1>18.3.  2.1. Definitions</h1>
+      <h1>18.4.  2.2. Attack Model</h1>
+      <h1>18.5.  3. INDUSTRY CLOUD SECURITY PERSPECTIVE</h1>
+      <h1>18.6.  3.1. Customer Security</h1>
+      <h1>18.7.  3.2. CSP Security</h1>
+      <h1>18.8.  3.3. Contractual Security</h1>
+      <h1>18.9.  3.4. Discussion</h1>
+      <h1>18.10.  4. ACADEMIC CLOUD SECURITY PERSPECTIVE</h1>
+      <h1>18.11.  4.1. Confidentiality and Information Leakage</h1>
+      <h1>18.12.  4.2. Integrity, Availability, and Durability</h1>
+      <h1>18.13.  4.3. Contractual Security</h1>
+      <h1>18.14.  4.4. Discussion</h1>
+      <h1>18.15.  5. CONCLUSION</h1>
+      <h1>18.16.  ACKNOWLEDGMENTS</h1>
+    </section1>
+    <section2>
+      <h2>18.1.  2See http://www.openstack.org. 3See https://developers.google.com/storage/docs/bucketnaming.</h2>
+      <h2>18.2.  4See http://www.joyent.com/technology/smartos.</h2>
+      <h2>18.3.  5See http://aws.amazon.com/dedicated-instances/. 6See http://www.microsoft.com/en-us/server-cloud/solutions/virtualization-private-cloud.aspx.</h2>
+      <h2>18.4.  9See https://cloud.google.com/compute/docs/networking.</h2>
+      <h2>18.5.  Industry proposes dedicated instances.</h2>
+      <h2>18.6.  A simple tool to detect leakage and</h2>
+      <h2>18.7.  Direct TPM-based remote attestation by</h2>
+    </section2>
+    <section3>
+      <h3>18.1.  Technique</h3>
+      <h3>18.2.  Storage manipulation</h3>
+      <h3>18.3.  Storage monitoring</h3>
+      <h3>18.4.  VM Image sharing</h3>
+      <h3>18.5.  Compromised hypervisor</h3>
+      <h3>18.6.  Storage dishonesty</h3>
+      <h3>18.7.  Location dishonesty</h3>
+      <h3>18.8.  SLA dishonesty</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>19. ACM Computing Surveys</journaltitle>
+    <title>19. Separation of Concerns in Feature Diagram Languages: A Systematic Survey</title>
+    <doi>19. 10.1145/2501654.2501665</doi>
+    <pubdate>19. 2013</pubdate>
+    <volume>19. 45</volume>
+    <issue>19. 4</issue>
+    <fpage>19. </fpage>
+    <lpage>19. </lpage>
+    <abstract>19. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>19.1.  ARNAUD HUBAUX</author>
+      <author>19.2.  University of Namur THEIN THAN TUN</author>
+      <author>19.3.  The Open University</author>
+      <author>19.4.  University of Namur PATRICK HEYMANS</author>
+      <author>19.5.  University of Namur</author>
+      <author>19.6.  General Terms: Design, Documentation</author>
+    </authors>
+    <affiliations>
+      <institution>19.1.  Science Policy, under the MoVES project. A T. T. Tun is partially supported by a Microsoft Software Engineering Innovation Foundation Award and by the European Research Council project ASAP. Authors' addresses: A. Hubaux (</institution>
+      <country>19.1.  </country>
+    </affiliations>
+    <section1>
+      <h1>19.1.  -</h1>
+      <h1>19.2.  1. INTRODUCTION</h1>
+      <h1>19.3.  2. RESEARCH METHOD</h1>
+      <h1>19.4.  2.1. Research Questions</h1>
+      <h1>19.5.  2.2. Survey Protocol</h1>
+      <h1>19.6.  2.3. Survey Material</h1>
+      <h1>19.7.  2.4. Data Collection Forms</h1>
+      <h1>19.8.  3. EXECUTION</h1>
+      <h1>19.9.  4. CONCERNS</h1>
+      <h1>19.10.  4.1. Feature Groups</h1>
+      <h1>19.11.  4.2. Feature Relationships</h1>
+      <h1>19.12.  5. SEPARATION AND COMPOSITION TECHNIQUES</h1>
+      <h1>19.13.  5.1. Techniques for Separating Concerns</h1>
+      <h1>19.14.  5.2. Techniques for Composing Concerns</h1>
+      <h1>19.15.  6. FORMALIZATION</h1>
+      <h1>19.16.  7. TOOL SUPPORT</h1>
+      <h1>19.17.  8. DISCUSSION</h1>
+      <h1>19.18.  9. THREATS TO VALIDITY</h1>
+    </section1>
+    <section2>
+      <h2>19.1.  1 Survey material</h2>
+      <h2>19.2.  Paper base</h2>
+      <h2>19.3.  Abstract &amp; introduction review</h2>
+      <h2>19.4.  FALSE</h2>
+      <h2>19.5.  TRUE</h2>
+      <h2>19.6.  FALSE</h2>
+      <h2>19.7.  TRUE</h2>
+      <h2>19.8.  DBLP papers</h2>
+      <h2>19.9.  Already collected literature</h2>
+      <h2>19.10.  Execute</h2>
+      <h2>19.11.  DBLP</h2>
+      <h2>19.12.  Initial node</h2>
+      <h2>19.13.  Final node</h2>
+      <h2>19.14.  Exit point</h2>
+      <h2>19.15.  Activity</h2>
+      <h2>19.16.  Artefact</h2>
+      <h2>19.17.  Decision</h2>
+      <h2>19.18.  3 Full paper review</h2>
+      <h2>19.19.  Filled data collection forms</h2>
+      <h2>19.20.  4 Content analysis</h2>
+    </section2>
+    <section3>
+      <h3>19.1.  Rejected papers</h3>
+      <h3>19.2.  Accepted papers</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>20. ACM Transactions on Software Engineering and Methodology</journaltitle>
+    <title>20. Generating Test Cases for Programs that Are Coded against Interfaces and Annotations</title>
+    <doi>20. 10.1145/2544135</doi>
+    <pubdate>20. 2014</pubdate>
+    <volume>20. 23</volume>
+    <issue>20. 3</issue>
+    <fpage>20. </fpage>
+    <lpage>20. </lpage>
+    <abstract>20. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>20.1.  MAINUL ISLAM</author>
+      <author>20.2.  CHRISTOPH CSALLNER</author>
+      <author>20.3.  University of Texas at Arlington</author>
+      <author>20.4.  General Terms: Algorithms, Reliability, Verification</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>20.1.  1. INTRODUCTION</h1>
+      <h1>20.2.  1.1. Limitation of Current Dynamic Test Case Generators</h1>
+      <h1>20.3.  1.2. Motivating Example</h1>
+      <h1>20.4.  1.3. Research Questions and Contributions</h1>
+      <h1>20.5.  2. BACKGROUND</h1>
+      <h1>20.6.  2.1. Sub-/Supertype Relation on Reference Types in Java</h1>
+      <h1>20.7.  2.2. Annotations in Java</h1>
+      <h1>20.8.  2.3. Dynamic Type Checks and Reflection</h1>
+      <h1>20.9.  2.4. Dynamic Symbolic Execution and Dsc</h1>
+      <h1>20.10.  3. SURVEY OF OPEN-SOURCE SUBJECT APPLICATIONS (RQ1)</h1>
+      <h1>20.11.  3.1. Multiple-Inheritance Patterns of Table I</h1>
+      <h1>20.12.  3.2. Annotation Patterns of Table II</h1>
+      <h1>20.13.  4. SOLUTION (RQ2, RQ3)</h1>
+      <h1>20.14.  4.1. Overview and Example</h1>
+      <h1>20.15.  4.2. Algorithm</h1>
+      <h1>20.16.  4.3. Constraint Encoding</h1>
+      <h1>20.17.  4.4. Dealing with Annotations</h1>
+      <h1>20.18.  4.5. Generating Mock Class Method Bodies</h1>
+      <h1>20.19.  4.6. Implementation in Dsc</h1>
+      <h1>20.20.  4.7. Implementation Details by Example</h1>
+      <h1>20.21.  5. EXPERIENCE (RQ4, RQ5)</h1>
+      <h1>20.22.  5.1. Higher Coverage than Basic Dynamic Symbolic Execution (RQ5)</h1>
+      <h1>20.23.  5.2. Higher Coverage and Fewer Dangerous Code Executions than Randoop (RQ4)</h1>
+      <h1>20.24.  6. RELATED WORK</h1>
+      <h1>20.25.  6.1. Mock Classes Inferred from Programmer-Written Specifications</h1>
+      <h1>20.26.  6.2. Mock Classes Inferred by Static Analysis</h1>
+      <h1>20.27.  6.3. Mock Classes Inferred from Test Executions: Test Carving, Capture and Replay</h1>
+      <h1>20.28.  7. CONCLUSIONS</h1>
+    </section1>
+    <section2>
+      <h2>20.1.  Listing 9. Mock class generated for the Listing 8 test case.</h2>
+      <h2>20.2.  Listing 11. C# version of the Listing 7 motivating example.</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>21. A Solver for Word Equations over Strings, Regular Expressions, and Context-Free Grammars</journaltitle>
+    <title>21. HAMPI: A Solver for Word Equations over Strings, Regular Expressions, and Context-Free Grammars</title>
+    <doi>21. </doi>
+    <pubdate>21. 2012</pubdate>
+    <volume>21. 25</volume>
+    <issue>21. 5</issue>
+    <fpage>21. 3</fpage>
+    <lpage>21. 30</lpage>
+    <abstract>21. 1</abstract>
+    <keywords>
+      <keyword>21.1.  Additional Key Words and Phrases</keyword>
+      <keyword>21.2.  String constraints</keyword>
+      <keyword>21.3.  word equations</keyword>
+      <keyword>21.4.  regular languages</keyword>
+      <keyword>21.5.  context-free languages</keyword>
+      <keyword>21.6.  concolic testing</keyword>
+      <keyword>21.7.  program analysis</keyword>
+    </keywords>
+    <authors>
+      <author>21.1.  General Terms: Verification, Algorithms, Reliability, Security</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>21.1.  1. INTRODUCTION</h1>
+      <h1>21.2.  1.1. CONTRIBUTIONS</h1>
+      <h1>21.3.  1.2. ARTICLE ORGANIZATION</h1>
+      <h1>21.4.  2. EXAMPLE: SQL INJECTION</h1>
+      <h1>21.5.  3. THE HAMPI STRING CONSTRAINT SOLVER</h1>
+      <h1>21.6.  3.1. Hampi Input Language for String Constraints</h1>
+      <h1>21.7.  3.2. Core Form of String Constraints</h1>
+      <h1>21.8.  3.3. Bit-Vector Encoding and Solving</h1>
+      <h1>21.9.  3.4. Complexity</h1>
+      <h1>21.10.  3.5. Example of Constraint Solving</h1>
+      <h1>21.11.  4. OPTIMIZATIONS</h1>
+      <h1>21.12.  4.1. Memoization</h1>
+      <h1>21.13.  4.2. Constraint Templates</h1>
+      <h1>21.14.  4.3. Server Mode</h1>
+      <h1>21.15.  5. EVALUATION</h1>
+      <h1>21.16.  5.1. Identifying SQL Injection Vulnerabilities Using Static Analysis</h1>
+      <h1>21.17.  5.2. Creating SQL Injection Attacks Using Dynamic Analysis</h1>
+      <h1>21.18.  5.3. Systematic Testing of C Programs</h1>
+      <h1>21.19.  5.4. Comparing Performance to CFGAnalyzer</h1>
+      <h1>21.20.  6. RELATED WORK</h1>
+      <h1>21.21.  6.1. Practical Solvers for String Constraints</h1>
+      <h1>21.22.  6.2. String Solvers Built as Part of Program Analysis Applications</h1>
+      <h1>21.23.  6.3. Theoretical Work on String Constraints</h1>
+      <h1>21.24.  7. CONCLUSION</h1>
+    </section1>
+    <section2>
+      <h2>21.1.  String Constraints</h2>
+      <h2>21.2.  Normalizer</h2>
+      <h2>21.3.  Encoder</h2>
+      <h2>21.4.  STP Solver</h2>
+      <h2>21.5.  Core String Constraints</h2>
+      <h2>21.6.  Bit−vector Constraints</h2>
+      <h2>21.7.  Bit−vector</h2>
+      <h2>21.8.  Solution</h2>
+      <h2>21.9.  Decoder</h2>
+      <h2>21.10.  String Solution</h2>
+      <h2>21.11.  No Solution Exists</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>22. ACM Transactions on Database Systems</journaltitle>
+    <title>22. Consistent Query Answering for Self-Join-Free Conjunctive Queries Under Primary Key Constraints</title>
+    <doi>22. 10.1145/3068334</doi>
+    <pubdate>22. 2017</pubdate>
+    <volume>22. 42</volume>
+    <issue>22. 2</issue>
+    <fpage>22. 25</fpage>
+    <lpage>22. 28</lpage>
+    <abstract>22. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>22.1.  PARASCHOS KOUTRIS</author>
+      <author>22.2.  University of Washington JEF WIJSEN</author>
+      <author>22.3.  University of Mons</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>22.1.  -</h1>
+      <h1>22.2.  SELECT E.ENAME FROM E, D</h1>
+    </section1>
+    <section2>
+      <h2>22.1.  Atoms and key-equal facts. Each relation name R of arity n, n ≥ 1, has a unique</h2>
+      <h2>22.2.  LEMMA 2.5. Let q be a Boolean conjunctive query and let X ⊆ vars(q). Let db be an</h2>
+      <h2>22.3.  LEMMA 3.5. For every query q ∈ sjfBCQ, if F</h2>
+      <h2>22.4.  LEMMA 3.6. For every query q ∈ sjfBCQ,</h2>
+      <h2>22.5.  LEMMA 3.7. Let q ∈ sjfBCQ. Let x ∈ vars(q) and let a be an arbitrary constant.</h2>
+      <h2>22.6.  THEOREM 4.1. For every q ∈ sjfBCQ, the following are equivalent:</h2>
+      <h2>22.7.  LEMMA 4.3. For every q ∈ sjfBCQ, if the attack graph of q is cyclic, then CERTAINTY(q)</h2>
+      <h2>22.8.  LEMMA 4.5. For every query q ∈ sjfBCQ, if the attack graph of q is acyclic, then</h2>
+      <h2>22.9.  THEOREM 6.1. For every q ∈ sjfBCQ, if the attack graph of q contains a strong cycle,</h2>
+      <h2>22.10.  LEMMA 7.11 (DISSOLUTION LEMMA). Let q ∈ sjfBCQ such that every atom with mode i in q is simple-key. Let C be an elementary directed cycle in the Markov graph of q and let q∗ = dissolve(C, q). Then, there exists a polynomial-time many-one reduction from</h2>
+      <h2>22.11.  LEMMA 7.12. Let q ∈ sjfBCQ such that every atom with mode i in q is simple-key. Let</h2>
+      <h2>22.12.  C be an elementary directed cycle in the Markov graph of q such that C is premier and</h2>
+      <h2>22.13.  LEMMA 7.13. Let q ∈ sjfBCQ such that</h2>
+      <h2>22.14.  LEMMA 8.3. Let q ∈ sjfBCQ and let db be an uncertain database. Let s be a consistent</h2>
+      <h2>22.15.  LEMMA 8.7. Let q ∈ sjfBCQ such that all atoms with mode i in q are simple-key. Let</h2>
+      <h2>22.16.  LEMMA A.1. Let q ∈ sjfBCQ. Let F, G ∈ q such that F G. Then, for every x ∈</h2>
+      <h2>22.17.  LEMMA B.1. Let q ∈ sjfBCQ. Let X ⊆ vars(q) and let G ∈ q be an R-atom such that for</h2>
+      <h2>22.18.  LEMMA 12.2. Let q ∈ sjfBCQ. Let F ∈ q such that F has zero indegree in the attack</h2>
+    </section2>
+    <section3>
+      <h3>22.1.  Uncertain databases, blocks, and repairs. A database schema is a finite set of relation</h3>
+      <h3>22.2.  Boolean conjunctive queries. A Boolean query is a mapping q that associates a Boolean</h3>
+      <h3>22.3.  LEMMA 2.4 ([44]). Let q be a Boolean conjunctive query. Let db be an uncertain database. It is possible to compute in polynomial time an uncertain database db that is purified relative to q such that every repair of db satisfies q if and only if every repair of db satisfies q.</h3>
+      <h3>22.4.  Furthermore, it can be decided in quadratic time in the size of q which of these three cases applies.</h3>
+      <h3>22.5.  LEMMA 3.3. Given sjfBCQ query q, the following questions can be answered in</h3>
+      <h3>22.6.  The query “Get names for departments that are self-managed (i.e., are managed by</h3>
+      <h3>22.7.  Next, consider the query “Get names for employees who manage the department for</h3>
+      <h3>22.8.  Finally, consider the query “Get names for employees who work in the city of their</h3>
+      <h3>22.9.  Definition 3.8 (Strongly Connected Components). A directed graph is strongly con</h3>
+      <h3>22.10.  LEMMA 4.4. Let q be a sjfBCQ query. Let F be an atom of q such that in the attack</h3>
+      <h3>22.11.  Then, the Markov graph of q contains an elementary directed cycle that is premier</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>23. ACM Computing Surveys</journaltitle>
+    <title>23. Reputation Systems Evaluation Survey</title>
+    <doi>23. 10.1145/2835373</doi>
+    <pubdate>23. 2015</pubdate>
+    <volume>23. 48</volume>
+    <issue>23. 3</issue>
+    <fpage>23. </fpage>
+    <lpage>23. </lpage>
+    <abstract>23. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>23.1.  ELENI KOUTROULI</author>
+      <author>23.2.  APHRODITE TSALGATIDOU</author>
+      <author>23.3.  National</author>
+      <author>23.4.  Kapodistrian University of Athens</author>
+      <author>23.5.  General Terms: Reliability, Security, Design, Performance</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>23.1.  1. INTRODUCTION</h1>
+      <h1>23.2.  2. EVALUATION APPROACHES: A TAXONOMY</h1>
+      <h1>23.3.  2.1. Reputation Systems Evaluation Based on Custom-Made Experiments</h1>
+      <h1>23.4.  2.2. Common Evaluation Experiments under Restricted Scenarios</h1>
+      <h1>23.5.  2.3. Works Offering a Common Evaluation Framework</h1>
+      <h1>23.6.  3. TOWARD A GENERALLY AGREED-ON COMMON FRAMEWORK FOR EVALUATION</h1>
+      <h1>23.7.  3.1. Limitations of Current Works on Simulation-based CEFs</h1>
+      <h1>23.8.  3.2. Desirable Characteristics of a CEF</h1>
+      <h1>23.9.  4. CONCLUSION</h1>
+    </section1>
+    <section2>
+      <h2>23.1.  Custom-made</h2>
+      <h2>23.2.  Common experiments in restricted cases</h2>
+      <h2>23.3.  Common Evaluation</h2>
+      <h2>23.4.  Frameworks (CEFs)</h2>
+      <h2>23.5.  Theoretic CEFs</h2>
+      <h2>23.6.  Simulation-based CEFs</h2>
+      <h2>23.7.  Threat analysis-based</h2>
+      <h2>23.8.  Criteria-based</h2>
+      <h2>23.9.  Simulation frameworks</h2>
+      <h2>23.10.  Implementation tools</h2>
+      <h2>23.11.  Simulation tools /testbeds</h2>
+      <h2>23.12.  Threat</h2>
+      <h2>23.13.  Oscillatory</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>24. Journal of the ACM</journaltitle>
+    <title>24. Forbidden Information</title>
+    <doi>24. 10.1145/2450142.2450145</doi>
+    <pubdate>24. 2013</pubdate>
+    <volume>24. 60</volume>
+    <issue>24. 2</issue>
+    <fpage>24. </fpage>
+    <lpage>24. </lpage>
+    <abstract>24. 1</abstract>
+    <keywords>
+      <keyword>24.1.  Additional Key Words and Phrases</keyword>
+      <keyword>24.2.  Kolmogorov complexity</keyword>
+      <keyword>24.3.  Turing</keyword>
+      <keyword>24.4.  Church's thesis</keyword>
+      <keyword>24.5.  incompleteness</keyword>
+    </keywords>
+    <authors>
+      <author>24.1.  LEONID A. LEVIN</author>
+      <author>24.2.  Boston University</author>
+      <author>24.3.  General Terms: Theory</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>24.1.  1. INTRODUCTION</h1>
+      <h1>24.2.  2. COMPLEXITY TOOLS</h1>
+      <h1>24.3.  2.1. Integers: Complexity, Randomness</h1>
+      <h1>24.4.  2.2. Integers: Information</h1>
+      <h1>24.5.  2.3. Complexity, Randomness, and Information for Reals</h1>
+      <h1>24.6.  3. CONSISTENT OBJECTS</h1>
+      <h1>24.7.  3.1. Example: Tiling</h1>
+      <h1>24.8.  4. THE TABOO</h1>
+      <h1>24.9.  5. THE INDEPENDENCE POSTULATE</h1>
+      <h1>24.10.  ACKNOWLEDGMENTS</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>25. ACM Transactions on Intelligent Systems and Technology</journaltitle>
+    <title>25. Multifeature Anisotropic Orthogonal Gaussian Process for Automatic Age Estimation</title>
+    <doi>25. </doi>
+    <pubdate>25. 2017</pubdate>
+    <volume>25. 9</volume>
+    <issue>25. 1</issue>
+    <fpage>25. </fpage>
+    <lpage>25. </lpage>
+    <abstract>25. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>25.1.  ZHIFENG LI</author>
+      <author>25.2.  DIHONG GONG</author>
+      <author>25.3.  Chinese Academy of Sciences</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>25.1.  1 INTRODUCTION</h1>
+      <h1>25.2.  THE GP REVISITED</h1>
+      <h1>25.3.  Gaussian Process</h1>
+      <h1>25.4.  Warped Gaussian Process</h1>
+      <h1>25.5.  PROPOSED APPROACH</h1>
+      <h1>25.6.  Orthogonal Gaussian Process</h1>
+      <h1>25.7.  Anisotropic OGP</h1>
+      <h1>25.8.  Multifeature A-OGP Fusion Framework</h1>
+      <h1>25.9.  Discussion</h1>
+      <h1>25.10.  EXPERIMENTS</h1>
+      <h1>25.11.  Databases and Evaluation Metric</h1>
+      <h1>25.12.  Comparison for Computational Eficiency</h1>
+      <h1>25.13.  Performance Evaluation of Our Algorithms Under Diferent Seitngs</h1>
+      <h1>25.14.  Benchmark Comparison on the FG-NET Database</h1>
+      <h1>25.15.  Benchmark Comparison on the MORPH Database</h1>
+      <h1>25.16.  Some Discussions</h1>
+      <h1>25.17.  CONCLUSIONS AND FUTURE WORK</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>26. ACM Transactions on Intelligent Systems and Technology</journaltitle>
+    <title>26. On Network Neutrality Measurements</title>
+    <doi>26. 10.1145/3040966</doi>
+    <pubdate>26. 2017</pubdate>
+    <volume>26. 8</volume>
+    <issue>26. 4</issue>
+    <fpage>26. </fpage>
+    <lpage>26. </lpage>
+    <abstract>26. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>26.1.  ALEX MALTINSKY</author>
+      <author>26.2.  RAN GILADI</author>
+      <author>26.3.  Ben-Gurion University of the Negev</author>
+      <author>26.4.  Israel YUVAL SHAVITT</author>
+      <author>26.5.  Tel-Aviv University</author>
+      <author>26.6.  Israel</author>
+      <author>26.7.  CCS Concepts:</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>26.1.  -</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>27. ACM Transactions on Database Systems</journaltitle>
+    <title>27. An Indexing Framework for Queries on Probabilistic Graphs</title>
+    <doi>27. 10.1145/3044713</doi>
+    <pubdate>27. 2017</pubdate>
+    <volume>27. 42</volume>
+    <issue>27. 2</issue>
+    <fpage>27. </fpage>
+    <lpage>27. </lpage>
+    <abstract>27. 1</abstract>
+    <keywords/>
+    <authors/>
+    <affiliations/>
+    <section1>
+      <h1>27.1.  -</h1>
+      <h1>27.2.  RQ [Cohen et al. 2003]. Probability that t is reachable from s.</h1>
+      <h1>27.3.  THEOREM 3.4 ([VALIANT 1979; BALL 1986]). Evaluating RQ, d-RQ (for d</h1>
+      <h1>27.4.  We formalize these properties below.</h1>
+      <h1>27.5.  Now, observe that</h1>
+      <h1>27.6.  7In the SPQR case we define the root as the largest bag in the tree.</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>28. ACM Computing Surveys</journaltitle>
+    <title>28. Allocation of Virtual Machines in Cloud Data Centers-A Survey of Problem Models and Optimization Algorithms</title>
+    <doi>28. 10.1145/2797211</doi>
+    <pubdate>28. 2015</pubdate>
+    <volume>28. 48</volume>
+    <issue>28. 1</issue>
+    <fpage>28. </fpage>
+    <lpage>28. </lpage>
+    <abstract>28. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>28.1.  Z. A´. Mann</author>
+    </authors>
+    <affiliations>
+      <institution>28.1.  Additional Key Words and Phrases: Cloud computing, data center</institution>
+      <country>28.1.  </country>
+    </affiliations>
+    <section1>
+      <h1>28.1.  1. INTRODUCTION</h1>
+      <h1>28.2.  2. PROBLEM CONTEXT</h1>
+      <h1>28.3.  3. PROBLEM CHARACTERISTICS</h1>
+      <h1>28.4.  3.1. Virtual Machines</h1>
+      <h1>28.5.  3.2. Resources</h1>
+      <h1>28.6.  3.3. PM Characteristics</h1>
+      <h1>28.7.  3.4. eCP Characteristics</h1>
+      <h1>28.8.  3.5. Communication and Networking</h1>
+      <h1>28.9.  3.6. Service Level Agreements</h1>
+      <h1>28.10.  3.7. Live Migration</h1>
+      <h1>28.11.  3.8. Actions of the CP</h1>
+      <h1>28.12.  3.9. Objectives</h1>
+      <h1>28.13.  4. PROBLEM MODELS IN THE LITERATURE</h1>
+      <h1>28.14.  4.1. Important Special Cases and Subproblems</h1>
+      <h1>28.15.  4.2. The Single-DC Problem</h1>
+      <h1>28.16.  4.3. The Multi-IaaS Problem</h1>
+      <h1>28.17.  4.4. Other Problem Formulations</h1>
+      <h1>28.18.  5. OVERVIEW OF PROPOSED ALGORITHMS</h1>
+      <h1>28.19.  5.1. Exact Algorithms</h1>
+      <h1>28.20.  5.2. Heuristics for the Single-DC Problem</h1>
+      <h1>28.21.  5.3. Heuristics for the Multi-IaaS Problem</h1>
+      <h1>28.22.  5.4. Algorithms for Other Problem Formulations</h1>
+      <h1>28.23.  5.5. Evaluation of Algorithms</h1>
+      <h1>28.24.  6. DETAILS OF SOME SELECTED WORKS</h1>
+      <h1>28.25.  6.1. One-Dimensional Dynamic VM Consolidation in a Single DC</h1>
+      <h1>28.26.  6.2. Static Placement in a Single DC</h1>
+      <h1>28.27.  6.3. Other Variants of the Single-DC Problem</h1>
+      <h1>28.28.  6.4. Multi-IaaS Allocation</h1>
+      <h1>28.29.  7. AREAS IN NEED OF FURTHER RESEARCH</h1>
+      <h1>28.30.  7.1. Problem Formulations</h1>
+      <h1>28.31.  7.2. Algorithms</h1>
+      <h1>28.32.  7.3. Evaluation of Algorithms</h1>
+      <h1>28.33.  8. CONCLUSIONS</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>29. ACM Computing Surveys</journaltitle>
+    <title>29. A Survey of Migration Mechanisms of Virtual Machines</title>
+    <doi>29. 10.1145/2492705</doi>
+    <pubdate>29. 2014</pubdate>
+    <volume>29. 46</volume>
+    <issue>29. 3</issue>
+    <fpage>29. </fpage>
+    <lpage>29. </lpage>
+    <abstract>29. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>29.1.  JUAN MANUEL GARC´IA</author>
+      <author>29.2.  Instituto Tecnolo´gico de Morelia</author>
+      <author>29.3.  VIOLETA MEDINA</author>
+      <author>29.4.  General Terms: Design</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>29.1.  -</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>30. Journal of the ACM</journaltitle>
+    <title>30. AdWords and Generalized Online Matching</title>
+    <doi>30. </doi>
+    <pubdate>30. 2007</pubdate>
+    <volume>30. 54</volume>
+    <issue>30. 5</issue>
+    <fpage>30. </fpage>
+    <lpage>30. </lpage>
+    <abstract>30. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>30.1.  ARANYAK MEHTA</author>
+      <author>30.2.  Google</author>
+      <author>30.3.  Mountain View</author>
+      <author>30.4.  California</author>
+      <author>30.5.  Stanford University, Stanford, California</author>
+    </authors>
+    <affiliations>
+      <institution>30.1.  Georgia Institute of Technology</institution>
+      <institution>30.2.  The work of A. Saberi was supported by an NSF Career Award and a gift from Google. The work of U. Vazirani was supported by NSF Grant 0635401 and NSF ITR Grant CCR-0121555. The work of V. Vazirani was supported by NSF Grant 0728640. Authors' addresses: A. Mehta, Google, Inc.</institution>
+      <institution>30.3.  University of California, Berkeley</institution>
+      <country>30.1.  Georgia</country>
+      <country>30.2.  USA</country>
+      <country>30.3.  USA</country>
+    </affiliations>
+    <section1>
+      <h1>30.1.  -</h1>
+      <h1>30.2.  1. Introduction</h1>
+      <h1>30.3.  1.3.2. Static Models for Ranking Auctions. A large number of papers in this</h1>
+      <h1>30.4.  1.3.3. Click-Fraud and Cost-Per-Acquisition Auctions. Another important is</h1>
+      <h1>30.5.  2. Problem Definition</h1>
+      <h1>30.6.  3. A Discretized Version of the Algorithm</h1>
+      <h1>30.7.  4. Analyzing Balance using a Factor-Revealing LP</h1>
+      <h1>30.8.  5. A Trade-off-Revealing Family of LPs for the Adwords Problem</h1>
+      <h1>30.9.  LEMMA 5.1. For any instance π and monotonically decreasing trade-off function ψ , y∗ is an optimal solution to D(π, ψ ).</h1>
+      <h1>30.10.  THEOREM 5.5. For function ψk defined as</h1>
+      <h1>30.11.  6. Towards More Realistic Models</h1>
+      <h1>30.12.  7. A Lower Bound for Randomized Algorithms</h1>
+      <h1>30.13.  THEOREM 7.1. No randomized online algorithm can have a competitive ratio</h1>
+      <h1>30.14.  8. Discussion</h1>
+      <h1>30.15.  Appendix</h1>
+      <h1>30.16.  A. Counterexample for the Naive Algorithm</h1>
+    </section1>
+    <section2>
+      <h2>30.1.  The resulting algorithm is very simple:</h2>
+      <h2>30.2.  Note that ψk → ψ as k → ∞.</h2>
+      <h2>30.3.  Define A, b, c so the primal LP, L, can be written as</h2>
+      <h2>30.4.  The dual LP is denoted by D(π, ψ ) and is:</h2>
+      <h2>30.5.  OPT(q)ψ (type(q)) ≤ ALG(q)ψ (slab(q)).</h2>
+      <h2>30.6.  We start by observing that for 1 ≤ i ≤ k − 1:</h2>
+      <h2>30.7.  Lemma 5.4 gives us</h2>
+      <h2>30.8.  Combining these relations we get:</h2>
+    </section2>
+    <section3>
+      <h3>30.1.  As we make the discretization finer (i.e., as k → ∞)</h3>
+      <h3>30.2.  PROOF.</h3>
+      <h3>30.3.  By Lemma 5.3,</h3>
+      <h3>30.4.  Next observe that</h3>
+      <h3>30.5.  ALG(q)ψ(slab(q))</h3>
+      <h3>30.6.  The lemma follows from these three inequalities.</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>31. ACM Transactions on Software Engineering and Methodology</journaltitle>
+    <title>31. Validating Software Metrics: A Spectrum of Philosophies</title>
+    <doi>31. </doi>
+    <pubdate>31. 2012</pubdate>
+    <volume>31. 21</volume>
+    <issue>31. 4</issue>
+    <fpage>31. </fpage>
+    <lpage>31. </lpage>
+    <abstract>31. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>31.1.  ANDREW MENEELY</author>
+      <author>31.2.  BEN SMITH</author>
+      <author>31.3.  LAURIE WILLIAMS</author>
+      <author>31.4.  North C</author>
+      <author>31.5.  rolin</author>
+      <author>31.6.  rsity</author>
+      <author>31.7.  General Terms: Measurement, Theory</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>31.1.  -</h1>
+      <h1>31.2.  1. INTRODUCTION</h1>
+      <h1>31.3.  2. TERMS AND DEFINITIONS</h1>
+      <h1>31.4.  2.1. Metric Terminology</h1>
+      <h1>31.5.  2.2. Examples</h1>
+      <h1>31.6.  3. METHODOLOGY AND PROCESS</h1>
+      <h1>31.7.  3.1. Planning the Review</h1>
+      <h1>31.8.  3.2. Conducting the Initial Search</h1>
+      <h1>31.9.  3.3. Conducting the Follow-Up Search</h1>
+      <h1>31.10.  4. EXTRACTING THE VALIDATION CRITERIA</h1>
+      <h1>31.11.  5. MAPPING THE VALIDATION CRITERIA</h1>
+      <h1>31.12.  5.1. Internal/External vs. Theoretical/Empirical</h1>
+      <h1>31.13.  5.2. Construct Validity</h1>
+      <h1>31.14.  5.3. Representation Condition and Internal, Theoretical Validity</h1>
+      <h1>31.15.  5.4. Prediction, Causation, and External Validity</h1>
+      <h1>31.16.  6. SPECTRUM OF PHILOSOPHIES</h1>
+      <h1>31.17.  6.1. Goal-Driven Philosophy Principles</h1>
+      <h1>31.18.  6.2. Theory-Driven Philosophy Principles</h1>
+      <h1>31.19.  7. CHOOSING APPROPRIATE METRICS VALIDATION CRITERIA</h1>
+      <h1>31.20.  7.1. Observed Advantages of Using Various Metrics Validation Criteria</h1>
+      <h1>31.21.  7.2. Criteria Application Process</h1>
+      <h1>31.22.  8. CONCLUSION</h1>
+    </section1>
+    <section2>
+      <h2>31.1.  List reasons.</h2>
+      <h2>31.2.  List the criteria.</h2>
+      <h2>31.3.  List the criterion, source, and explanation</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>32. Journal of the ACM</journaltitle>
+    <title>32. A Constructive Proof of the General Lova´ sz Local Lemma</title>
+    <doi>32. </doi>
+    <pubdate>32. 2010</pubdate>
+    <volume>32. 57</volume>
+    <issue>32. 2</issue>
+    <fpage>32. </fpage>
+    <lpage>32. </lpage>
+    <abstract>32. 1</abstract>
+    <keywords>
+      <keyword>32.1.  Additional Key Words and Phrases</keyword>
+      <keyword>32.2.  Constructive proof</keyword>
+      <keyword>32.3.  Lova´sz local lemma</keyword>
+      <keyword>32.4.  parallelization</keyword>
+    </keywords>
+    <authors>
+      <author>32.1.  ROBIN A. MOSER</author>
+      <author>32.2.  ETH Zu¨rich</author>
+      <author>32.3.  Switzerland</author>
+      <author>32.4.  General Terms: Algorithms</author>
+    </authors>
+    <affiliations>
+      <institution>32.1.  Simon Fraser University Re ́nyi Institute</institution>
+      <institution>32.2.  The research of R. A. Moser was supported by the SNF Grant 200021-118001/1. The work of G. Tardos was Supported by NSERC grant 329527, and by OTKA grants T-046234, AT-048826, and NK-62321. Part of the work of R. A. Moser was done during an internship with Microsoft Research, Redmond, WA. Authors' addresses: R. A. Moser, Institute for Theoretical Computer Science, Department of Computer Science</institution>
+      <country>32.1.  Canada and Hungary</country>
+      <country>32.2.  Switzerland</country>
+    </affiliations>
+    <section1>
+      <h1>32.1.  -</h1>
+      <h1>32.2.  1. Introduction</h1>
+      <h1>32.3.  2. Execution Logs and Witness Trees</h1>
+      <h1>32.4.  LEMMA 2.1. Let τ be a fixed witness tree and C the (random) log produced by</h1>
+      <h1>32.5.  3. Random Generation of Witness Trees</h1>
+      <h1>32.6.  LEMMA 3.1. Let τ a fixed proper witness tree with its root vertex labeled A.</h1>
+      <h1>32.7.  4. Analyzing the Parallel Algorithm</h1>
+      <h1>32.8.  5. A Deterministic Variant</h1>
+      <h1>32.9.  LEMMA 5.1. Suppose the maximum degree of the dependency graph is bounded</h1>
+      <h1>32.10.  6. The Lopsided Local Lemma</h1>
+      <h1>32.11.  LEMMA 6.2. Let τ be a fixed proper lopsided witness tree and C the (random)</h1>
+      <h1>32.12.  7. Conclusion</h1>
+    </section1>
+    <section2>
+      <h2>32.1.  THEOREM 1.2. Let P be a finite set of mutually independent random variables</h2>
+      <h2>32.2.  If there exists an assignment of reals x : A → (0, 1) such that</h2>
+      <h2>32.3.  THEOREM 1.3. Let P be a finite set of mutually independent random variables</h2>
+      <h2>32.4.  If ε &gt; 0 and there exists an assignment of reals x : A → (0, 1) such that</h2>
+      <h2>32.5.  LEMMA 4.1. If t ∈ S j , then the depth of τC (t ) is j − 1.</h2>
+      <h2>32.6.  THEOREM 6.1. Let P be a finite set of mutually independent random variables</h2>
+      <h2>32.7.  If there exists an assignment of reals x : A → (0, 1) such that</h2>
+    </section2>
+    <section3>
+      <h3>32.1.  Pr[τ appears in the log C ]</h3>
+      <h3>32.2.  This bound easily implies Theorem 1.3.</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>33. A Risk-Scoring Feedback Model for Webpages and Web Users Based on Browsing Behavior</journaltitle>
+    <title>33. A Risk-Scoring Feedback Model for Webpages and Web Users Based on Browsing Behavior</title>
+    <doi>33. 10.1145/2928274</doi>
+    <pubdate>33. 2017</pubdate>
+    <volume>33. 53</volume>
+    <issue>33. 5</issue>
+    <fpage>33. </fpage>
+    <lpage>33. </lpage>
+    <abstract>33. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>33.1.  MICHAL BEN NERIA</author>
+      <author>33.2.  NANCY-SARAH YACOVZADA</author>
+      <author>33.3.  l-Aviv Univ</author>
+      <author>33.4.  rsity IRAD BEN-GAL</author>
+      <author>33.5.  Stanford University</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>33.1.  -</h1>
+      <h1>33.2.  1, if user k is risky</h1>
+      <h1>33.3.  Subject T o :</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>34. ACM Transactions on Software Engineering and Methodology</journaltitle>
+    <title>34. DIG: A Dynamic Invariant Generator for Polynomial and Array Invariants</title>
+    <doi>34. 10.1145/2556782</doi>
+    <pubdate>34. 2014</pubdate>
+    <volume>34. 23</volume>
+    <issue>34. 4</issue>
+    <fpage>34. </fpage>
+    <lpage>34. </lpage>
+    <abstract>34. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>34.1.  THANHVU NGUYEN</author>
+      <author>34.2.  DEEPAK KAPUR</author>
+      <author>34.3.  rsity o</author>
+      <author>34.4.  o WESTLEY WEIMER</author>
+      <author>34.5.  University of Virginia STEPHANIE FORREST</author>
+      <author>34.6.  University of New Mexico</author>
+      <author>34.7.  General Terms: Algorithms, Experimentation, Verification, Theory</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>34.1.  -</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>35. ACM Transactions on Intelligent Systems and Technology</journaltitle>
+    <title>35. Learning User Attributes via Mobile Social Multimedia Analytics</title>
+    <doi>35. 10.1145/2963105</doi>
+    <pubdate>35. 2016</pubdate>
+    <volume>35. 8</volume>
+    <issue>35. 3</issue>
+    <fpage>35. 3</fpage>
+    <lpage>35. 21</lpage>
+    <abstract>35. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>35.1.  LIQIANG NIE</author>
+      <author>35.2.  Shandong University</author>
+      <author>35.3.  China LUMING ZHANG</author>
+      <author>35.4.  MENG WANG</author>
+      <author>35.5.  RICHANG HONG</author>
+      <author>35.6.  Hefei University of Technology</author>
+      <author>35.7.  China ALEKSANDR FARSEEV</author>
+      <author>35.8.  TAT-SENG CHUA</author>
+      <author>35.9.  National University of Singapore</author>
+      <author>35.10.  Singapore</author>
+      <author>35.11.  General Terms: Algorithms, Experimentation, Performance</author>
+    </authors>
+    <affiliations>
+      <institution>35.1.  This research was supported by “Qilu Scholar” grant. Authors' adresses: L. Zhang, M. Wang, and R. Hong are with the Department of Computer Sciences and Information Engineer, Hefei Unviersity of Technology (230009); gapore (Suzhou) Research Institute 377 Lin Quan Street, Suzhou Industrial Park L. Nie is with the Department of Computer Science and Technology, Shandong University</institution>
+      <country>35.1.  P.R. China China;</country>
+    </affiliations>
+    <section1>
+      <h1>35.1.  -</h1>
+      <h1>35.2.  1. INTRODUCTION</h1>
+      <h1>35.3.  2. RELATED WORK</h1>
+      <h1>35.4.  2.1. User Attributes Learning from Social Media</h1>
+      <h1>35.5.  2.2. Multi-View Multi-Task Learning</h1>
+      <h1>35.6.  3. DATA CONSTRUCTION</h1>
+      <h1>35.7.  3.1. Data Crawling Strategy</h1>
+      <h1>35.8.  3.2. Ground-Truth Construction</h1>
+      <h1>35.9.  4. USER ATTRIBUTES LEARNING MODEL</h1>
+      <h1>35.10.  5. OPTIMIZATION</h1>
+      <h1>35.11.  6. EXPERIMENTS</h1>
+      <h1>35.12.  6.3. Overall Model Evaluation</h1>
+      <h1>35.13.  6.4. Component-wise Analysis</h1>
+      <h1>35.14.  6.5. Source Integration</h1>
+      <h1>35.15.  6.6. Parameter Tuning</h1>
+      <h1>35.16.  6.7. Computational Analysis</h1>
+      <h1>35.17.  7. CONCLUSION AND FUTURE WORK</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>36. Journal of the ACM</journaltitle>
+    <title>36. Low Distortion Embeddings for Edit Distance</title>
+    <doi>36. </doi>
+    <pubdate>36. 2007</pubdate>
+    <volume>36. 54</volume>
+    <issue>36. 5</issue>
+    <fpage>36. </fpage>
+    <lpage>36. </lpage>
+    <abstract>36. 1</abstract>
+    <keywords>
+      <keyword>36.1.  Additional Key Words and Phrases</keyword>
+      <keyword>36.2.  Pattern matching</keyword>
+      <keyword>36.3.  computations on discrete structures</keyword>
+      <keyword>36.4.  edit distance</keyword>
+      <keyword>36.5.  Levenshtein distance</keyword>
+      <keyword>36.6.  metric embeddings</keyword>
+      <keyword>36.7.  dimension reduction</keyword>
+      <keyword>36.8.  sketching</keyword>
+      <keyword>36.9.  communication complexity</keyword>
+      <keyword>36.10.  nearest neighbor search</keyword>
+    </keywords>
+    <authors>
+      <author>36.1.  RAFAIL OSTROVSKY</author>
+      <author>36.2.  General Terms: Algorithms, Theory</author>
+    </authors>
+    <affiliations>
+      <institution>36.1.  Technion-Israel Institute of Technology</institution>
+      <institution>36.2.  University of California, Los Angeles</institution>
+      <country>36.1.  Israel</country>
+      <country>36.2.  USA</country>
+    </affiliations>
+    <section1>
+      <h1>36.1.  -</h1>
+      <h1>36.2.  1. Introduction</h1>
+      <h1>36.3.  2. Preliminaries</h1>
+      <h1>36.4.  3. The Embedding</h1>
+      <h1>36.5.  THEOREM 7. There exists a universal constant c &gt; 0 such that, for every</h1>
+      <h1>36.6.  4. Implementation and Applications</h1>
+      <h1>36.7.  LEMMA 9. There exists a probabilistic polynomial time algorithm ψ that sat</h1>
+      <h1>36.8.  THEOREM 10. There exists a polynomial time algorithm ϕ that for every δ &gt;</h1>
+      <h1>36.9.  THEOREM 11. There are universal constants c, α, β &gt; 0, α &lt; β, such that the</h1>
+      <h1>36.10.  THEOREM 13. There is a probabilistic preprocessing algorithm D and a search</h1>
+      <h1>36.11.  D(X ) such that the search algorithm succeeds on all possible queries.)</h1>
+      <h1>36.12.  Appendix</h1>
+    </section1>
+    <section2>
+      <h2>36.1.  Furthermore, we show that our embedding can in fact be made efficient, thus</h2>
+      <h2>36.2.  A notion related to embedding is the sketching model. In this model a probabilis</h2>
+      <h2>36.3.  The following facts are trivial.</h2>
+      <h2>36.4.  Moreover, by Fact 1, and</h2>
+      <h2>36.5.  This completes the proof.</h2>
+      <h2>36.6.  Otherwise, if s j ≥ ed(x , y), then by Eq. (2) and the induction hypothesis,</h2>
+      <h2>36.7.  Let x ∈ A. Then,</h2>
+      <h2>36.8.  On the other hand, consider any x ∈ A. Assuming that min{H(x , y) : x ∈ A ∧ y ∈ B} ≥ s, we have that</h2>
+      <h2>36.9.  The proof of Theorem 10 follows closely the proof of Theorem 7, and is therefore</h2>
+      <h2>36.10.  Theorem 10 can be used to solve many data processing problems that involve</h2>
+      <h2>36.11.  PROOF. Suppose Alice gets x and Bob gets y. Alice computes s(x ), Bob com</h2>
+      <h2>36.12.  PROOF. The proof is by induction on n. For the base case, if we take a sufficiently</h2>
+    </section2>
+    <section3>
+      <h3>36.1.  Fact 4. Let i, i ∈ [|x |] and j, j ∈ [|y|] satisfy the following conditions:</h3>
+      <h3>36.2.  For x , y ∈ {0, 1}∗, ed(x , y) can be estimated roughly by comparing substrings of</h3>
+      <h3>36.3.  Thus, we obtain the recurrence relation</h3>
+      <h3>36.4.  Thus, we get the recurrence</h3>
+      <h3>36.5.  Lemma 9 implies the following algorithmic version of Theorem 7.</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>37. ACM Transactions on Intelligent Systems and Technology</journaltitle>
+    <title>37. Transfer Learning for Behavior Ranking</title>
+    <doi>37. </doi>
+    <pubdate>37. 2017</pubdate>
+    <volume>37. 8</volume>
+    <issue>37. 5</issue>
+    <fpage>37. </fpage>
+    <lpage>37. </lpage>
+    <abstract>37. 1</abstract>
+    <keywords/>
+    <authors/>
+    <affiliations/>
+    <section1>
+      <h1>37.1.  -</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>38. ACM Transactions on Database Systems</journaltitle>
+    <title>38. Fast and Accurate Time-Series Clustering</title>
+    <doi>38. </doi>
+    <pubdate>38. 2017</pubdate>
+    <volume>38. 42</volume>
+    <issue>38. 2</issue>
+    <fpage>38. </fpage>
+    <lpage>38. </lpage>
+    <abstract>38. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>38.1.  JOHN PAPARRIZOS</author>
+      <author>38.2.  LUIS GRAVANO</author>
+      <author>38.3.  Colum</author>
+      <author>38.4.  rsity</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>38.1.  -</h1>
+      <h1>38.2.  1. INTRODUCTION</h1>
+      <h1>38.3.  2. PRELIMINARIES</h1>
+      <h1>38.4.  2.1. Theoretical Background</h1>
+      <h1>38.5.  2.2. Time-Series Invariances</h1>
+      <h1>38.6.  2.3. Time-Series Distance Measures</h1>
+      <h1>38.7.  2.4. Time-Series Clustering Algorithms</h1>
+      <h1>38.8.  2.5. Time-Series Averaging Techniques</h1>
+      <h1>38.9.  2.6. Problem Definition</h1>
+      <h1>38.10.  3. k-SHAPE AND k-MS, TWO SHAPE-BASED CLUSTERING ALGORITHMS</h1>
+      <h1>38.11.  3.1. Time-Series Shape Similarity</h1>
+      <h1>38.12.  3.2. Time-Series Shape Extraction Methods</h1>
+      <h1>38.13.  3.3. Shape-Based Time-Series Clustering Methods</h1>
+      <h1>38.14.  4. EXPLOITING CLUSTERING FOR FASTER ONE-NEAREST-NEIGHBOR CLASSIFICATION</h1>
+      <h1>38.15.  6.2. Robustness of Runtime Results across Implementations</h1>
+      <h1>38.16.  6.3. k-Shape and k-MS against Other Scalable Methods</h1>
+      <h1>38.17.  6.4. k-Shape and k-MS against Non-Scalable Methods</h1>
+      <h1>38.18.  6.5. k-Shape and k-MS against Outlier-Aware Methods</h1>
+      <h1>38.19.  6.6. k-Shape and k-MS against a Shapelet-Based Method</h1>
+      <h1>38.20.  6.7. Evaluation of NSC</h1>
+      <h1>38.21.  6.8. Summary of Results</h1>
+      <h1>38.22.  7. RELATED WORK</h1>
+      <h1>38.23.  8. CONCLUSIONS</h1>
+      <h1>38.24.  ACKNOWLEDGMENTS</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>39. ACM Transactions on Database Systems</journaltitle>
+    <title>39. DBSCAN Revisited, Revisited: Why and How You Should (Still) Use DBSCAN</title>
+    <doi>39. </doi>
+    <pubdate>39. 2017</pubdate>
+    <volume>39. 42</volume>
+    <issue>39. 3</issue>
+    <fpage>39. </fpage>
+    <lpage>39. </lpage>
+    <abstract>39. 1</abstract>
+    <keywords/>
+    <authors/>
+    <affiliations/>
+    <section1>
+      <h1>39.1.  -</h1>
+      <h1>39.2.  1 INTRODUCTION</h1>
+      <h1>39.3.  2 BACKGROUND</h1>
+      <h1>39.4.  2.1 DBSCAN Cluster Model</h1>
+      <h1>39.5.  2.2 DBSCAN Clustering Algorithm</h1>
+      <h1>39.6.  3 DISCUSSION OF THE SIGMOD 2015 ARTICLE</h1>
+      <h1>39.7.  3.1 A Critique of Some Statements in the SIGMOD 2015 Article</h1>
+      <h1>39.8.  The Relationship Between the DBSCAN Algorithm and Range Queries</h1>
+      <h1>39.9.  Grid-Based Approaches and Approximations of DBSCAN</h1>
+      <h1>39.10.  RECOMMENDATIONS FOR DBSCAN AND NEW EXPERIMENTAL EVALUATION</h1>
+      <h1>39.11.  Heuristics for Choosing DBSCAN Parameters</h1>
+      <h1>39.12.  Red Flags for Degenerate Clustering Results</h1>
+      <h1>39.13.  Relevance Concerns with the Experimental Analysis by Gan and Tao</h1>
+      <h1>39.14.  4.4 New Runtime Experiments</h1>
+      <h1>39.15.  5 CONCLUSIONS</h1>
+      <h1>39.16.  ACKNOWLEDGMENTS</h1>
+    </section1>
+    <section2>
+      <h2>39.1.  Region queries can be supported eficiently by spatial access methods such as</h2>
+      <h2>39.2.  Eps-Neighborhoods are expected to be small compared to the size of the whole</h2>
+      <h2>39.3.  Ester et al. claimed that their DBSCAN algorithm terminates in O (n log n) time.</h2>
+      <h2>39.4.  The running time of DBSCAN depends on how many times the function</h2>
+      <h2>39.5.  In [16], it is claimed that range queries can be supported eficiently by using</h2>
+      <h2>39.6.  Detecting, counting, or enumerating incidences between a set of “point-like” geo</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>40. ACM Transactions on Software Engineering and Methodology</journaltitle>
+    <title>40. Key Factors for Adopting Inner Source</title>
+    <doi>40. 10.1145/2533685</doi>
+    <pubdate>40. 2014</pubdate>
+    <volume>40. 23</volume>
+    <issue>40. 2</issue>
+    <fpage>40. </fpage>
+    <lpage>40. </lpage>
+    <abstract>40. 1</abstract>
+    <keywords>
+      <keyword>40.1.  Additional Key Words and Phrases</keyword>
+      <keyword>40.2.  Case study</keyword>
+      <keyword>40.3.  inner source</keyword>
+      <keyword>40.4.  open-source development practices</keyword>
+      <keyword>40.5.  framework</keyword>
+    </keywords>
+    <authors>
+      <author>40.1.  General Terms: Human Factors, Management, Theory</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>40.1.  -</h1>
+      <h1>40.2.  The synthesized framework is presented in Section 4.</h1>
+      <h1>40.3.  7One of the authors (kjs) was a contributor to the Parrot project (with a commit bit).</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>41. ACM Transactions on Software Engineering and Methodology</journaltitle>
+    <title>41. Modeling and Verifying Hierarchical Real-Time Systems Using Stateful Timed CSP</title>
+    <doi>41. </doi>
+    <pubdate>41. 2013</pubdate>
+    <volume>41. 22</volume>
+    <issue>41. 1</issue>
+    <fpage>41. </fpage>
+    <lpage>41. </lpage>
+    <abstract>41. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>41.1.  JUN SUN</author>
+      <author>41.2.  Singapore University of Technology</author>
+      <author>41.3.  Design YANG LIU</author>
+      <author>41.4.  JIN SONG DONG</author>
+      <author>41.5.  YAN LIU</author>
+      <author>41.6.  LING SHI</author>
+      <author>41.7.  E´ TIENNE ANDRE´</author>
+      <author>41.8.  General Terms: Algorithms, Languages, Verification</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>41.1.  -</h1>
+      <h1>41.2.  C3. (initt, initu) ∈ R.</h1>
+      <h1>41.3.  THEOREM 5.1. LS is finite for any regular model S.</h1>
+      <h1>41.4.  THEOREM 5.2. TS time-abstract bisimulates LS for any model S.</h1>
+      <h1>41.5.  THEOREM 5.3. Let S be a model; π be a run of LS . π is non-Zeno if and only if loopCLK(π ) = ∅ and not all infinitely visited transitions are instantaneous.</h1>
+      <h1>41.6.  THEOREM 5.4. Let S be a model. TS is nonempty if and only if there exists a reachable</h1>
+    </section1>
+    <section2>
+      <h2>41.1.  1Refer to PAT user manual on how to define a type in C# or Java. 2The detailed syntax for the sequential program can be found in PAT user manual. 3For simplicity, we omit external and internal choices [Hoare 1985] in the discussion.</h2>
+      <h2>41.2.  Next, we can apply either rule ait1 or ait2. Applying rule ait1, we get</h2>
+      <h2>41.3.  5It is clear that this assumption can be relaxed to allow finite domain parameters.</h2>
+      <h2>41.4.  7Refer to a different model of multilifts in PAT that models interruptible lifts.</h2>
+      <h2>41.5.  8Details of the C# methods are skipped as they are less interesting.</h2>
+    </section2>
+    <section3>
+      <h3>41.1.  Sensing</h3>
+      <h3>41.2.  Sensing</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>42. Journal of the ACM</journaltitle>
+    <title>42. Optimal Probabilistic Fingerprint Codes</title>
+    <doi>42. 10.1145/1346330.1346335</doi>
+    <pubdate>42. 2008</pubdate>
+    <volume>42. 55</volume>
+    <issue>42. 2</issue>
+    <fpage>42. </fpage>
+    <lpage>42. </lpage>
+    <abstract>42. 1</abstract>
+    <keywords>
+      <keyword>42.1.  Work on this article was supported by NSERC grant 329527 and by the OTKA grants T-046234</keyword>
+      <keyword>42.2.  AT-048826</keyword>
+      <keyword>42.3.  NK-62321</keyword>
+      <keyword>42.4.  T-029255</keyword>
+      <keyword>42.5.  T-030059</keyword>
+    </keywords>
+    <authors>
+      <author>42.1.  G A´BOR TARDOS</author>
+      <author>42.2.  ACM Reference Format:</author>
+      <author>42.3.  General Terms: Design, Security, Theory</author>
+    </authors>
+    <affiliations>
+      <institution>42.1.  Author's address: Department of Computer Science, Simon Fraser University</institution>
+      <country>42.1.  Canada</country>
+    </affiliations>
+    <section1>
+      <h1>42.1.  1. Introduction</h1>
+      <h1>42.2.  2. Construction and Results</h1>
+      <h1>42.3.  3. Why the Innocent Is not Accused</h1>
+      <h1>42.4.  4. Why Some Pirate Is Accused</h1>
+      <h1>42.5.  5. The Unreadable Digit Model and the Lower Bound on Code Length</h1>
+      <h1>42.6.  Definition 5.1. A unreadable digit fingerprint code of length m for n users</h1>
+      <h1>42.7.  LEMMA 5.3. If an (arbitrary digit) fingerprint code F over the alphabet is</h1>
+      <h1>42.8.  6. Concluding Remarks</h1>
+    </section1>
+    <section2>
+      <h2>42.1.  THEOREM 2.1. Let (X, σ ) be distributed according to Fnc . Let j ∈ [n] be an arbitrary user, let C ⊆ [n] \ { j } be a coalition of arbitrary size not containing j ,</h2>
+      <h2>42.2.  COROLLARY 2.3. The fingerprint code Fnc n is -secure against coalitions of</h2>
+      <h2>42.3.  Finally, by the Markov inequality, we have</h2>
+      <h2>42.4.  Taking expectations, we get</h2>
+      <h2>42.5.  Next, we estimate the summation in Eq. (2)</h2>
+      <h2>42.6.  We bound each term separately: G. TARDOS</h2>
+      <h2>42.7.  For the last error term</h2>
+      <h2>42.8.  Now we can estimate each term in Eq. (3):</h2>
+      <h2>42.9.  Our first goal is to prove a similar bound for c &gt; 3.</h2>
+      <h2>42.10.  THEOREM 2.2 . Consider the Fnc code and let δ &lt; 1/2, let C ⊆ [n] be a</h2>
+    </section2>
+    <section3>
+      <h3>42.1.  2.3. THE LOWER BOUND</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>43. ACM Transactions on Database Systems</journaltitle>
+    <title>43. Detecting Inclusion Dependencies on Very Many Tables</title>
+    <doi>43. </doi>
+    <pubdate>43. 2017</pubdate>
+    <volume>43. 42</volume>
+    <issue>43. 3</issue>
+    <fpage>43. </fpage>
+    <lpage>43. </lpage>
+    <abstract>43. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>43.1.  FABIAN TSCHIRSCHNITZ</author>
+      <author>43.2.  THORSTEN PAPENBROCK</author>
+      <author>43.3.  FELIX NAUMANN</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>43.1.  JOINING THE WEB OF TABLES</h1>
+      <h1>43.2.  FOUNDATIONS AND RELATED WORK</h1>
+      <h1>43.3.  Foundations</h1>
+      <h1>43.4.  Related Work: IND Detection</h1>
+      <h1>43.5.  Related Work: Foreign Keys</h1>
+      <h1>43.6.  Related Work: Web Tables</h1>
+      <h1>43.7.  THE ANATOMY OF WEB TABLES</h1>
+      <h1>43.8.  Web Table Properties</h1>
+      <h1>43.9.  Finding INDs for Meaningful Joins</h1>
+      <h1>43.10.  BIT-SIGNATURES FOR IND DETECTION</h1>
+      <h1>43.11.  Bloom Filters</h1>
+      <h1>43.12.  The MANY Algorithm</h1>
+      <h1>43.13.  Multi-Hashing</h1>
+      <h1>43.14.  Parallelization</h1>
+      <h1>43.15.  4.5 Indexed Bit-Vectors</h1>
+      <h1>43.16.  Applying Filters</h1>
+      <h1>43.17.  EVALUATION</h1>
+      <h1>43.18.  Parametrization of MANY</h1>
+      <h1>43.19.  Scale-up Evaluation</h1>
+      <h1>43.20.  Evaluation of Indexed Bit-Vectors</h1>
+      <h1>43.21.  5.5 Eficiency Efects of Filtering</h1>
+      <h1>43.22.  Comparison to Known IND Algorithms</h1>
+      <h1>43.23.  VISUALIZING THE IND GRAPH</h1>
+      <h1>43.24.  7 CONCLUSION</h1>
+    </section1>
+    <section2>
+      <h2>43.1.  ALGORITHM 5: dep2refs Strategy</h2>
+      <h2>43.2.  ALGORITHM 6: ref2deps Strategy</h2>
+      <h2>43.3.  ALGORITHM 8: Parallel Many</h2>
+      <h2>43.4.  ALGORITHM 9: IND-Detection-Worker</h2>
+      <h2>43.5.  ALGORITHM 10: Filtering ManyParallel</h2>
+      <h2>43.6.  ALGORITHM 11: Filtering INDDetectionWorker Require: Bit-signature matrix sigMatrix, lower l and upper u attribute index limits, minimum coverage τ</h2>
+    </section2>
+    <section3>
+      <h3>43.1.  9: return uinds</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>44. Journal of the ACM</journaltitle>
+    <title>44. </title>
+    <doi>44. </doi>
+    <pubdate>44. 2009</pubdate>
+    <volume>44. 56</volume>
+    <issue>44. 1</issue>
+    <fpage>44. </fpage>
+    <lpage>44. </lpage>
+    <abstract>44. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>44.1.  Harvard University, Cambridge, Massachusetts</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>44.1.  1. Introduction</h1>
+      <h1>44.2.  2. Many-Argument Functions</h1>
+      <h1>44.3.  3. Definition of Evolvability</h1>
+      <h1>44.4.  Definition 3.3. For a mutator Mu( f, p(n, 1/ε), R, N , D, s, r, t ) a t-evolution</h1>
+      <h1>44.5.  Definition 3.6. A class C is evolvable by ( p(n, 1/ε), R, N , s(n, 1/ε)) over D</h1>
+      <h1>44.6.  PROPOSITION 3.10. If C is evolvable by R over D, then C is learnable by R over</h1>
+      <h1>44.7.  D. In particular, if C is evolvable by R then C is learnable by R.</h1>
+      <h1>44.8.  PROPOSITION 3.11. If C is evolvable by R over D, then it is efficiently learnable from statistical queries using R over D.</h1>
+      <h1>44.9.  PROPOSITION 3.12. If C is evolvable with optimization over D, then C is evolvable over D. If C is evolvable with initialization and optimization over D, then C is evolvable with initialization over D.</h1>
+      <h1>44.10.  4. Limits to Evolvability</h1>
+      <h1>44.11.  Lin is not evolvable for U by any representation R.</h1>
+      <h1>44.12.  5. Some Provably Evolvable Structures</h1>
+      <h1>44.13.  THEOREM 5.1. Monotone conjunctions and disjunctions are evolvable over the uniform distribution for their natural representations.</h1>
+      <h1>44.14.  PROPOSITION 5.2. Conjunctions and disjunctions are evolvable with initialization over the uniform distribution.</h1>
+      <h1>44.15.  6. Discussion</h1>
+    </section1>
+    <section2>
+      <h2>44.1.  Definition 3.9. A class C is evolvable if it is evolvable over all D.</h2>
+      <h2>44.2.  PROPOSITION 4.1.</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>45. Journal of the ACM</journaltitle>
+    <title>45. A Random-Sampling-Based Algorithm for Learning Intersections of Halfspaces</title>
+    <doi>45. 10.1145/1857914.1857916</doi>
+    <pubdate>45. 2010</pubdate>
+    <volume>45. 57</volume>
+    <issue>45. 6</issue>
+    <fpage>45. </fpage>
+    <lpage>45. </lpage>
+    <abstract>45. 1</abstract>
+    <keywords>
+      <keyword>45.1.  Additional Key Words and Phrases</keyword>
+      <keyword>45.2.  Intersections of halfspaces</keyword>
+      <keyword>45.3.  random projection</keyword>
+      <keyword>45.4.  PAC learning</keyword>
+      <keyword>45.5.  complexity</keyword>
+    </keywords>
+    <authors>
+      <author>45.1.  SANTOSH S. VEMPALA</author>
+      <author>45.2.  General Terms: Algorithms</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>45.1.  -</h1>
+      <h1>45.2.  1. Introduction</h1>
+      <h1>45.3.  2. The Algorithm</h1>
+      <h1>45.4.  For any isotropic logconcave den</h1>
+      <h1>45.5.  3. Analysis</h1>
+      <h1>45.6.  4. Discussion</h1>
+    </section1>
+    <section2>
+      <h2>45.1.  The parameters later.</h2>
+      <h2>45.2.  LEMMA 1 [LOVA´ SZ AND VEMPALA 2007].</h2>
+      <h2>45.3.  Thus, with probability at least</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>46. ACM Transactions on Intelligent Systems and Technology</journaltitle>
+    <title>46. Community Detection with Topological Structure and Attributes in Information Networks</title>
+    <doi>46. 10.1145/2979681</doi>
+    <pubdate>46. 2016</pubdate>
+    <volume>46. 8</volume>
+    <issue>46. 2</issue>
+    <fpage>46. </fpage>
+    <lpage>46. </lpage>
+    <abstract>46. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>46.1.  ZHONGGANG WU</author>
+      <author>46.2.  East China Normal University</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>46.1.  -</h1>
+      <h1>46.2.  1. INTRODUCTION</h1>
+      <h1>46.3.  2. RELATED WORK</h1>
+      <h1>46.4.  2.1. Structural Information Analysis</h1>
+      <h1>46.5.  2.2. Attribute Information Analysis</h1>
+      <h1>46.6.  2.3. Structure and Attribute-Based Analysis</h1>
+      <h1>46.7.  3. PROBLEM STATEMENT</h1>
+      <h1>46.8.  4. THE PROPOSED APPROACH</h1>
+      <h1>46.9.  4.1. Measuring Topological Structure</h1>
+      <h1>46.10.  4.2. Measuring Attributes of Nodes</h1>
+      <h1>46.11.  4.3. Combining Topological Structure and Node Attributes</h1>
+      <h1>46.12.  5. CLUSTERING ALGORITHM</h1>
+      <h1>46.13.  5.1. Centroid Initialization</h1>
+      <h1>46.14.  5.2. Centroid Updating</h1>
+      <h1>46.15.  5.3. Object Function</h1>
+      <h1>46.16.  6. EXPERIMENTS AND ANALYSIS</h1>
+      <h1>46.17.  6.2. Comparison Methods and Evaluation</h1>
+      <h1>46.18.  6.3. Measuring Weight Factor</h1>
+      <h1>46.19.  6.4. Clustering Quality Evaluation</h1>
+      <h1>46.20.  6.5. Clustering Efficiency Evaluation</h1>
+      <h1>46.21.  6.6. Time Complexity Analysis</h1>
+      <h1>46.22.  7. CONCLUSION</h1>
+      <h1>46.23.  ACKNOWLEDGMENTS REFERENCES</h1>
+    </section1>
+    <section2>
+      <h2>46.1.  ALGORITHM 1: The SAGL Algorithm</h2>
+      <h2>46.2.  The entropy for each attribute is defined as</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>47. ACM Transactions on Intelligent Systems and Technology</journaltitle>
+    <title>47. Daehr : A Discriminant Analysis Framework for Electronic Health Record Data and an Application to Early Detection of Mental Health Disorders</title>
+    <doi>47. 10.1145/3007195</doi>
+    <pubdate>47. 2017</pubdate>
+    <volume>47. 8</volume>
+    <issue>47. 3</issue>
+    <fpage>47. </fpage>
+    <lpage>47. </lpage>
+    <abstract>47. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>47.1.  HAOYI XIONG</author>
+      <author>47.2.  Missouri University of Science</author>
+      <author>47.3.  Technology JINGHE ZHANG</author>
+      <author>47.4.  YU HUANG</author>
+      <author>47.5.  KEVIN LEACH</author>
+      <author>47.6.  LAURA E. BARNES</author>
+      <author>47.7.  University of Virginia</author>
+      <author>47.8.  Categories and Subject Descriptors: J.3 [Applied Computing]: Health Care Information Systems</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>47.1.  -</h1>
+      <h1>47.2.  1. INTRODUCTION</h1>
+      <h1>47.3.  1.1. Motivation and Background</h1>
+      <h1>47.4.  1.2. Research Assumptions and Objectives</h1>
+      <h1>47.5.  1.3. Technical Contributions</h1>
+      <h1>47.6.  2. DAEHR SYSTEM MODEL</h1>
+      <h1>47.7.  2.1. Diagnosis-Frequency Vector and Sample Covariance Matrix Estimation</h1>
+      <h1>47.8.  2.2. Minimax-Risk Covariance Matrix Estimator</h1>
+      <h1>47.9.  2.3. Fisher’s Linear Discriminant Analysis Model for Disease Prediction</h1>
+      <h1>47.10.  2.4. Problem Formulation</h1>
+      <h1>47.11.  3. DAEHR FRAMEWORK AND ALGORITHMS</h1>
+      <h1>47.12.  3.1. Daehr Framework</h1>
+      <h1>47.13.  3.2. 1-Penalized Sparse Matrix Estimation</h1>
+      <h1>47.14.  3.3. Nearest Positive Semidefinite Matrix Approximation</h1>
+      <h1>47.15.  3.4. Algorithm Analysis</h1>
+      <h1>47.16.  4. EVALUATION</h1>
+      <h1>47.17.  4.1. Experimental Design</h1>
+      <h1>47.18.  4.2. Comparison to LDA Baselines</h1>
+      <h1>47.19.  4.3. Comparison to Other Predictive Models</h1>
+      <h1>47.20.  4.4. Two Case Studies</h1>
+      <h1>47.21.  5. RELATED WORK AND DISCUSSION</h1>
+      <h1>47.22.  5.1. Data-Driven Approaches to Early Detection of Disease</h1>
+      <h1>47.23.  5.2. Extensions to LDA Model</h1>
+      <h1>47.24.  5.3. Comparing Daehr to Existing Work</h1>
+      <h1>47.25.  6. CONCLUSIONS</h1>
+    </section1>
+    <section2>
+      <h2>47.1.  ALGORITHM 2: Nearest Positive Definite Matrix Approximation</h2>
+      <h2>47.2.  In this case, we can conclude that, given the sparse estimation</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>48. Journal of the ACM</journaltitle>
+    <title>48. Towards 3-Query Locally Decodable Codes of Subexponential Length</title>
+    <doi>48. </doi>
+    <pubdate>48. 2008</pubdate>
+    <volume>48. 55</volume>
+    <issue>48. 1</issue>
+    <fpage>48. </fpage>
+    <lpage>48. </lpage>
+    <abstract>48. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>48.1.  Cambridge</author>
+      <author>48.2.  Massachusetts</author>
+      <author>48.3.  General Terms: Theory</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>48.1.  -</h1>
+      <h1>48.2.  1. Introduction</h1>
+      <h1>48.3.  2. Notation</h1>
+      <h1>48.4.  3. A Combinatorial Approach to Locally Decodable Codes</h1>
+      <h1>48.5.  PROPOSITION 3.3. A (q, n, N , R, s) regular intersecting family yields a binary linear code encoding n bits to N bits that is (q, δ, δ N q/s) locally decodable for all δ.</h1>
+      <h1>48.6.  4. Basic Construction</h1>
+      <h1>48.7.  THEOREM 4.4. Let p be a fixed odd prime. For every positive integer n there</h1>
+      <h1>48.8.  5. Main Construction</h1>
+      <h1>48.9.  Remark 5.2.</h1>
+      <h1>48.10.  THEOREM 5.12. For every integer n, there exists a code of length</h1>
+      <h1>48.11.  THEOREM 5.13. Suppose that the number of Mersenne primes is infinite; then</h1>
+      <h1>48.12.  CONJECTURE 5.14. Let M(t ) be the number of Mersenne primes that are less</h1>
+      <h1>48.13.  THEOREM 5.15. Let ε be a positive constant. Suppose the conjecture 5.14 holds;</h1>
+      <h1>48.14.  6. Application to Private Information Retrieval</h1>
+      <h1>48.15.  THEOREM 6.5. For every positive integer n, there exists a three-server PIR</h1>
+      <h1>48.16.  THEOREM 6.6. Suppose that the number of Mersenne primes is infinite; then,</h1>
+      <h1>48.17.  THEOREM 6.7. Let ε be a positive constant. Suppose the conjecture 5.14 holds;</h1>
+      <h1>48.18.  7. Conclusion</h1>
+    </section1>
+    <section2>
+      <h2>48.1.  3 Note that the sets Qir are not all distinct.</h2>
+      <h2>48.2.  PROOF.</h2>
+      <h2>48.3.  Combining Lemma 4.2 and Proposition 3.3, we get</h2>
+      <h2>48.4.  PROPOSITION 5.5. Assume S ⊆ F∗p is simultaneously (m, n)-combinatorially</h2>
+      <h2>48.5.  LEMMA 5.8. Let S ⊆ F∗p be a q-algebraically nice set. Let S0, S1 ⊆ Fp be sets</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>49. ACM Transactions on Software Engineering and Methodology</journaltitle>
+    <title>49. Fault Localization Prioritization: Comparing Information-Theoretic and Coverage-Based Approaches</title>
+    <doi>49. 10.1145/2491509.2491513</doi>
+    <pubdate>49. 2013</pubdate>
+    <volume>49. 22</volume>
+    <issue>49. 3</issue>
+    <fpage>49. </fpage>
+    <lpage>49. </lpage>
+    <abstract>49. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>49.1.  SHIN YOO</author>
+      <author>49.2.  MARK HARMAN</author>
+      <author>49.3.  DAVID CLARK</author>
+      <author>49.4.  rsity Coll</author>
+      <author>49.5.  General Terms: Algorithms</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>49.1.  1. INTRODUCTION</h1>
+      <h1>49.2.  2. BACKGROUND</h1>
+      <h1>49.3.  2.1. Test Case Prioritization</h1>
+      <h1>49.4.  2.2. Fault Localization Metrics</h1>
+      <h1>49.5.  2.3. Prioritizing for Fault Localization</h1>
+      <h1>49.6.  3. FAULT LOCALITY AND ENTROPY</h1>
+      <h1>49.7.  3.1. Problem Formulation</h1>
+      <h1>49.8.  3.2. A Working Example</h1>
+      <h1>49.9.  3.3. Multiple Faults</h1>
+      <h1>49.10.  3.4. Research Questions</h1>
+      <h1>49.11.  4. ALGORITHMS</h1>
+      <h1>49.12.  4.1. Entropy Lookahead Algorithm</h1>
+      <h1>49.13.  4.2. FLINT Algorithm</h1>
+      <h1>49.14.  5. EXPERIMENTAL SETUP</h1>
+      <h1>49.15.  5.1. Subjects</h1>
+      <h1>49.16.  5.2. Faults &amp; Versions</h1>
+      <h1>49.17.  5.3. Evaluation</h1>
+      <h1>49.18.  6.1. Precision Study</h1>
+      <h1>49.19.  6.2. Robustness Study</h1>
+      <h1>49.20.  6.3. Comparison to Similarity Sorting</h1>
+      <h1>49.21.  7. THREATS TO VALIDITY</h1>
+      <h1>49.22.  8. RELATED WORK</h1>
+      <h1>49.23.  9. CONCLUSION AND FUTURE WORK</h1>
+      <h1>49.24.  APPENDIX</h1>
+    </section1>
+    <section2>
+      <h2>49.1.  ALGORITHM 1: Entropy Lookahead</h2>
+      <h2>49.2.  ALGORITHM 3: SimilaritySort</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>50. ACM Transactions on Intelligent Systems and Technology</journaltitle>
+    <title>50. Supervised Representation Learning with Double Encoding-Layer Autoencoder for Transfer Learning</title>
+    <doi>50. </doi>
+    <pubdate>50. 2017</pubdate>
+    <volume>50. 9</volume>
+    <issue>50. 2</issue>
+    <fpage>50. </fpage>
+    <lpage>50. </lpage>
+    <abstract>50. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>50.1.  FUZHEN ZHUANG</author>
+      <author>50.2.  XIAOHU CHENG</author>
+      <author>50.3.  PING LUO</author>
+      <author>50.4.  Key Lab of Intelligent Information Pro-</author>
+    </authors>
+    <affiliations>
+      <institution>50.1.  cessing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, and University of Chinese Academy of Sciences</institution>
+      <institution>50.2.  of Computing Technology, and University of Chinese Academy of Sciences</institution>
+      <country>50.1.  </country>
+      <country>50.2.  </country>
+    </affiliations>
+    <section1>
+      <h1>50.1.  -</h1>
+      <h1>50.2.  1 INTRODUCTION</h1>
+      <h1>50.3.  RELATED WORK</h1>
+      <h1>50.4.  PRELIMINARY KNOWLEDGE</h1>
+      <h1>50.5.  3.1 Autoencoder</h1>
+      <h1>50.6.  3.2 Softmax Regression</h1>
+      <h1>50.7.  3.3 Kullback-Leibler Divergence</h1>
+      <h1>50.8.  ADAPT DOUBLE ENCODING-LAYER AUTOENCODER TO TRANSFER LEARNING</h1>
+      <h1>50.9.  Problem Formalization</h1>
+      <h1>50.10.  4.2 Model Learning</h1>
+      <h1>50.11.  EXPERIMENTAL EVALUATION</h1>
+      <h1>50.12.  Datasets and Preprocessing</h1>
+      <h1>50.13.  5.2 Baseline Methods</h1>
+      <h1>50.14.  5.3 Experimental Results</h1>
+      <h1>50.15.  Why TLDA Can Work for Transfer Learning</h1>
+      <h1>50.16.  5.5 Parameter Sensitivity</h1>
+      <h1>50.17.  6 CONCLUSION</h1>
+    </section1>
+    <section2>
+      <h2>50.1.  The source and target domains</h2>
+      <h2>50.2.  The i-th instance of source and target domains</h2>
+      <h2>50.3.  Encoding weight and bias matrix for layer i</h2>
+      <h2>50.4.  3http://www.wikipedia.org/.</h2>
+    </section2>
+    <section3>
+      <h3>50.1.  The reconstructions of xi(s ) and xi(t )</h3>
+      <h3>50.2.  The label of instance xi(s )</h3>
+      <h3>50.3.  The hidden representations of xi(s ) and xi(t )</h3>
+      <h3>50.4.  The reconstructions of ξ i(s ) and ξ i(t )</h3>
+      <h3>50.5.  The hidden representations of ξ i(s ) and ξ i(t )</h3>
+    </section3>
+  </article>
+</articles>

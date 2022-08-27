@@ -1,0 +1,2527 @@
+<articles>
+  <article>
+    <journaltitle>1. Separations</journaltitle>
+    <title>1. Advances and Pitfalls in the Capillary Electrophoresis Analysis of Aggregates of Beta Amyloid Peptides</title>
+    <doi>1. 10.3390/separations5010002</doi>
+    <pubdate>1. 2018</pubdate>
+    <volume>1. 5</volume>
+    <issue>1. </issue>
+    <fpage>1. 2</fpage>
+    <lpage>1. 17</lpage>
+    <abstract>1. 1</abstract>
+    <keywords>
+      <keyword>1.1.  amyloid peptides</keyword>
+      <keyword>1.2.  peptides aggregates</keyword>
+      <keyword>1.3.  capillary electrophoresis</keyword>
+      <keyword>1.4.  laser-induced fluorescence detection</keyword>
+      <keyword>1.5.  thioflavine T</keyword>
+      <keyword>1.6.  Alzheimer's disease</keyword>
+    </keywords>
+    <authors>
+      <author>1.1.  Luc Denoroy</author>
+      <author>1.2.  Sandrine Parrot</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>1.1.  1. Introduction</h1>
+      <h1>1.2.  2. Materials and Methods</h1>
+      <h1>1.3.  3. Results</h1>
+      <h1>1.4.  4. Discussion</h1>
+    </section1>
+    <section2>
+      <h2>1.1.  1-42 (A 1-40 and A 1-42) [1]. The pathway leading to the formation of amyloid fibrils from the</h2>
+      <h2>1.2.  The capillary electrophoresis (CE) may unlock these drawbacks, as its high resolving power has</h2>
+      <h2>1.3.  A monomers [16,17], for the separation of monomers and transient soluble oligomers of A 1-40</h2>
+      <h2>1.4.  Moreover, CE-UV allowed the separation of monomers, large aggregates (migrating as wide peak) and</h2>
+      <h2>1.5.  1-42 was incubated for periods up to 6 days. In a second study [25], using a neutral (pH 7.79) buffer,</h2>
+      <h2>1.6.  CE was coupled to laser-induced fluorescence anisotropy (LIFA) detection for the separation, of spikes obtained after incubation of A 1-40 or 1-42 for periods up to 7 days.</h2>
+      <h2>1.7.  However, as the aim of these previous CE-UV and CE-LIF studies was the monitoring of the early</h2>
+      <h2>1.8.  Therefore, the present study sought to set up a novel and easy-to-run affinity CE-LIF method</h2>
+      <h2>1.9.  2.1. Chemicals</h2>
+      <h2>1.10.  2.2. Samples and Reagents Preparation</h2>
+      <h2>1.11.  3.1. Spikes Are Present in Samples of Incubated Ab 1-40 and Reveal Aggregates</h2>
+      <h2>1.12.  3.2. Analytical Instrument Can Generate Artefactual Spikes During the Analysis of Incubated Ab</h2>
+      <h2>1.13.  3.3. Changes in Injection Volume Reveal That Spikes of Incubated Ab 1-40 Exhibit Particle-Like</h2>
+      <h2>1.14.  Electrophoresis Behavior</h2>
+      <h2>1.15.  3.4. The Nature of Running Buffer Affects Spikes Detection</h2>
+      <h2>1.16.  3.5. The Link between Spikes and Aggregates Is Supported by Ultrasound-Treatment of Samples</h2>
+      <h2>1.17.  3.6. The Use of Thioflavine T in Running Buffer Must Be Carefully Controlled and Validated</h2>
+      <h2>1.18.  3.7. The CE-LIF Separation of Ab Aggregates Exhibits Quantification Capabilities</h2>
+      <h2>1.19.  3.8. This CE-LIF Method Allows Separation ofAb Aggregates of Different Size</h2>
+      <h2>1.20.  Moreover, one original procedure, i.e., a simple modification of the rubber stopper of vials, has been</h2>
+      <h2>1.21.  In addition, the present work highlights the importance of running buffer nature and pH and</h2>
+      <h2>1.22.  Besides, one of the main results of the present work is represented by original data regarding the</h2>
+      <h2>1.23.  Thus, in contrast to previous studies, the present work clearly reveals significant difficulties to obtain</h2>
+      <h2>1.24.  Thus, the present method is an easy-to-run affinity CE-LIF assay for the semi-quantitative analysis</h2>
+      <h2>1.25.  1-40 in Ringer solution or</h2>
+      <h2>1.26.  1-40 or 1-42 peptide in human CSF (data not shown). This unexpected</h2>
+      <h2>1.27.  A . More broadly, a careful investigation of all steps of sample preparation and handling (including storage, freeze-thawing etc.) is needed to optimize the quality of samples and the performances of the analysis.</h2>
+    </section2>
+    <section3>
+      <h3>1.1.  A 1-40 (human sequence) was from Sigma (Saint-Louis, MI, USA), Roboscreen (Lepzig, Germany) or rPeptides (Bogart, GA, USA). Thioflavin T was from Sigma. Chemicals used for preparing buffers were from Sigma or from Merck (Darmstadt, Germany).</h3>
+      <h3>1.2.  To prepare the A aggregates, 0.9 L of 1 M HCl and 380 L of Ringer solution were added to</h3>
+      <h3>1.3.  The 10 mM thioflavine T solution was prepared in methanol and dispatched under 50 L aliquots into 200 L PCR tubes which were stored at 20 C for period of time up to 4 weeks. On each working day, a novel aliquot of 10 mM thioflavine T was thawed and used for preparing a fresh thioflavine T containing running buffer (final concentration 10–20 M).</h3>
+      <h3>1.4.  The citrate buffer was prepared by dissolving citric acid in ultra-pure water and adjusting the pH</h3>
+      <h3>1.5.  Thioflavine T was then added to this final 50 mM pH 3.0 sodium citrate running buffer.</h3>
+      <h3>1.6.  The ammonium acetate buffer was made by mixing a 250 mM solution of ammonium acetate and</h3>
+      <h3>1.7.  The borate buffer was prepared by mixing separate solution of 500 mM boric acid and of 125 mM</h3>
+      <h3>1.8.  The electrophoresis system consisted of an automatic P/ACE MDQ system (Beckman-Coulter,</h3>
+      <h3>1.9.  Fullerton, CA, USA) equipped with an external LIF detector (ZetaLif, Picometrics, Toulouse, France).</h3>
+      <h3>1.10.  The excitation was performed by a Melles Griot (Carlsbad, CA, USA) diode laser at a wavelength of</h3>
+      <h3>1.11.  O.D. fused silica capillary (Composite Metal Services, Worcester, UK) whose total and effective (i.e.,</h3>
+      <h3>1.12.  Before each separation, the capillary was sequentially washed with 1 M sodium hydroxide (1 min,</h3>
+      <h3>1.13.  MDQ software. Data were further analyzed and curves were fitted using the GraphPad 5 software.</h3>
+      <h3>1.14.  The CE-LIF separations of an A 1-40 incubated sample compared to un-incubated matrix are shown in Figure 1. One may note the presence of spikes (average width 1.7 to 2.5 s) only in the peptide sample (arrows). In order to confirm that such these spikes were due to aggregated peptide formed during the incubation, un-incubated A 1-40 was analyzed under similar conditions.</h3>
+      <h3>1.15.  Thus, the presence of spikes may be more related to the successive injection steps than to the presence</h3>
+      <h3>1.16.  One may thus hypothesize that the spikes encountered when separating ultra-filtered incubation</h3>
+      <h3>1.17.  1-40 led to sharp spikes, which may correspond to aggregated peptide.</h3>
+      <h3>1.18.  To further analyze these data, the widths of spikes, of vacancy peak and wide peak were measured and</h3>
+      <h3>1.19.  This also suggests that spikes correspond to species that are not distributed homogeneously</h3>
+      <h3>1.20.  A aggregates behave as discrete particles, leading to separation profiles, which were characterized by spikes and looked like CE separation of polymer particles, microbial aggregates or even organelles such as mitochondria [26–29].</h3>
+      <h3>1.21.  When using optimized running buffer, the link between spikes and aggregates was further</h3>
+      <h3>1.22.  It is thought that the fluorescence of the spikes is due to thioflavine T bound to aggregated A</h3>
+      <h3>1.23.  1-40. Indeed, when the CE separation of incubated A 1-40 was performed using a running buffer devoid of thioflavine T, no noticeable spike was observed, even when recording fluorescence at high sensitivity, as shown in Figure S9.</h3>
+      <h3>1.24.  In order to enhance the sensitivity of aggregated A detection, the influence of the concentration</h3>
+      <h3>1.25.  The thioflavine T containing citrate, ammonium acetate or borate buffers exhibited a basal fluorescence. For the three buffers, the values of this residual fluorescence were not constant and exhibited a similar decrease over time (~ 10% per hour) as shown in Figure S10. Consequently, to avoid any noticeable effect of such decreases, running buffers were made fresh every other hour.</h3>
+      <h3>1.26.  Further studies will be necessary to determine whether such a lowering in basal fluorescence could be due to either the degradation of thioflavine T or to a partial precipitation of this hydrophobic ligand in the aqueous running buffers. According to the results, they may suggest to add a stabilizing compound in the running buffers.</h3>
+      <h3>1.27.  For that purpose, the sample was injected into a capillary filled with a running buffer devoid of ligand</h3>
+      <h3>1.28.  The capability of the present CE-LIF approach to separate various A aggregates has been revealed</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>2. Appl. Sci.</journaltitle>
+    <title>2. Analysis of Hydration-Mechanical-Durability Properties of Metakaolin Blended Concrete</title>
+    <doi>2. 10.3390/app7101087</doi>
+    <pubdate>2. 2017</pubdate>
+    <volume>2. 7</volume>
+    <issue>2. </issue>
+    <fpage>2. 4</fpage>
+    <lpage>2. 18</lpage>
+    <abstract>2. 1</abstract>
+    <keywords>
+      <keyword>2.1.  metakaolin</keyword>
+      <keyword>2.2.  hydration</keyword>
+      <keyword>2.3.  strength</keyword>
+      <keyword>2.4.  chloride penetrability</keyword>
+      <keyword>2.5.  model</keyword>
+    </keywords>
+    <authors>
+      <author>2.1.  Xiao-Yong Wang ID</author>
+    </authors>
+    <affiliations>
+      <institution>2.1.  Department of Architectural Engineering, Kangwon National University</institution>
+      <country>2.1.  Korea</country>
+    </affiliations>
+    <section1>
+      <h1>2.1.  1. Introduction</h1>
+      <h1>2.2.  4. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>2.1.  2.1. Model for Cement Hydration</h2>
+      <h2>2.2.  2.2. MK Reaction Model</h2>
+      <h2>2.3.  3.1. Materials and Methods</h2>
+      <h2>2.4.  3.2. Results and Discussion</h2>
+    </section2>
+    <section3>
+      <h3>2.1.  De is the rate of coefficient in diffusion controlled process; r0 is the unreacted cement particle radius;</h3>
+      <h3>2.2.  M2.5K2 omccLuopfiespsa2c.e52[2m2]L. Wofhsepnaccoen[s2i2d]e.rWinghetnheccoenmsiednetrihnygdrthateiocne manedntMhKydrreaatcitoionna,nthdeMgeKl-srpeaaccteiorant,iothoef</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>3. Condens. Matter</journaltitle>
+    <title>3. Analysis of the Efficient High-Temperature In Situ Photoluminescence from GaN Layers during Epitaxial Growth</title>
+    <doi>3. 10.3390/condmat2020019</doi>
+    <pubdate>3. 2017</pubdate>
+    <volume>3. 2</volume>
+    <issue>3. </issue>
+    <fpage>3. 2</fpage>
+    <lpage>3. 16</lpage>
+    <abstract>3. 1</abstract>
+    <keywords>
+      <keyword>3.1.  characterization</keyword>
+      <keyword>3.2.  metalorganic vapor phase epitaxy</keyword>
+      <keyword>3.3.  nitrides</keyword>
+      <keyword>3.4.  light emitting diodes</keyword>
+    </keywords>
+    <authors>
+      <author>3.1.  Christoph Prall</author>
+      <author>3.2.  Daniel Erni</author>
+      <author>3.3.  Dirk Rueter</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>3.1.  1. Introduction</h1>
+      <h1>3.2.  2. Materials and Methods</h1>
+      <h1>3.3.  3. Results</h1>
+      <h1>3.4.  4. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>3.1.  1.1. Considerations for Characteristic Electronic Transitions in High-Temperature PL</h2>
+      <h2>3.2.  1.2. Considerations for Characteristic Photonic Effects in Thin Luminescent Layers</h2>
+      <h2>3.3.  2.1. Experimental Methods and Models for Electronic Transitions in High-Temperature PL</h2>
+      <h2>3.4.  2.2. Experimental Methods and Models for Photonic Effects in Thin Luminescent Layers</h2>
+      <h2>3.5.  3.2. Experimental and Numerical Results for Photonic Effects in Thin Luminescent Layers</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>4. Separations</journaltitle>
+    <title>4. Application of Carbon Nanotubes Modified Coatings for the Determination of Amphetamines by In-Tube Solid-Phase Microextraction and Capillary Liquid Chromatography</title>
+    <doi>4. 10.3390/chromatography3010007</doi>
+    <pubdate>4. 2016</pubdate>
+    <volume>4. 3</volume>
+    <issue>4. </issue>
+    <fpage>4. 2</fpage>
+    <lpage>4. 15</lpage>
+    <abstract>4. 1</abstract>
+    <keywords>
+      <keyword>4.1.  carbon nanotubes (CNTs)</keyword>
+      <keyword>4.2.  in-tube solid-phase microextraction (IT-SPME)</keyword>
+      <keyword>4.3.  derivatization</keyword>
+      <keyword>4.4.  amphetamines</keyword>
+      <keyword>4.5.  capillary liquid chromatography</keyword>
+    </keywords>
+    <authors>
+      <author>4.1.  Ana Isabel Argente-García</author>
+      <author>4.2.  Yolanda Moliner-Martínez</author>
+      <author>4.3.  Esther López-García</author>
+      <author>4.4.  Pilar Campíns-Falcó</author>
+      <author>4.5.  Rosa Herráez-Hernández</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>4.1.  1. Introduction</h1>
+      <h1>4.2.  3. Results and Discussion</h1>
+      <h1>4.3.  4. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>4.1.  Analyte</h2>
+      <h2>4.2.  FMOC</h2>
+      <h2>4.3.  Analyte-FMOC derivative</h2>
+      <h2>4.4.  3.1. Optimization of the IT-SPME and Chromatographic Conditions</h2>
+      <h2>4.5.  3.2. Evaluation of the Extraction Efficiencies</h2>
+    </section2>
+    <section3>
+      <h3>4.1.  2.1. Reagents and Solutions</h3>
+      <h3>4.2.  2.4. Derivatization of the Amphetamines</h3>
+      <h3>4.3.  2.5. Analysis of Real Samples</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>5. Entropy</journaltitle>
+    <title>5. Atangana-Baleanu and Caputo Fabrizio Analysis of Fractional Derivatives for Heat and Mass Transfer of Second Grade Fluids over a Vertical Plate: A Comparative Study</title>
+    <doi>5. 10.3390/e19080279</doi>
+    <pubdate>5. 2017</pubdate>
+    <volume>5. 19</volume>
+    <issue>5. </issue>
+    <fpage>5. 2</fpage>
+    <lpage>5. 13</lpage>
+    <abstract>5. 1</abstract>
+    <keywords>
+      <keyword>5.1.  AB and CF derivatives</keyword>
+      <keyword>5.2.  M-function Mqp(z) and generalized Hyper-geometric function pYq(z)</keyword>
+      <keyword>5.3.  convection flow</keyword>
+      <keyword>5.4.  heat and mass transfer</keyword>
+      <keyword>5.5.  exact solutions</keyword>
+    </keywords>
+    <authors>
+      <author>5.1.  Arshad Khan</author>
+      <author>5.2.  Kashif Ali Abro</author>
+      <author>5.3.  Asifa Tassaddiq</author>
+      <author>5.4.  Ilyas Khan</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>5.1.  1. Introduction</h1>
+      <h1>5.2.  3. Problem Calculation</h1>
+      <h1>5.3.  4. Results and Discussion</h1>
+      <h1>5.4.  5. Concluding Remarks</h1>
+      <h1>5.5.  Nomenclature</h1>
+    </section1>
+    <section2>
+      <h2>5.1.  Writing Equations (21)–(23) into series form, we traced an equivalent form as</h2>
+      <h2>5.2.  Applying initial and boundary conditions (11)–(13) to Equations (36)–(38), we obtain,</h2>
+      <h2>5.3.  Writing Equations (39)–(41) into series form, we find an equivalent form as</h2>
+      <h2>5.4.  Profile of the velocity field for Atangana–Baleanu verses Caputo–Fabrizio fractional</h2>
+      <h2>5.5.  Conflicts of Interest: The authors declare no conflict of interest.</h2>
+      <h2>5.6.  Ambient fluid temperature</h2>
+      <h2>5.7.  Species concentration away from plate</h2>
+      <h2>5.8.  Wall temperature</h2>
+      <h2>5.9.  Concentration level near plate</h2>
+      <h2>5.10.  Velocity field</h2>
+      <h2>5.11.  Temperature distribution</h2>
+      <h2>5.12.  Mass concentration</h2>
+      <h2>5.13.  Second grade fluid parameter</h2>
+      <h2>5.14.  Constant density of fluid</h2>
+      <h2>5.15.  Kinematic viscosity of fluid</h2>
+      <h2>5.16.  Gravitational acceleration</h2>
+      <h2>5.17.  Heat capacity at constant pressure</h2>
+      <h2>5.18.  Volumetric coefficient of expansion for mass Concentration</h2>
+      <h2>5.19.  Volumetric coefficient of thermal expansion</h2>
+      <h2>5.20.  Thermal conductivity</h2>
+      <h2>5.21.  Mass diffusivity</h2>
+      <h2>5.22.  Non zero parameter</h2>
+      <h2>5.23.  Unit step function</h2>
+      <h2>5.24.  Material parameter</h2>
+      <h2>5.25.  Prandtl number</h2>
+      <h2>5.26.  Schmidt number</h2>
+      <h2>5.27.  Thermal Grashof number</h2>
+      <h2>5.28.  Modified Grashof number</h2>
+      <h2>5.29.  Fractional parameter of Atangana–Baleanu fractional model</h2>
+      <h2>5.30.  Fractional parameter of Caputo–Fabrizio fractional model</h2>
+      <h2>5.31.  Atangana–Baleanu fractional operator</h2>
+      <h2>5.32.  Caputo–Fabrizio fractional operator</h2>
+      <h2>5.33.  Mittage-Leffler function</h2>
+      <h2>5.34.  Caputo–Fabrizio derivative. Comput. Math. Appl. 2017, 73, 1–10. [CrossRef]</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>6. Fibers</journaltitle>
+    <title>6. Changes in Properties of Cement and Lime Mortars When Incorporating Fibers from End-of-Life Tires</title>
+    <doi>6. 10.3390/fib4010007</doi>
+    <pubdate>6. 2016</pubdate>
+    <volume>6. 4</volume>
+    <issue>6. </issue>
+    <fpage>6. 2</fpage>
+    <lpage>6. 14</lpage>
+    <abstract>6. 1</abstract>
+    <keywords>
+      <keyword>6.1.  mortar</keyword>
+      <keyword>6.2.  end-of-life tires</keyword>
+      <keyword>6.3.  mechanical properties</keyword>
+      <keyword>6.4.  waste</keyword>
+    </keywords>
+    <authors>
+      <author>6.1.  Lluís Gil</author>
+      <author>6.2.  Ernest Bernat-Masó</author>
+      <author>6.3.  Francisco Javier Cañavate</author>
+    </authors>
+    <affiliations>
+      <institution>6.1.  Department of Strength of Materials and Structures in Engineering, Universitat Politecnica de Catalunya (UPC), Technical School of Industrial and Aeronautical Engineering (ETSEIAT)</institution>
+      <country>6.1.  Spain</country>
+    </affiliations>
+    <section1>
+      <h1>6.1.  1. Introduction</h1>
+      <h1>6.2.  2. Experimental Section</h1>
+      <h1>6.3.  3. Discussion</h1>
+    </section1>
+    <section2>
+      <h2>6.1.  2.1. Materials</h2>
+      <h2>6.2.  2.2. Tests and Results</h2>
+      <h2>6.3.  3.1. Consistency and Bulk Density</h2>
+      <h2>6.4.  3.2. Compressive and Flexural Strength</h2>
+      <h2>6.5.  3.3. Dynamic Young Modulus</h2>
+      <h2>6.6.  3.4. Water Absorption</h2>
+    </section2>
+    <section3>
+      <h3>6.1.  2.1.3. Mixtures</h3>
+      <h3>6.2.  2.2.1. Fresh Mortar</h3>
+      <h3>6.3.  2.2.2. Hardened Mortar</h3>
+      <h3>6.4.  2.2.3. Dynamic Modulus of Elasticity</h3>
+      <h3>6.5.  2.2.4. Water Absorption</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>7. Appl. Sci.</journaltitle>
+    <title>7. Characterization of Piezoelectric Microgenerator with Nanobranched ZnO Grown on a Polymer Coated Flexible Substrate</title>
+    <doi>7. 10.3390/app7090890</doi>
+    <pubdate>7. 2017</pubdate>
+    <volume>7. 7</volume>
+    <issue>7. </issue>
+    <fpage>7. </fpage>
+    <lpage>7. </lpage>
+    <abstract>7. 1</abstract>
+    <keywords>
+      <keyword>7.1.  ZnO nanostructures</keyword>
+      <keyword>7.2.  nanobranches</keyword>
+      <keyword>7.3.  piezoelectric energy harvesting</keyword>
+      <keyword>7.4.  polymer coatings</keyword>
+      <keyword>7.5.  flexible devices</keyword>
+      <keyword>7.6.  thin films growth</keyword>
+      <keyword>7.7.  PEDOT</keyword>
+      <keyword>7.8.  PSS</keyword>
+      <keyword>7.9.  dielectric losses</keyword>
+      <keyword>7.10.  microgenerator</keyword>
+    </keywords>
+    <authors>
+      <author>7.1.  Mariya Aleksandrova</author>
+      <author>7.2.  Georgi Kolev</author>
+      <author>7.3.  Yordanka Vucheva</author>
+      <author>7.4.  Habib Pathan</author>
+      <author>7.5.  Krassimir Denishev</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>7.1.  1. Introduction</h1>
+      <h1>7.2.  2. Materials and Methods</h1>
+      <h1>7.3.  4. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>7.1.  Frequency, Hz</h2>
+      <h2>7.2.  Frequency, Hz</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>8. Condens. Matter</journaltitle>
+    <title>8. Cold Atoms in U(3) Gauge Potentials</title>
+    <doi>8. 10.3390/condmat1010002</doi>
+    <pubdate>8. 2016</pubdate>
+    <volume>8. 1</volume>
+    <issue>8. </issue>
+    <fpage>8. </fpage>
+    <lpage>8. </lpage>
+    <abstract>8. 1</abstract>
+    <keywords>
+      <keyword>8.1.  cold atoms</keyword>
+      <keyword>8.2.  non-Abelian</keyword>
+      <keyword>8.3.  U(3)</keyword>
+    </keywords>
+    <authors>
+      <author>8.1.  Ipsita Mandal</author>
+      <author>8.2.  Atri Bhattacharya</author>
+    </authors>
+    <affiliations>
+      <institution>8.1.  Perimeter Institute for Theoretical Physics AGO Department, University of Liège</institution>
+      <country>8.1.  Canada Belgium</country>
+    </affiliations>
+    <section1>
+      <h1>8.1.  1. Introduction</h1>
+      <h1>8.2.  5. Discussion</h1>
+    </section1>
+    <section2>
+      <h2>8.1.  3.1. Spectrum for Rational Fluxes</h2>
+      <h2>8.2.  3.2. Metal–Insulator Transition for Irrational Flux</h2>
+      <h2>8.3.  4.1. Spectrum for Rational Flux</h2>
+      <h2>8.4.  4.2. Superfluid–Insulator Transition of Ultracold Bosons</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>9. Entropy</journaltitle>
+    <title>9. Comparative Evaluation of Integrated Waste Heat Utilization Systems for Coal-Fired Power Plants Based on In-Depth Boiler-Turbine Integration and Organic Rankine Cycle</title>
+    <doi>9. 10.3390/e20020089</doi>
+    <pubdate>9. 2018</pubdate>
+    <volume>9. 20</volume>
+    <issue>9. </issue>
+    <fpage>9. </fpage>
+    <lpage>9. </lpage>
+    <abstract>9. 1</abstract>
+    <keywords>
+      <keyword>9.1.  coal-fired power plants</keyword>
+      <keyword>9.2.  waste heat utilization</keyword>
+      <keyword>9.3.  organic Rankine cycle</keyword>
+      <keyword>9.4.  exergy analysis</keyword>
+      <keyword>9.5.  in-depth boiler-turbine integration</keyword>
+    </keywords>
+    <authors>
+      <author>9.1.  Shengwei Huang</author>
+      <author>9.2.  Chengzhou Li</author>
+      <author>9.3.  Tianyu Tan</author>
+      <author>9.4.  Peng Fu</author>
+      <author>9.5.  Ligang Wang</author>
+      <author>9.6.  Yongping Yang</author>
+    </authors>
+    <affiliations>
+      <institution>9.1.  Industrial Process and Energy Systems Engineering, Swiss Federal Institute of Technology in Lausanne</institution>
+      <institution>9.2.  National Research Center for Thermal Power Engineering and Technology, North China Electric Power University</institution>
+      <institution>9.3.  Shenhua Guohua (Beijing) Electric Power Research Institute</institution>
+      <country>9.1.  Switzerland</country>
+      <country>9.2.  China</country>
+      <country>9.3.  China</country>
+    </affiliations>
+    <section1>
+      <h1>9.1.  1. Introduction</h1>
+      <h1>9.2.  2. Description of Case Studies</h1>
+      <h1>9.3.  3. Methodology</h1>
+      <h1>9.4.  4. Results and Discussion</h1>
+      <h1>9.5.  Abbreviations</h1>
+    </section1>
+    <section2>
+      <h2>9.1.  2.1. The Reference Coal-Fired Power Plant</h2>
+      <h2>9.2.  2.2. The Case withTemInp-eDrateupretohf oBuotgiolienrg-fTeeudrwbaitnere In°Ctegr2a9t5i.o7n 256.1</h2>
+      <h2>9.3.  2.3. The Case with ORC for Waste Heat Recovery</h2>
+      <h2>9.4.  2.4. The Case with In-Depth Boiler-Turbine Integration and ORC</h2>
+      <h2>9.5.  3.2. Exergy Analysis</h2>
+      <h2>9.6.  3.3. Economic Analysis</h2>
+      <h2>9.7.  4.1. The Selection of ORC Working Fluid</h2>
+      <h2>9.8.  4.2. Exergy Analysis</h2>
+      <h2>9.9.  4.3. Economic Analysis</h2>
+      <h2>9.10.  Symbols</h2>
+    </section2>
+    <section3>
+      <h3>9.1.  Item Unit RH1 RH2 RH3 DEA RH5 RH6 RH7</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>10. Separations</journaltitle>
+    <title>10. Comparison of Miniaturized and Conventional Asymmetrical Flow Field-Flow Fractionation (AF4) Channels for Nanoparticle Separations</title>
+    <doi>10. 10.3390/separations4010008</doi>
+    <pubdate>10. 2017</pubdate>
+    <volume>10. 4</volume>
+    <issue>10. </issue>
+    <fpage>10. 2</fpage>
+    <lpage>10. 12</lpage>
+    <abstract>10. 1</abstract>
+    <keywords>
+      <keyword>10.1.  nanoparticles</keyword>
+      <keyword>10.2.  field-flow fractionation</keyword>
+      <keyword>10.3.  miniaturized channel</keyword>
+      <keyword>10.4.  detection limit</keyword>
+      <keyword>10.5.  resolution</keyword>
+    </keywords>
+    <authors>
+      <author>10.1.  Zengchao You</author>
+      <author>10.2.  Florian Meier</author>
+      <author>10.3.  Steffen Weidner</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>10.1.  1. Introduction</h1>
+      <h1>10.2.  2. Materials and Methods</h1>
+      <h1>10.3.  3. Results and Discussion</h1>
+      <h1>10.4.  4. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>10.1.  3.1. Separation of Polystyrene Nanoparticles</h2>
+      <h2>10.2.  3.2. Separation of Gold Nanoparticles</h2>
+    </section2>
+    <section3>
+      <h3>10.1.  Total Elution Time </h3>
+      <h3>10.2.  Total Elution Time  (min)  Retention Time </h3>
+      <h3>10.3.  Retention Time  tR0nm  (min) </h3>
+      <h3>10.4.  Retention Ratio</h3>
+      <h3>10.5.  Retention Ratio R50nm  R50nm </h3>
+      <h3>10.6.  Resolution </h3>
+      <h3>10.7.  Resolution </h3>
+      <h3>10.8.  Plate Number   </h3>
+      <h3>10.9.  Plate Number    N50nm  N50nm </h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>11. Appl. Sci.</journaltitle>
+    <title>11. Composite Properties and Micromechanical Analysis of Highly Ductile Cement Composite Incorporating Limestone Powder</title>
+    <doi>11. 10.3390/app8020151</doi>
+    <pubdate>11. 2018</pubdate>
+    <volume>11. 8</volume>
+    <issue>11. </issue>
+    <fpage>11. </fpage>
+    <lpage>11. </lpage>
+    <abstract>11. 1</abstract>
+    <keywords>
+      <keyword>11.1.  composite</keyword>
+      <keyword>11.2.  ductility</keyword>
+      <keyword>11.3.  fiber</keyword>
+      <keyword>11.4.  limestone powder</keyword>
+      <keyword>11.5.  micromechanical analysis</keyword>
+    </keywords>
+    <authors>
+      <author>11.1.  Jung Hwan Hyun</author>
+      <author>11.2.  Bang Yeon Lee</author>
+      <author>11.3.  Yun Yong Kim</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>11.1.  1. Introduction</h1>
+      <h1>11.2.  3. Results and Discussion</h1>
+    </section1>
+    <section2>
+      <h2>11.1.  2.2. Specimen Preparation</h2>
+      <h2>11.2.  2.3. Compressive Strength and Uniaxial Tension Tests</h2>
+      <h2>11.3.  2.4. Fiber Pullout Test and Matrix Fracture Test</h2>
+      <h2>11.4.  2.4. Fiber Pullout Test and Matrix Fracture Test</h2>
+      <h2>11.5.  Initial Cracking</h2>
+      <h2>11.6.  Tensile</h2>
+      <h2>11.7.  Tensile Strain</h2>
+      <h2>11.8.  Stress Performance</h2>
+      <h2>11.9.  5. Conclusions</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>12. Entropy</journaltitle>
+    <title>12. Comprehensive Evaluation of Coal-Fired Power Units Using Grey Relational Analysis and a Hybrid Entropy-Based Weighting Method</title>
+    <doi>12. 10.3390/e20040215</doi>
+    <pubdate>12. 2018</pubdate>
+    <volume>12. 20</volume>
+    <issue>12. </issue>
+    <fpage>12. 2</fpage>
+    <lpage>12. 24</lpage>
+    <abstract>12. 1</abstract>
+    <keywords>
+      <keyword>12.1.  coal-fired power units</keyword>
+      <keyword>12.2.  GRA</keyword>
+      <keyword>12.3.  bootstrap</keyword>
+      <keyword>12.4.  entropy</keyword>
+      <keyword>12.5.  AHP</keyword>
+      <keyword>12.6.  sensitivity analysis</keyword>
+    </keywords>
+    <authors>
+      <author>12.1.  Dianfa Wu</author>
+      <author>12.2.  Ningling Wang</author>
+      <author>12.3.  Zhiping Yang</author>
+      <author>12.4.  Chengzhou Li ID</author>
+      <author>12.5.  Yongping Yang</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>12.1.  1. Introduction</h1>
+      <h1>12.2.  3. Methodology of Multi-Index Comprehensive Evaluation</h1>
+      <h1>12.3.  4. A Case Study of Coal-Fired Power Units</h1>
+      <h1>12.4.  5. Modeling Validation and Discussion</h1>
+      <h1>12.5.  Nomenclature</h1>
+    </section1>
+    <section2>
+      <h2>12.1.  2.1. Economic Index</h2>
+      <h2>12.2.  3.1. An Overview of GRA Evaluation Method</h2>
+      <h2>12.3.  3.2. Objective and Subjective Weighting Method</h2>
+      <h2>12.4.  4.1. Basic Information of Seven Power Units</h2>
+      <h2>12.5.  4.2. Evaluation Results</h2>
+      <h2>12.6.  Uint 7</h2>
+      <h2>12.7.  Uint 1</h2>
+      <h2>12.8.  Uint 6</h2>
+      <h2>12.9.  Uint 5</h2>
+      <h2>12.10.  Uint 2</h2>
+      <h2>12.11.  4.3. Sensitivity Analysis Results</h2>
+      <h2>12.12.  5.4. Policy Recommendations</h2>
+    </section2>
+    <section3>
+      <h3>12.1.  2.1. Economic Index</h3>
+      <h3>12.2.  2.2. Environmental Index</h3>
+      <h3>12.3.  2.3. Flexibility Index</h3>
+      <h3>12.4.  2.4. Power Quality Index</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>13. Condens. Matter</journaltitle>
+    <title>13. Correlated Disorder in Myelinated Axons Orientational Geometry and Structure</title>
+    <doi>13. 10.3390/condmat2030029</doi>
+    <pubdate>13. 2017</pubdate>
+    <volume>13. 2</volume>
+    <issue>13. </issue>
+    <fpage>13. </fpage>
+    <lpage>13. </lpage>
+    <abstract>13. 1</abstract>
+    <keywords>
+      <keyword>13.1.  scanning micro X-ray diffraction</keyword>
+      <keyword>13.2.  myelin sheath</keyword>
+      <keyword>13.3.  Levy distribution</keyword>
+      <keyword>13.4.  correlated disorder</keyword>
+      <keyword>13.5.  axon fluctuation</keyword>
+    </keywords>
+    <authors/>
+    <affiliations/>
+    <section1>
+      <h1>13.1.  -</h1>
+      <h1>13.2.  1. Introduction</h1>
+      <h1>13.3.  4. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>13.1.  2.1. Axon Orientation Fluctuations</h2>
+      <h2>13.2.  2.2. Mapping of Axon Orientation Fluctuations</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>14. Separations</journaltitle>
+    <title>14. Determination of Posaconazole in Plasma/Serum by High-Performance Liquid Chromatography with Fluorescence Detection</title>
+    <doi>14. 10.3390/separations4020016</doi>
+    <pubdate>14. 2017</pubdate>
+    <volume>14. 4</volume>
+    <issue>14. </issue>
+    <fpage>14. </fpage>
+    <lpage>14. </lpage>
+    <abstract>14. 1</abstract>
+    <keywords>
+      <keyword>14.1.  posaconazole</keyword>
+      <keyword>14.2.  ketoconazole</keyword>
+      <keyword>14.3.  HPLC</keyword>
+      <keyword>14.4.  fluorescence</keyword>
+    </keywords>
+    <authors>
+      <author>14.1.  Peter H. Tang</author>
+    </authors>
+    <affiliations>
+      <institution>14.1.  Departments of Pediatrics, Pathology and Laboratory Medicine, Cincinnati Children's Hospital Medical Center, University of Cincinnati College of Medicine</institution>
+      <country>14.1.  USA</country>
+    </affiliations>
+    <section1>
+      <h1>14.1.  1. Introduction</h1>
+      <h1>14.2.  2. Materials and Methods</h1>
+      <h1>14.3.  3. Results and Discussion</h1>
+      <h1>14.4.  4. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>14.1.  2.1. Chemicals and Reagents</h2>
+      <h2>14.2.  2.2. Instrumentation and Chromatographic Conditions</h2>
+      <h2>14.3.  2.3. Preparation of Calibrator and Quality Control Samples</h2>
+      <h2>14.4.  2.4. Sample Preparation Procedure</h2>
+      <h2>14.5.  2.5. Method Validation</h2>
+      <h2>14.6.  3.1. Internal Standard Alternative</h2>
+      <h2>14.7.  3.2. Selectivity</h2>
+      <h2>14.8.  3.3. Solvent Extraction in a Single Dilution Step</h2>
+      <h2>14.9.  3.5. Reproducibility</h2>
+      <h2>14.10.  3.6. Stability</h2>
+      <h2>14.11.  3.7. Method Comparison</h2>
+    </section2>
+    <section3>
+      <h3>14.1.  3.4. C3a.4li.bCraatliibornatCiounrCvuerve</h3>
+      <h3>14.2.  3.8. C3r.o8s.sC-Vroaslsi-dVaatliiodnation</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>15. Separations</journaltitle>
+    <title>15. Determination of Selected Aromas in Marquette and Frontenac Wine Using Headspace-SPME Coupled with GC-MS and Simultaneous Olfactometry</title>
+    <doi>15. 10.3390/separations5010020</doi>
+    <pubdate>15. 2018</pubdate>
+    <volume>15. 5</volume>
+    <issue>15. </issue>
+    <fpage>15. </fpage>
+    <lpage>15. </lpage>
+    <abstract>15. 1</abstract>
+    <keywords>
+      <keyword>15.1.  aroma dilution analysis</keyword>
+      <keyword>15.2.  wine</keyword>
+      <keyword>15.3.  odor activity value</keyword>
+      <keyword>15.4.  principal component analysis</keyword>
+      <keyword>15.5.  solid-phase microextraction</keyword>
+      <keyword>15.6.  GC-MS-Olfactometry</keyword>
+    </keywords>
+    <authors>
+      <author>15.1.  Somchai Rice</author>
+      <author>15.2.  Nanticha Lutt</author>
+      <author>15.3.  Jacek A. Koziel</author>
+      <author>15.4.  Murlidhar Dharmadhikari</author>
+      <author>15.5.  Anne Fennell</author>
+    </authors>
+    <affiliations>
+      <institution>15.1.  Department of Agricultural and Biosystems Engineering, Iowa State University</institution>
+      <institution>15.2.  Department of Food Science and Human Nutrition, Iowa State University</institution>
+      <institution>15.3.  Genetics and Plant Biology Program, University of California at Berkeley</institution>
+      <institution>15.4.  Interdepartmental Toxicology Graduate Program, Iowa State University</institution>
+      <institution>15.5.  Midwest Grape and Wine Industry Institute, Iowa State University</institution>
+      <institution>15.6.  Plant Science Department, South Dakota State University and BioSNTR</institution>
+      <country>15.1.  USA</country>
+      <country>15.2.  USA</country>
+      <country>15.3.  USA</country>
+      <country>15.4.  USA</country>
+      <country>15.5.  USA</country>
+      <country>15.6.  USA</country>
+    </affiliations>
+    <section1>
+      <h1>15.1.  -</h1>
+      <h1>15.2.  2. Materials and Methods</h1>
+      <h1>15.3.  4. Discussion and Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>15.1.  2.1. Samples, Standards, and Matrix Blank</h2>
+      <h2>15.2.  3.2. Aroma Dilution Analysis</h2>
+      <h2>15.3.  3.3. Calculation of OAV</h2>
+    </section2>
+    <section3>
+      <h3>15.1.  Ethyl hexanoate</h3>
+      <h3>15.2.  Ethyl butyrate</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>16. Separations</journaltitle>
+    <title>16. Development of a Combined Heart-Cut and Comprehensive Two-Dimensional Gas Chromatography System to Extend the Carbon Range of Volatile Organic Compounds Analysis in a Single Instrument</title>
+    <doi>16. 10.3390/separations3030021</doi>
+    <pubdate>16. 2016</pubdate>
+    <volume>16. 3</volume>
+    <issue>16. </issue>
+    <fpage>16. </fpage>
+    <lpage>16. </lpage>
+    <abstract>16. 1</abstract>
+    <keywords>
+      <keyword>16.1.  comprehensive two dimensional gas chromatography (GC GC)</keyword>
+      <keyword>16.2.  volatile organic compounds (VOCs)</keyword>
+      <keyword>16.3.  heart-cut</keyword>
+      <keyword>16.4.  multidimensional gas chromatography</keyword>
+      <keyword>16.5.  atmospheric analysis</keyword>
+    </keywords>
+    <authors>
+      <author>16.1.  Rachel E Dunmore</author>
+      <author>16.2.  James R Hopkins</author>
+      <author>16.3.  Richard T Lidster</author>
+      <author>16.4.  Mohammed Iqbal Mead</author>
+      <author>16.5.  Brian J Bandy</author>
+      <author>16.6.  Grant Forster</author>
+      <author>16.7.  David E Oram</author>
+      <author>16.8.  William T Sturges</author>
+      <author>16.9.  Siew-Moi Phang</author>
+      <author>16.10.  Azizan Abu Samah</author>
+      <author>16.11.  Jacqueline F Hamilton</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>16.1.  1. Introduction</h1>
+      <h1>16.2.  2. Materials and Methods</h1>
+      <h1>16.3.  3. Results and Discussion</h1>
+      <h1>16.4.  4. Conclusions</h1>
+      <h1>16.5.  Abbreviations</h1>
+    </section1>
+    <section2>
+      <h2>16.1.  2.1. Bachok Demonstration ‘International Opportunities Fund’ Campaign</h2>
+      <h2>16.2.  2.2. Compound Identification and Quantification</h2>
+      <h2>16.3.  2.3. Supporting Measurements</h2>
+      <h2>16.4.  3.1. Development of the GC-GC GC</h2>
+      <h2>16.5.  3.2. Comparison of GC-GC GC with an Established DC-GC</h2>
+      <h2>16.6.  3.3. Bachok Demonstration ‘International Opportunities Fund’ campaign</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>17. Condens. Matter</journaltitle>
+    <title>17. Development of Nano-Carbon Biosensors Using Glycan for Host Range Detection of Influenza Virus †</title>
+    <doi>17. 10.3390/condmat1010007</doi>
+    <pubdate>17. 2016</pubdate>
+    <volume>17. 1</volume>
+    <issue>17. </issue>
+    <fpage>17. 3</fpage>
+    <lpage>17. 11</lpage>
+    <abstract>17. 1</abstract>
+    <keywords>
+      <keyword>17.1.  self-aligned growth process for carbon nanowalls</keyword>
+      <keyword>17.2.  nano-carbon biosensors</keyword>
+      <keyword>17.3.  sugar chains for influenza virus detection</keyword>
+    </keywords>
+    <authors>
+      <author>17.1.  Toshio Kawahara</author>
+      <author>17.2.  Hiroaki Hiramatsu</author>
+      <author>17.3.  Yasuo Suzuki</author>
+      <author>17.4.  Shin-ichi Nakakita</author>
+      <author>17.5.  Yasuhide Ohno</author>
+      <author>17.6.  Kenzo Maehashi</author>
+      <author>17.7.  Kazuhiko Matsumoto</author>
+      <author>17.8.  Kazumasa Okamoto</author>
+      <author>17.9.  Teruaki Matsuba</author>
+      <author>17.10.  Risa Utsunomiya</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>17.1.  1. Introduction</h1>
+      <h1>17.2.  2. Results and Discussion</h1>
+      <h1>17.3.  3. Materials and Methods</h1>
+      <h1>17.4.  4. Conclusions</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>18. Condens. Matter</journaltitle>
+    <title>18. Discovery of BiS2-Based Superconductor and Material Design Concept</title>
+    <doi>18. 10.3390/condmat2010006</doi>
+    <pubdate>18. 2017</pubdate>
+    <volume>18. 2</volume>
+    <issue>18. </issue>
+    <fpage>18. </fpage>
+    <lpage>18. </lpage>
+    <abstract>18. 1</abstract>
+    <keywords>
+      <keyword>18.1.  new superconductor</keyword>
+      <keyword>18.2.  layered superconductor</keyword>
+      <keyword>18.3.  BiS2-based superconductor</keyword>
+      <keyword>18.4.  pressure effect</keyword>
+      <keyword>18.5.  chemical pressure effect</keyword>
+    </keywords>
+    <authors>
+      <author>18.1.  Yoshikazu Mizuguchi</author>
+    </authors>
+    <affiliations>
+      <institution>18.1.  Department of Electrical and Electronic Engineering, Tokyo Metropolitan University</institution>
+      <country>18.1.  Japan</country>
+    </affiliations>
+    <section1>
+      <h1>18.1.  1. Discovery of BiS2-Based Superconductor Family</h1>
+      <h1>18.2.  2. Emergence of Superconductivity in BiS2-Based Compounds</h1>
+      <h1>18.3.  3. Material Design Strategies for the BiS2-Based Superconductor</h1>
+    </section1>
+    <section2>
+      <h2>18.1.  1.1. Layered Superconductors</h2>
+      <h2>18.2.  1.2. Discovery of the Bi–O–S Superconductor</h2>
+      <h2>18.3.  1.4. Other Bi-Chalcogenide Layered Compounds</h2>
+      <h2>18.4.  2.1. Carrier Doping</h2>
+      <h2>18.5.  2.2. External Pressure Effect</h2>
+      <h2>18.6.  2.3. Chemical Pressure Effect</h2>
+      <h2>18.7.  We summarized the effects of electron carrier doping, external pressure, and chemical pressure</h2>
+      <h2>18.8.  Acknowledgments: The works on Bi-chalcogenide superconductors have been supported by Grant-in-Aid for</h2>
+      <h2>18.9.  Conflicts of Interest: The author declares no conflict of interest.</h2>
+    </section2>
+    <section3>
+      <h3>18.1.  Since the discovery of the Fe-based superconductor in 2008 [1], many researchers have explored</h3>
+      <h3>18.2.  To discover new layered superconductors, experience in the material design of the Fe-based</h3>
+      <h3>18.3.  Among layered compounds, the ZrSiCuAs-type structure is one of the typical structures. For example,</h3>
+      <h3>18.4.  BiOCuSe, whose structure is composed of a CuSe conducting layer and a BiO blocking layer, is a famous thermoelectric material [4]. When substituting the CuSe layer of BiOCuSe with a CuS layer, we obtain BiOCuS with the ZrSiCuAs-type structure.</h3>
+      <h3>18.5.  BiOCu</h3>
+      <h3>18.6.  Bi O S2 s2tructure and indicated that the sample was not a single phase. This suggests the presence of a</h3>
+      <h3>18.7.  Although we obtained the single-phase sample of Bi 4O4S3 , the crystal structure was unknown,</h3>
+      <h3>18.8.  BiS bilayer, which is electrically conducting, and th4e4Bi O4 x(SO ) blocking layer. The parent phase</h3>
+      <h3>18.9.  Sections 2.2 and 2.3.</h3>
+      <h3>18.10.  Namely, the strategies of carrier doping and the pressure effects can be applied similarly.</h3>
+      <h3>18.11.  Recently, a new Bi-S layered compound with a thicker conducting layer was discovered.</h3>
+      <h3>18.12.  The Bi–O–S series possess quite characteristic structures, and thus, the design of new superconductors</h3>
+      <h3>18.13.  The first example is the high-pressure synthesis effect. As shown in Figure 2c, the superconductivity in</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>19. Separations</journaltitle>
+    <title>19. Dispersed Mobile-Phase Countercurrent Chromatography</title>
+    <doi>19. 10.3390/separations3040032</doi>
+    <pubdate>19. 2016</pubdate>
+    <volume>19. 3</volume>
+    <issue>19. </issue>
+    <fpage>19. 2</fpage>
+    <lpage>19. 9</lpage>
+    <abstract>19. 1</abstract>
+    <keywords>
+      <keyword>19.1.  liquid-liquid partition</keyword>
+      <keyword>19.2.  countercurrent chromatography</keyword>
+      <keyword>19.3.  DMCC</keyword>
+    </keywords>
+    <authors>
+      <author>19.1.  Timothy Yiu-Cheong Ho</author>
+      <author>19.2.  Hong Xue</author>
+    </authors>
+    <affiliations>
+      <institution>19.1.  Division of Life Science and Applied Genomics Center, Hong Kong University of Science and Technology</institution>
+      <country>19.1.  China</country>
+    </affiliations>
+    <section1>
+      <h1>19.1.  1. Introduction</h1>
+      <h1>19.2.  3. Rusults</h1>
+      <h1>19.3.  Abbreviations</h1>
+    </section1>
+    <section2>
+      <h2>19.1.  2.1. Reagent and Materials</h2>
+      <h2>19.2.  2.2. Selection of Two-Phase System</h2>
+      <h2>19.3.  3n.-2B.uSteapnaorla–tNioanOoHfB(aeqn)zToiwcoA-Sciodlv,ePnhteSnyols,teamnds Benzyl Alcohol Using n-Butanol–NaHCO3(aq) and n-Butanol–</h2>
+      <h2>19.4.  3c.o3l.uSmepnasr,atainond othfBeapicaaslseaingeanodf 1W20og0omnin L</h2>
+    </section2>
+    <section3>
+      <h3>19.1.  NaOH(aq) Two-Solvent Systems</h3>
+      <h3>19.2.  3.3. Separation of Baicalein and Wogonin Using a n-Butanol–K3PO4(aq) Two-Solvent System</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>20. Separations</journaltitle>
+    <title>20. Enhancement of Thermal Stability and Selectivity by Introducing Aminotriazine Comonomer to Poly(Octadecyl Acrylate)-Grafted Silica as Chromatography Matrix</title>
+    <doi>20. 10.3390/separations5010015</doi>
+    <pubdate>20. 2018</pubdate>
+    <volume>20. 5</volume>
+    <issue>20. </issue>
+    <fpage>20. 3</fpage>
+    <lpage>20. 9</lpage>
+    <abstract>20. 1</abstract>
+    <keywords>
+      <keyword>20.1.  organic-inorganic hybrid</keyword>
+      <keyword>20.2.  molecular shape selectivity</keyword>
+      <keyword>20.3.  crystalline-to-isotropic phase transition</keyword>
+      <keyword>20.4.  HPLC</keyword>
+    </keywords>
+    <authors>
+      <author>20.1.  Abul K. Mallik</author>
+      <author>20.2.  Hiroki Noguchi</author>
+      <author>20.3.  Yige Han</author>
+      <author>20.4.  Yutaka Kuwahara</author>
+      <author>20.5.  Makoto Takafuji</author>
+      <author>20.6.  Hirotaka Ihara</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>20.1.  -</h1>
+      <h1>20.2.  2. Materials and Methods</h1>
+      <h1>20.3.  4. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>20.1.  Temperature (˚C) 50 60</h2>
+      <h2>20.2.  Triphenylene</h2>
+      <h2>20.3.  Temperature (˚C) 50 60</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>21. Entropy</journaltitle>
+    <title>21. Entropy Generation Analysis of Wildfire Propagation</title>
+    <doi>21. 10.3390/e19080433</doi>
+    <pubdate>21. 2017</pubdate>
+    <volume>21. 19</volume>
+    <issue>21. </issue>
+    <fpage>21. 2</fpage>
+    <lpage>21. 17</lpage>
+    <abstract>21. 1</abstract>
+    <keywords>
+      <keyword>21.1.  entropy generation</keyword>
+      <keyword>21.2.  second law</keyword>
+      <keyword>21.3.  grassfire</keyword>
+      <keyword>21.4.  wildfire behaviour</keyword>
+      <keyword>21.5.  fire front</keyword>
+    </keywords>
+    <authors>
+      <author>21.1.  Elisa Guelpa</author>
+      <author>21.2.  Vittorio Verda</author>
+    </authors>
+    <affiliations>
+      <institution>21.1.  Energy Department, Politecnico di Torino</institution>
+      <country>21.1.  Italy</country>
+    </affiliations>
+    <section1>
+      <h1>21.1.  1. Introduction</h1>
+      <h1>21.2.  2. System Description</h1>
+      <h1>21.3.  3. Method</h1>
+      <h1>21.4.  5. Conclusions</h1>
+      <h1>21.5.  Nomenclature</h1>
+    </section1>
+    <section2>
+      <h2>21.1.  2. System Description</h2>
+      <h2>21.2.  3. Method</h2>
+    </section2>
+    <section3>
+      <h3>21.1.  FFiigguurree 22.. CCoommppaarriissoonn bbeettwweeeenn llaannddssccaappee pprrooppaaggaattiioonn mmooddeellss..</h3>
+      <h3>21.2.  It is oriented with two faces parallel to the fire front.</h3>
+      <h3>21.3.  The length l is selected as the space the front travels in a time equal to dtTH.</h3>
+      <h3>21.4.  A schematic of a control volume characteristics is reported in Figure 3a. The time considered for this analysis of a control volume is the entire period the flame takes to reach its central point. This is stopped at the time the first temperature peak occurs in the cell, i.e., when the beginning phase of combustion ends.</h3>
+      <h3>21.5.  Head, where wind and slope influence are high and the fire front propagates faster;</h3>
+      <h3>21.6.  ROSi has been thus collected in two different cases [33]:</h3>
+      <h3>21.7.  The radiative term is computed as:</h3>
+      <h3>21.8.  The coefficient r, has been evaluated with the same approach for coefficients a, l and h.</h3>
+      <h3>21.9.  RROOSS</h3>
+      <h3>21.10.  The passage of the flame lasts about 20–40 s depending on the cells. The maximum temperature in the points at the back sector of the fire front, is, on average, lower.</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>22. Entropy</journaltitle>
+    <title>22. Entropy Generation in Flow of Highly Concentrated Non-Newtonian Emulsions in Smooth Tubes</title>
+    <doi>22. 10.3390/e16105178</doi>
+    <pubdate>22. 2014</pubdate>
+    <volume>22. 16</volume>
+    <issue>22. </issue>
+    <fpage>22. 5178</fpage>
+    <lpage>22. 5197</lpage>
+    <abstract>22. 1</abstract>
+    <keywords>
+      <keyword>22.1.  emulsion</keyword>
+      <keyword>22.2.  non-Newtonian</keyword>
+      <keyword>22.3.  power law</keyword>
+      <keyword>22.4.  entropy generation</keyword>
+      <keyword>22.5.  pipeline flow</keyword>
+    </keywords>
+    <authors>
+      <author>22.1.  External Editor: Kevin H. Knuth</author>
+    </authors>
+    <affiliations>
+      <institution>22.1.  Department of Chemical Engineering, University of Waterloo</institution>
+      <country>22.1.  Canada</country>
+    </affiliations>
+    <section1>
+      <h1>22.1.  -</h1>
+      <h1>22.2.  Gouy-Stodola theorem is expressed mathematically as [1]:</h1>
+      <h1>22.3.  This equation could be re-cast as:</h1>
+      <h1>22.4.  This equation could be re-cast as:</h1>
+      <h1>22.5.  Consider now the steady and adiabatic flow of fluid in a pipe. According to Equation (2):</h1>
+      <h1>22.6.  The Fanning friction factor f in pipe flow is defined as:</h1>
+      <h1>22.7.  Reynolds number Re_ n defined as:</h1>
+      <h1>22.8.  From Equations (14) and (15), it can be readily shown that:</h1>
+      <h1>22.9.  Further details about the flow rig can be found in our earlier publication [23].</h1>
+      <h1>22.10.  According to the models, Equations (27) and (28):</h1>
+      <h1>22.11.  The colored circles represent experimental data from different diameter tubes.</h1>
+      <h1>22.12.  The author declares no conflict of interest.</h1>
+    </section1>
+    <section2>
+      <h2>22.1.  1. Introduction</h2>
+      <h2>22.2.  2. Theoretical Background</h2>
+      <h2>22.3.  3. Model Predictions 5184</h2>
+      <h2>22.4.  4. Experimental Work</h2>
+      <h2>22.5.  5. Experimental Results and Discussion</h2>
+      <h2>22.6.  Generalized Reynolds number, Re_n</h2>
+      <h2>22.7.  Laminar</h2>
+      <h2>22.8.  Generalized Reynolds number, Re_n</h2>
+      <h2>22.9.  Generalized Reynolds number, Re_n</h2>
+    </section2>
+    <section3>
+      <h3>22.1.  Shear rate, s-1</h3>
+      <h3>22.2.  Shear rate , s-1</h3>
+      <h3>22.3.  Volume fraction of dispersed-phase (ϕ)</h3>
+      <h3>22.4.  Generalized Reynolds number, Re_n</h3>
+      <h3>22.5.  6. Conclusions</h3>
+      <h3>22.6.  Acknowledgment</h3>
+      <h3>22.7.  Conflicts of Interest</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>23. Entropy</journaltitle>
+    <title>23. Entropy Generation in Magnetohydrodynamic Mixed Convection Flow over an Inclined Stretching Sheet</title>
+    <doi>23. 10.3390/e19010010</doi>
+    <pubdate>23. 2017</pubdate>
+    <volume>23. 19</volume>
+    <issue>23. </issue>
+    <fpage>23. </fpage>
+    <lpage>23. </lpage>
+    <abstract>23. 1</abstract>
+    <keywords>
+      <keyword>23.1.  entropy generation</keyword>
+      <keyword>23.2.  viscous dissipation</keyword>
+      <keyword>23.3.  mixed convection</keyword>
+      <keyword>23.4.  inclined stretching</keyword>
+      <keyword>23.5.  Bejan number</keyword>
+    </keywords>
+    <authors/>
+    <affiliations/>
+    <section1>
+      <h1>23.1.  1. Introduction</h1>
+      <h1>23.2.  2. Mathematical Formulation of the Problem</h1>
+      <h1>23.3.  3. Irreversibility Analysis</h1>
+      <h1>23.4.  4. Results and Discussion</h1>
+      <h1>23.5.  5. Conclusions</h1>
+      <h1>23.6.  Nomenclature</h1>
+    </section1>
+    <section2>
+      <h2>23.1.  Conductive irreversibity</h2>
+      <h2>23.2.  Viscous irreversibility + Magnetic irreversibility</h2>
+      <h2>23.3.  4.1. Effects of the Magnetic Field Parameter</h2>
+      <h2>23.4.  4.2. Effects of the Prandtl Number</h2>
+      <h2>23.5.  4.3. Effects of the Mixed Convective Parameter</h2>
+      <h2>23.6.  4.4. Effects of Eckert Number</h2>
+      <h2>23.7.  4.5. Effects of the Dimensionless Temperature Parameter</h2>
+    </section2>
+    <section3>
+      <h3>23.1.  4.2. Effects of the Prandtl Number</h3>
+      <h3>23.2.  4.3. Effects of the Mixed Convective Parameter</h3>
+      <h3>23.3.  4.4. Effects of Eckert Number</h3>
+      <h3>23.4.  4.5. Effects of the Dimensionless Temperature Parameter</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>24. Entropy</journaltitle>
+    <title>24. Entropy Generation in Thermal Radiative Loading of Structures with Distinct Heaters</title>
+    <doi>24. 10.3390/e19100506</doi>
+    <pubdate>24. 2017</pubdate>
+    <volume>24. 19</volume>
+    <issue>24. </issue>
+    <fpage>24. </fpage>
+    <lpage>24. </lpage>
+    <abstract>24. 1</abstract>
+    <keywords>
+      <keyword>24.1.  thermal radiation</keyword>
+      <keyword>24.2.  natural convection</keyword>
+      <keyword>24.3.  entropy generation</keyword>
+      <keyword>24.4.  thermal loading</keyword>
+    </keywords>
+    <authors>
+      <author>24.1.  Mohammad Yaghoub Abdollahzadeh Jamalabadi</author>
+      <author>24.2.  Mohammad Reza Safaei</author>
+      <author>24.3.  Abdullah A. A. A. Alrashed</author>
+      <author>24.4.  Truong Khang Nguyen</author>
+      <author>24.5.  Enio Pedone Bandarra Filho</author>
+    </authors>
+    <affiliations>
+      <institution>24.1.  Department of Automotive and Marine Engineering Technology, College of Technological Studies, The Public Authority for Applied Education and Training</institution>
+      <institution>24.2.  Department of Mechanical, Robotics and Energy Engineering, Dongguk University-Seoul</institution>
+      <institution>24.3.  Division of Computational Physics, Institute for Computational Science, Ton Duc Thang University</institution>
+      <institution>24.4.  Faculty of Electrical and Electronics Engineering, Ton Duc Thang University</institution>
+      <institution>24.5.  School of Mechanical Engineering, Federal University of Uberlandia (UFU)</institution>
+      <country>24.1.  Kuwait</country>
+      <country>24.2.  Korea</country>
+      <country>24.3.  Vietnam</country>
+      <country>24.4.  Vietnam</country>
+      <country>24.5.  Brazil</country>
+    </affiliations>
+    <section1>
+      <h1>24.1.  1. Introduction</h1>
+      <h1>24.2.  2. Mathematical Modeling</h1>
+      <h1>24.3.  3. Results and Discussion</h1>
+      <h1>24.4.  DX Nu % Ymax %</h1>
+      <h1>24.5.  4. Conclusions</h1>
+      <h1>24.6.  Nomenclature</h1>
+    </section1>
+    <section2>
+      <h2>24.1.  Conflicts of Interest: The authors declare no conflict of interest.</h2>
+      <h2>24.2.  Aspect ratio (H/L)</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>25. Entropy</journaltitle>
+    <title>25. Formation of Photo-Responsive Liquid Crystalline Emulsion by Using Microfluidics Device</title>
+    <doi>25. 10.3390/e19120669</doi>
+    <pubdate>25. 2017</pubdate>
+    <volume>25. 19</volume>
+    <issue>25. </issue>
+    <fpage>25. 2</fpage>
+    <lpage>25. 9</lpage>
+    <abstract>25. 1</abstract>
+    <keywords>
+      <keyword>25.1.  photo-responsive liquid crystal</keyword>
+      <keyword>25.2.  double emulsion</keyword>
+      <keyword>25.3.  phase change</keyword>
+    </keywords>
+    <authors>
+      <author>25.1.  Yoshiharu Dogishi</author>
+      <author>25.2.  Shun Endo</author>
+      <author>25.3.  Woon Yong Sohn</author>
+      <author>25.4.  Kenji Katayama</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>25.1.  1. Introduction</h1>
+      <h1>25.2.  3. Results</h1>
+    </section1>
+    <section2>
+      <h2>25.1.  Cylindrical capillary (Injection)</h2>
+      <h2>25.2.  Square capillary</h2>
+      <h2>25.3.  Cylindrical capillary (collection)</h2>
+      <h2>25.4.  3.1. Observation of Photo-Response</h2>
+      <h2>25.5.  3.2. Observation of Thermal Response</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>26. Condens. Matter</journaltitle>
+    <title>26. Ground-State Magnetization in Mixtures of a Few Ultra-Cold Fermions in One-Dimensional Traps</title>
+    <doi>26. 10.3390/condmat3010007</doi>
+    <pubdate>26. 2018</pubdate>
+    <volume>26. 3</volume>
+    <issue>26. </issue>
+    <fpage>26. </fpage>
+    <lpage>26. </lpage>
+    <abstract>26. 1</abstract>
+    <keywords>
+      <keyword>26.1.  ultra-cold gasses</keyword>
+      <keyword>26.2.  few-fermion systems</keyword>
+      <keyword>26.3.  double-well confinement</keyword>
+    </keywords>
+    <authors>
+      <author>26.1.  Tomasz Sowi n´ski ID</author>
+    </authors>
+    <affiliations>
+      <institution>26.1.  Institute of Physics, Polish Academy of Sciences</institution>
+      <country>26.1.  Poland</country>
+    </affiliations>
+    <section1>
+      <h1>26.1.  1. Introduction</h1>
+      <h1>26.2.  2. The System Studied</h1>
+      <h1>26.3.  4. Ground-State Magnetization</h1>
+      <h1>26.4.  5. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>26.1.  4.1. Harmonic Confinement</h2>
+      <h2>26.2.  4.2. Deep Double-Well Confinement</h2>
+      <h2>26.3.  4.3. Intermediate Confinements</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>27. Appl. Sci.</journaltitle>
+    <title>27. Improving the Electrochemical Performance of LiNi0.80Co0.15Al0.05O2 in Lithium Ion Batteries by LiAlO2 Surface Modification</title>
+    <doi>27. 10.3390/app8030378</doi>
+    <pubdate>27. 2018</pubdate>
+    <volume>27. 8</volume>
+    <issue>27. </issue>
+    <fpage>27. </fpage>
+    <lpage>27. </lpage>
+    <abstract>27. 1</abstract>
+    <keywords>
+      <keyword>27.1.  LiNi0</keyword>
+      <keyword>27.2.  80Co0</keyword>
+      <keyword>27.3.  15Al0</keyword>
+      <keyword>27.4.  05O2</keyword>
+      <keyword>27.5.  LiAlO2 coating</keyword>
+      <keyword>27.6.  lithium compound residues</keyword>
+      <keyword>27.7.  pH value</keyword>
+      <keyword>27.8.  capacity retention</keyword>
+    </keywords>
+    <authors>
+      <author>27.1.  Chunhua Song ID</author>
+      <author>27.2.  Wenge Wang</author>
+      <author>27.3.  Huili Peng</author>
+      <author>27.4.  Ying Wang</author>
+      <author>27.5.  Chenglong Zhao</author>
+      <author>27.6.  Huibin Zhang</author>
+      <author>27.7.  Qiwei Tang</author>
+      <author>27.8.  Jinzhao Lv</author>
+      <author>27.9.  Xianjun Du</author>
+      <author>27.10.  China</author>
+      <author>27.11.  ch.song@yhnewenergy.com (C.S.)</author>
+      <author>27.12.  wg.wang@yhnewenergy.com (W.W)</author>
+      <author>27.13.  hl.peng@yhnewenergy.com (H.P.)</author>
+      <author>27.14.  hb.zhang@yhnewenergy.com (H.Z.)</author>
+      <author>27.15.  qw.tang@yhnewenergy.com (Q.T.)</author>
+      <author>27.16.  jz.lv@yhnewenergy.com (J.L.)</author>
+      <author>27.17.  xj.du@yhnewenergy.com (X.D.)</author>
+      <author>27.18.  ym.dou@yhnewenergy.com (Y.D.)</author>
+      <author>27.19.  Correspondence: y.wang@yhnewenergy.com (Y.W.)</author>
+      <author>27.20.  cl.zhao@yhnewenergy.com (C.Z.)</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>27.1.  1. Introduction</h1>
+      <h1>27.2.  2. Experiment</h1>
+      <h1>27.3.  3. Results and Discussion</h1>
+    </section1>
+    <section2>
+      <h2>27.1.  Li2CO3 and LiOH [6], as in the reaction shown at Equation (1). In the coating process of battery</h2>
+      <h2>27.2.  TiO2, AlF3, Al2O3, SiO2, and AlPO4 have been suggested as suitable coating materials for</h2>
+      <h2>27.3.  All reagents were purchased from Sinopharm Chemical Reagent Co., Ltd. (Shanghai,</h2>
+      <h2>27.4.  5% excess in a molar ratio. The mixture was heated at 450 C for 6 h, then calcined at 780 C for 12 h in oxygen at a heating rate of 2 C/min. NCA was prepared after crushing and sieving.</h2>
+      <h2>27.5.  The cathode material obtained was mixed thoroughly with ) milling in an agate</h2>
+      <h2>27.6.  2 h, which are expressed as NCA-0.25-400 C, NCA-0.25-500 C and NCA-0.25-600 C, respectively.</h2>
+      <h2>27.7.  Products calcined at 500</h2>
+      <h2>27.8.  C for 2 h are labeled as NCA-2, NCA-0.5 and NCA-0.25 with the molar ratio</h2>
+      <h2>27.9.  The phase of all samples were identified by X-ray diffraction (XRD, D2 Phaser, Bruker, Karlsruhe,</h2>
+      <h2>27.10.  The SEM images of NCA, NCA-0.25, NCA-0.5, and NCA-2 are shown in Figure 2 and it can</h2>
+      <h2>27.11.  Al with Ni and Co, and the actual Al content is smaller than 5%. Furthermore, the content of aluminum</h2>
+      <h2>27.12.  Supplementary Materials: The following are available online at www.mdpi.com/2076-3417/8/3/378/s1,</h2>
+      <h2>27.13.  NCA-0.25-400 C, NCA-0.25-500 C and NCA-0.25-600 C): blue, green and grey histograms correspond to</h2>
+      <h2>27.14.  NCA-0.25-600 C, respectively.</h2>
+      <h2>27.15.  Acknowledgments: We gratefully acknowledge financial supports from the Department of Science and</h2>
+      <h2>27.16.  Technology of Shandong Province (2017CXGC0503, 2016PT07), Shan Dong Economic and Information Technology Committee(201731917004).</h2>
+      <h2>27.17.  Author Contributions: Chunhua Song, Ying Wang and Chenglong Zhao conceived and designed the experiments;</h2>
+      <h2>27.18.  Wenge Wang, Huibin Zhang and Qiwei Tang performed the experiments; Chunhua Song, Ying Wang,</h2>
+      <h2>27.19.  Chenglong Zhao and Wenge Wang analyzed the data; Jinzhao Lv, Xianjun Du and Yanmeng Dou contributed reagents/materials/analysis tools; Chunhua Song, Wenge Wang and Huili Peng wrote the paper.</h2>
+      <h2>27.20.  Conflicts of Interest: The authors declare no conflict of interest.</h2>
+      <h2>27.21.  Degradation Process of LiNi0.8Co0.15Al0.05O2 Electrodes in Commercial Lithium Ion Batteries by Electronic</h2>
+      <h2>27.22.  Structure Investigations. ACS Appl. Mater. Interfaces 2015, 7, 19589–19600. [CrossRef] [PubMed]</h2>
+      <h2>27.23.  Watanabe, S.; Kinoshita, M.; Hosokawa, T.; Morigaki, K.; Nakura, K. Capacity fade of LiAlyNi1 x yCoxO2</h2>
+      <h2>27.24.  LiAlyNi1 x yCoxO2 cathode after cycle tests in restricted depth of discharge ranges). J. Power Sources</h2>
+      <h2>27.25.  Yoon, S.H.; Lee, C.W.; Bae, Y.S.; Hwang, I.Y.; Park, Y.K.; Song, J.H. Method of Preparation for Particle Growth</h2>
+      <h2>27.26.  Enhancement of LiNi0.8Co0.15Al0.05O2. Electrochem. Solid-State Lett. 2009, 12, A211–A214. [CrossRef]</h2>
+      <h2>27.27.  Dai, G.; Yu, M.; Shen, F.; Cao, J.; Ni, L.; Chen, Y.; Tang, Y. Improved cycling performance of</h2>
+      <h2>27.28.  Nurpeissova, A.; Choi, M.H.; Kim, J.S.; Myung, S.K.; Kim, S.S.; Sun, Y.K. Effect of titanium addition as nickel</h2>
+      <h2>27.29.  Zhang, L.; Luo, F.; Wang, J.; Guo, Y. Surface Coating and Electrochemical Properties of LiNi0.8Co0.15Al0.05O2</h2>
+      <h2>27.30.  Qin, C.; Cao, J.; Chen, J.; Dai, G.; Wu, T.; Chen, Y.; Tang, Y.; Li, A.; Chen, Y. Improvement of</h2>
+    </section2>
+    <section3>
+      <h3>27.1.  China). All chemicals were used without further purification. NiSO4 6H2O, CoSO4 7H2O, and</h3>
+      <h3>27.2.  The (Ni0.80Co0.15Al0.05)(OH)2 precursor and LiOH H2O were mixed thoroughly with LiOH H2O</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>28. Fibers</journaltitle>
+    <title>28. In Situ Produced Bacterial Cellulose Nanofiber-Based Hybrids for Nanocomposites</title>
+    <doi>28. 10.3390/fib5030031</doi>
+    <pubdate>28. 2017</pubdate>
+    <volume>28. 5</volume>
+    <issue>28. </issue>
+    <fpage>28. </fpage>
+    <lpage>28. </lpage>
+    <abstract>28. 1</abstract>
+    <keywords>
+      <keyword>28.1.  Bacterial cellulose (BC)</keyword>
+      <keyword>28.2.  in situ self-assembly approach</keyword>
+      <keyword>28.3.  bacterial cellulose-microfibrillated cellulose (BC-MFC) hybrid</keyword>
+      <keyword>28.4.  bacterial cellulose-sisal (BC-sisal) hybrid</keyword>
+      <keyword>28.5.  green composites</keyword>
+      <keyword>28.6.  microbond test</keyword>
+    </keywords>
+    <authors>
+      <author>28.1.  Kaiyan Qiu</author>
+      <author>28.2.  Anil Netravali</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>28.1.  1. Introduction</h1>
+      <h1>28.2.  2. Experimental</h1>
+    </section1>
+    <section2>
+      <h2>28.1.  Bacterial cellulose (BC) secreted by Acetobacter xylinum is considered to be a sustainable and</h2>
+      <h2>28.2.  BC-MFC hybrid (membrane) was designed to be fabricated using the in situ self-assembly approach</h2>
+      <h2>28.3.  SPI resin to obtain the best possible resin impregnation prior to curing it. BC, SPI resin, and BC-SPI</h2>
+      <h2>28.4.  BC-sisal hybrid (fibrous structure) was designed to be fabricated through in-situ self-assembly</h2>
+      <h2>28.5.  The mechanical properties (interfacial bond) of BC-sisal hybrid (fiber) with resin (SPI) were evaluated using the microbond method for interfacial shear strength (IFSS). The interfacial bond of sisal fiber with resin, as control, were also tested for comparison.</h2>
+      <h2>28.6.  D-mannitol. All chemicals used for preparation of agar plates and culture medium were obtained from</h2>
+      <h2>28.7.  Fisher Scientific (Fair Lawn, NJ, USA) and were used as received.</h2>
+      <h2>28.8.  The produced BC pellicles were harvested from the surface of the mannitol culture medium after</h2>
+      <h2>28.9.  NaOH at 90 C for 15 min, and then further rinsed with deionized water to remove all remaining microbial contaminants and obtain purified pellicles.</h2>
+      <h2>28.10.  MFC, as water based slurry (KY-100G) was received from Daicel Chemical Industries, Kita-Ku,</h2>
+      <h2>28.11.  Osaka, Japan. Homogeneous MFC containing culture medium was prepared by adding MFC (5% by</h2>
+      <h2>28.12.  The BC-MFC fibrous hybrid structure produced on the surface of the MFC-containing mannitol culture</h2>
+      <h2>28.13.  The BC-producing strain, extracted from the agar plate, was used to inoculate the mannitol culture</h2>
+      <h2>28.14.  The seed culture was incubated at 30 C and at 130 rpm on the same rotary shaker for two days.</h2>
+      <h2>28.15.  After that, 9 mL of the culture medium was inoculated into a 150-mL sisal-mannitol culture medium</h2>
+      <h2>28.16.  Pre-cured SPI resin was prepared prior to fabricating BC-MFC-SPI nanocomposites and</h2>
+      <h2>28.17.  BC-sisal-SPI microbond specimens. SPI powder and deionized water were initially mixed in a ratio of</h2>
+      <h2>28.18.  2.7.1. Tensile Test</h2>
+      <h2>28.19.  All specimens were tensile tested using an Instron universal tensile testing machine (Instron, model 5566, Canton, MA, USA). A precise cutter was used to cut the specimens of dried BC-MFC hybrid composites, BC-SPI nanocomposites, BC-MFC-SPI nancomposites, and their</h2>
+      <h2>28.20.  ASTM D-882-02, the Young0s modulus values of all specimens were determined from the tensile test</h2>
+      <h2>28.21.  Eight successful tensile tests were conducted for each kind of specimens. All specimens were conditioned at the ASTM conditions of 21 C and 65% RH for three days before carrying out the tensile tests.</h2>
+      <h2>28.22.  2.7.2. Interfacial Shear Strength (IFSS) Test</h2>
+      <h2>28.23.  IFSS gtaeusgtse wlenegrteh coafr3r0iemdmouantduasisntrgainmriactreoobfo0n.0d2/mminethwoasdmtoainitnaivneedstifgorataell tshpeecismiseanls.fiEbigehrt/SPI resin</h2>
+      <h2>28.24.  MA, USA)o,busesrivnegd ato mshircirnokvinisdei.amTheteermanicdrboevciosmeepslmaatellserwanedresmpalallceredin jduiasmtaetbeorvweiththweamtericervoapboeraadtioann.d brought microbead debonded.</h2>
+      <h2>28.25.  The following equation</h2>
+      <h2>28.26.  After that the fiber</h2>
+      <h2>28.27.  Eight successful tests were conducted to obtain average</h2>
+      <h2>28.28.  MFC and sisal fiber to the culture media,</h2>
+      <h2>28.29.  BC nanofibers self-assembled on top of the sisal fibers get embedded in the resin during composite</h2>
+      <h2>28.30.  IFSS, as mentioned earlier, is that some of the BC nanofibers on the fiber surface can get embedded or incorporated into the resin providing mechanical contribution.</h2>
+      <h2>28.31.  Acknowledgments: This work was partly funded by the National Textile Center (NTC) and the Wallace</h2>
+      <h2>28.32.  Author Contributions: K.Q. and A.N.N. conceived and designed the experiments; K.Q. performed the</h2>
+      <h2>28.33.  Conflicts of Interest: The authors declare no conflict of interest.</h2>
+    </section2>
+    <section3>
+      <h3>28.1.  Due to their excellent tensile properties, several studies on BC-based hybrids and nanocomposites</h3>
+      <h3>28.2.  Microfibrillated cellulose (MFC) has been commonly produced by mechanical treatment, such as</h3>
+      <h3>28.3.  Due to their high molecular orientation and high crystallinity, the nanofibrils in the MFC have high</h3>
+      <h3>28.4.  Soy protein isolate (SPI) is an abundant and inexpensive natural resource with protein content</h3>
+      <h3>28.5.  Their properties can be further enhanced by nanoadditives, such as nanoclay, nanofibrils, etc.</h3>
+      <h3>28.6.  In the present study, both of BC-MFC and BC-sisal hybrid fibrous structures were prepared using</h3>
+      <h3>28.7.  Higher fiber/resin IFSS can be expected to result in improved tensile properties of the nanocomposites.</h3>
+      <h3>28.8.  The present study also describes how MFC and sisal fibers can be utilized as substrates to</h3>
+      <h3>28.9.  Once fully developed, these green composites could be suitable for many applications where conventional, petroleum-based composites are currently used, including high-end racket frames, ski poles, circuit boards, automobile interiors, etc.</h3>
+      <h3>28.10.  Acetobacter xylinum, ATCC 23769, was purchased from the American Type Culture Collection</h3>
+      <h3>28.11.  The BC-modified sisal fibers were then harvested and purified by rinsing with water and 1% (w/v)</h3>
+      <h3>28.12.  1:15 (w/w). Glycerol (plasticizer) was added (15% by weight of SPI) and pH value of the solution was</h3>
+      <h3>28.13.  The embedded length (L) and</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>29. Fibers</journaltitle>
+    <title>29. Influence of Stem Diameter on Fiber Diameter and the Mechanical Properties of Technical Flax Fibers from Linseed Flax</title>
+    <doi>29. 10.3390/fib6010010</doi>
+    <pubdate>29. 2018</pubdate>
+    <volume>29. 6</volume>
+    <issue>29. </issue>
+    <fpage>29. </fpage>
+    <lpage>29. </lpage>
+    <abstract>29. 1</abstract>
+    <keywords>
+      <keyword>29.1.  flax fiber</keyword>
+      <keyword>29.2.  technical fiber</keyword>
+      <keyword>29.3.  diameter variation</keyword>
+      <keyword>29.4.  statistical analysis</keyword>
+      <keyword>29.5.  Welch's t-test</keyword>
+      <keyword>29.6.  tensile strength</keyword>
+      <keyword>29.7.  Young's modulus</keyword>
+      <keyword>29.8.  strain</keyword>
+    </keywords>
+    <authors>
+      <author>29.1.  Mercedes Alcock</author>
+      <author>29.2.  Shabbir Ahmed</author>
+      <author>29.3.  Shawna DuCharme</author>
+      <author>29.4.  Chad A. Ulven</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>29.1.  1. Introduction</h1>
+      <h1>29.2.  2. Experimental Section</h1>
+      <h1>29.3.  3. Results and Discussion</h1>
+      <h1>29.4.  4. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>29.1.  1.1. Background</h2>
+      <h2>29.2.  1.2. Purpose of Study</h2>
+      <h2>29.3.  2.1. Experiment Overview</h2>
+      <h2>29.4.  2.2. Materials</h2>
+      <h2>29.5.  2.3. Methods</h2>
+      <h2>29.6.  3.1. Variation in Ultimate Tensile Strength</h2>
+      <h2>29.7.  3.2. Variation in Young’s Modulus</h2>
+      <h2>29.8.  3.3. Variation in Failure Strain</h2>
+      <h2>29.9.  3.5. Overall Discussion</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>30. Appl. Sci.</journaltitle>
+    <title>30. Influence of Substrate Stage Temperature and Rotation Rate on the Magneto-Optical Quality of RF-Sputtered Bi2.1Dy0.9Fe3.9Ga1.1O12 Garnet Thin Films</title>
+    <doi>30. 10.3390/app8030456</doi>
+    <pubdate>30. 2018</pubdate>
+    <volume>30. 8</volume>
+    <issue>30. </issue>
+    <fpage>30. </fpage>
+    <lpage>30. </lpage>
+    <abstract>30. 1</abstract>
+    <keywords>
+      <keyword>30.1.  RF magnetron sputtering</keyword>
+      <keyword>30.2.  process parameters</keyword>
+      <keyword>30.3.  substrate temperature</keyword>
+      <keyword>30.4.  Faraday rotation</keyword>
+      <keyword>30.5.  MO garnets</keyword>
+      <keyword>30.6.  magneto-photonics</keyword>
+    </keywords>
+    <authors>
+      <author>30.1.  M. Nur-E-Alam</author>
+      <author>30.2.  Mikhail Vasiliev</author>
+      <author>30.3.  Kamal Alameh</author>
+    </authors>
+    <affiliations>
+      <institution>30.1.  Electron Science Research Institute, Edith Cowan University</institution>
+      <country>30.1.  Australia</country>
+    </affiliations>
+    <section1>
+      <h1>30.1.  1. Introduction</h1>
+      <h1>30.2.  2. Materials and Methods</h1>
+      <h1>30.3.  3. Results and Discussion</h1>
+      <h1>30.4.  4. Conclusions</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>31. Entropy</journaltitle>
+    <title>31. Leakage Evaluation by Virtual Entropy Generation (VEG) Method</title>
+    <doi>31. 10.3390/e20010014</doi>
+    <pubdate>31. 2018</pubdate>
+    <volume>31. 20</volume>
+    <issue>31. </issue>
+    <fpage>31. </fpage>
+    <lpage>31. </lpage>
+    <abstract>31. 1</abstract>
+    <keywords>
+      <keyword>31.1.  virtual entropy generation (VEG) method</keyword>
+      <keyword>31.2.  leakage evaluation</keyword>
+      <keyword>31.3.  micro/nano-scale crack</keyword>
+    </keywords>
+    <authors>
+      <author>31.1.  Zhichao Zhang</author>
+      <author>31.2.  Corina Drapaca</author>
+      <author>31.3.  Zhifeng Zhang</author>
+      <author>31.4.  Shuaifang Zhang</author>
+      <author>31.5.  Shimei Sun</author>
+      <author>31.6.  Hui Liu</author>
+    </authors>
+    <affiliations>
+      <institution>31.1.  Department of Engineering Science and Mechanics, Pennsylvania State University</institution>
+      <institution>31.2.  Department of Mechanical and Nuclear Engineering, Pennsylvania State University</institution>
+      <institution>31.3.  School of Municipal and Environmental Engineering, Jilin Jianzhu University</institution>
+      <country>31.1.  USA</country>
+      <country>31.2.  USA</country>
+      <country>31.3.  China</country>
+    </affiliations>
+    <section1>
+      <h1>31.1.  1. Introduction</h1>
+      <h1>31.2.  3. Analytical Model</h1>
+      <h1>31.3.  Unit Conversions</h1>
+    </section1>
+    <section2>
+      <h2>31.1.  Leakage is a gradual escape of a current from a transportation channel or a container. The current</h2>
+      <h2>31.2.  Leakage plays different roles, depending on the application. A minimized leakage rate is required</h2>
+      <h2>31.3.  Towards a better process control of the leakage, an important strategy is to design a reasonable</h2>
+      <h2>31.4.  In addition, traditional leakage criterion are hardly valid in multiscale leakage evaluation.</h2>
+      <h2>31.5.  Recently, the virtual entropy generation (VEG) method has been used in the design of process</h2>
+      <h2>31.6.  Under the constraint of a non-negative entropy generation measurement for a real-life thermodynamic</h2>
+      <h2>31.7.  From the thermodynamic perspective, leakage happens in a process such as heat transfer [6],</h2>
+      <h2>31.8.  VEG method analytically. The leakage induced virtual entropy generation was controlled by the flow process entropy generation. We used published experimental data and numerical simulations to show</h2>
+      <h2>31.9.  The virtual entropy generation method introduces “positive entropy generation” as a criterion (the solid</h2>
+      <h2>31.10.  A mathematical representation of the VEG method applied to leakage is given by</h2>
+      <h2>31.11.  Fluid leakage in a pipe flow is one of the most common forms of leakage caused by cracks in the</h2>
+      <h2>31.12.  Further, Equation (3) can be decomposed as</h2>
+      <h2>31.13.  Irreversibility ———— VEG</h2>
+      <h2>31.14.  In Equation (4), the first term on the right-hand side expresses the irreversibility of the flow</h2>
+      <h2>31.15.  An “ideal reversible” pipe transportation process has a positive entropy generation due to</h2>
+      <h2>31.16.  From the virtual entropy generation perspective, the invalid “measured entropy generation” is an</h2>
+      <h2>31.17.  According to the first law of thermodynamics, the enthalpy for a single-phase flow can be written as</h2>
+      <h2>31.18.  Here, DP is the pressure drop across the inlet and outlet. The pressure at outlet [12] changes due to</h2>
+      <h2>31.19.  Equation (8) is still valid. Thus Equation (8) is valid for both incompressible and compressible fluids.</h2>
+      <h2>31.20.  The velocity of fluid after the leakage site decreases. Thus, the pressure drop across the leakage</h2>
+      <h2>31.21.  Thus, the entropy generation measured is already negative at the critical mass leakage rate.</h2>
+      <h2>31.22.  As we noticed that Equations (1)–(10) have no scale limit. However, for a leakage problem, cracks are</h2>
+      <h2>31.23.  Standard CFD solver Ansys Fluent.</h2>
+      <h2>31.24.  Ma ~0.3. Further research on the high Mach number and compressibility influence can be seen in [13].</h2>
+      <h2>31.25.  In this part, based on the virtual entropy generation (VEG) analysis above, we introduced a</h2>
+      <h2>31.26.  Leak detection by pressure wave has a limit of detectable leakage due to the attenuation of the</h2>
+      <h2>31.27.  The VEG leakage coefficient is Wv 0.032.</h2>
+      <h2>31.28.  Millions of dollars are lost due to leakage in natural gas transportation. The leakage rate in natural</h2>
+      <h2>31.29.  Excessive pressure drop in air preheater can cause a plant shutdown. In an air preheater [18],</h2>
+      <h2>31.30.  All the data above were summarized in Figure 6a. These data were ranked from (a) to (f) in</h2>
+      <h2>31.31.  From the VEG perspective, the leakage is very serious, non-physical, and unacceptable. For other non-incident leakages, the ratio should be smaller than unity. If this coefficient is close to one, that means the leakage is serious. Otherwise, if it is close to zero, like the capillary exchange, the leakage is negligible. Most industry leakages are much higher than capillary exchange in biology.</h2>
+      <h2>31.32.  Also, VEG methods might help in finding new evaluation parameters in other forms of leakages such</h2>
+      <h2>31.33.  Author CCoonnttrriibbuuttiioonnss:: ZZhhiicchhaaooZZhhaannggaannddZZhihfiefnegngZhZahnagncgocnocneicveeivdeadndanddesdigesniegdnethdetshteudstyu; dZyh;ifZehngifeZnhganZghandg</h2>
+      <h2>31.34.  Shimei Sun, and Hui Liu analyzed the data and conducted the evaluation of leakages; Zhichao Zhang,</h2>
+      <h2>31.35.  Corina Drapaca, and Zhifeng Zhang wrote the paper. All authors read and approved the paper.</h2>
+      <h2>31.36.  Conflicts of Interest: The authors declare no conflict of interest.</h2>
+      <h2>31.37.  Leakage rate</h2>
+    </section2>
+    <section3>
+      <h3>31.1.  In the pflrueidseflnotwr,eesleecatrricchp,owaelretaraknasgmeisesivonal[u7]a, toironinfcorrmiteatriioonntriannsafers[i8n]g.Dleefpiniipnge awleaaskadgeercirviteedriounsing the</h3>
+      <h3>31.2.  Thus, the entropy generation measured is already negative at the critical mass leakage rate. As</h3>
+      <h3>31.3.  In Figure 2a, the relation among</h3>
+      <h3>31.4.  In this part, Computational Fluid Dynamic (CFD) simulations were conducted to show the</h3>
+      <h3>31.5.  In the simulation, the pressure drop rate (α), which is the x-axis, was achieved by setting the</h3>
+      <h3>31.6.  By setting the pressure difference, the mass flow rate of two outlets (outlet 1 and leakage outlet</h3>
+      <h3>31.7.  In this part, based on the virtual entropy generation (VEG) analysis above, we introduced a VEG</h3>
+      <h3>31.8.  The fluid exchange for a normal person maintained at a level of</h3>
+      <h3>31.9.  Leakage is a significant source of energy waste in industry. Evaluating the economic efficiency</h3>
+      <h3>31.10.  In this paper, we proposed a virtual entropy generation (VEG) criterion for a multiscale leakage</h3>
+      <h3>31.11.  DDeeppaarrttmmeenntt ooff EEnnggiinneeeerriinngg SScciieennccee aanndd MMeecchhaanniiccss,, aatt PPeennnnssyyllvvaanniiaa SSttaattee UUnniivveerrssiittyy..</h3>
+      <h3>31.12.  PLreesaskuargee rate</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>32. Fibers</journaltitle>
+    <title>32. Luminescent Properties of Oxazine 170 Perchlorate Doped PMMA Fiber</title>
+    <doi>32. 10.3390/fib5020015</doi>
+    <pubdate>32. 2017</pubdate>
+    <volume>32. 5</volume>
+    <issue>32. </issue>
+    <fpage>32. 2</fpage>
+    <lpage>32. 10</lpage>
+    <abstract>32. 1</abstract>
+    <keywords>
+      <keyword>32.1.  polymer optical fiber</keyword>
+      <keyword>32.2.  poly(methyl methacrylate)</keyword>
+      <keyword>32.3.  Oxazine 170 perchlorate</keyword>
+      <keyword>32.4.  fluorescence</keyword>
+    </keywords>
+    <authors/>
+    <affiliations>
+      <institution>32.1.  Bialystok University of Technology</institution>
+      <country>32.1.  Poland</country>
+    </affiliations>
+    <section1>
+      <h1>32.1.  1. Introduction</h1>
+      <h1>32.2.  2. Materials and Methods</h1>
+      <h1>32.3.  4. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>32.1.  1.1. Organic Dyes Doping</h2>
+      <h2>32.2.  1.4. Oxazine 170 Perchlorate Doped PMMA</h2>
+      <h2>32.3.  The longer wa fibers is</h2>
+      <h2>32.4.  Conflicts of Interest: The author declares no conflict of interest.</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>33. Separations</journaltitle>
+    <title>33. Minor Wheat Protein Fractions Analysis by Using Capillary Zone Electrophoresis</title>
+    <doi>33. 10.3390/separations3020017</doi>
+    <pubdate>33. 2016</pubdate>
+    <volume>33. 3</volume>
+    <issue>33. </issue>
+    <fpage>33. </fpage>
+    <lpage>33. </lpage>
+    <abstract>33. 1</abstract>
+    <keywords>
+      <keyword>33.1.  alpha-amylase inhibitors</keyword>
+      <keyword>33.2.  capillary zone electrophoresis</keyword>
+      <keyword>33.3.  protein selectively extracted with chloroform/methanol (CM-proteins)</keyword>
+      <keyword>33.4.  commercial cultivars</keyword>
+      <keyword>33.5.  Triticum species (spp</keyword>
+      <keyword>33.6.  )</keyword>
+      <keyword>33.7.  wheat allergens</keyword>
+    </keywords>
+    <authors>
+      <author>33.1.  Angela Rosa Piergiovanni</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>33.1.  1. Introduction</h1>
+      <h1>33.2.  2. Experimental Section</h1>
+      <h1>33.3.  3. Results and Discussion</h1>
+      <h1>33.4.  4. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>33.1.  2.1. Plant Materials</h2>
+      <h2>33.2.  2.2. Extraction of CM Protein Fraction</h2>
+      <h2>33.3.  2.3. Capillary Zone Electrophoresis (CZE)</h2>
+      <h2>33.4.  2.4. Chemicals</h2>
+      <h2>33.5.  3.1. Polyacrylamide Gel Electrophoresis and Capillary Zone Electrophoresis of CM Extracts</h2>
+      <h2>33.6.  3.2. Qualitative and Quantitative Analysis of CM Peaks</h2>
+      <h2>33.7.  Chinese spring  1.2 </h2>
+    </section2>
+    <section3>
+      <h3>33.1.  The  acquired  experimental  evidence  strongly  suggests  that  CE  combined  with  MS  detection </h3>
+      <h3>33.2.  MALDI mass spectrum, while MALDI‐TOF could give the amino acid sequence of peptides. </h3>
+      <h3>33.3.  The analysis of wheat commercial varieties carried out in this study showed that an invariable </h3>
+      <h3>33.4.  Three main peaks are present in the profile of tetraploid varieties (Figure 2) such as the durum </h3>
+      <h3>33.5.  The  invariance  of  the  number  of  main  peaks  is  not  surprising  because  genes  coding  for  the </h3>
+      <h3>33.6.  The  invariance  of  the  number  of  main  peaks  is  not  surprising  because  genes  coding  for  the </h3>
+      <h3>33.7.  The  nature  of  the  minor  peaks  with  migration  time more  than  6 min,  mainly observed in  the </h3>
+      <h3>33.8.  The  nature  of  the  minor  peaks  with  migration  time more  than  6 min,  mainly observed in  the </h3>
+      <h3>33.9.  SCeHparCatli3o:nMs 2e0O16H,3 ,e1x7tracts, a precipitate was obtained after storing at −20 °C for 4 h.</h3>
+      <h3>33.10.  It should be underlined that this shoulder was detected in electrophoregrams of all the exaploid </h3>
+      <h3>33.11.  Actually, the removal of the late migrating peaks is not crucial to obtain good analyses due to the </h3>
+      <h3>33.12.  CM proteins. </h3>
+      <h3>33.13.  In  order  to  attempt  the  identification  of  CM  peaks  detectable  with  the  described  protocol, </h3>
+      <h3>33.14.  Skenpoarwatinon tsh2a01t 6α,3‐,A17Is have an important role in plant defense and protect the starch in the endosp7eorf m10  against degradation [3,4]. The used standards were the α‐amylase inhibitor (α‐AI) type I and III, both </h3>
+      <h3>33.15.  Due to the good peak separation under the described CZE condition of analysis, the possibility </h3>
+      <h3>33.16.  Lys‐Lys‐Lys); x is the α‐AI concentration. </h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>34. Entropy</journaltitle>
+    <title>34. Numerical Study of Entropy Generation in Mixed MHD Convection in a Square Lid-Driven Cavity Filled with Darcy-Brinkman-Forchheimer Porous Medium</title>
+    <doi>34. 10.3390/e18120436</doi>
+    <pubdate>34. 2016</pubdate>
+    <volume>34. 18</volume>
+    <issue>34. </issue>
+    <fpage>34. 3</fpage>
+    <lpage>34. 12</lpage>
+    <abstract>34. 1</abstract>
+    <keywords>
+      <keyword>34.1.  mixed convection</keyword>
+      <keyword>34.2.  cavity</keyword>
+      <keyword>34.3.  porous media</keyword>
+      <keyword>34.4.  entropy generation</keyword>
+      <keyword>34.5.  numerical method</keyword>
+    </keywords>
+    <authors>
+      <author>34.1.  Rahma Bouabda</author>
+      <author>34.2.  Mounir Bouabid</author>
+      <author>34.3.  Ammar Ben Brahim</author>
+      <author>34.4.  Mourad Magherbi</author>
+    </authors>
+    <affiliations>
+      <institution>34.1.  Chemical Engineering Department, High Institute of Applied Sciences and Technology, Gabès University</institution>
+      <institution>34.2.  Chemical and Process Engineering Department, Engineers National School of Gabès, Applied Thermodynamics Unit, Gabès University</institution>
+      <country>34.1.  Tunisia</country>
+      <country>34.2.  Tunisia</country>
+    </affiliations>
+    <section1>
+      <h1>34.1.  1. Introduction</h1>
+      <h1>34.2.  2. Mathematical Formulation</h1>
+      <h1>34.3.  3. Second Law Formulation</h1>
+      <h1>34.4.  Muthtamilselvan et al. (2009) June (2001)</h1>
+      <h1>34.5.  4. Numerical Method</h1>
+      <h1>34.6.  5. ReEsnutrlotpsy 2a0n16d, 1D8, i4s36cussion</h1>
+      <h1>34.7.  Nomenclature</h1>
+    </section1>
+    <section2>
+      <h2>34.1.  Boundary conditions At the vertical walls</h2>
+      <h2>34.2.  At the horizontal active walls</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>35. Separations</journaltitle>
+    <title>35. On the Extraction of Antibiotics from Shrimps Prior to Chromatographic Analysis</title>
+    <doi>35. 10.3390/chromatography3010008</doi>
+    <pubdate>35. 2016</pubdate>
+    <volume>35. 3</volume>
+    <issue>35. </issue>
+    <fpage>35. 2</fpage>
+    <lpage>35. 43</lpage>
+    <abstract>35. 1</abstract>
+    <keywords>
+      <keyword>35.1.  sample preparation</keyword>
+      <keyword>35.2.  extraction</keyword>
+      <keyword>35.3.  aquaculture</keyword>
+      <keyword>35.4.  shrimps</keyword>
+      <keyword>35.5.  chromatography</keyword>
+      <keyword>35.6.  antibiotics</keyword>
+    </keywords>
+    <authors>
+      <author>35.1.  Victoria Samanidou</author>
+      <author>35.2.  Dimitrios Bitas</author>
+      <author>35.3.  Stamatia Charitonos</author>
+      <author>35.4.  Ioannis Papadoyannis</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>35.1.  1. Introduction</h1>
+      <h1>35.2.  2. Antibiotics</h1>
+      <h1>35.3.  3. Trends in the Extraction of Antibiotics from Shrimps</h1>
+      <h1>35.4.  4. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>35.1.  Norway,  with  the  United  States  presenting  the  highest  consumption  and,  as  a  result,  being  the  The  increased  aquaculture  practice  has  resulted  in  increased  levels  of  infections  among  the </h2>
+      <h2>35.2.  Antibiotics are used in aquaculture in order to control the infection outbreaks. They are natural, </h2>
+      <h2>35.3.  The most effective and useful antibacterial agents inhibit or prevent the development of the cell </h2>
+      <h2>35.4.  Figure 2. General chemical structure of quinolones. </h2>
+      <h2>35.5.  Azithromycin </h2>
+      <h2>35.6.  The MRL set by the Committee for veterinary medicinal products is 100 μg/kg for the parent </h2>
+      <h2>35.7.  Most common nitrofurans are furazolidone, furaltadone, nitrofurazone and nitrofurantoin and </h2>
+      <h2>35.8.  Since 1993, they have been banned in most of the countries in the world, but they are still used in  gastrointestinal  infections  [25]  or  against  Salmonella  sp.,  Mycoplasma  sp.  and  some  protozoa  [26]. </h2>
+      <h2>35.9.  Shrimp tissue contains high amounts of protein. It also contains unsaturated fatty acids, such as </h2>
+      <h2>35.10.  To  begin  with,  quinolones  are  mostly  determined  in  shrimps  after  using  SPE  or  SLE  as  the </h2>
+      <h2>35.11.  The  class  of  amphenicols  is  determined  by  using  a  wide  variety  of  sample  preparation </h2>
+      <h2>35.12.  For  the  class  of  sulfonamides,  SPE  is  the  sample  preparation  of  choice,  followed  by  SLE.  In </h2>
+      <h2>35.13.  The  determination  of  nitrofurans  is  achieved  by  determining  the  derivatives  of  the  drugs. </h2>
+      <h2>35.14.  Derivatization takes place before or after the sample preparation. Derivatization is preformed after </h2>
+      <h2>35.15.  Enrofloxacin  and  ciprofloxacin  were  extracted  using  10  mL  of  acetonitrile.  The  extract  was </h2>
+      <h2>35.16.  Divinylbenzene‐Reverse Phase sorbent) preconditioned twice with 1 mL of ethanol, 1 mL of water </h2>
+      <h2>35.17.  Polaris C18A 3 μm (150 × 2.0 mm) with a Chromsep guard column SS (10 × 2.0 mm), and the mobile </h2>
+    </section2>
+    <section3>
+      <h3>35.1.  Figure 1. Sample preparation techniques used in the extraction of antibiotics from shrimps. </h3>
+      <h3>35.2.  No. T3h7/e2 0m10a xfiomr udman oreflsoixdaucei nl,i menitr oifnlo mxaucsincl‐ec itpirsosufleo xaacccionr danindg o txoo ltihneic  Caocimd mis i1ss0i0o nμ gR/keg u[1la4t]i.o n  (EU)  </h3>
+      <h3>35.3.  The structure of chloramphenicol is shown in Figure 4. </h3>
+      <h3>35.4.  Chloramphenicol </h3>
+      <h3>35.5.  Florfenicol </h3>
+      <h3>35.6.  Thiamphenicol </h3>
+      <h3>35.7.  The maximum residue limit in muscle tissue according to the Commission Regulation (EU) No. </h3>
+      <h3>35.8.  Macrolides  are  a  category  of  semi‐synthetic  medium‐spectrum  with  a  macrolyclic  lactone </h3>
+      <h3>35.9.  Macrolides  were  discovered  in  natural  products  in  1950.  Especially  erythromycin  was </h3>
+      <h3>35.10.  The antibacterial activity of macrolides is due to their binding to the subunit 50S in the bacterial </h3>
+      <h3>35.11.  The MRL set by the Committee for veterinary medicinal products is 200 μg/kg in muscles, liver </h3>
+      <h3>35.12.  Sulfonamides are derivatives of para‐aminobenzenesulfonamide and their structure is similar </h3>
+      <h3>35.13.  SLE is onacdediatigoani, nthetrhe earpe sroimmea srtyudpierse ifne  wrahbiclhe a tceocmhbniniqatuioen, offo SlLloE wanedd LLbEy isS uPseEd. foAr thdei fefxetrraecntitona opfp roach of</h3>
+      <h3>35.14.  For the cInla  tshse  ofoflloswulinfog npaamragidraepsh,s, SaPnEalyitiscatl hmeetshaomdoplolgeieps rfoerp  tahrea  teixotrnactoiofn cohf oaincteib,ioftoiclsl ofrwome d  by SLE.</h3>
+      <h3>35.15.  3.1. ExtracrteiospneoctfivQeluyi. nAonloanlyessis  was  carried  out  by  an  LC‐MS/MS  system,  separation  was  achieved  by  a </h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>36. Fibers</journaltitle>
+    <title>36. Performance of Hybrid Reinforced Concrete Beam Column Joint: A Critical Review</title>
+    <doi>36. 10.3390/fib4020013</doi>
+    <pubdate>36. 2016</pubdate>
+    <volume>36. 4</volume>
+    <issue>36. </issue>
+    <fpage>36. 2</fpage>
+    <lpage>36. 13</lpage>
+    <abstract>36. 1</abstract>
+    <keywords>
+      <keyword>36.1.  SMA</keyword>
+      <keyword>36.2.  GFRP</keyword>
+      <keyword>36.3.  beam-column joint</keyword>
+      <keyword>36.4.  seismic</keyword>
+    </keywords>
+    <authors>
+      <author>36.1.  Md Rashedul Kabir</author>
+      <author>36.2.  M. Shahria Alam</author>
+      <author>36.3.  Aly M. Said</author>
+      <author>36.4.  Achraf Ayad</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>36.1.  1. Introduction</h1>
+      <h1>36.2.  2. Research Significance</h1>
+      <h1>36.3.  3. Scope of Previous Work</h1>
+      <h1>36.4.  4. Experimental Program</h1>
+      <h1>36.5.  5. Materials and Specimen Details</h1>
+      <h1>36.6.  6. Test Setup and Loading</h1>
+      <h1>36.7.  7. Analysis of Results</h1>
+      <h1>36.8.  8. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>36.1.  FRP reinforcement also provides the option of easily embedding fiber optic strain measurement</h2>
+      <h2>36.2.  Nonetheless, FRP materials often exhibit lower ductility and weaker bond to concrete compared</h2>
+      <h2>36.3.  FRP reinforced beam behave similarly in terms of section mechanics. Steel reinforced concrete strength</h2>
+      <h2>36.4.  In this study, the performance of steel RC frame, steel-free FRP-RC, SMA/Steel and SMA/FRP-RC frame under reversed cyclic loading are compared from previously tested specimens. Scaled down beam-column joints (BCJ) of different reinforcement configurations were tested under reversed cyclic loading. The main objective of this study is to critically review the seismic behavior of a concrete BCJ</h2>
+      <h2>36.5.  FRP-RC BCJ offers better corrosion resistance yet is prone brittle failure. To balance both corrosion and performance criteria, SMA/FRP hybrid reinforcement configuration can be considered as an effective alternative to traditional BCJ construction.</h2>
+      <h2>36.6.  RC structures. Hybrid FRP-RC structures where FRP rebar incorporated with another ductile material</h2>
+      <h2>36.7.  SMA/FRP and SMA/Steel to mitigate problems associated with steel and FRP reinforcement.</h2>
+      <h2>36.8.  FRP NEFMAC (new fiber composite material for reinforcing concrete) grids can solve the strength</h2>
+      <h2>36.9.  Mirmiran et al. [26] stated that low stiffness of FRP bars cause instability failure in RC column and</h2>
+      <h2>36.10.  Two BCJ specimens (JBC1 and JBC4) from Nehdi et al. [33], one (JBC2) from Alam et al. [37] and</h2>
+      <h2>36.11.  SMA at the plastic hinge region of the beam along with GFRP bar in the remaining portion of the</h2>
+      <h2>36.12.  The exterior beam-column joint is isolated from an eight-story RC building with moment resisting</h2>
+      <h2>36.13.  Basic properties of materials and geometric details of each specimen are presented in Table 1.</h2>
+      <h2>36.14.  Concrete is the only common material. To make these experimental results comparable, material</h2>
+      <h2>36.15.  The geometry, longitudinal and transverse reinforcement arrangements are similar for all four</h2>
+      <h2>36.16.  SMA bar to make provision for coupler in the joint. A new generation mechanical-adhesive type bar</h2>
+      <h2>36.17.  Stirrups are spaced 80 mm in the joint region up to distance 500 mm above beam surface.</h2>
+      <h2>36.18.  For rest of the column length, the stirrup spacing is 115 mm in all specimens. Similarly, ties in the</h2>
+      <h2>36.19.  JBC2, M10 (diameter: 11.3 mm) closed steel stirrup and for JBC4, #3 (diameter: 9.5 mm) GFRP closed</h2>
+      <h2>36.20.  Beam tip load in JBC specimens consists of a load-controlled phase followed by a</h2>
+      <h2>36.21.  4% story drift.</h2>
+      <h2>36.22.  FiguFriegu3riell3usitllruastetrsastetosrsytodrryifdtriefltarteiolantsihonipshwi pithwtihthe tnhoermnoarlmizaeldizbeedabmeatmip tloipa dlooafdthofetshpeescpimeceinmse.ns.</h2>
+      <h2>36.23.  It is clear from Figure 3 that JBC1 experienced higher residual drift (1.5%) compared to that of JBC2</h2>
+      <h2>36.24.  SMA at the plastic hinge region allows the specimen to undergo large strain but experience negligible</h2>
+      <h2>36.25.  The beam-tip load versus story drift envelope of all the specimens are shown in Figure 4. JBC1,</h2>
+      <h2>36.26.  FiguFriegu4r.eB4e.aBmeamtiptilpoalodadvevresrususssstotorryyddrriifftt eennvveeloloppeeofotfhtehteestetesdtesdpescpimeceinmse.ns.</h2>
+      <h2>36.27.  JBC4. At higher story drift (4%), GFRP-RC and SMA/FRP specimens displayed comparable results.</h2>
+      <h2>36.28.  The first flexural crack (FFC) in specimen JBC1 was observed at a beam tip load of 11.7 kN</h2>
+      <h2>36.29.  FirstDflerxifutraaltCfirrasctkdLioaagdo(nkaNl)crack (%11).7</h2>
+      <h2>36.30.  Drift at first flYexiuerladl lcoraacdk ((%kN))</h2>
+      <h2>36.31.  DisplacemeLntoaatdyiaetld3l%oaddr(miftm()kN)</h2>
+      <h2>36.32.  An insight into the performance of novel hybrid structural configurations for beam column joint subassemblages is presented in the paper for potential development of new structural solutions that are corrosion-free ductile RC structures. Scrutinizing and analyzing the experimental test results, the following conclusions can be drawn.</h2>
+      <h2>36.33.  The GFRP reinforced BCJ showed similar energy dissipation to SMA/FRP BCJ specimen at</h2>
+      <h2>36.34.  Specimen JBC4 dissipated comparable amount of energy to that of JBC2. Nevertheless, the</h2>
+      <h2>36.35.  Specimen JBC2 outperformed JBC1 in terms of residual drift after unloading. JBC4 failed to do so</h2>
+      <h2>36.36.  SMA/FRP BCJ specimen displayed a force-displacement hysteresis similar to that of the steel</h2>
+      <h2>36.37.  RC BCJ with reduced stiffness and comparable residual drift. Inclusion of SE SMA at the plastic</h2>
+      <h2>36.38.  FRP specimen is likely to show crack at lower load and drift ratio than steel or SMA incorporated</h2>
+      <h2>36.39.  Author Contributions: All authors contributed extensively to the study presented in this paper. Original</h2>
+      <h2>36.40.  Conflicts of Interest: The authors declare no conflict of interest.</h2>
+    </section2>
+    <section3>
+      <h3>36.1.  Test specimen size is scaled downed by 3/4 and the acting force on joint was reduced by (3/4)2 to</h3>
+      <h3>36.2.  G10 (77 mm2 of cross-sectional area) stirrups. Reinforcement details of these specimens are shown in</h3>
+      <h3>36.3.  JBC2 and JBC4 dissipated 2000 kN-m/m2 and 2300 kN-m/m2 of normalized energy respectively.</h3>
+      <h3>36.4.  ThoughihghGeFrRdPrifBt CraJtisot.aArttsawsittohrysidmriifltaorfe4n%er,gJByCd4isdsiispsiaptaiotendc5a3p0a0ckitNy-lmik/ems2toefelenBeCrgJya,sJBshCo2wdnissiinpaFtiegdure 5,</h3>
+      <h3>36.5.  JBC2.BTChJ.eCcoomrrpeasrpaotinvdeitnesgt breesaumltstiopf alollatdhewsapsec1i0m.5enksNar,e10sh%o wlonwinerTtahbalen 2t.hGatFoRfPaBrCeJgiuslparrosnteeetol-rcerainckforced</h3>
+      <h3>36.6.  4% drreifbtatroinspheigchimdeenmaJ4n.dSairnecaes GcaFnRpPoshsaibsl yinreeldausctiectfhaeilpurroeblteemnd.Eenvecny,trheopulgahciSnMgAw/FitRhPSBMCAJs/hSotweeeldrebar</h3>
+      <h3>36.7.  Drift at yieldalota4d%(%d)rift (kN)</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>37. Entropy</journaltitle>
+    <title>37. Performance of Segmented Thermoelectric Cooler Micro-Elements with Different Geometric Shapes and Temperature-Dependent Properties</title>
+    <doi>37. 10.3390/e20020118</doi>
+    <pubdate>37. 2018</pubdate>
+    <volume>37. 20</volume>
+    <issue>37. </issue>
+    <fpage>37. 2</fpage>
+    <lpage>37. 18</lpage>
+    <abstract>37. 1</abstract>
+    <keywords>
+      <keyword>37.1.  thermoelectric</keyword>
+      <keyword>37.2.  microcooler</keyword>
+      <keyword>37.3.  Thomson effect</keyword>
+      <keyword>37.4.  segmented</keyword>
+    </keywords>
+    <authors>
+      <author>37.1.  Carlos Alberto Badillo-Ruiz</author>
+      <author>37.2.  Miguel Angel Olivares-Robles</author>
+      <author>37.3.  Pablo Eduardo Ruiz-Ortega</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>37.1.  1. Introduction</h1>
+      <h1>37.2.  2. One-Dimensional Model of a Segmented TEMC</h1>
+      <h1>37.3.  3. Materials with Temperature-Dependent Properties</h1>
+      <h1>37.4.  4. Results</h1>
+      <h1>37.5.  5. Conclusions</h1>
+      <h1>37.6.  Abbreviation</h1>
+    </section1>
+    <section2>
+      <h2>37.1.  2.1. Temperature at the Junction (Tm)</h2>
+      <h2>37.2.  2.2. Cooling Power (Qc) and Coefficient of Performance (COP)</h2>
+      <h2>37.3.  4.1. Optimum Material Configuration and Electric Current</h2>
+      <h2>37.4.  4.2. Spatial Temperature Distribution: Thomson Heat Contributions</h2>
+      <h2>37.5.  4.3. Geometric Optimization of the Rectangular Prism</h2>
+      <h2>37.6.  TDPM TEC TEG TEMC</h2>
+      <h2>37.7.  Segmented thermoelectric microcooler Temperature (K) Cold side temperature (K) Hot side temperature (K)</h2>
+    </section2>
+    <section3>
+      <h3>37.1.  Similarly, for the second segment, we obtain:</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>38. Appl. Sci.</journaltitle>
+    <title>38. Plasmonic Physics of 2D Crystalline Materials</title>
+    <doi>38. 10.3390/app8020238</doi>
+    <pubdate>38. 2018</pubdate>
+    <volume>38. 8</volume>
+    <issue>38. </issue>
+    <fpage>38. </fpage>
+    <lpage>38. </lpage>
+    <abstract>38. 1</abstract>
+    <keywords>
+      <keyword>38.1.  collective modes</keyword>
+      <keyword>38.2.  density functional theory</keyword>
+      <keyword>38.3.  random phase approximation</keyword>
+      <keyword>38.4.  dielectric function</keyword>
+    </keywords>
+    <authors>
+      <author>38.1.  Zahra Torbatian</author>
+      <author>38.2.  Reza Asgari</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>38.1.  1. Introduction</h1>
+      <h1>38.2.  2. Theoretical Framework</h1>
+      <h1>38.3.  3. Result and Discussion</h1>
+      <h1>38.4.  4. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>38.1.  2.1. Density Functional Theory</h2>
+      <h2>38.2.  2.2. Density-Density Response Function</h2>
+      <h2>38.3.  3.1. Monolayer Graphene</h2>
+      <h2>38.4.  3.2. Bilayer Graphene</h2>
+      <h2>38.5.  3.5. Monolayer Phosphorene</h2>
+    </section2>
+    <section3>
+      <h3>38.1.  Intraband</h3>
+      <h3>38.2.  Intraband</h3>
+      <h3>38.3.  Interband</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>39. Fibers</journaltitle>
+    <title>39. Preparation and Characterization of Chitosan-Coated Poly(L-Lactic Acid) Fibers and Their Braided Rope</title>
+    <doi>39. 10.3390/fib3040380</doi>
+    <pubdate>39. 2015</pubdate>
+    <volume>39. 3</volume>
+    <issue>39. </issue>
+    <fpage>39. 380</fpage>
+    <lpage>39. 393</lpage>
+    <abstract>39. 1</abstract>
+    <keywords>
+      <keyword>39.1.  PLA fiber</keyword>
+      <keyword>39.2.  chitosan</keyword>
+      <keyword>39.3.  degradation property</keyword>
+      <keyword>39.4.  braided rope</keyword>
+    </keywords>
+    <authors>
+      <author>39.1.  Tetsuya Furuike</author>
+      <author>39.2.  Hideaki Nagahama</author>
+      <author>39.3.  Thitirat Chaochai</author>
+      <author>39.4.  Hiroshi Tamura</author>
+      <author>39.5.  Stephen C. Bondy</author>
+    </authors>
+    <affiliations>
+      <institution>39.1.  Faculty of Chemistry Kansai University</institution>
+      <country>39.1.  Japan</country>
+    </affiliations>
+    <section1>
+      <h1>39.1.  1. Introduction 381</h1>
+      <h1>39.2.  2. Experimental Section</h1>
+      <h1>39.3.  3. Results and Discussion</h1>
+      <h1>39.4.  4. Conclusions</h1>
+      <h1>39.5.  Acknowledgments</h1>
+      <h1>39.6.  Author Contributions</h1>
+      <h1>39.7.  Conflicts of Interest</h1>
+    </section1>
+    <section2>
+      <h2>39.1.  2.1. Materials and Methods</h2>
+      <h2>39.2.  2.2. Qualitative and Quantitative Determination of CS</h2>
+      <h2>39.3.  2.3. Surface Characterization</h2>
+      <h2>39.4.  2.4. Degradation In Vitro</h2>
+      <h2>39.5.  2.5. Tensile Strength</h2>
+      <h2>39.6.  3.1. Preparation of CS–PLA</h2>
+      <h2>39.7.  3.2. Surface Morphology</h2>
+      <h2>39.8.  3.3. Qualitative and Quantitative Determination of CS</h2>
+      <h2>39.9.  3.4. Surface Characterization</h2>
+      <h2>39.10.  3.5. Degradation Properties</h2>
+      <h2>39.11.  3.6. Mechanical Properties of Braided Ropes</h2>
+    </section2>
+    <section3>
+      <h3>39.1.  COO peak intensity at 289.2 eV</h3>
+      <h3>39.2.  Degradation rate % w/w 100</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>40. Appl. Sci.</journaltitle>
+    <title>40. Preparation and Properties of Asphalt Binders Modified by THFS Extracted From Direct Coal Liquefaction Residue</title>
+    <doi>40. 10.3390/app7111155</doi>
+    <pubdate>40. 2017</pubdate>
+    <volume>40. 7</volume>
+    <issue>40. </issue>
+    <fpage>40. 4</fpage>
+    <lpage>40. 19</lpage>
+    <abstract>40. 1</abstract>
+    <keywords>
+      <keyword>40.1.  direct coal liquefaction residue</keyword>
+      <keyword>40.2.  tetrahydrofuran soluble fraction</keyword>
+      <keyword>40.3.  THFS</keyword>
+      <keyword>40.4.  preparation process</keyword>
+      <keyword>40.5.  viscoelastic properties</keyword>
+      <keyword>40.6.  temperature susceptibility</keyword>
+      <keyword>40.7.  frequency susceptibility</keyword>
+    </keywords>
+    <authors>
+      <author>40.1.  Jie Ji</author>
+      <author>40.2.  Hui Yao</author>
+      <author>40.3.  Wenhua Zheng</author>
+      <author>40.4.  Zhi Suo</author>
+      <author>40.5.  Yuefeng Shi</author>
+      <author>40.6.  Ying Xu</author>
+      <author>40.7.  Hao Wu</author>
+      <author>40.8.  Zhanping You</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>40.1.  1. Introduction</h1>
+      <h1>40.2.  2. Objectives and Experimental Scope</h1>
+      <h1>40.3.  3. Test Materials</h1>
+      <h1>40.4.  4. Test and Analysis Methods</h1>
+      <h1>40.5.  Items</h1>
+      <h1>40.6.  6. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>40.1.  3.1. Asphalt Binder</h2>
+      <h2>40.2.  3.2. Tetrahydrofuran Soluble Fraction (THFS)</h2>
+      <h2>40.3.  4.1. OrOthrotghoongaolnAarlraryraTyesteSstrsattreagtyeg(OyA(OTAS)TMS)eethnoadbles the test designer to maximize the coverage of the</h2>
+      <h2>40.4.  5.3. Optimal Preparation Process</h2>
+    </section2>
+    <section3>
+      <h3>40.1.  4.2. Gray Correlation Analysis (GCA) Method</h3>
+      <h3>40.2.  4.3. Penetration Performance Grade Tests</h3>
+      <h3>40.3.  4.4. Dynamic Shear Rheometer (DSR) Test</h3>
+      <h3>40.4.  5.2. GCA Analysis Results</h3>
+      <h3>40.5.  5.5.1. Resistance to Rutting at High Temperature</h3>
+      <h3>40.6.  Appl. SciF. i2g0u17r,e7,311il5l5ustrates the G*/sinδ values of asphalt binders versus test temperatures.</h3>
+      <h3>40.7.  According to the test results in Figure 3, the G*/sinδ values of asphalt binders decreased across</h3>
+      <h3>40.8.  THFS content, there was a major decrease in G*/sinδ value at low temperatures, but a minor decrease</h3>
+      <h3>40.9.  5.5.2. Resistance to Fatigue at Intermediate Temperature</h3>
+      <h3>40.10.  From the test results in Figure 4, it could be observed that the absolute GTS values of THFS</h3>
+      <h3>40.11.  5.5.2. Resistance to Fatigue a*t Intermediate Temperature</h3>
+      <h3>40.12.  From the test results( in Figure 5, it could be observed the G*·sinδ values of asphalt binders</h3>
+      <h3>40.13.  Subsequently, for THFS modified a1s9phalt b22inders2,5the G*2·s8inδ va3lu1es were higher than that of SK-90</h3>
+      <h3>40.14.  From the test results in Figure 5, it could be observed the G*·sinδ values of asphalt binders</h3>
+      <h3>40.15.  Subsequently, for THFS modified asphalt binders, the G*·sinδ values were higher than that of SK-90 under identical conditions of test temperature and increased as THFS content increased.</h3>
+      <h3>40.16.  5.5.3. Resistance to Thermal Cracking at Low Temperature</h3>
+      <h3>40.17.  Appl. ScFi.i2g0u1r7e,76,1r1e5p5orts the S values of asphalt binders over test temperatures.</h3>
+      <h3>40.18.  FFigiguurere66..SSVValauluesesooffAAspsphhalatltBBinindderesrsoovvererTeTmempepreartautruerse.s.</h3>
+      <h3>40.19.  5.5.4. Frequency Susceptibility of the THFS Modified Asphalt Binder</h3>
+      <h3>40.20.  5.5.4. Frequency Susceptibility of the THFS Modified Asphalt Binder</h3>
+      <h3>40.21.  On the basis of time-temperature equivalence principle and through curve fitting using</h3>
+      <h3>40.22.  There was a similar increase in G* value and decrease in δ value for asphalt binders across</h3>
+      <h3>40.23.  THFS modified asphalt binders were higher than that of SK-90, but the δ values were lower than that</h3>
+      <h3>40.24.  Moreover, for THFS modified asphalt binder, there was a slight increment in G* values and a</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>41. Separations</journaltitle>
+    <title>41. Quantification of Temozolomide in Nonhuman Primate Fluids by Isocratic Ultra-High Performance Liquid Chromatography-Tandem Mass Spectrometry to Study Brain Tissue Penetration Following Intranasal or Intravenous Delivery</title>
+    <doi>41. 10.3390/chromatography3010004</doi>
+    <pubdate>41. 2016</pubdate>
+    <volume>41. 3</volume>
+    <issue>41. </issue>
+    <fpage>41. </fpage>
+    <lpage>41. </lpage>
+    <abstract>41. 1</abstract>
+    <keywords>
+      <keyword>41.1.  ultra-high performance liquid chromatography</keyword>
+      <keyword>41.2.  tandem temozolomide</keyword>
+      <keyword>41.3.  nonhuman primates</keyword>
+    </keywords>
+    <authors>
+      <author>41.1.  Cody J. Peer</author>
+      <author>41.2.  Lukas Ronner</author>
+      <author>41.3.  Louis Rodgers</author>
+      <author>41.4.  Cynthia M. Lester McCully</author>
+      <author>41.5.  Katherine E. Warren</author>
+      <author>41.6.  William D. Figg</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>41.1.  1. Introduction</h1>
+      <h1>41.2.  3. Results and Discussion</h1>
+    </section1>
+    <section2>
+      <h2>41.1.  2.1. Materials</h2>
+      <h2>41.2.  2.2. Preparation of Stock Solutions</h2>
+      <h2>41.3.  2.3. Sample Preparation</h2>
+      <h2>41.4.  2.4. Instrument Conditions</h2>
+      <h2>41.5.  2.5. Validation</h2>
+      <h2>41.6.  2.6. Application</h2>
+      <h2>41.7.  3. Re3s.uRletssualntsdaDndiscDuisssciuosnsion</h2>
+      <h2>41.8.  4. Conclusions</h2>
+    </section2>
+    <section3>
+      <h3>41.1.  3.1. Selectivity</h3>
+      <h3>41.2.  3.2. Validation</h3>
+      <h3>41.3.  3.3. Stability</h3>
+      <h3>41.4.  3.4. Extraction Recovery and Matrix Effects</h3>
+      <h3>41.5.  3.5. Clinical Application</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>42. Appl. Sci.</journaltitle>
+    <title>42. Resistivity and Its Anisotropy Characterization of 3D-Printed Acrylonitrile Butadiene Styrene Copolymer (ABS)/Carbon Black (CB) Composites</title>
+    <doi>42. 10.3390/app7010020</doi>
+    <pubdate>42. 2017</pubdate>
+    <volume>42. 7</volume>
+    <issue>42. </issue>
+    <fpage>42. </fpage>
+    <lpage>42. </lpage>
+    <abstract>42. 1</abstract>
+    <keywords>
+      <keyword>42.1.  3D printing</keyword>
+      <keyword>42.2.  acrylonitrile butadiene styrene copolymer (ABS)/carbon black (CB) composites</keyword>
+      <keyword>42.3.  resistivity</keyword>
+      <keyword>42.4.  anisotropy</keyword>
+    </keywords>
+    <authors>
+      <author>42.1.  Jie Zhang</author>
+      <author>42.2.  Bin Yang</author>
+      <author>42.3.  Feng Fu</author>
+      <author>42.4.  Fusheng You</author>
+      <author>42.5.  Xiuzhen Dong</author>
+      <author>42.6.  Meng Dai</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>42.1.  -</h1>
+      <h1>42.2.  2. Materials and Methods</h1>
+      <h1>42.3.  3. Results and Discussion</h1>
+      <h1>42.4.  4. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>42.1.  2.1. The Fabrication of Filaments and Printed Parts</h2>
+      <h2>42.2.  2.2. Resistivity Measurement</h2>
+      <h2>42.3.  2.3. Data Processing, Simulation,and Scanning Electron Microscopy</h2>
+      <h2>42.4.  3.1. Resistivities of Filaments and Printed Parts</h2>
+      <h2>42.5.  3.2. Influence of Process Parameters on the Resistivities of Printed Parts</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>43. Condens. Matter</journaltitle>
+    <title>43. Silicene Nanoribbons on Pb-Reconstructed Si(111) Surface †</title>
+    <doi>43. 10.3390/condmat1010008</doi>
+    <pubdate>43. 2016</pubdate>
+    <volume>43. 1</volume>
+    <issue>43. </issue>
+    <fpage>43. </fpage>
+    <lpage>43. </lpage>
+    <abstract>43. 1</abstract>
+    <keywords>
+      <keyword>43.1.  2D materials</keyword>
+      <keyword>43.2.  silicene</keyword>
+      <keyword>43.3.  STM</keyword>
+      <keyword>43.4.  DFT</keyword>
+    </keywords>
+    <authors>
+      <author>43.1.  Agnieszka Ste¸pniak-Dybala</author>
+      <author>43.2.  Mieczysław Jałochowski</author>
+      <author>43.3.  Mariusz Krawiec</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>43.1.  1. Introduction</h1>
+      <h1>43.2.  2. Materials and Methods</h1>
+      <h1>43.3.  3. Results and Discussion</h1>
+      <h1>43.4.  4. Conclusions</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>44. Fibers</journaltitle>
+    <title>44. Structural Evolution of Gossypium hirsutum Fibers Grown under Greenhouse and Hydroponic Conditions</title>
+    <doi>44. 10.3390/fib6010011</doi>
+    <pubdate>44. 2018</pubdate>
+    <volume>44. 6</volume>
+    <issue>44. </issue>
+    <fpage>44. </fpage>
+    <lpage>44. </lpage>
+    <abstract>44. 1</abstract>
+    <keywords>
+      <keyword>44.1.  cellulose</keyword>
+      <keyword>44.2.  Gossypium hirsutum</keyword>
+      <keyword>44.3.  structure</keyword>
+      <keyword>44.4.  development</keyword>
+      <keyword>44.5.  culture</keyword>
+    </keywords>
+    <authors>
+      <author>44.1.  Filipe Natalio</author>
+      <author>44.2.  Raquel Maria</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>44.1.  1. Introduction</h1>
+      <h1>44.2.  2. Material and Methods</h1>
+      <h1>44.3.  3. Results and Discussion</h1>
+      <h1>44.4.  4. Conclusions</h1>
+    </section1>
+    <section2>
+      <h2>44.1.  2.1. Cotton Growth</h2>
+      <h2>44.2.  2.2. Scanning Electron Microscopy (SEM) and Elemental Dispersive X-ray Analysis (EDX)</h2>
+      <h2>44.3.  2.3. Fourier Transform Infrared Spectroscopy with attenuated total reflectance (FT-IR ATR)</h2>
+      <h2>44.4.  2.4. Thermal Gravimetric Analysis (TGA) and Differential Scanning Calorimetry (DSC)</h2>
+      <h2>44.5.  3.1. Macromorphological Characterization of G. hirsutum Fiber Development between 10–51 dpa</h2>
+      <h2>44.6.  3.2. Micromorphological Characterization of G. hirsutum Fibers Development between 10–51 dpa</h2>
+      <h2>44.7.  3.3. FT-IR ATR Characterization of G. hirsutum Fibers Development between 10–51 dpa</h2>
+    </section2>
+    <section3>
+      <h3>44.1.  2.4. Thermal Gravimetric Analysis (TGA) and Differential Scanning Calorimetry (DSC)</h3>
+      <h3>44.2.  3.1. Macromorphological Characterization of G. hirsutum Fiber Development between 10–51 dpa</h3>
+      <h3>44.3.  3.2. Micromorphological Characterization of G. hirsutum Fibers Development between 10–51 dpa</h3>
+      <h3>44.4.  3.3. FT-IR ATR Characterization of G. hirsutum Fibers Development between 10–51 dpa</h3>
+      <h3>44.5.  3.4. TGA/DSC Characterization of G. hirsutum Fibers Development between 10–51 dpa</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>45. Appl. Sci.</journaltitle>
+    <title>45. The Use of Heat-Resistant Concrete Made with Ceramic Sanitary Ware Waste for a Thermal Energy Storage</title>
+    <doi>45. 10.3390/app7121303</doi>
+    <pubdate>45. 2017</pubdate>
+    <volume>45. 7</volume>
+    <issue>45. </issue>
+    <fpage>45. 2</fpage>
+    <lpage>45. 17</lpage>
+    <abstract>45. 1</abstract>
+    <keywords>
+      <keyword>45.1.  recycled concrete</keyword>
+      <keyword>45.2.  fireproof concrete</keyword>
+      <keyword>45.3.  ceramic waste aggregate</keyword>
+      <keyword>45.4.  thermal energy storage</keyword>
+      <keyword>45.5.  heat capacity</keyword>
+      <keyword>45.6.  thermal power</keyword>
+    </keywords>
+    <authors>
+      <author>45.1.  Paweł Ogrodnik</author>
+      <author>45.2.  Bartosz Zegardło</author>
+      <author>45.3.  Maciej Szela˛g</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>45.1.  1. Introduction</h1>
+      <h1>45.2.  2. Thermal Energy Storage in Building Issues</h1>
+      <h1>45.3.  4. Experimental Program</h1>
+    </section1>
+    <section2>
+      <h2>45.1.  4.1. Materials Used</h2>
+      <h2>45.2.  4.2. Aggregate Properties</h2>
+      <h2>45.3.  4.3. Mixtures and Properties of Concretes</h2>
+      <h2>45.4.  4.4. Tests and Methodology</h2>
+      <h2>45.5.  5.1. Stage 1—Initial Assesment of the TES Properties at Lower Temperature</h2>
+      <h2>45.6.  5.2. Stage 2—TES Properties in the Fireplace Operational Conditions</h2>
+    </section2>
+    <section3>
+      <h3>45.1.  5.1. Stage 1—Initial Assesment of the TES Properties at Lower Temperature </h3>
+      <h3>45.2.  5.1. Stage 1—Initial Assesment of the TES Properties at Lower Temperature </h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>46. Entropy</journaltitle>
+    <title>46. Thermal Analysis of Shell-and-Tube Thermoacoustic Heat Exchangers</title>
+    <doi>46. 10.3390/e18080301</doi>
+    <pubdate>46. 2016</pubdate>
+    <volume>46. 18</volume>
+    <issue>46. </issue>
+    <fpage>46. </fpage>
+    <lpage>46. </lpage>
+    <abstract>46. 1</abstract>
+    <keywords>
+      <keyword>46.1.  heat exchangers</keyword>
+      <keyword>46.2.  thermoacoustics</keyword>
+      <keyword>46.3.  shell-and-tube</keyword>
+      <keyword>46.4.  acoustic energy</keyword>
+      <keyword>46.5.  dissipation</keyword>
+    </keywords>
+    <authors>
+      <author>46.1.  Mohammad Gholamrezaei</author>
+      <author>46.2.  Kaveh Ghorbanian</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>46.1.  1. Introduction</h1>
+      <h1>46.2.  2. Theoretical Analysis</h1>
+      <h1>46.3.  3. Results and Discussion</h1>
+      <h1>46.4.  Nomenclature</h1>
+      <h1>46.5.  English letters:</h1>
+    </section1>
+    <section2>
+      <h2>46.1.  Today, thermoacoustic engines, coolers, and heat pumps are receiving more industrial interest.</h2>
+      <h2>46.2.  The main components of a thermoacoustic device are the stack/regenerators and the two heat</h2>
+      <h2>46.3.  Although steady flow heat exchangers are a mature technology, their design is of key importance in</h2>
+      <h2>46.4.  All engines and refrigerators must reject waste heat to the ambient temperature where the ambient</h2>
+      <h2>46.5.  Zhibin and Jaworski [5] studied the role of configuration and geometrical dimensions of a regenerator</h2>
+      <h2>46.6.  Ishikawa and Hobson [8] derived an analytical expression of the time averaged entropy generation</h2>
+      <h2>46.7.  Previous studies focused mostly on parallel plate and finned-tube HXs.</h2>
+      <h2>46.8.  It should be pointed out that, in case of high-capacity refrigerators and engines, the thermal</h2>
+      <h2>46.9.  2.1. Thermal Modeling of Heat Exchangers</h2>
+      <h2>46.10.  2.2. Acoustic Energy in TAHXs</h2>
+      <h2>46.11.  Z LTAHX</h2>
+      <h2>46.12.  3.1 MPa as the working gas. In addition, the HX material is stainless steel. Parameters of the TAHX and the working conditions are presented in Table 1. In this paper, for the purpose of comparison of the proposed model, the experimental results of the shell-and-tube HX of Backhaus and Swift’s thermoacoustic Stirling heat engine (TASHE) [2] is considered.</h2>
+      <h2>46.13.  In the following sections, the analysis of acoustic energy in shell-and-tube HXs is presented.</h2>
+      <h2>46.14.  The validation of the model is performed by comparing the numerical predictions of the present</h2>
+      <h2>46.15.  The3.1im.VparaicattioonfotfhAecogusetoicmEneetrrgyy oDnissaipcaotiuonstic enerdguye tdoiGsesoimpeattriyoCno,nbfigoutrhatvioinscous and thermal losses,</h2>
+      <h2>46.16.  Furthermore, it should be mentioned that the weight of viscous and thermal relaxation losses on</h2>
+      <h2>46.17.  Acknowledgments: The present work has been supported in part by the office of research at Sharif University</h2>
+      <h2>46.18.  The results indicate that, at equal operating conditions, viscous dissipation and thermal</h2>
+      <h2>46.19.  Author Contributions: Mohammad Gholamrezaei developed the algorithm, provided the results and wrote the</h2>
+      <h2>46.20.  Conflicts of Interest: The authors declare no conflict of interest.</h2>
+    </section2>
+    <section3>
+      <h3>46.1.  For heat transfer analysis, a local heat transfer coefficient is defined as the ratio of the heat transfer</h3>
+      <h3>46.2.  However, in practice, a global heat transfer coefficient derived from a lumped analysis of the heat exchanger (UA-LMTD or effectiveness-NTU methods) is utilized [12].</h3>
+      <h3>46.3.  In the above equation, log-mean temperature difference model is used for thermal modeling of the</h3>
+      <h3>46.4.  In general, a shell-and-tube heat exchanger is considered with gas flowing through the tubes and</h3>
+      <h3>46.5.  It should be pointed out that, for most thermoacoustic-related investigations, the heat transfer from</h3>
+      <h3>46.6.  Thermoacoustic Considerations</h3>
+      <h3>46.7.  It is important to recognize that the problem of heat transfer from an acoustically oscillating</h3>
+      <h3>46.8.  The most significant difference between classical HXs and TAHXs is the acoustically oscillating gas</h3>
+      <h3>46.9.  Mozurkewich [16], Peak et al. [17], Nsofar et al. [18] and Kamsanam et al. [19] also developed</h3>
+      <h3>46.10.  However, for shell-and-tube TAHXs, correlations of heat transfer coefficient are still limited. In this</h3>
+      <h3>46.11.  Here, the tilde, “~”, indicates a complex conjugation. Subscript 2 indicates the second order</h3>
+      <h3>46.12.  On the right hand side of Equation (14), regardless of the temperature gradient along the length</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>47. Appl. Sci.</journaltitle>
+    <title>47. Thermal Lattice Boltzmann Simulation of Entropy Generation within a Square Enclosure for Sensible and Latent Heat Transfers</title>
+    <doi>47. 10.3390/app5041904</doi>
+    <pubdate>47. 2015</pubdate>
+    <volume>47. 5</volume>
+    <issue>47. </issue>
+    <fpage>47. 1904</fpage>
+    <lpage>47. 1921</lpage>
+    <abstract>47. 1</abstract>
+    <keywords>
+      <keyword>47.1.  thermal lattice Boltzmann method</keyword>
+      <keyword>47.2.  entropy generation</keyword>
+      <keyword>47.3.  natural convection</keyword>
+      <keyword>47.4.  phase change</keyword>
+      <keyword>47.5.  melting</keyword>
+      <keyword>47.6.  Bejan number</keyword>
+    </keywords>
+    <authors>
+      <author>47.1.  Alissar Yehya</author>
+      <author>47.2.  Hassane Naji</author>
+      <author>47.3.  Takayoshi Kobayashi</author>
+    </authors>
+    <affiliations>
+      <institution>47.1.  Laboratoire Génie Civil et géo-Environnement (LGCgE Lille University Northern France</institution>
+      <institution>47.2.  Laboratoire Génie Civil et géo-Environnement (LGCgE University of Artois</institution>
+      <country>47.1.  France</country>
+      <country>47.2.  France</country>
+    </affiliations>
+    <section1>
+      <h1>47.1.  1. Introduction 1905</h1>
+      <h1>47.2.  2. Problem Description and Formulation</h1>
+      <h1>47.3.  3. Numerical Model</h1>
+      <h1>47.4.  4. Model Validation</h1>
+      <h1>47.5.  5. Results and Analysis</h1>
+      <h1>47.6.  6. Conclusions</h1>
+      <h1>47.7.  Author Contributions</h1>
+      <h1>47.8.  Conflicts of Interest</h1>
+    </section1>
+    <section2>
+      <h2>47.1.  2.1. Mathematical Model</h2>
+      <h2>47.2.  2.2. Entropy Generation</h2>
+      <h2>47.3.  3.1. Thermal Lattice Boltzmann Equations</h2>
+      <h2>47.4.  3.2. Boundary Conditions</h2>
+      <h2>47.5.  3.3. Macroscopic Quantities</h2>
+      <h2>47.6.  4.1. Melting with Convection</h2>
+      <h2>47.7.  4.2. Entropy Generation</h2>
+      <h2>47.8.  Single-Phase and Solid-Liquid Phase Change with High Prandtl Number</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>48. Appl. Sci.</journaltitle>
+    <title>48. Thermal Performance Evaluation of Fatty Acid Ester and Paraffin Based Mixed SSPCMs Using Exfoliated Graphite Nanoplatelets (xGnP)</title>
+    <doi>48. 10.3390/app6040106</doi>
+    <pubdate>48. 2016</pubdate>
+    <volume>48. 6</volume>
+    <issue>48. </issue>
+    <fpage>48. </fpage>
+    <lpage>48. </lpage>
+    <abstract>48. 1</abstract>
+    <keywords>
+      <keyword>48.1.  mixed SSPCM</keyword>
+      <keyword>48.2.  fatty acid ester PCM</keyword>
+      <keyword>48.3.  paraffin PCM</keyword>
+      <keyword>48.4.  thermal performance</keyword>
+      <keyword>48.5.  thermal storage</keyword>
+      <keyword>48.6.  xGnP</keyword>
+      <keyword>48.7.  impregnation</keyword>
+    </keywords>
+    <authors>
+      <author>48.1.  Hwayoung Lee</author>
+      <author>48.2.  Su-Gwang Jeong</author>
+      <author>48.3.  Seong Jin Chang</author>
+      <author>48.4.  Yujin Kang</author>
+      <author>48.5.  Seunghwan Wi</author>
+      <author>48.6.  Sumin Kim</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>48.1.  1. Introduction</h1>
+      <h1>48.2.  2. Experimental</h1>
+      <h1>48.3.  3. Results and Discussion</h1>
+      <h1>48.4.  Abbreviations</h1>
+    </section1>
+    <section2>
+      <h2>48.1.  Therefore, an effective way to reduce the building’s energy consumption for heating and cooling is by</h2>
+      <h2>48.2.  PCMs are generally divided into organic PCM, inorganic PCM, and eutectic PCM. Typical inorganic</h2>
+      <h2>48.3.  PCMs include water, aqueous solution, salt hydrate, and molten salt, while organic PCMs include paraffin, fatty acid, ester and sugar alcohol. Besides, eutectic mixtures of two or more miscible pure</h2>
+      <h2>48.4.  PCM constituents that solidify simultaneously out of the liquid at a minimum freezing point have been widely developed to enrich the diversity of PCMs [5].</h2>
+      <h2>48.5.  Commonly, inorganic PCMs suffer from decomposition and supercooling, which can further affect</h2>
+      <h2>48.6.  In this research, we prepared Mixed SSPCMs by impregnating two types of PCMs, coconut</h2>
+      <h2>48.7.  Mixed SSPCMs by using SEM, FT-IR, DSC, TGA, and TCi.</h2>
+      <h2>48.8.  2.1. Materials</h2>
+      <h2>48.9.  2.2. Preparation</h2>
+      <h2>48.10.  2.3. Characterization Techniques</h2>
+      <h2>48.11.  3.1. Microstructure of the Fatty Acid Ester and Paraffin Based Mixed SSPCMs</h2>
+      <h2>48.12.  3.3. Thermal Properties Analysis</h2>
+      <h2>48.13.  3.4. Thermal Stability Analysis</h2>
+      <h2>48.14.  The following abbreviations are used in this manuscript: PCM SSPCM xGnP</h2>
+      <h2>48.15.  Phase change material</h2>
+      <h2>48.16.  Shape-stabilized phase change material</h2>
+      <h2>48.17.  Exfoliated graphite nano platelets</h2>
+      <h2>48.18.  Thermal energy storage</h2>
+      <h2>48.19.  Sensible heat storage</h2>
+      <h2>48.20.  Latent heat thermal energy storage</h2>
+      <h2>48.21.  Scanning electron microscopy</h2>
+      <h2>48.22.  Fourier transform infrared spectroscopy</h2>
+      <h2>48.23.  Differential scanning calorimetry</h2>
+      <h2>48.24.  Thermogravimetric analysis</h2>
+    </section2>
+    <section3>
+      <h3>48.1.  In this research, we used fatty acid ester PCM and paraffin PCM, which possess different melting</h3>
+      <h3>48.2.  The melting point and latent heat capacity at solid-liquid melting of pure coconut oil are 26.78 C and</h3>
+      <h3>48.3.  Graphite Mills, Inc., in Asbury, NJ, USA by applying a cost- and time-effective exfoliation process</h3>
+      <h3>48.4.  After the vacuum process was continued for 90 min, the air was allowed to enter the flask again, to</h3>
+      <h3>48.5.  The·coconut oil + n-hexadecane Mixed SSPCMs in the colloidal state were filtered through 1 m</h3>
+      <h3>48.6.  The microstructure of the Mixed SSPCMs were analyzed through scanning electron microscopy</h3>
+      <h3>48.7.  Fourier transform infrared spectroscopy (FT-IR, Nicolet 6700, Thermo Scientific, Waltham, MA, USA)</h3>
+      <h3>48.8.  Clear potassium bromide (KBr) disks were made from powder and used as backgrounds. The Mixed</h3>
+      <h3>48.9.  The thermal conductivity of the Mixed SSPCMs were measured by TCi thermal conductivity analyzer</h3>
+      <h3>48.10.  Plane Source (MTPS) method. It is the advantage of the TCi that can measure the thermal conductivity of materials in the states of solid, liquid, powder, and mixed [27].</h3>
+      <h3>48.11.  Scanning electron microscopy (SEM) observations were performed for the coconut oil + n-hexadecane</h3>
+      <h3>48.12.  Mixed SSPCMs. Figure 1 shows the microstructure of the Mixed SSPCMs and xGnP that were investigated by SEM analysis. Figure 1a–c show the Mixed SSPCMs and Figure 1d shows the porous</h3>
+      <h3>48.13.  TabTlaebl3e. 3F.T F-TIR‐IRa babsosorrppttiioonn ssppeeccttrraa ppeeaakks soof MfMixiexde SdSSPSCPMCsM. s.</h3>
+      <h3>48.14.  SSPCMs during heating and melting occurred at the lower temperature of the each melting and</h3>
+      <h3>48.15.  The noticeable result in this research is the latent heat capacity of Mixed SSPCMs. The latent heat</h3>
+      <h3>48.16.  3-dimentional network structure of xGnP disturbs the heat flow of PCMs, these are the high values in</h3>
+      <h3>48.17.  SSPCMs decompose in the test temperature range. Figure 5 and Table 6 show the TGA results of the</h3>
+      <h3>48.18.  Mixed SSPCMs. As shown in Figure 5, the TGA graphs of the all Mixed SSPCMs appear 2 degradation curves caused by thermal decomposition. The first degradation curves of the graphs represent the</h3>
+      <h3>48.19.  This means that the two PCMs were impregnated into xGnP, and the Mixed SSPCMs have high</h3>
+      <h3>48.20.  The thermal conductivity analysis of the coconut oil + n-hexadecane Mixed SSPCMs using TCi at</h3>
+      <h3>48.21.  Mixed SSPCMs are 1.70, 1.61, and 1.23 W/mK. The Mixed SSPCMs appear to follow the tendency that</h3>
+      <h3>48.22.  Acknowledgments: This work was supported by the National Research Foundation of Korea(NRF) grant funded</h3>
+      <h3>48.23.  Conflicts of Interest: The authors declare no conflict of interest.</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>49. Entropy</journaltitle>
+    <title>49. Thermodynamic Analysis of an Irreversible Maisotsenko Reciprocating Brayton Cycle</title>
+    <doi>49. 10.3390/e20030167</doi>
+    <pubdate>49. 2018</pubdate>
+    <volume>49. 20</volume>
+    <issue>49. </issue>
+    <fpage>49. 2</fpage>
+    <lpage>49. 14</lpage>
+    <abstract>49. 1</abstract>
+    <keywords>
+      <keyword>49.1.  finite-time thermodynamics</keyword>
+      <keyword>49.2.  irreversible Maisotsenko reciprocating Brayton cycle</keyword>
+      <keyword>49.3.  power output</keyword>
+      <keyword>49.4.  efficiency</keyword>
+    </keywords>
+    <authors>
+      <author>49.1.  Fuli Zhu</author>
+      <author>49.2.  Lingen Chen</author>
+      <author>49.3.  Wenhua Wang</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>49.1.  1. Introduction</h1>
+      <h1>49.2.  3. Numerical Examples and Discussion</h1>
+      <h1>49.3.  5. Conclusions</h1>
+      <h1>49.4.  Nomenclature</h1>
+      <h1>49.5.  Abbreviations</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>50. Entropy</journaltitle>
+    <title>50. Thermodynamic Optimization for an Endoreversible Dual-Miller Cycle (DMC) with Finite Speed of Piston</title>
+    <doi>50. 10.3390/e20030165</doi>
+    <pubdate>50. 2018</pubdate>
+    <volume>50. 20</volume>
+    <issue>50. </issue>
+    <fpage>50. 2</fpage>
+    <lpage>50. 20</lpage>
+    <abstract>50. 1</abstract>
+    <keywords>
+      <keyword>50.1.  finite time thermodynamics</keyword>
+      <keyword>50.2.  finite speed thermodynamics</keyword>
+      <keyword>50.3.  Dual-Miller cycle</keyword>
+      <keyword>50.4.  finite speed of piston</keyword>
+      <keyword>50.5.  power output</keyword>
+      <keyword>50.6.  thermal efficiency</keyword>
+      <keyword>50.7.  ecological function</keyword>
+    </keywords>
+    <authors>
+      <author>50.1.  Zhixiang Wu</author>
+      <author>50.2.  Lingen Chen</author>
+      <author>50.3.  Huijun Feng</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>50.1.  1. Introduction</h1>
+      <h1>50.2.  3. Analyses of Special Cases</h1>
+      <h1>50.3.  4. Numerical Examples</h1>
+      <h1>50.4.  Nomenclatures</h1>
+      <h1>50.5.  Abbreviations</h1>
+    </section1>
+    <section2>
+      <h2>50.1.  The power output P is</h2>
+      <h2>50.2.  Thus, the entropy generation rate s is</h2>
+      <h2>50.3.  The ecological function [46,47] is given as:</h2>
+      <h2>50.4.  4.1. Effects of x and y on P, h and E</h2>
+      <h2>50.5.  4.3. Performance Comparison</h2>
+    </section2>
+    <section3>
+      <h3>50.1.  P will isnlicgrhetalys.e slightly.</h3>
+    </section3>
+  </article>
+</articles>

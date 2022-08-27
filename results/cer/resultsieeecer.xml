@@ -1,0 +1,2497 @@
+<articles>
+  <article>
+    <journaltitle>1. VOLUME</journaltitle>
+    <title>1. Vehicle Detection and Counting in High-Resolution Aerial Images Using Convolutional Regression Neural Network</title>
+    <doi>1. </doi>
+    <pubdate>1. 2017</pubdate>
+    <volume>1. 6</volume>
+    <issue>1. 2018</issue>
+    <fpage>1. 2220</fpage>
+    <lpage>1. 2230</lpage>
+    <abstract>1. 1</abstract>
+    <keywords>
+      <keyword>1.1.  Aerial images</keyword>
+      <keyword>1.2.  convolution neural network (CNN)</keyword>
+      <keyword>1.3.  deep learning</keyword>
+      <keyword>1.4.  regression</keyword>
+      <keyword>1.5.  vehicle detection</keyword>
+    </keywords>
+    <authors>
+      <author>1.1.  HILAL TAYARA</author>
+      <author>1.2.  KIM GIL SOO</author>
+      <author>1.3.  KIL TO CHONG</author>
+    </authors>
+    <affiliations>
+      <institution>1.1.  Department of Information and Electronics Engineering, Chonbuk National University</institution>
+      <institution>1.2.  Institute of International Studies, Chonbuk National University</institution>
+      <country>1.1.  South Korea</country>
+      <country>1.2.  South Korea</country>
+    </affiliations>
+    <section1>
+      <h1>1.1.  -</h1>
+      <h1>1.2.  I. INTRODUCTION</h1>
+      <h1>1.3.  II. RELATED WORKS</h1>
+      <h1>1.4.  III. THE PROPOSED SYSTEM</h1>
+      <h1>1.5.  IV. EXPERIMENTAL RESULTS</h1>
+      <h1>1.6.  V. CONCLUSION</h1>
+    </section1>
+    <section2>
+      <h2>1.1.  A. SHALLOW-LEARNING-BASED METHODS</h2>
+      <h2>1.2.  B. DEEP-LEARNING-BASED METHODS</h2>
+      <h2>1.3.  A. FULLY CONVOLUTIONAL REGRESSION</h2>
+      <h2>1.4.  NETWORK (FCRN)</h2>
+      <h2>1.5.  B. GROUND-TRUTH PREPARATION</h2>
+      <h2>1.6.  C. IMPLEMENTATION DETAILS</h2>
+      <h2>1.7.  A. DATASETS DESCRIPTION</h2>
+      <h2>1.8.  B. QUANTITATIVE EVALUATION AND COMPARISON</h2>
+      <h2>1.9.  C. QUALITATIVE RESULTS</h2>
+    </section2>
+    <section3>
+      <h3>1.1.  1) AGGREGATED CHANNEL FEATURES (ACF) DETECTOR [34]</h3>
+      <h3>1.2.  2) ACF WITH FAST R-CNN [35]</h3>
+      <h3>1.3.  3) SELECTIVE SEARCH (SS) WITH FAST R-CNN</h3>
+      <h3>1.4.  4) FASTER R-CNN</h3>
+      <h3>1.5.  5) ACCURATE VEHICLE PROPOSAL NETWORK (AVPN) [26]</h3>
+      <h3>1.6.  6) HYPER REGION PROPOSAL NETWORK (HRPN) WITH</h3>
+      <h3>1.7.  FAST R-CNN AND CASCADE CLASSIFIER [28]</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>2. VOLUME</journaltitle>
+    <title>2. BIDaaS: Blockchain Based ID As a Service</title>
+    <doi>2. </doi>
+    <pubdate>2. 2017</pubdate>
+    <volume>2. 6</volume>
+    <issue>2. 2018</issue>
+    <fpage>2. 2274</fpage>
+    <lpage>2. 2278</lpage>
+    <abstract>2. 1</abstract>
+    <keywords>
+      <keyword>2.1.  Blockchain</keyword>
+      <keyword>2.2.  IDaaS</keyword>
+      <keyword>2.3.  identity</keyword>
+      <keyword>2.4.  authentication</keyword>
+    </keywords>
+    <authors>
+      <author>2.1.  JONG-HYOUK LEE</author>
+      <author>2.2.  (Senior Member</author>
+      <author>2.3.  IEEE)</author>
+    </authors>
+    <affiliations>
+      <institution>2.1.  Department of Software, Sangmyung University</institution>
+      <country>2.1.  South Korea</country>
+    </affiliations>
+    <section1>
+      <h1>2.1.  I. INTRODUCTION</h1>
+      <h1>2.2.  II. PRELIMINARIES</h1>
+      <h1>2.3.  III. PROPOSED BLOCKCHAIN BASED ID AS A SERVICE</h1>
+      <h1>2.4.  IV. DISCUSSION</h1>
+      <h1>2.5.  V. CONCLUSION</h1>
+    </section1>
+    <section2>
+      <h2>2.1.  A. BLOCKCHAINS</h2>
+      <h2>2.2.  B. DEMAND FOR A NEW TYPE OF IDaaS</h2>
+      <h2>2.3.  A. OVERVIEW</h2>
+      <h2>2.4.  B. PROCEDURES</h2>
+      <h2>2.5.  C. EXAMPLE</h2>
+      <h2>2.6.  A. CONSENSUS ALGORITHM</h2>
+      <h2>2.7.  B. CONSORTIUM BLOCKCHAIN</h2>
+      <h2>2.8.  C. SERVICE LEVEL AGREEMENT</h2>
+      <h2>2.9.  D. PROVIDED USER INFORMATION</h2>
+      <h2>2.10.  E. USE OF VIRTUAL IDs</h2>
+      <h2>2.11.  F. TIMESTAMP INSTEAD OF A NONCE</h2>
+      <h2>2.12.  G. PRIVATE KEY OF A USER</h2>
+      <h2>2.13.  H. BENEFITS TO THE BIDaaS PROVIDER</h2>
+      <h2>2.14.  I. BENEFITS TO THE PARTNER</h2>
+      <h2>2.15.  J. BENEFITS TO THE USER</h2>
+    </section2>
+    <section3>
+      <h3>2.1.  1) VIRTUAL ID CREATION</h3>
+      <h3>2.2.  2) BIDAAS BLOCKCHAIN REGISTRATION</h3>
+      <h3>2.3.  3) MUTUAL AUTHENTICATION</h3>
+      <h3>2.4.  4) EXTRA INFORMATION REQUEST</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>3. VOLUME</journaltitle>
+    <title>3. Mobile Cyber Physical Systems: Current Challenges and Future Networking Applications</title>
+    <doi>3. </doi>
+    <pubdate>3. 2017</pubdate>
+    <volume>3. 6</volume>
+    <issue>3. 2018</issue>
+    <fpage>3. 12360</fpage>
+    <lpage>3. 12368</lpage>
+    <abstract>3. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>3.1.  YANXIANG GUO</author>
+      <author>3.2.  XIPING HU</author>
+      <author>3.3.  (Member</author>
+      <author>3.4.  IEEE)</author>
+      <author>3.5.  BIN HU</author>
+      <author>3.6.  (Senior Member</author>
+      <author>3.7.  IEEE)</author>
+      <author>3.8.  JUN CHENG</author>
+      <author>3.9.  MENGCHU ZHOU</author>
+      <author>3.10.  (Fellow</author>
+      <author>3.11.  IEEE)</author>
+      <author>3.12.  RICKY Y. K. KWOK</author>
+      <author>3.13.  (Fellow</author>
+      <author>3.14.  IEEE)</author>
+    </authors>
+    <affiliations>
+      <institution>3.1.  Department of Electrical and Computer Engineering, New Jersey Institute of Technology</institution>
+      <institution>3.2.  Department of Electrical and Electronic Engineering, The University of Hong Kong</institution>
+      <institution>3.3.  Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong</institution>
+      <institution>3.4.  Institute of Systems Engineering, Macau University of Science and Technology</institution>
+      <institution>3.5.  School of Information Science and Engineering, Lanzhou University</institution>
+      <institution>3.6.  Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences</institution>
+      <country>3.1.  USA</country>
+      <country>3.2.  Hong Kong</country>
+      <country>3.3.  Hong Kong</country>
+      <country>3.4.  China</country>
+      <country>3.5.  China</country>
+      <country>3.6.  China</country>
+    </affiliations>
+    <section1>
+      <h1>3.1.  -</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>4. JOURNAL OF LIGHTWAVE TECHNOLOGY</journaltitle>
+    <title>4. Trans-Atlantic Field Trial Using High Spectral Efficiency Probabilistically Shaped 64-QAM and Single-Carrier Real-Time 250-Gb/s 16-QAM</title>
+    <doi>4. </doi>
+    <pubdate>4. 2018</pubdate>
+    <volume>4. 36</volume>
+    <issue>4. 1</issue>
+    <fpage>4. 103</fpage>
+    <lpage>4. 113</lpage>
+    <abstract>4. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>4.1.  Junho Cho</author>
+      <author>4.2.  Member</author>
+      <author>4.3.  Xi Chen</author>
+      <author>4.4.  Member</author>
+      <author>4.5.  Sethumadhavan Chandrasekhar</author>
+      <author>4.6.  Fellow</author>
+      <author>4.7.  Fellow</author>
+      <author>4.8.  Gregory Raybon</author>
+      <author>4.9.  Fellow</author>
+      <author>4.10.  Fellow</author>
+      <author>4.11.  Ronen Dar</author>
+      <author>4.12.  Laurent Schmalen</author>
+      <author>4.13.  Senior Member</author>
+      <author>4.14.  Ells Burrows</author>
+      <author>4.15.  Andrew Adamiecki</author>
+      <author>4.16.  Steve Corteselli</author>
+      <author>4.17.  Yan Pan</author>
+      <author>4.18.  Diego Correa</author>
+      <author>4.19.  Brad McKay</author>
+      <author>4.20.  Szilard Zsigmond</author>
+      <author>4.21.  Peter J. Winzer</author>
+      <author>4.22.  Fellow</author>
+      <author>4.23.  Fellow</author>
+      <author>4.24.  Steve Grubb</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>4.1.  -</h1>
+      <h1>4.2.  I. INTRODUCTION</h1>
+      <h1>4.3.  II. SYSTEM CONFIGURATION</h1>
+      <h1>4.4.  III. REAL-TIME TRANSMISSION OF UNIFORM QAM</h1>
+      <h1>4.5.  IV. TRANSMISSION OF PS-64-QAM</h1>
+      <h1>4.6.  V. CONCLUSION</h1>
+      <h1>4.7.  FEC coding scheme.</h1>
+    </section1>
+    <section2>
+      <h2>4.1.  A. Trans-Atlantic AEC-1 Cable</h2>
+      <h2>4.2.  B. Transponder Setup</h2>
+      <h2>4.3.  C. ASE Line Loading</h2>
+      <h2>4.4.  A. PS-64-QAM With Maxwell-Boltzmann Distribution</h2>
+      <h2>4.5.  B. Forward Error Correction</h2>
+      <h2>4.6.  C. Digital Signal Processing</h2>
+      <h2>4.7.  D. Launch Power Optimization</h2>
+      <h2>4.8.  E. Transmission Results</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>5. VOLUME</journaltitle>
+    <title>5. A Sidelobe and Energy Optimization Array Node Selection Algorithm for Collaborative Beamforming in Wireless Sensor Networks</title>
+    <doi>5. </doi>
+    <pubdate>5. 2018</pubdate>
+    <volume>5. 6</volume>
+    <issue>5. 2018</issue>
+    <fpage>5. 2515</fpage>
+    <lpage>5. 2530</lpage>
+    <abstract>5. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>5.1.  GENG SUN</author>
+      <author>5.2.  (Student Member</author>
+      <author>5.3.  IEEE)</author>
+      <author>5.4.  YANHENG LIU</author>
+      <author>5.5.  SHUANG LIANG</author>
+      <author>5.6.  ZHAOYU CHEN</author>
+      <author>5.7.  AIMIN WANG</author>
+      <author>5.8.  QIANAO JU</author>
+      <author>5.9.  (Student Member</author>
+      <author>5.10.  IEEE)</author>
+      <author>5.11.  YING ZHANG</author>
+      <author>5.12.  (Senior Member</author>
+      <author>5.13.  IEEE)</author>
+    </authors>
+    <affiliations>
+      <institution>5.1.  College of Computer Science and Technology, Jilin University</institution>
+      <institution>5.2.  Department of Information Technology, Changchun Vocational Institute of Technology</institution>
+      <institution>5.3.  School of Electrical and Computer Engineering, Georgia Institute of Technology</institution>
+      <country>5.1.  China</country>
+      <country>5.2.  China</country>
+      <country>5.3.  USA</country>
+    </affiliations>
+    <section1>
+      <h1>5.1.  INDEX TERMS</h1>
+      <h1>5.2.  I. INTRODUCTION</h1>
+      <h1>5.3.  II. RELATED WORKS</h1>
+      <h1>5.4.  III. SYSTEM MODELS</h1>
+      <h1>5.5.  IV. SEOANS ALGORITHM</h1>
+      <h1>5.6.  V. SIMULATION RESULTS AND ANALYSIS</h1>
+      <h1>5.7.  VI. CONCLUSION</h1>
+      <h1>5.8.  ACKNOWLEDGMENTS</h1>
+    </section1>
+    <section2>
+      <h2>5.1.  A. NETWORK MODEL</h2>
+      <h2>5.2.  B. RANDOM NODE ANTENNA ARRAY MODEL</h2>
+      <h2>5.3.  C. ENERGY MODEL</h2>
+      <h2>5.4.  A. OPTIMAL NUMBER OF THE ARRAY NODES FOR</h2>
+      <h2>5.5.  MINIMIZING ENERGY CONSUMPTION</h2>
+      <h2>5.6.  B. ARRAY NODE LOCATION SELECTION OPTIMIZATION</h2>
+      <h2>5.7.  C. EXCITATION CURRENT OPTIMIZATION</h2>
+      <h2>5.8.  D. ARRAY NODE SELECTION AND</h2>
+      <h2>5.9.  OPTIMIZATION PROCESS</h2>
+      <h2>5.10.  E. OVERHEAD ANALYSIS OF SEOANS</h2>
+      <h2>5.11.  F. FAULTY TOLERANT MECHANISM</h2>
+      <h2>5.12.  Eoverh1 C Eoverh2 C Eoverh3 C Eoverh4</h2>
+      <h2>5.13.  D (ET _sk C NL ER_candi) C (NL ET _candi</h2>
+      <h2>5.14.  C ER_sk ) C (ET _sk C NL ER_candi)</h2>
+      <h2>5.15.  C (Ntrial Etrial ) C ER_sk</h2>
+      <h2>5.16.  D 2ET _sk C 2NL ER_candi C NL ET _candi</h2>
+      <h2>5.17.  C ER_sk C Ntrial Etrial C ER_sk</h2>
+      <h2>5.18.  D (kceoEelec C kceo"fsdR C NL kceoEelec)</h2>
+      <h2>5.19.  C (NL kceoEelec C NL kceo"fsdR</h2>
+    </section2>
+    <section3>
+      <h3>5.1.  ER D bEelec</h3>
+      <h3>5.2.  Etotal D kEelec C kEtransmit</h3>
+      <h3>5.3.  Emanage_T D</h3>
+      <h3>5.4.  Nenergy_best D</h3>
+      <h3>5.5.  Emanage_R D kEelec C</h3>
+      <h3>5.6.  NkEelec C</h3>
+      <h3>5.7.  Ebeam D N</h3>
+      <h3>5.8.  Ebeam_total D Emanage_T C Emanage_R C Ebeam</h3>
+      <h3>5.9.  D kEelec C k"fsdRc C N kEelec</h3>
+      <h3>5.10.  C kEelec C (NkEelec C</h3>
+      <h3>5.11.  FitnessSL D 20 log10</h3>
+      <h3>5.12.  Nmin D</h3>
+      <h3>5.13.  Ncircle_i D</h3>
+      <h3>5.14.  Ncircle_most D</h3>
+      <h3>5.15.  Eoverh1 D ET _source C Ncandi ER_candi</h3>
+      <h3>5.16.  Eoverh2 D Ncandi ET _candi C ER_source</h3>
+      <h3>5.17.  Eoverh3 D ET _source C Nbeam ER_beam</h3>
+      <h3>5.18.  Eoverh4 D Nbeam ET _beam C ER_source</h3>
+      <h3>5.19.  Eoverh5 D Nbeam Ebeamform</h3>
+      <h3>5.20.  A. RADIATION BEAM PATTERN</h3>
+      <h3>5.21.  B. COMMUNICATION DELAY ANALYSIS</h3>
+      <h3>5.22.  C. ENERGY CONSUMPTION ANALYSIS</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>6. VOLUME</journaltitle>
+    <title>6. Trajectory Mining Using Uncertain Sensor Data</title>
+    <doi>6. </doi>
+    <pubdate>6. 2018</pubdate>
+    <volume>6. 6</volume>
+    <issue>6. 2018</issue>
+    <fpage>6. 4895</fpage>
+    <lpage>6. 4903</lpage>
+    <abstract>6. 1</abstract>
+    <keywords>
+      <keyword>6.1.  Trajectory mining</keyword>
+      <keyword>6.2.  sensor data</keyword>
+      <keyword>6.3.  IoT</keyword>
+    </keywords>
+    <authors>
+      <author>6.1.  MUHAMMAD MUZAMMAL</author>
+      <author>6.2.  MONEEB GOHAR</author>
+      <author>6.3.  ARIF UR RAHMAN</author>
+      <author>6.4.  QIANG QU</author>
+      <author>6.5.  AWAIS AHMAD</author>
+      <author>6.6.  GWANGGIL JEON</author>
+    </authors>
+    <affiliations>
+      <institution>6.1.  Department of Computer Science, Bahria University</institution>
+      <institution>6.2.  Department of Embedded Systems Engineering, Incheon National University</institution>
+      <institution>6.3.  Department of Information and Communication Engineering, Yeungnam University</institution>
+      <institution>6.4.  Faculty of Computer Science, Free University of Bolzano</institution>
+      <institution>6.5.  MOE Key Laboratory of Machine Perception, Peking University</institution>
+      <institution>6.6.  Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences</institution>
+      <country>6.1.  Pakistan</country>
+      <country>6.2.  South Korea</country>
+      <country>6.3.  South Korea</country>
+      <country>6.4.  Italy</country>
+      <country>6.5.  China</country>
+      <country>6.6.  China</country>
+    </affiliations>
+    <section1>
+      <h1>6.1.  -</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>7. VOLUME</journaltitle>
+    <title>7. Data Offloading in Mobile Edge Computing: A Coalition and Pricing Based Approach</title>
+    <doi>7. </doi>
+    <pubdate>7. 2018</pubdate>
+    <volume>7. 6</volume>
+    <issue>7. 2018</issue>
+    <fpage>7. 2760</fpage>
+    <lpage>7. 2767</lpage>
+    <abstract>7. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>7.1.  TIAN ZHANG</author>
+    </authors>
+    <affiliations>
+      <institution>7.1.  School of Information Science and Engineering, Shandong Normal University</institution>
+      <country>7.1.  China</country>
+    </affiliations>
+    <section1>
+      <h1>7.1.  -</h1>
+      <h1>7.2.  E9 1fS (9)DfsjSmjg D psjSmj</h1>
+      <h1>7.3.  E9 1fS (9)Dfsk g D psk</h1>
+    </section1>
+    <section2>
+      <h2>7.1.  PjiPkiPli</h2>
+      <h2>7.2.  PjiPki</h2>
+      <h2>7.3.  Remark: If there are active MDs outside S at a given time</h2>
+      <h2>7.4.  MDs outside S is inactive.</h2>
+      <h2>7.5.  PjiPki</h2>
+      <h2>7.6.  PjiPkiPli</h2>
+      <h2>7.7.  Remark: The MEC server charges the MD once the MDs employs the MEC server for a transmission, it does not take the collisions into account. That is to say, the actions in other coalitions do not in uence the charging.</h2>
+      <h2>7.8.  Remark: MEC server j receives the message of MD i once</h2>
+      <h2>7.9.  Lemma 1: Let</h2>
+      <h2>7.10.  Remark: Lemma 1 reveals the fact that the total revenues obtained by the MEC servers equal to the payments of all the MDs.</h2>
+      <h2>7.11.  Remark: The function of the MEC server is pre-processing and forwarding the MD's signal. So when there is no MD, it is meaningless to group only the MEC servers together.</h2>
+      <h2>7.12.  Remark: When the conditions of Lemma 3 hold, the core</h2>
+      <h2>7.13.  Remark: Avoiding transmission collisions and charging</h2>
+      <h2>7.14.  MEC servers, respectively, to join the grand (or any other) coalition.</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>8. IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS</journaltitle>
+    <title>8. Systematic Model-Based Design and Implementation of Supervisors for Advanced Driver Assistance Systems</title>
+    <doi>8. </doi>
+    <pubdate>8. 2018</pubdate>
+    <volume>8. 19</volume>
+    <issue>8. 2</issue>
+    <fpage>8. 533</fpage>
+    <lpage>8. 544</lpage>
+    <abstract>8. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>8.1.  Tim Korssen</author>
+      <author>8.2.  Victor Dolk</author>
+      <author>8.3.  Michel Reniers</author>
+      <author>8.4.  Senior Member</author>
+      <author>8.5.  Maurice Heemels</author>
+      <author>8.6.  Fellow</author>
+    </authors>
+    <affiliations>
+      <institution>8.1.  </institution>
+      <country>8.1.  </country>
+    </affiliations>
+    <section1>
+      <h1>8.1.  -</h1>
+      <h1>8.2.  I. INTRODUCTION</h1>
+      <h1>8.3.  II. MODEL-BASED DESIGN APPROACH</h1>
+      <h1>8.4.  CC_enable needs pushed</h1>
+      <h1>8.5.  1) CC is enabled and</h1>
+      <h1>8.6.  1) the mode is set to CC/ACC and</h1>
+      <h1>8.7.  ACC is only allowed to become inactive if:</h1>
+      <h1>8.8.  V. CONCLUDING REMARKS In this paper, a framework for systematic model-based design and implementation of supervisors for Advanced Driver</h1>
+      <h1>8.9.  VI. ACKNOWLEDGMENT</h1>
+    </section1>
+    <section2>
+      <h2>8.1.  A. Supervisory Control Theory</h2>
+      <h2>8.2.  1) Specification of Uncontrolled System Behavior: In many</h2>
+      <h2>8.3.  Definition 2 (Behavior of a DES): The closed behavior of</h2>
+      <h2>8.4.  2) Specification of Requirements: The second ingredient</h2>
+      <h2>8.5.  Definition 4 (Event Condition): Let e be an event and let</h2>
+      <h2>8.6.  Pred be a predicate over the states of the plant. An event condition is a statement of the form “e needs Pred”.</h2>
+      <h2>8.7.  Definition 6 (Nonblocking, Controllable, Minimally</h2>
+      <h2>8.8.  A DES S is called minimally restrictive (w.r.t. DES D and</h2>
+      <h2>8.9.  A. Specification of the System and Its Desired Behavior</h2>
+      <h2>8.10.  B. System and Requirement Models</h2>
+      <h2>8.11.  2) Low-Level Controllers for ADASs: The low-level con</h2>
+      <h2>8.12.  6) CC Formal Requirements: The desired behavior of the</h2>
+      <h2>8.13.  C. Supervisor Synthesis</h2>
+      <h2>8.14.  A. Model-Based Simulation</h2>
+      <h2>8.15.  B. Implementation</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>9. IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS</journaltitle>
+    <title>9. Sentinel: A Codesigned Platform for Semantic Enrichment of Social Media Streams</title>
+    <doi>9. </doi>
+    <pubdate>9. 2018</pubdate>
+    <volume>9. 5</volume>
+    <issue>9. 1</issue>
+    <fpage>9. 118</fpage>
+    <lpage>9. 131</lpage>
+    <abstract>9. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>9.1.  Alun Preece</author>
+      <author>9.2.  Irena Spasic´</author>
+      <author>9.3.  Kieran Evans</author>
+      <author>9.4.  David Rogers</author>
+      <author>9.5.  William</author>
+    </authors>
+    <affiliations>
+      <institution>9.1.  Webberley</institution>
+      <country>9.1.  </country>
+    </affiliations>
+    <section1>
+      <h1>9.1.  -</h1>
+      <h1>9.2.  I. INTRODUCTION</h1>
+      <h1>9.3.  II. PLATFORM ARCHITECTURE</h1>
+      <h1>9.4.  Generation of signal terms is performed in Sentinel</h1>
+      <h1>9.5.  An ontology is defined as an explicit conceptualization of</h1>
+      <h1>9.6.  III. STREAM-PROCESSING ARCHITECTURE</h1>
+      <h1>9.7.  IV. USER INTERFACES</h1>
+      <h1>9.8.  Like SentiSum, the SentiNow app was designed to complement an aspect of the main Sentinel app, in this case the live mode. The display provided by SentiNow is similar in design (but simpler) than the original view shown in Fig. 9</h1>
+      <h1>9.9.  V. PILOT STUDIES</h1>
+      <h1>9.10.  We present three pilot experiments using the Sentinel platform for various purposes in the context of situational</h1>
+      <h1>9.11.  1) Purpose: Sentinel was used to monitor Twitter traffic</h1>
+      <h1>9.12.  1) Purpose: Sentinel was used to support a longitu</h1>
+      <h1>9.13.  1For example, from the BBC: http://www.bbc.co.uk/news/uk-wales</h1>
+      <h1>9.14.  2For example: http://www.theguardian.com/uk/2013/may/27/york-mosque</h1>
+      <h1>9.15.  VI. RELATED WORK</h1>
+      <h1>9.16.  3“Police in Spain Arm Themselves With Social Media to Fight Crime”:</h1>
+      <h1>9.17.  ACKNOWLEDGMENT</h1>
+      <h1>9.18.  The authors thank Prof. C. Jones for advice on geospatial</h1>
+    </section1>
+    <section2>
+      <h2>9.1.  A. Bottom-Up Data Interpretation: Signaling</h2>
+      <h2>9.2.  B. Top-Down Data Interpretation: Framing</h2>
+      <h2>9.3.  Sentinel core services and models element of Fig. 2, with</h2>
+      <h2>9.4.  A. Sentinel App</h2>
+      <h2>9.5.  B. SentiSum App</h2>
+      <h2>9.6.  C. SentiNow App</h2>
+      <h2>9.7.  A. Study 1: Regional Situation Awareness</h2>
+      <h2>9.8.  B. Study 2: Tracking the Effects of a High-Profile Crime</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>10. IEEE/CAA JOURNAL OF AUTOMATICA SINICA</journaltitle>
+    <title>10. Detecting Data-flow Errors Based on Petri Nets With Data Operations</title>
+    <doi>10. </doi>
+    <pubdate>10. 2018</pubdate>
+    <volume>10. 5</volume>
+    <issue>10. 1</issue>
+    <fpage>10. 251</fpage>
+    <lpage>10. 260</lpage>
+    <abstract>10. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>10.1.  Dongming Xiang</author>
+      <author>10.2.  Guanjun Liu</author>
+      <author>10.3.  Member</author>
+      <author>10.4.  Chungang Yan</author>
+      <author>10.5.  Changjun Jiang</author>
+    </authors>
+    <affiliations>
+      <institution>10.1.  work was supported in part by the National Key R &amp; D Program of China (20 17YFB1001804) and Shanghai Science and Technology Innovation Action Plan Project (16511100900). Recommended by Associate Editor Zhiwu Li. (</institution>
+      <country>10.1.  </country>
+    </affiliations>
+    <section1>
+      <h1>10.1.  -</h1>
+      <h1>10.2.  I. INTRODUCTION</h1>
+      <h1>10.3.  II. PN-DO MODEL This section first introduces read arcs and write arcs, and then gives the definition of PN-DO.</h1>
+      <h1>10.4.  III. DATA-FLOW ERRORS</h1>
+      <h1>10.5.  V. A REDUCED ERG</h1>
+      <h1>10.6.  1) There is no inconsistent data between t1 and t2;</h1>
+      <h1>10.7.  VI. CASE STUDY</h1>
+    </section1>
+    <section2>
+      <h2>10.1.  A. Read Arc</h2>
+      <h2>10.2.  Definition 1 (N-DO):</h2>
+      <h2>10.3.  Definition 2 (Control-enabledness and Data-enabledness):</h2>
+      <h2>10.4.  D. Conflict Relation and Concurrency Relation</h2>
+      <h2>10.5.  Definition 4 (Conflict and Concurrency): Given a marking</h2>
+      <h2>10.6.  Definition 5 (Missing Data): has an error of missing data</h2>
+      <h2>10.7.  Definition 6 (Inconsistent Data): has an error of incon</h2>
+      <h2>10.8.  Definition 7 (Redundant Data): has an error of redundant</h2>
+      <h2>10.9.  A. Reachability Graph</h2>
+      <h2>10.10.  B. Data-flow Error Detection Based on ERG</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>11. IEEE/CAA JOURNAL OF AUTOMATICA SINICA</journaltitle>
+    <title>11. Development and Evaluation of a 7-DOF Haptic Interface</title>
+    <doi>11. </doi>
+    <pubdate>11. 2018</pubdate>
+    <volume>11. 5</volume>
+    <issue>11. 1</issue>
+    <fpage>11. 261</fpage>
+    <lpage>11. 269</lpage>
+    <abstract>11. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>11.1.  Jian-Long Hao</author>
+      <author>11.2.  Xiao-Liang Xie</author>
+      <author>11.3.  Member</author>
+      <author>11.4.  Gui-Bin Bian</author>
+      <author>11.5.  Member</author>
+      <author>11.6.  Zeng-Guang Hou</author>
+      <author>11.7.  Senior Member</author>
+      <author>11.8.  Xiao-Hu Zhou</author>
+    </authors>
+    <affiliations>
+      <institution>11.1.  work is partially supported by the National Natural Science Foundation (NNSF) of China (61533016, U1613210), the National High-tech Research and Development Program (863 Program) of China (2015AA042306), and the Beijing Natural Science Foundation (4161001). Recommended by Associate Editor Wei He. (</institution>
+      <country>11.1.  </country>
+    </affiliations>
+    <section1>
+      <h1>11.1.  -</h1>
+      <h1>11.2.  I. INTRODUCTION</h1>
+      <h1>11.3.  III. IMPLEMENTATION</h1>
+      <h1>11.4.  V. EVALUATION</h1>
+      <h1>11.5.  VI. DISCUSSION</h1>
+      <h1>11.6.  VII. CONCLUSION</h1>
+      <h1>11.7.  ACKNOWLEDGMENT</h1>
+    </section1>
+    <section2>
+      <h2>11.1.  A. Mechanism Description</h2>
+      <h2>11.2.  D. Gravity Compensation</h2>
+      <h2>11.3.  A. Hardware</h2>
+      <h2>11.4.  B. Static Response</h2>
+      <h2>11.5.  C. Force Tracking</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>12. IEEE TRANSACTIONS ON SUSTAINABLE ENERGY</journaltitle>
+    <title>12. A Comprehensive Algorithm for Estimating Lithium-Ion Battery Parameters From Measurements</title>
+    <doi>12. </doi>
+    <pubdate>12. 2018</pubdate>
+    <volume>12. 9</volume>
+    <issue>12. 2</issue>
+    <fpage>12. 771</fpage>
+    <lpage>12. 779</lpage>
+    <abstract>12. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>12.1.  Dominik Dvorak</author>
+      <author>12.2.  Thomas Ba¨uml</author>
+      <author>12.3.  Alexandra Holzinger</author>
+    </authors>
+    <affiliations>
+      <institution>12.1.  , and Hartmut Popp</institution>
+      <country>12.1.  </country>
+    </affiliations>
+    <section1>
+      <h1>12.1.  -</h1>
+      <h1>12.2.  I. MODELING AND SIMULATION</h1>
+      <h1>12.3.  II. EQUIVALENT CIRCUIT MODELS</h1>
+      <h1>12.4.  III. BATTERY MEASUREMENT</h1>
+      <h1>12.5.  Therefore, it holds that</h1>
+      <h1>12.6.  The regression problem is described as:</h1>
+      <h1>12.7.  Therefore, we set</h1>
+      <h1>12.8.  V. VALIDATION</h1>
+      <h1>12.9.  VI. CONCLUSION AND OUTLOOK</h1>
+    </section1>
+    <section2>
+      <h2>12.1.  B. Particle Swarm Optimisation</h2>
+      <h2>12.2.  C. Gauss-Newton Algorithm</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>13. VOLUME</journaltitle>
+    <title>13. Dimension Reduction of Channel Correlation Matrix Using CUR-Decomposition Technique for 3-D Massive Antenna System</title>
+    <doi>13. </doi>
+    <pubdate>13. 2018</pubdate>
+    <volume>13. 6</volume>
+    <issue>13. 2018</issue>
+    <fpage>13. 3031</fpage>
+    <lpage>13. 3039</lpage>
+    <abstract>13. 1</abstract>
+    <keywords>
+      <keyword>13.1.  Millimeter-wave</keyword>
+      <keyword>13.2.  CUR-decomposition</keyword>
+      <keyword>13.3.  matrix dimension</keyword>
+      <keyword>13.4.  massive antenna system</keyword>
+      <keyword>13.5.  compression ratio (CR)</keyword>
+      <keyword>13.6.  mismatch error</keyword>
+      <keyword>13.7.  sum-rate capacity</keyword>
+      <keyword>13.8.  multi-user</keyword>
+      <keyword>13.9.  and Ricean channel</keyword>
+    </keywords>
+    <authors>
+      <author>13.1.  XIONGWEN ZHAO</author>
+      <author>13.2.  (Senior Member</author>
+      <author>13.3.  IEEE)</author>
+      <author>13.4.  ADAM MOHAMED AHMED ABDO</author>
+      <author>13.5.  CHEN XU</author>
+      <author>13.6.  (Member</author>
+      <author>13.7.  IEEE)</author>
+      <author>13.8.  SUIYAN GENG</author>
+      <author>13.9.  JIANHUA ZHANG</author>
+      <author>13.10.  (Senior Member</author>
+      <author>13.11.  IEEE)</author>
+      <author>13.12.  IMRAN MEMON</author>
+      <author>13.13.  (Member</author>
+      <author>13.14.  IEEE)</author>
+    </authors>
+    <affiliations>
+      <institution>13.1.  College of Computer Science, Zhejiang University</institution>
+      <institution>13.2.  School of Electrical and Electronic Engineering, North China Electric Power University</institution>
+      <institution>13.3.  State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications</institution>
+      <country>13.1.  China</country>
+      <country>13.2.  China</country>
+      <country>13.3.  China</country>
+    </affiliations>
+    <section1>
+      <h1>13.1.  -</h1>
+      <h1>13.2.  I. INTRODUCTION</h1>
+      <h1>13.3.  II. SYSTEM MODEL</h1>
+      <h1>13.4.  III. ROTATION MATRIX AND ROTATED CODEBOOK</h1>
+      <h1>13.5.  IV. THE PROPOSED METHOD USING</h1>
+      <h1>13.6.  CUR-DECOMPOSITION</h1>
+      <h1>13.7.  V. SIMULATION RESULTS AND DISCUSSION</h1>
+      <h1>13.8.  VI. CONCLUSION</h1>
+    </section1>
+    <section2>
+      <h2>13.1.  B. PERFORMANCE EVALUATION OF CUR-DECOMPOSITION</h2>
+      <h2>13.2.  D. ACHIEVABLE SUM RATE CAPACITY</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>14. VOLUME</journaltitle>
+    <title>14. Adaptive Semi-Periodically Intermittent and Lag Synchronization Control of Neural Networks With Mixed Delays</title>
+    <doi>14. </doi>
+    <pubdate>14. 2018</pubdate>
+    <volume>14. 6</volume>
+    <issue>14. 2018</issue>
+    <fpage>14. 4742</fpage>
+    <lpage>14. 4749</lpage>
+    <abstract>14. 1</abstract>
+    <keywords>
+      <keyword>14.1.  Neural networks</keyword>
+      <keyword>14.2.  mixed delays</keyword>
+      <keyword>14.3.  lag synchronization</keyword>
+      <keyword>14.4.  adaptive control</keyword>
+      <keyword>14.5.  semi-periodically intermittent control</keyword>
+    </keywords>
+    <authors>
+      <author>14.1.  NING LI</author>
+      <author>14.2.  HAIYI SUN</author>
+      <author>14.3.  ZHOUTONG LI</author>
+      <author>14.4.  QINGLING ZHANG</author>
+    </authors>
+    <affiliations>
+      <institution>14.1.  College of Science, Shenyang Jianzhu University</institution>
+      <institution>14.2.  College of Sciences, Northeastern University</institution>
+      <institution>14.3.  Miaozhen Systems</institution>
+      <country>14.1.  China</country>
+      <country>14.2.  China</country>
+      <country>14.3.  China</country>
+    </affiliations>
+    <section1>
+      <h1>14.1.  -</h1>
+      <h1>14.2.  I. INTRODUCTION</h1>
+      <h1>14.3.  II. NEURAL NETWORKS MODEL AND PRELIMINARIES</h1>
+      <h1>14.4.  III. MAIN RESULTS</h1>
+      <h1>14.5.  IV. NUMERICAL SIMULATION</h1>
+      <h1>14.6.  V. CONCLUSIONS</h1>
+    </section1>
+    <section2>
+      <h2>14.1.  Then, we want to prove that</h2>
+      <h2>14.2.  Hence, for</h2>
+      <h2>14.3.  Then</h2>
+    </section2>
+    <section3>
+      <h3>14.1.  QN expfa2(t12 1)g</h3>
+      <h3>14.2.  QN expfa2(T1 1)g;</h3>
+      <h3>14.3.  Then, for t 2 [</h3>
+      <h3>14.4.  QN expfa2(T1 1)g;</h3>
+      <h3>14.5.  QN expfa2(T1</h3>
+      <h3>14.6.  QN expfa2(t12 1)g;</h3>
+      <h3>14.7.  QN expfa2(t12 1)g;</h3>
+      <h3>14.8.  QN expfa2(t12</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>15. VOLUME</journaltitle>
+    <title>15. Fast Discrepancy Identification for RFID-Enabled IoT Networks</title>
+    <doi>15. </doi>
+    <pubdate>15. 2018</pubdate>
+    <volume>15. 6</volume>
+    <issue>15. 2018</issue>
+    <fpage>15. 6194</fpage>
+    <lpage>15. 6204</lpage>
+    <abstract>15. 1</abstract>
+    <keywords>
+      <keyword>15.1.  RFID</keyword>
+      <keyword>15.2.  IoT</keyword>
+      <keyword>15.3.  tag identi cation</keyword>
+    </keywords>
+    <authors>
+      <author>15.1.  CAIDONG GU</author>
+    </authors>
+    <affiliations>
+      <institution>15.1.  Department of Computer Science, Suzhou Vocational University</institution>
+      <country>15.1.  China</country>
+    </affiliations>
+    <section1>
+      <h1>15.1.  I. INTRODUCTION</h1>
+      <h1>15.2.  II. RELATED WORK</h1>
+      <h1>15.3.  III. PRELIMINARIES</h1>
+      <h1>15.4.  IV. DETERMINISTIC IDENTIFICATION PROTOCOL</h1>
+      <h1>15.5.  V. PROBABILISTIC IDENTIFICATION PROTOCOL WITH</h1>
+      <h1>15.6.  OPTIMIZED COMMUNICATION</h1>
+      <h1>15.7.  VI. PROBABILISTIC IDENTIFICATION PROTOCOL</h1>
+      <h1>15.8.  WITH OPTIMIZED ROUNDS</h1>
+      <h1>15.9.  VII. PROBABILISTIC IDENTIFICATION PROTOCOL</h1>
+      <h1>15.10.  WITH ESTIMATION</h1>
+      <h1>15.11.  VIII. EVALUATION</h1>
+      <h1>15.12.  IX. CONCLUDING REMARKS</h1>
+    </section1>
+    <section2>
+      <h2>15.1.  A. EPCglobal NETWORK</h2>
+      <h2>15.2.  B. PROBLEM FORMULATION</h2>
+      <h2>15.3.  C. TRADITIONAL WHOLESALE PROTOCOL</h2>
+      <h2>15.4.  A. ANALYTICAL COMPARISON</h2>
+      <h2>15.5.  B. EXPERIMENTAL COMPARISON</h2>
+    </section2>
+    <section3>
+      <h3>15.1.  1) BLOOM FILTER BASED APPROACH</h3>
+      <h3>15.2.  2) SCHEMES COMPARISON</h3>
+      <h3>15.3.  1) EXPERIMENTAL SETUP</h3>
+      <h3>15.4.  2) VARYING SIZE OF SHIP LIST</h3>
+      <h3>15.5.  3) VARYING NETWORK LATENCY</h3>
+      <h3>15.6.  4) VARYING DISCREPANCIES RATIO</h3>
+      <h3>15.7.  5) ESTIMATOR OF PIP-E</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>16. VOLUME</journaltitle>
+    <title>16. Enabling Adaptability in Web Forms Based on User Characteristics Detection Through A/B Testing and Machine Learning</title>
+    <doi>16. </doi>
+    <pubdate>16. 2018</pubdate>
+    <volume>16. 6</volume>
+    <issue>16. 2018</issue>
+    <fpage>16. 2251</fpage>
+    <lpage>16. 2265</lpage>
+    <abstract>16. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>16.1.  JUAN CRUZ-BENITO</author>
+      <author>16.2.  (Member</author>
+      <author>16.3.  IEEE)</author>
+      <author>16.4.  ANDREA VÁZQUEZ-INGELMO</author>
+      <author>16.5.  JOSÉ CARLOS SÁNCHEZ-PRIETO</author>
+      <author>16.6.  ROBERTO THERÓN</author>
+      <author>16.7.  FRANCISCO JOSÉ GARCÍA-PEÑALVO</author>
+      <author>16.8.  (Member</author>
+      <author>16.9.  IEEE)</author>
+      <author>16.10.  MARTÍN MARTÍN-GONZÁLEZ</author>
+    </authors>
+    <affiliations>
+      <institution>16.1.  GRIAL Research Group, Computer Science Department, Research Institute for Educational Sciences, University of Salamanca</institution>
+      <institution>16.2.  GRIAL Research Group, Computer Science Department, and VisUSAL Research Group, University of Salamanca</institution>
+      <institution>16.3.  GRIAL Research Group, Research Institute for Educational Sciences, University of Salamanca</institution>
+      <institution>16.4.  UNESCO Chair in University Management and Policy, Technical University of Madrid</institution>
+      <country>16.1.  Spain</country>
+      <country>16.2.  Spain</country>
+      <country>16.3.  Spain</country>
+      <country>16.4.  Spain</country>
+    </affiliations>
+    <section1>
+      <h1>16.1.  -</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>17. VOLUME</journaltitle>
+    <title>17. An Adaptive Multi-Channel Assignment and Coordination Scheme for IEEE 802.11P/1609.4 in Vehicular Ad-Hoc Networks</title>
+    <doi>17. </doi>
+    <pubdate>17. 2018</pubdate>
+    <volume>17. 6</volume>
+    <issue>17. 2018</issue>
+    <fpage>17. 2781</fpage>
+    <lpage>17. 2802</lpage>
+    <abstract>17. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>17.1.  AKRAM A. ALMOHAMMEDI</author>
+      <author>17.2.  NOR KAMARIAH NOORDIN</author>
+      <author>17.3.  (Senior Member</author>
+      <author>17.4.  IEEE)</author>
+      <author>17.5.  ADUWATI SALI</author>
+      <author>17.6.  (Senior Member</author>
+      <author>17.7.  IEEE)</author>
+      <author>17.8.  FAZIRULHISYAM HASHIM</author>
+      <author>17.9.  (Member</author>
+      <author>17.10.  IEEE)</author>
+      <author>17.11.  MOHAMMED BALFAQIH</author>
+      <author>17.12.  (Member</author>
+      <author>17.13.  IEEE)</author>
+    </authors>
+    <affiliations>
+      <institution>17.1.  Department of Computer and Communication Engineering</institution>
+      <institution>17.2.  Department of Electrical, Electronic and System Engineering</institution>
+      <institution>17.3.  Wireless and Photonics Networks Laboratory, Universiti Putra Malaysia</institution>
+      <country>17.1.  Malaysia</country>
+      <country>17.2.  Malaysia</country>
+      <country>17.3.  Malaysia</country>
+    </affiliations>
+    <section1>
+      <h1>17.1.  -</h1>
+      <h1>17.2.  I. INTRODUCTION</h1>
+      <h1>17.3.  II. RELATED WORKS</h1>
+      <h1>17.4.  III. SYSTEM MODEL AND ASSUMPTIONS</h1>
+      <h1>17.5.  IV. ANALYTICAL MODEL</h1>
+      <h1>17.6.  V. PERFORMANCE EVALUATION</h1>
+      <h1>17.7.  VI. CONCLUSION</h1>
+    </section1>
+    <section2>
+      <h2>17.1.  CBR D CCHI</h2>
+    </section2>
+    <section3>
+      <h3>17.1.  Threshold Queufreeze, Threshold Congestion, and Threshold Sparse,</h3>
+      <h3>17.2.  Threshold Queufreeze (70% CBR 97%), the RSU</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>18. IEEE Photonics Journal</journaltitle>
+    <title>18. A Novel Illuminance Control Strategy for Roadway Lighting Based on Greenshields Macroscopic Traffic Model</title>
+    <doi>18. 10.1109/JPHOT.2017.2782801</doi>
+    <pubdate>18. 2018</pubdate>
+    <volume>18. 10</volume>
+    <issue>18. 1</issue>
+    <fpage>18. </fpage>
+    <lpage>18. </lpage>
+    <abstract>18. 0</abstract>
+    <keywords/>
+    <authors/>
+    <affiliations/>
+    <section1>
+      <h1>18.1.  A Novel Illuminance Control Strategy for</h1>
+      <h1>18.2.  Roadway Lighting Based on Greenshields</h1>
+      <h1>18.3.  Macroscopic Traffic Model</h1>
+    </section1>
+    <section2>
+      <h2>18.1.  1. Introduction</h2>
+      <h2>18.2.  2. CIE Recommendation Model and Illuminance Level Control Strategy</h2>
+      <h2>18.3.  3. Proposed Lighting Level Modeling and Control</h2>
+      <h2>18.4.  4. Case Studies</h2>
+      <h2>18.5.  5. Results and Discussion</h2>
+      <h2>18.6.  6. Conclusion</h2>
+    </section2>
+    <section3>
+      <h3>18.1.  2.1 The CIE Model</h3>
+      <h3>18.2.  2.2 Limitations of the CIE Model</h3>
+      <h3>18.3.  3.1 Continuous Dependency on Roadway Parameters</h3>
+      <h3>18.4.  3.2 Understanding Traffic Characteristics</h3>
+      <h3>18.5.  4.1 Light Pole Data</h3>
+      <h3>18.6.  4.2 Google Traffic Data</h3>
+      <h3>18.7.  4.3 Static Roadway Parameters</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>19. VOLUME</journaltitle>
+    <title>19. Opportunistic Coexistence of LTE and WiFi for Future 5G System: Experimental Performance Evaluation and Analysis</title>
+    <doi>19. </doi>
+    <pubdate>19. 2018</pubdate>
+    <volume>19. 6</volume>
+    <issue>19. 2018</issue>
+    <fpage>19. 8725</fpage>
+    <lpage>19. 8741</lpage>
+    <abstract>19. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>19.1.  SHAOYI XU</author>
+      <author>19.2.  (Member</author>
+      <author>19.3.  IEEE)</author>
+      <author>19.4.  YAN LI</author>
+      <author>19.5.  YUAN GAO</author>
+      <author>19.6.  YANG LIU</author>
+      <author>19.7.  HARIS GA&#x83;ANIN</author>
+      <author>19.8.  (Senior Member</author>
+      <author>19.9.  IEEE)</author>
+    </authors>
+    <affiliations>
+      <institution>19.1.  Nokia Bell Labs</institution>
+      <institution>19.2.  School of Electronics and Information Engineering, Beijing Jiaotong University</institution>
+      <country>19.1.  Belgium</country>
+      <country>19.2.  China</country>
+    </affiliations>
+    <section1>
+      <h1>19.1.  -</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>20. VOLUME</journaltitle>
+    <title>20. Pattern Based Comprehensive Urdu Stemmer and Short Text Classification</title>
+    <doi>20. </doi>
+    <pubdate>20. 2017</pubdate>
+    <volume>20. 6</volume>
+    <issue>20. 2018</issue>
+    <fpage>20. 7374</fpage>
+    <lpage>20. 7389</lpage>
+    <abstract>20. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>20.1.  MUBASHIR ALI</author>
+      <author>20.2.  SHEHZAD KHALID</author>
+      <author>20.3.  MUHAMMAD HASEEB ASLAM</author>
+    </authors>
+    <affiliations>
+      <institution>20.1.  Department of Computer Engineering, Bahria University</institution>
+      <country>20.1.  Pakistan</country>
+    </affiliations>
+    <section1>
+      <h1>20.1.  -</h1>
+      <h1>20.2.  P(CijWi D P(CijWi)</h1>
+      <h1>20.3.  P .CijWi/)</h1>
+    </section1>
+    <section2>
+      <h2>20.1.  P .CijWi/ D</h2>
+      <h2>20.2.  P(CijWi)</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>21. VOLUME</journaltitle>
+    <title>21. A Bandwidth Variation Pattern-Differentiated Rate Adaptation for HTTP Adaptive Streaming Over an LTE Cellular Network</title>
+    <doi>21. </doi>
+    <pubdate>21. 2018</pubdate>
+    <volume>21. 6</volume>
+    <issue>21. 2018</issue>
+    <fpage>21. 9554</fpage>
+    <lpage>21. 9569</lpage>
+    <abstract>21. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>21.1.  HAIPENG DU</author>
+      <author>21.2.  QINGHUA ZHENG</author>
+      <author>21.3.  (Member</author>
+      <author>21.4.  IEEE)</author>
+      <author>21.5.  WEIZHAN ZHANG</author>
+      <author>21.6.  (Member</author>
+      <author>21.7.  IEEE)</author>
+      <author>21.8.  XIANG GAO</author>
+    </authors>
+    <affiliations>
+      <institution>21.1.  Research and Development, School of Continuing Education, Xi'an Jiaotong University</institution>
+      <institution>21.2.  SPKLSTN Lab, Department of Computer Science and Technology, Xi'an Jiaotong University</institution>
+      <country>21.1.  China</country>
+      <country>21.2.  China</country>
+    </affiliations>
+    <section1>
+      <h1>21.1.  -</h1>
+      <h1>21.2.  I. INTRODUCTION</h1>
+      <h1>21.3.  II. RELATED WORK</h1>
+      <h1>21.4.  III. SYSTEM MODEL</h1>
+      <h1>21.5.  IV. DESIGN OF BVPDRA</h1>
+      <h1>21.6.  V. PERFORMANCE EVALUATION</h1>
+      <h1>21.7.  VI. CONCLUSIONS</h1>
+    </section1>
+    <section2>
+      <h2>21.1.  A. OVERVIEW</h2>
+      <h2>21.2.  B. BANDWIDTH VARIATION PATTERN DIFFERENTIATION</h2>
+      <h2>21.3.  C. BANDWIDTH PREDICTION</h2>
+      <h2>21.4.  D. QUALITY ADAPTATION</h2>
+      <h2>21.5.  A. LTE CELLULAR NETWORK TESTBED</h2>
+      <h2>21.6.  B. SYSTEM IMPLEMENTATION</h2>
+      <h2>21.7.  C. EXPERIMENTAL SETUP</h2>
+      <h2>21.8.  D. EVALUATION OF BANDWIDTH PREDICTION</h2>
+      <h2>21.9.  E. EVALUATION OF QUALITY ADAPTATION</h2>
+    </section2>
+    <section3>
+      <h3>21.1.  NSP D d Interval e</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>22. IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY</journaltitle>
+    <title>22. Practical Verifiable Computation -A MapReduce Case Study</title>
+    <doi>22. </doi>
+    <pubdate>22. 2018</pubdate>
+    <volume>22. 13</volume>
+    <issue>22. 6</issue>
+    <fpage>22. 1376</fpage>
+    <lpage>22. 1391</lpage>
+    <abstract>22. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>22.1.  Yongzhi Wang</author>
+      <author>22.2.  Yulong Shen</author>
+      <author>22.3.  Xiaohong Jiang</author>
+      <author>22.4.  Senior Member</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>22.1.  -</h1>
+      <h1>22.2.  I. INTRODUCTION</h1>
+      <h1>22.3.  II. PRELIMINARIES AND SECURITY MODEL</h1>
+      <h1>22.4.  Algorithm 1 Integrity Audition</h1>
+      <h1>22.5.  IV. SECURITY ANALYSIS</h1>
+      <h1>22.6.  V. DISCUSSIONS In this section, we discuss the extended solutions to address two related security problems, namely the private cloud security and the data confidentiality.</h1>
+      <h1>22.7.  VI. EXPERIMENTS AND EVALUATION</h1>
+      <h1>22.8.  VII. RELATED WORKS</h1>
+      <h1>22.9.  VIII. CONCLUSION AND FUTURE WORK</h1>
+      <h1>22.10.  ACKNOWLEDGMENTS</h1>
+    </section1>
+    <section2>
+      <h2>22.1.  A. MapReduce</h2>
+      <h2>22.2.  B. Security Model</h2>
+      <h2>22.3.  A. The MapReduce Model and the Design Intuition</h2>
+      <h2>22.4.  9: ex ecuti on Audi ti on(Li j )</h2>
+      <h2>22.5.  A. Security of the Input Audition</h2>
+      <h2>22.6.  Theorem 1 (Phase Input Integrity Under Probabilistic Input</h2>
+      <h2>22.7.  B. Security of the Execution Audition</h2>
+      <h2>22.8.  1) Security of the Function Execution Audition:</h2>
+      <h2>22.9.  Theorem 2 (Function Execution Integrity): Suppose the</h2>
+      <h2>22.10.  If the audition is passed, the statement simulation sequence</h2>
+      <h2>22.11.  Corollary 1 (Result Integrity): Suppose l is an output log record. Any tampering that results in a change of value in l will be detected by the function execution audition algorithm (FEA).</h2>
+      <h2>22.12.  Corollary 2 (Phase Output Log Integrity): Suppose the</h2>
+      <h2>22.13.  If function execution auditions (FEA) are performed on each function execution of that phase, the output log of that phase preserves the computation integrity if all the FEAs are passed.</h2>
+      <h2>22.14.  2) Security of Probabilistic Execution Audition: We define</h2>
+      <h2>22.15.  MapReduce phase as the output tampering detection rate,</h2>
+      <h2>22.16.  Theorem 3 (Phase Output Integrity Under Probabilistic</h2>
+      <h2>22.17.  Execution Audition): Suppose the function audition probability</h2>
+      <h2>22.18.  C. Security of the MapReduce Application</h2>
+      <h2>22.19.  1) Using Basic Input Audition and Execution Audition:</h2>
+      <h2>22.20.  Theorem 4 (Application Output Integrity): Suppose the basic input audition and the basic execution audition are employed. If all the auditions performed on each phase have passed, the application output will be correct.</h2>
+      <h2>22.21.  2) Using Probabilistic Input Audition and Probabilistic Execution Audition:</h2>
+      <h2>22.22.  Theorem 5 (Application Output Integrity under Probabilis</h2>
+      <h2>22.23.  A. Protecting Integrity on the Private Cloud</h2>
+      <h2>22.24.  1) The SGX Based Solution: Our first solution is based</h2>
+      <h2>22.25.  Step 2: The user host sends the program message</h2>
+      <h2>22.26.  2) The Commit-and-Sampling Based Solution: For the pri</h2>
+      <h2>22.27.  B. Protecting Data Confidentiality on the Public Cloud</h2>
+      <h2>22.28.  A. Experiments</h2>
+      <h2>22.29.  B. Financial Evaluation</h2>
+      <h2>22.30.  C. Compare With Proof-Based Verifiable Computation</h2>
+    </section2>
+    <section3>
+      <h3>22.1.  C. The Execution Log Generation</h3>
+      <h3>22.2.  2) Probabilistic Input Audition: The number of input/output</h3>
+      <h3>22.3.  E. The Execution Audition</h3>
+      <h3>22.4.  2) The Log Retrieve Protocol: Our study showed that,</h3>
+      <h3>22.5.  Audition): Suppose the CBF test probability is tr , the CBF</h3>
+      <h3>22.6.  M fi , the CBF test probability in the input audition is tri ,</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>23. IEEE/ACM TRANSACTIONS ON NETWORKING</journaltitle>
+    <title>23. WMGR: A Generic and Compact Routing Scheme for Data Center Networks</title>
+    <doi>23. </doi>
+    <pubdate>23. 2018</pubdate>
+    <volume>23. 26</volume>
+    <issue>23. 1</issue>
+    <fpage>23. 356</fpage>
+    <lpage>23. 369</lpage>
+    <abstract>23. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>23.1.  Daniela Aguirre-Guerrero</author>
+    </authors>
+    <affiliations>
+      <institution>23.1.  </institution>
+      <country>23.1.  </country>
+    </affiliations>
+    <section1>
+      <h1>23.1.  -</h1>
+      <h1>23.2.  II. RELATED WORK</h1>
+      <h1>23.3.  III. PRELIMINARIES</h1>
+      <h1>23.4.  Then the map</h1>
+      <h1>23.5.  1Notice that a CG can also be embedded into the WMS of the FG.</h1>
+      <h1>23.6.  V. PERFORMANCE EVALUATION</h1>
+      <h1>23.7.  Algorithm 4 Compute the Canonical Form of a Word</h1>
+      <h1>23.8.  VI. CONCLUSION</h1>
+    </section1>
+    <section2>
+      <h2>23.1.  The DCell Fault-Tolerant Routing Protocol (DFR) for DCell Topology [6]</h2>
+      <h2>23.2.  Routing Scheme for Any CG [17]</h2>
+      <h2>23.3.  A. Greedy Embedding</h2>
+      <h2>23.4.  B. Cayley Graphs and Word-Metric Spaces</h2>
+      <h2>23.5.  A. Embedding Graphs Into Word-Metric Spaces</h2>
+      <h2>23.6.  B. Distance Computation Using Finite State Automata</h2>
+      <h2>23.7.  C. Greedy Forwarding Algorithms</h2>
+      <h2>23.8.  A. Performance Metrics</h2>
+      <h2>23.9.  B. Memory Space Requirements of Specialized Routing Schemes</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>24. VOLUME</journaltitle>
+    <title>24. Switching Laws Design for Stability of Finite and Infinite Delayed Switched Systems With Stable and Unstable Modes</title>
+    <doi>24. </doi>
+    <pubdate>24. 2018</pubdate>
+    <volume>24. 6</volume>
+    <issue>24. 2018</issue>
+    <fpage>24. 6677</fpage>
+    <lpage>24. 6691</lpage>
+    <abstract>24. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>24.1.  XIAODI LI</author>
+      <author>24.2.  JINDE CAO</author>
+      <author>24.3.  (Fellow</author>
+      <author>24.4.  IEEE)</author>
+      <author>24.5.  MATJAZL PERC</author>
+    </authors>
+    <affiliations>
+      <institution>24.1.  Faculty of Natural Sciences and Mathematics, University of Maribor</institution>
+      <institution>24.2.  School of Mathematics and Statistics, Shandong Normal University</institution>
+      <institution>24.3.  School of Mathematics, Southeast University</institution>
+      <country>24.1.  Slovenia</country>
+      <country>24.2.  China</country>
+      <country>24.3.  China</country>
+    </affiliations>
+    <section1>
+      <h1>24.1.  -</h1>
+      <h1>24.2.  Denote</h1>
+      <h1>24.3.  When</h1>
+      <h1>24.4.  It is easy to nd that</h1>
+    </section1>
+    <section2>
+      <h2>24.1.  U (t ): It then can be</h2>
+      <h2>24.2.  2 T : It implies that</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>25. VOLUME</journaltitle>
+    <title>25. A New Inter-Domain Information Sharing Smart System Based on ABSES in SDN</title>
+    <doi>25. </doi>
+    <pubdate>25. 2018</pubdate>
+    <volume>25. 6</volume>
+    <issue>25. 2018</issue>
+    <fpage>25. 12790</fpage>
+    <lpage>25. 12799</lpage>
+    <abstract>25. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>25.1.  JINGJING XU</author>
+      <author>25.2.  HANSHU HONG</author>
+      <author>25.3.  GUOFENG LIN</author>
+      <author>25.4.  ZHIXIN SUN</author>
+    </authors>
+    <affiliations>
+      <institution>25.1.  Laboratory of Broadband Wireless Communication and Sensor Network Technology, Nanjing University of Posts and Telecommunications</institution>
+      <country>25.1.  China</country>
+    </affiliations>
+    <section1>
+      <h1>25.1.  -</h1>
+      <h1>25.2.  I. INTRODUCTION</h1>
+      <h1>25.3.  II. RELATED WORK</h1>
+      <h1>25.4.  III. PRELIMINARIES</h1>
+      <h1>25.5.  IV. MODELS AND DEFINITIONS</h1>
+      <h1>25.6.  V. ATTRIBUTE-BASED SEARCHABLE</h1>
+      <h1>25.7.  ENCRYPTION SCHEME</h1>
+      <h1>25.8.  VI. DISCUSSION</h1>
+      <h1>25.9.  VII. CONCLUSION</h1>
+    </section1>
+    <section2>
+      <h2>25.1.  A. BILINEAR PAIRING</h2>
+      <h2>25.2.  B. ACCESS STRUCTURE</h2>
+      <h2>25.3.  C. DECISIONAL BILINEAR DIFFIE-HELLMAN ASSUMPTION</h2>
+      <h2>25.4.  A. SYSTEM ARCHITECTURE</h2>
+      <h2>25.5.  B. SYSTEM MODEL</h2>
+      <h2>25.6.  C. FORMULIZED DEFINITION OF ABSES</h2>
+      <h2>25.7.  D. SECURITY REQUIREMENT</h2>
+      <h2>25.8.  A. CONCRETE CONSTRUCTIONS</h2>
+      <h2>25.9.  B. CONCRETE ANALYSIS</h2>
+      <h2>25.10.  A. KEYWORD SEMANTIC SECURITY</h2>
+      <h2>25.11.  B. PERFORMANCE ANALYSIS</h2>
+      <h2>25.12.  C. PERFORMANCE EVALUATION</h2>
+    </section2>
+    <section3>
+      <h3>25.1.  2) No-Degeneracy: Given x, y 2 G1, we have e .x; y/ 6D 1.</h3>
+      <h3>25.2.  After that, set i D index(x), Sx0 D findex .z/ V z 2 Sx g.</h3>
+      <h3>25.3.  Fx D DecryNode .Tw; N1; N3; x/</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>26. </journaltitle>
+    <title>26. Lower Cost Solution for Medium Voltage Heater Control</title>
+    <doi>26. </doi>
+    <pubdate>26. 2018</pubdate>
+    <volume>26. </volume>
+    <issue>26. </issue>
+    <fpage>26. 1</fpage>
+    <lpage>26. 3</lpage>
+    <abstract>26. 0</abstract>
+    <keywords/>
+    <authors>
+      <author>26.1.  By Paul G. Cardinal</author>
+      <author>26.2.  David Burns</author>
+      <author>26.3.  Daniel Sauer</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>26.1.  -</h1>
+      <h1>26.2.  VM Neutral F3 PS MS</h1>
+      <h1>26.3.  Neutral G</h1>
+      <h1>26.4.  ILoad C0</h1>
+      <h1>26.5.  ILoad C OC</h1>
+      <h1>26.6.  Lower Tap L</h1>
+      <h1>26.7.  Raise Tap R NS</h1>
+      <h1>26.8.  Reset DH</h1>
+      <h1>26.9.  External</h1>
+      <h1>26.10.  Input Terminals</h1>
+      <h1>26.11.  Current</h1>
+      <h1>26.12.  Sense</h1>
+      <h1>26.13.  Lower</h1>
+      <h1>26.14.  Raise</h1>
+      <h1>26.15.  Neutral Switch DH OC</h1>
+      <h1>26.16.  Auto</h1>
+      <h1>26.17.  Manual 1,000 ft</h1>
+      <h1>26.18.  Voltage</h1>
+      <h1>26.19.  Control</h1>
+      <h1>26.20.  Source</h1>
+      <h1>26.21.  Power</h1>
+      <h1>26.22.  Supply</h1>
+      <h1>26.23.  Change</h1>
+      <h1>26.24.  Neutral</h1>
+      <h1>26.25.  Changer Motor</h1>
+      <h1>26.26.  SCR with Capacitors</h1>
+      <h1>26.27.  VVT Without</h1>
+      <h1>26.28.  Capacitors</h1>
+      <h1>26.29.  SCR Without</h1>
+      <h1>26.30.  Capacitors</h1>
+      <h1>26.31.  Control 2 1 4</h1>
+      <h1>26.32.  Series</h1>
+      <h1>26.33.  Winding</h1>
+      <h1>26.34.  Reactor</h1>
+    </section1>
+    <section2>
+      <h2>26.1.  Three-Phase VVT</h2>
+      <h2>26.2.  Path Forward</h2>
+      <h2>26.3.  Author Information</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>27. VOLUME</journaltitle>
+    <title>27. Vulnerability Analysis for the Authentication Protocols in Trusted Computing Platforms and a Proposed Enhancement of the OffPAD Protocol</title>
+    <doi>27. </doi>
+    <pubdate>27. 2018</pubdate>
+    <volume>27. 6</volume>
+    <issue>27. 2018</issue>
+    <fpage>27. 6071</fpage>
+    <lpage>27. 6081</lpage>
+    <abstract>27. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>27.1.  MADA ALHAIDARY</author>
+      <author>27.2.  SK  MIZANUR RAHMAN</author>
+      <author>27.3.  MOHAMMED ZAKARIAH</author>
+      <author>27.4.  M. SHAMIM HOSSAIN</author>
+      <author>27.5.  ATIF ALAMRI</author>
+      <author>27.6.  SARWAR M HAQUE</author>
+      <author>27.7.  B. B. GUPTA</author>
+    </authors>
+    <affiliations>
+      <institution>27.1.  Chair of Pervasive and Mobile Computing, College of Computer and Information Sciences, King Saud University</institution>
+      <institution>27.2.  College of Computer and Information Sciences, King Saud University</institution>
+      <institution>27.3.  Department of Computer Science, King Fahd University of Petroleum &amp; Minerals</institution>
+      <institution>27.4.  Department of Information Systems, College of Computer and Information Sciences, King Saud University</institution>
+      <institution>27.5.  Department of Software Engineering, College of Computer and Information Sciences, King Saud University</institution>
+      <institution>27.6.  National Institute of Technology Kurukshetra</institution>
+      <country>27.1.  Saudi Arabia</country>
+      <country>27.2.  Saudi Arabia</country>
+      <country>27.3.  Saudi Arabia</country>
+      <country>27.4.  Saudi Arabia</country>
+      <country>27.5.  Saudi Arabia</country>
+      <country>27.6.  India</country>
+    </affiliations>
+    <section1>
+      <h1>27.1.  -</h1>
+      <h1>27.2.  I. INTRODUCTION</h1>
+      <h1>27.3.  II. LITERATURE REVIEW OF RELEVANT RESEARCH</h1>
+      <h1>27.4.  III. VULNERABILITY ANALYSIS FOR AUTHENTICATING</h1>
+      <h1>27.5.  A USER BY USING THE OffPAD</h1>
+      <h1>27.6.  IV. PROPOSED SOLUTION</h1>
+      <h1>27.7.  V. IMPLEMENTATION AND SECURITY ANALYSIS</h1>
+      <h1>27.8.  VI. CONCLUSION</h1>
+    </section1>
+    <section2>
+      <h2>27.1.  A. REVIEW OF THE OffPAD</h2>
+      <h2>27.2.  B. USING AN OffPAD TO MANAGE AND</h2>
+      <h2>27.3.  AUTHENTICATE A USER</h2>
+      <h2>27.4.  A. CLASSIFICATION BASED ON AUTHENTICATION</h2>
+      <h2>27.5.  ANALYSIS</h2>
+      <h2>27.6.  B. ONE-FACTOR PROTOCOLS</h2>
+      <h2>27.7.  C. MULTI-FACTOR PROTOCOLS</h2>
+      <h2>27.8.  A. POSSIBLE VULNERABILITIES OF SINGLE- AND</h2>
+      <h2>27.9.  MULTI-FACTOR AUTHENTICATION PROTOCOLS</h2>
+      <h2>27.10.  B. THREATS AND ATTACKS WHEN USING THE HTTP</h2>
+      <h2>27.11.  DAA PROTOCOL WITH THE OffPAD</h2>
+      <h2>27.12.  A. MAN-IN-THE-MIDDLE ATTACKS</h2>
+      <h2>27.13.  B. REPLAY ATTACKS</h2>
+      <h2>27.14.  C. COMMUNICATION AND COMPUTATIONAL COST</h2>
+      <h2>27.15.  A. AVISPA: A VERIFICATION TOOL FOR FORMAL</h2>
+      <h2>27.16.  SECURITY ANALYSIS</h2>
+      <h2>27.17.  B. SECURITY ANALYSIS</h2>
+    </section2>
+    <section3>
+      <h3>27.1.  1) ANALYSIS OF WIRELESS AUTHENTICATION</h3>
+      <h3>27.2.  2) AUTHENTICATION SETS TO ANALYZE SECURITY ISSUES</h3>
+      <h3>27.3.  3) ANALYSIS OF VERIFICATION SYSTEMS FOR WIRELESS</h3>
+      <h3>27.4.  SENSOR NETWORKS [6]</h3>
+      <h3>27.5.  4) ANALYSIS OF THE PAIRHAND PROTOCOL</h3>
+      <h3>27.6.  5) ANALYSIS OF Li-Hwang's PROTOCOL</h3>
+      <h3>27.7.  6) ANALYSIS OF THE CPN (COLORED PETRI NET)</h3>
+      <h3>27.8.  PROTOCOL</h3>
+      <h3>27.9.  7) ANALYSIS OF THE AKA PROTOCOL</h3>
+      <h3>27.10.  8) ANALYSIS OF A ``MORE EFFICIENT AND SECURE</h3>
+      <h3>27.11.  DYNAMIC ID-BASED REMOTE USER</h3>
+      <h3>27.12.  AUTHENTICATION SCHEME''</h3>
+      <h3>27.13.  9) ANALYSIS OF FACEBOOK CONNECT</h3>
+      <h3>27.14.  CREDENTIALS BY ANALYZING CHARACTERISTICS</h3>
+      <h3>27.15.  1) MULTI-LEVEL PASSWORD GENERATION</h3>
+      <h3>27.16.  2) STAGGERED TESLA</h3>
+      <h3>27.17.  1) USING BIOMETRICS</h3>
+      <h3>27.18.  2) USING AN EXTRA DEVICE</h3>
+      <h3>27.19.  1) MAN-IN-THE-MIDDLE ATTACKS</h3>
+      <h3>27.20.  2) REPLAY ATTACKS</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>28. </journaltitle>
+    <title>28. Load-Frequency Controllers</title>
+    <doi>28. </doi>
+    <pubdate>28. 2018</pubdate>
+    <volume>28. </volume>
+    <issue>28. </issue>
+    <fpage>28. 67</fpage>
+    <lpage>28. 74</lpage>
+    <abstract>28. 0</abstract>
+    <keywords/>
+    <authors>
+      <author>28.1.  AN OPTIMIZATION APPROACH FOR</author>
+      <author>28.2.  By S. Mohsen Azizi</author>
+      <author>28.3.  S. Ali Khajehoddin</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>28.1.  -</h1>
+      <h1>28.2.  LFC Overview</h1>
+      <h1>28.3.  Decentralized PI Controller Formulation</h1>
+      <h1>28.4.  Performance Optimization of the Decentralized PI Controller</h1>
+      <h1>28.5.  Conclusions</h1>
+      <h1>28.6.  Author Information</h1>
+    </section1>
+    <section2>
+      <h2>28.1.  Generator Gi</h2>
+      <h2>28.2.  Neighboring Areas Li</h2>
+      <h2>28.3.  Distributed</h2>
+      <h2>28.4.  Generation</h2>
+      <h2>28.5.  System DGi</h2>
+      <h2>28.6.  Controller i 1</h2>
+      <h2>28.7.  Governor i</h2>
+      <h2>28.8.  Turbine i</h2>
+      <h2>28.9.  Time (s) 20 30</h2>
+      <h2>28.10.  Time (s)</h2>
+      <h2>28.11.  Area 1</h2>
+      <h2>28.12.  Area 2</h2>
+      <h2>28.13.  Area 3</h2>
+      <h2>28.14.  Time (s)</h2>
+      <h2>28.15.  Time (s)</h2>
+      <h2>28.16.  Time (s)</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>29. IEEE JOURNAL OF SOLID-STATE CIRCUITS</journaltitle>
+    <title>29. A Miniaturized Single-Transducer Implantable Pressure Sensor With Time-Multiplexed Ultrasonic Data and Power Links</title>
+    <doi>29. </doi>
+    <pubdate>29. 2018</pubdate>
+    <volume>29. 53</volume>
+    <issue>29. 4</issue>
+    <fpage>29. 1089</fpage>
+    <lpage>29. 1101</lpage>
+    <abstract>29. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>29.1.  Marcus J. Weber</author>
+      <author>29.2.  Student Member</author>
+      <author>29.3.  Yoshiaki Yoshihara</author>
+      <author>29.4.  Member</author>
+      <author>29.5.  Ahmed Sawaby</author>
+      <author>29.6.  Student Member</author>
+      <author>29.7.  Jayant Charthad</author>
+      <author>29.8.  Student Member</author>
+      <author>29.9.  Ting Chia Chang</author>
+      <author>29.10.  Student Member</author>
+      <author>29.11.  Amin Arbabian</author>
+      <author>29.12.  Senior Member</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>29.1.  -</h1>
+      <h1>29.2.  I. INTRODUCTION</h1>
+      <h1>29.3.  II. SYSTEM LEVEL DESCRIPTION</h1>
+      <h1>29.4.  III. POWER MANAGEMENT AND US POWER DETECTOR</h1>
+      <h1>29.5.  ESAMP</h1>
+      <h1>29.6.  IV. DATA TRANSMITTER DESIGN FOR SINGLE PIEZO</h1>
+      <h1>29.7.  V. PIEZO DESIGN The ultrasonic and electrical characteristics of a piezo, such as the frequency, impedance, and effective aperture, are</h1>
+      <h1>29.8.  VI. PRESSURE SIGNAL PATH</h1>
+      <h1>29.9.  VII. IMPLANTABLE SENSOR CHARACTERIZATION</h1>
+      <h1>29.10.  VIII. FULLY PACKAGED IMPLANT MEASUREMENT</h1>
+      <h1>29.11.  IX. CONCLUSION</h1>
+      <h1>29.12.  ACKNOWLEDGMENT</h1>
+    </section1>
+    <section2>
+      <h2>29.1.  A. PM Architecture</h2>
+      <h2>29.2.  B. US Power Detector Design</h2>
+      <h2>29.3.  C. Charging Efficiency Analysis</h2>
+      <h2>29.4.  A. Analog Front-End Design</h2>
+      <h2>29.5.  B. SAR ADC Design</h2>
+      <h2>29.6.  A. Fully Wireless Characterization</h2>
+      <h2>29.7.  B. Pressure Sensing Performance</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>30. VOLUME</journaltitle>
+    <title>30. Simultaneous Robust, Decoupled Output Feedback Control for Multivariate Industrial Systems</title>
+    <doi>30. </doi>
+    <pubdate>30. 2018</pubdate>
+    <volume>30. 6</volume>
+    <issue>30. 2018</issue>
+    <fpage>30. 6777</fpage>
+    <lpage>30. 6782</lpage>
+    <abstract>30. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>30.1.  PENGWEI LI</author>
+      <author>30.2.  XU YANG</author>
+      <author>30.3.  (Member</author>
+      <author>30.4.  IEEE)</author>
+      <author>30.5.  YURI A. W. SHARDT</author>
+      <author>30.6.  (Member</author>
+      <author>30.7.  IEEE)</author>
+    </authors>
+    <affiliations>
+      <institution>30.1.  College of Electrical and Information Engineering, Beihua University</institution>
+      <institution>30.2.  Department of Chemical Engineering, University of Waterloo, Waterloo</institution>
+      <institution>30.3.  Key Laboratory of Knowledge Automation for Industrial Processes of Ministry of Education, School of Automation and Electrical Engineering, University of Science and Technology Beijing</institution>
+      <country>30.1.  China</country>
+      <country>30.2.  Canada</country>
+      <country>30.3.  China</country>
+    </affiliations>
+    <section1>
+      <h1>30.1.  -</h1>
+      <h1>30.2.  I. INTRODUCTION</h1>
+      <h1>30.3.  II. SIMULTANEOUS ROBUST, DECOUPLED OUTPUT</h1>
+      <h1>30.4.  FEEDBACK CONTROL APPROACH</h1>
+      <h1>30.5.  III. CASE STUDY ON A MULTIVARIATE</h1>
+      <h1>30.6.  ROLLING MILL SYSTEM</h1>
+      <h1>30.7.  IV. CONCLUSIONS</h1>
+    </section1>
+    <section2>
+      <h2>30.1.  B. CONTROL IMPLEMENTATION</h2>
+      <h2>30.2.  C. RESULTS AND DISCUSSION</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>31. IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS</journaltitle>
+    <title>31. A Collaborative Citizen Science Platform for Real-Time Volunteer Computing and Games</title>
+    <doi>31. </doi>
+    <pubdate>31. 2018</pubdate>
+    <volume>31. 5</volume>
+    <issue>31. 1</issue>
+    <fpage>31. 9</fpage>
+    <lpage>31. 19</lpage>
+    <abstract>31. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>31.1.  Poonam Yadav</author>
+      <author>31.2.  Member</author>
+      <author>31.3.  Ioannis Charalampidis</author>
+      <author>31.4.  Jeremy Cohen</author>
+      <author>31.5.  John Darlington</author>
+      <author>31.6.  Francois Grey</author>
+    </authors>
+    <affiliations/>
+    <section1>
+      <h1>31.1.  I. INTRODUCTION</h1>
+      <h1>31.2.  II. MOTIVATIONS</h1>
+      <h1>31.3.  III. BACKGROUND In this section, we provide a brief overview of each of the platforms used in this paper.</h1>
+      <h1>31.4.  IV. PLATFORM INTEGRATION OVERVIEW</h1>
+      <h1>31.5.  V. IMPLEMENTATION</h1>
+      <h1>31.6.  VI. USAGE SCENARIOS</h1>
+      <h1>31.7.  VII. RELATED WORK</h1>
+      <h1>31.8.  VIII. CONCLUSION</h1>
+      <h1>31.9.  ACKNOWLEDGMENT The authors would like to thank the members of the VAS, LiveQ, and CitizenGrid teams for their support of this paper. REFERENCES</h1>
+    </section1>
+    <section2>
+      <h2>31.1.  A. Volunteer Engagement</h2>
+      <h2>31.2.  B. Scientific Education</h2>
+      <h2>31.3.  C. Participation Diversity</h2>
+      <h2>31.4.  A. Virtual Atom Smasher</h2>
+      <h2>31.5.  B. LiveQ</h2>
+      <h2>31.6.  C. CitizenGrid</h2>
+      <h2>31.7.  A. Project Participants</h2>
+      <h2>31.8.  1) Project Creator Team:</h2>
+      <h2>31.9.  2) Thinking Volunteers—Game Players: These are the indi</h2>
+      <h2>31.10.  3) Computing Volunteers—Citizen Science Volunteers:</h2>
+      <h2>31.11.  B. Participation and Interaction Steps in the</h2>
+      <h2>31.12.  VAS-CitizenGrid Platform</h2>
+      <h2>31.13.  A. Integration Between the VAS Game Interface and LiveQ</h2>
+      <h2>31.14.  B. Integration Between CitizenGrid and VAS</h2>
+      <h2>31.15.  C. Integration Between CitizenGrid and LiveQ</h2>
+      <h2>31.16.  A. Aggregation of Donated Resources</h2>
+      <h2>31.17.  B. Meeting the Demand for Real-Time Computation</h2>
+      <h2>31.18.  C. Platform for Promoting STEM</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>32. VOLUME</journaltitle>
+    <title>32. Time-Frequency Scheduling and Power Optimization for Reliable Multiple UAV Communications</title>
+    <doi>32. </doi>
+    <pubdate>32. 2018</pubdate>
+    <volume>32. 6</volume>
+    <issue>32. 2018</issue>
+    <fpage>32. 3992</fpage>
+    <lpage>32. 4005</lpage>
+    <abstract>32. 1</abstract>
+    <keywords>
+      <keyword>32.1.  Unmanned aerial vehicle communications</keyword>
+      <keyword>32.2.  adjacent channel interference</keyword>
+      <keyword>32.3.  time-frequency scheduling</keyword>
+      <keyword>32.4.  power optimization</keyword>
+    </keywords>
+    <authors>
+      <author>32.1.  ZHEN XUE</author>
+      <author>32.2.  JINLONG WANG</author>
+      <author>32.3.  (Senior Member</author>
+      <author>32.4.  IEEE)</author>
+      <author>32.5.  QINGJIANG SHI</author>
+      <author>32.6.  GUORU DING</author>
+      <author>32.7.  (Senior Member</author>
+      <author>32.8.  IEEE)</author>
+      <author>32.9.  QIHUI WU</author>
+      <author>32.10.  (Senior Member</author>
+      <author>32.11.  IEEE)</author>
+    </authors>
+    <affiliations>
+      <institution>32.1.  College of Communications Engineering, Army Engineering University of PLA</institution>
+      <institution>32.2.  College of Electronic and Information Engineering, Nanjing University of Aeronautics and Astronautics</institution>
+      <country>32.1.  China</country>
+      <country>32.2.  China</country>
+    </affiliations>
+    <section1>
+      <h1>32.1.  -</h1>
+      <h1>32.2.  I. INTRODUCTION</h1>
+      <h1>32.3.  III. PROBLEM TRANSFORMATION</h1>
+      <h1>32.4.  VI. SIMULATION RESULTS</h1>
+      <h1>32.5.  VII. CONCLUSIONS</h1>
+    </section1>
+    <section2>
+      <h2>32.1.  A. BACKGROUND AND MOTIVATION</h2>
+      <h2>32.2.  B. RELATED WORK AND CONTRIBUTION</h2>
+      <h2>32.3.  C. ORGANIZATION AND NOTATIONS</h2>
+      <h2>32.4.  A. AIR-GROUND CHANNEL MODELING</h2>
+      <h2>32.5.  B. ADJACENT CHANNEL INTERFERENCE</h2>
+      <h2>32.6.  C. PROBLEM FORMULATION</h2>
+      <h2>32.7.  A. EQUIVALENT TRANSFORMATION VIA THE</h2>
+      <h2>32.8.  RB ASSIGNMENT MATRIX A</h2>
+      <h2>32.9.  B. EQUIVALENT TRANSFORMATION VIA THE CHANNEL</h2>
+      <h2>32.10.  OCCUPANCY MATRIX X AND THE SLOT</h2>
+      <h2>32.11.  OCCUPANCY MATRIX Y</h2>
+      <h2>32.12.  A. UPDATE X and Y VIA THE BCD-BASED METHOD</h2>
+      <h2>32.13.  B. UPDATE p VIA THE EIGENVALUE DECOMPOSITION</h2>
+      <h2>32.14.  METHOD</h2>
+      <h2>32.15.  A. SMOOTH APPROXIMATION</h2>
+      <h2>32.16.  B. PROPOSED GRADIENT PROJECTION BASED METHOD</h2>
+      <h2>32.17.  A. CONVERGENCE EVALUATION</h2>
+      <h2>32.18.  B. SYSTEM PERFORMANCE</h2>
+    </section2>
+    <section3>
+      <h3>32.1.  PLkj ;bs D</h3>
+      <h3>32.2.  PLkj ;bs</h3>
+      <h3>32.3.  Amej T WAk ejpmCkj 1T Amej F C f T Amej</h3>
+      <h3>32.4.  X pmCkj ejT ym xm T Wxk ejT yk F C f T xmejT ym</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>33. VOLUME</journaltitle>
+    <title>33. Dynamic Spectrum Access With Physical Layer Security: A Game-Based Jamming Approach</title>
+    <doi>33. </doi>
+    <pubdate>33. 2018</pubdate>
+    <volume>33. 6</volume>
+    <issue>33. 2018</issue>
+    <fpage>33. 12052</fpage>
+    <lpage>33. 12059</lpage>
+    <abstract>33. 1</abstract>
+    <keywords>
+      <keyword>33.1.  Spectrum overlay</keyword>
+      <keyword>33.2.  physical layer security</keyword>
+      <keyword>33.3.  game</keyword>
+      <keyword>33.4.  jamming</keyword>
+    </keywords>
+    <authors>
+      <author>33.1.  YANJUN YAO</author>
+      <author>33.2.  WUYANG ZHOU</author>
+      <author>33.3.  (Member</author>
+      <author>33.4.  IEEE)</author>
+      <author>33.5.  BAOHUA KOU</author>
+      <author>33.6.  YAQI WANG</author>
+    </authors>
+    <affiliations>
+      <institution>33.1.  Beijing Space Information Ralay And Transmission Technology Research Center</institution>
+      <institution>33.2.  Key Laboratory of Wireless-Optical Communications, Chinese Academy of Sciences, University of Science and Technology of China</institution>
+      <country>33.1.  China</country>
+      <country>33.2.  China</country>
+    </affiliations>
+    <section1>
+      <h1>33.1.  I. INTRODUCTION</h1>
+      <h1>33.2.  II. SYSTEM SCENARIO AND DSA SCHEME</h1>
+      <h1>33.3.  BASED ON MARKOV THEORY</h1>
+      <h1>33.4.  III. STACKELBERG GAME MODEL</h1>
+      <h1>33.5.  IV. NUMERICAL RESULTS</h1>
+      <h1>33.6.  V. CONCLUSION</h1>
+      <h1>33.7.  APPENDIX</h1>
+      <h1>33.8.  PROOF OF LEMMA 2</h1>
+    </section1>
+    <section2>
+      <h2>33.1.  A. SYSTEM SCENARIO AND NOTATIONS</h2>
+      <h2>33.2.  B. DYNAMIC SPECTRUM ACCESS SCHEME</h2>
+      <h2>33.3.  BASED ON CTMC</h2>
+      <h2>33.4.  C. PERFORMANCE METRICS</h2>
+      <h2>33.5.  A. STACKELBERG GAME MODEL</h2>
+      <h2>33.6.  B. SOLUTION TO THE GAME</h2>
+    </section2>
+    <section3>
+      <h3>33.1.  1) SERVICE DESCRIPTION</h3>
+      <h3>33.2.  2) AN-BASED JAMMING</h3>
+      <h3>33.3.  3) DSA SCHEME WITH CTMC MODELING</h3>
+      <h3>33.4.  1) SECONDARY USER's STRATEGY</h3>
+      <h3>33.5.  2) PRIMARY USER's STRATEGY</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>34. VOLUME</journaltitle>
+    <title>34. MoVES: A Model-Driven Methodology for Vehicular Embedded Systems</title>
+    <doi>34. </doi>
+    <pubdate>34. 2018</pubdate>
+    <volume>34. 6</volume>
+    <issue>34. 2018</issue>
+    <fpage>34. 6424</fpage>
+    <lpage>34. 6445</lpage>
+    <abstract>34. 0</abstract>
+    <keywords>
+      <keyword>34.1.  Model-driven development</keyword>
+      <keyword>34.2.  vehicular embedded systems</keyword>
+      <keyword>34.3.  EAST-ADL</keyword>
+      <keyword>34.4.  component model</keyword>
+      <keyword>34.5.  model transformations</keyword>
+    </keywords>
+    <authors>
+      <author>34.1.  ALESSIO BUCAIONI</author>
+      <author>34.2.  LORENZO ADDAZI</author>
+      <author>34.3.  ANTONIO CICCHETTI</author>
+      <author>34.4.  FEDERICO CICCOZZI</author>
+      <author>34.5.  ROMINA ERAMO</author>
+      <author>34.6.  SAAD MUBEEN</author>
+      <author>34.7.  (Senior Member</author>
+      <author>34.8.  IEEE)</author>
+      <author>34.9.  MIKAEL SJÖDIN</author>
+    </authors>
+    <affiliations>
+      <institution>34.1.  Arcticus Systems AB</institution>
+      <institution>34.2.  Department of Information Engineering University of L'Aquila</institution>
+      <institution>34.3.  School of Innovation, Design and Engineering, Mälardalen University</institution>
+      <country>34.1.  Sweden</country>
+      <country>34.2.  Italy</country>
+      <country>34.3.  Sweden</country>
+    </affiliations>
+    <section1>
+      <h1>34.1.  -</h1>
+      <h1>34.2.  1https://itea3.org/project/timmo-2-use.html 2https://www.autosar.org</h1>
+      <h1>34.3.  4https://www.arcticus-systems.com</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>35. VOLUME</journaltitle>
+    <title>35. Antenna Mode Switching for Full-Duplex Destination-Based Jamming Secure Transmission</title>
+    <doi>35. </doi>
+    <pubdate>35. 2018</pubdate>
+    <volume>35. 6</volume>
+    <issue>35. 2018</issue>
+    <fpage>35. 9442</fpage>
+    <lpage>35. 9453</lpage>
+    <abstract>35. 1</abstract>
+    <keywords>
+      <keyword>35.1.  Physical layer security</keyword>
+      <keyword>35.2.  antenna mode switching</keyword>
+      <keyword>35.3.  full duplex</keyword>
+      <keyword>35.4.  destination-based jamming</keyword>
+      <keyword>35.5.  optimal power allocation</keyword>
+    </keywords>
+    <authors>
+      <author>35.1.  YUANJIAN LI</author>
+      <author>35.2.  RUI ZHAO</author>
+      <author>35.3.  (Member</author>
+      <author>35.4.  IEEE)</author>
+      <author>35.5.  LISHENG FAN</author>
+      <author>35.6.  AN LIU</author>
+      <author>35.7.  (Member</author>
+      <author>35.8.  IEEE)</author>
+    </authors>
+    <affiliations>
+      <institution>35.1.  Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology</institution>
+      <institution>35.2.  School of Computer Science and Educational Software, Guangzhou University</institution>
+      <institution>35.3.  Xiamen Key Laboratory of Mobile Multimedia Communications, College of Information Science and Engineering, Huaqiao University</institution>
+      <country>35.1.  Hong Kong</country>
+      <country>35.2.  China</country>
+      <country>35.3.  China</country>
+    </affiliations>
+    <section1>
+      <h1>35.1.  -</h1>
+      <h1>35.2.  I. INTRODUCTION</h1>
+      <h1>35.3.  II. SYSTEM MODEL</h1>
+      <h1>35.4.  IV. NUMERICAL RESULTS</h1>
+      <h1>35.5.  V. CONCLUSIONS</h1>
+      <h1>35.6.  APPENDIX</h1>
+    </section1>
+    <section2>
+      <h2>35.1.  D gSE xS C kgDE k v C nE ;</h2>
+      <h2>35.2.  Note that card .AT / D NDt , hence card .AR/ D ND NDt ,</h2>
+      <h2>35.3.  2P2 SE 1 C P DAET</h2>
+      <h2>35.4.  AR AR DAET P C DAET</h2>
+      <h2>35.5.  SD C SADR DAET P:</h2>
+      <h2>35.6.  P3 SADR DAET</h2>
+      <h2>35.7.  SE C SADR SE P</h2>
+      <h2>35.8.  2 SADR SE P</h2>
+      <h2>35.9.  2 SADR SE P</h2>
+      <h2>35.10.  In the case of SADR &lt; SE &lt; SADR DAET P C SADR , the</h2>
+      <h2>35.11.  SADR &lt;</h2>
+    </section2>
+    <section3>
+      <h3>35.1.  P SADR ;</h3>
+      <h3>35.2.  P SADR DAET</h3>
+      <h3>35.3.  P SADR DAET</h3>
+      <h3>35.4.  P SADR &gt;</h3>
+      <h3>35.5.  P SADR DAET</h3>
+      <h3>35.6.  In the case of SADR &lt; SE &lt; SADR DAET P C SADR , the</h3>
+      <h3>35.7.  AT D AlToc;</h3>
+      <h3>35.8.  AT D AlToc;</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>36. VOLUME</journaltitle>
+    <title>36. Enhancing Near-Infrared Photodetection Efficiency in SPAD With Silicon Surface Nanostructuration</title>
+    <doi>36. </doi>
+    <pubdate>36. 2018</pubdate>
+    <volume>36. 6</volume>
+    <issue>36. 2018</issue>
+    <fpage>36. 392</fpage>
+    <lpage>36. 395</lpage>
+    <abstract>36. 1</abstract>
+    <keywords>
+      <keyword>36.1.  Avalanche photodiodes</keyword>
+      <keyword>36.2.  CMOS image sensors</keyword>
+      <keyword>36.3.  CMOS process</keyword>
+      <keyword>36.4.  nanophotonics</keyword>
+      <keyword>36.5.  gratings</keyword>
+      <keyword>36.6.  surface structures</keyword>
+      <keyword>36.7.  optical diffraction</keyword>
+    </keywords>
+    <authors>
+      <author>36.1.  LAURENT FREY</author>
+      <author>36.2.  MICHEL MARTY</author>
+      <author>36.3.  SÉVERINE ANDRÉ</author>
+      <author>36.4.  NORBERT MOUSSY</author>
+    </authors>
+    <affiliations>
+      <institution>36.1.  CEA, LETI, MINATEC Campus, University Grenoble Alpes</institution>
+      <country>36.1.  </country>
+    </affiliations>
+    <section1>
+      <h1>36.1.  I. INTRODUCTION</h1>
+      <h1>36.2.  II. DESIGN</h1>
+      <h1>36.3.  III. RESULTS AND DISCUSSION</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>37. VOLUME</journaltitle>
+    <title>37. Hydrological Analysis Using Satellite Remote Sensing Big Data and CREST Model</title>
+    <doi>37. </doi>
+    <pubdate>37. 2018</pubdate>
+    <volume>37. 6</volume>
+    <issue>37. 2018</issue>
+    <fpage>37. 9006</fpage>
+    <lpage>37. 9016</lpage>
+    <abstract>37. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>37.1.  JUN MA</author>
+      <author>37.2.  WEIWEI SUN</author>
+      <author>37.3.  (Member</author>
+      <author>37.4.  IEEE)</author>
+      <author>37.5.  GANG YANG</author>
+      <author>37.6.  DIANFA ZHANG</author>
+    </authors>
+    <affiliations>
+      <institution>37.1.  Department of Geography and Spatial Information Techniques, Ningbo University</institution>
+      <institution>37.2.  State Key Laboratory of Information Engineering on Survey, Mapping, and Remote Sensing, Wuhan University</institution>
+      <country>37.1.  China</country>
+      <country>37.2.  China</country>
+    </affiliations>
+    <section1>
+      <h1>37.1.  -</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>38. VOLUME</journaltitle>
+    <title>38. Representing Social Network Patient Data as Evidence-Based Knowledge to Support Decision Making in Disease Progression for Comorbidities</title>
+    <doi>38. </doi>
+    <pubdate>38. 2018</pubdate>
+    <volume>38. 6</volume>
+    <issue>38. 2018</issue>
+    <fpage>38. 12951</fpage>
+    <lpage>38. 12965</lpage>
+    <abstract>38. 1</abstract>
+    <keywords>
+      <keyword>38.1.  Clinical decision support systems</keyword>
+      <keyword>38.2.  clustering</keyword>
+      <keyword>38.3.  comorbidity</keyword>
+      <keyword>38.4.  knowledge base</keyword>
+      <keyword>38.5.  knowledge representation</keyword>
+      <keyword>38.6.  ontology</keyword>
+      <keyword>38.7.  social network</keyword>
+      <keyword>38.8.  statistical analysis</keyword>
+      <keyword>38.9.  and time progression</keyword>
+    </keywords>
+    <authors>
+      <author>38.1.  MADAN KRISHNAMURTHY</author>
+      <author>38.2.  PAWEL MARCINEK</author>
+      <author>38.3.  KHALID MAHMOOD MALIK</author>
+      <author>38.4.  (Member</author>
+      <author>38.5.  IEEE)</author>
+      <author>38.6.  MUHAMMAD AFZAL</author>
+      <author>38.7.  (Member</author>
+      <author>38.8.  IEEE)</author>
+    </authors>
+    <affiliations>
+      <institution>38.1.  Department of Computer Science and Engineering, Oakland University</institution>
+      <institution>38.2.  Department of Mathematics and Statistics, Oakland University</institution>
+      <institution>38.3.  Department of Software, Sejong University</institution>
+      <country>38.1.  USA</country>
+      <country>38.2.  USA</country>
+      <country>38.3.  South Korea</country>
+    </affiliations>
+    <section1>
+      <h1>38.1.  -</h1>
+      <h1>38.2.  Clinical Decision Support Systems (CDSS) laterally with</h1>
+      <h1>38.3.  1 CI[i] // Input Conditions</h1>
+      <h1>38.4.  4 CC[j] //Comorbid Conditions of CI[i]</h1>
+      <h1>38.5.  1 CI[i] // Input Conditions</h1>
+      <h1>38.6.  3 CC[j] //Comorbid Conditions of CI[i]</h1>
+      <h1>38.7.  5 //Bioportal APIs</h1>
+      <h1>38.8.  6 BioportalSearchResult</h1>
+      <h1>38.9.  7 //Parse through collection to get Parent Class</h1>
+      <h1>38.10.  6 &gt; Megaesophagus and 7 &gt; Causalgia. FindPath</h1>
+      <h1>38.11.  FindPath [g; 1; 7; In nity; All]</h1>
+      <h1>38.12.  Gaussian Normal Distribution and standardized Z scores can be applied to obtain the Probability Density Function [22].</h1>
+      <h1>38.13.  No: of predicted `true0 matches</h1>
+      <h1>38.14.  No: of expected `true0 matches</h1>
+    </section1>
+    <section2>
+      <h2>38.1.  The build of PDKB consists of ve stages:</h2>
+      <h2>38.2.  2 For (i D 0, i D No. of Input Conditions CI[i], iCC) {</h2>
+      <h2>38.3.  3 a D COUNT (No. of edges of CI[i])</h2>
+      <h2>38.4.  5 For (j D 0, j D No. of Comorbid Conditions</h2>
+      <h2>38.5.  6 b D COUNT (No.of edgesbetween CI[i] and CC[j])</h2>
+      <h2>38.6.  2 For (i D 0, i D No. of Input Conditions CI[i], iCC) {</h2>
+      <h2>38.7.  4 For (j D 0, j D No. of Comorbid Conditions</h2>
+      <h2>38.8.  CC[j] C ``&amp;ontology D ''C DOID));</h2>
+      <h2>38.9.  8 ParentClassofCC[j] D BioportalSearchResult [j].</h2>
+      <h2>38.10.  3 &gt; PericarditisI 4 &gt; OtosclerosisI 5 &gt; OtulipeniaI</h2>
+      <h2>38.11.  Sensitivity% D</h2>
+      <h2>38.12.  Z score D (x</h2>
+    </section2>
+    <section3>
+      <h3>38.1.  Where,</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>39. VOLUME</journaltitle>
+    <title>39. Modeling and Analysis of One-Tier Ultradense Multiuser Networks</title>
+    <doi>39. </doi>
+    <pubdate>39. 2018</pubdate>
+    <volume>39. 6</volume>
+    <issue>39. 2018</issue>
+    <fpage>39. 13972</fpage>
+    <lpage>39. 13979</lpage>
+    <abstract>39. 1</abstract>
+    <keywords>
+      <keyword>39.1.  Coverage probability</keyword>
+      <keyword>39.2.  stochastic geometry</keyword>
+      <keyword>39.3.  throughput</keyword>
+      <keyword>39.4.  Voronoi cell</keyword>
+    </keywords>
+    <authors>
+      <author>39.1.  QIAOSHOU LIU</author>
+      <author>39.2.  ZHONGPEI ZHANG</author>
+      <author>39.3.  HAONAN HU</author>
+      <author>39.4.  JIANGPAN SHI</author>
+    </authors>
+    <affiliations>
+      <institution>39.1.  Department of Electronic and Electrical Engineering, The University of Shef eld</institution>
+      <institution>39.2.  National Key Laboratory of Science and Technology on Communications, University of Electronic Science and Technology of China</institution>
+      <institution>39.3.  School of Communication and Information Engineering, Chongqing University of Posts and Telecommunications</institution>
+      <country>39.1.  U.K</country>
+      <country>39.2.  China</country>
+      <country>39.3.  China</country>
+    </affiliations>
+    <section1>
+      <h1>39.1.  I. INTRODUCTION</h1>
+      <h1>39.2.  II. SYSTEM MODEL</h1>
+      <h1>39.3.  III. COVERAGE AND RATE</h1>
+      <h1>39.4.  IV. THROUGHPUT</h1>
+      <h1>39.5.  V. NUMERICAL RESULTS</h1>
+      <h1>39.6.  VI. CONCLUSIONS</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>40. VOLUME</journaltitle>
+    <title>40. Multistage Angular Momentum Management for Space Station Attitude Control</title>
+    <doi>40. </doi>
+    <pubdate>40. 2018</pubdate>
+    <volume>40. 6</volume>
+    <issue>40. 2018</issue>
+    <fpage>40. 15075</fpage>
+    <lpage>40. 15086</lpage>
+    <abstract>40. 1</abstract>
+    <keywords>
+      <keyword>40.1.  Attitude control and momentum management</keyword>
+      <keyword>40.2.  closed-loop angular momentum feedback</keyword>
+      <keyword>40.3.  torque equilibrium attitude</keyword>
+      <keyword>40.4.  internal model principle</keyword>
+      <keyword>40.5.  linear quadratic regulator with pole placement</keyword>
+    </keywords>
+    <authors>
+      <author>40.1.  QINGQING DANG</author>
+      <author>40.2.  LEI JIN</author>
+    </authors>
+    <affiliations>
+      <institution>40.1.  Beihang University</institution>
+      <country>40.1.  China</country>
+    </affiliations>
+    <section1>
+      <h1>40.1.  I. INTRODUCTION</h1>
+      <h1>40.2.  II. SPACE STATION MODELING</h1>
+      <h1>40.3.  III. DYNAMIC CHARACTERISTIC ANALYSIS</h1>
+      <h1>40.4.  IV. CONTROLLER DESIGN</h1>
+      <h1>40.5.  V. NUMERICAL EXAMPLE</h1>
+      <h1>40.6.  VI. CONCLUSIONS</h1>
+    </section1>
+    <section2>
+      <h2>40.1.  Io D CoIbCb</h2>
+      <h2>40.2.  CoIbCbo o :</h2>
+      <h2>40.3.  T oa D 0:5 CDVr2Apro</h2>
+      <h2>40.4.  CiohP co</h2>
+      <h2>40.5.  Teocx cos .!ot</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>41. VOLUME</journaltitle>
+    <title>41. Fast Batched Solution for Real-Time Optimal Power Flow With Penetration of Renewable Energy</title>
+    <doi>41. </doi>
+    <pubdate>41. 2018</pubdate>
+    <volume>41. 6</volume>
+    <issue>41. 2018</issue>
+    <fpage>41. 13898</fpage>
+    <lpage>41. 13910</lpage>
+    <abstract>41. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>41.1.  SHENGJUN HUANG</author>
+      <author>41.2.  (Student Member</author>
+      <author>41.3.  IEEE)</author>
+      <author>41.4.  VENKATA DINAVAHI</author>
+      <author>41.5.  (Senior Member</author>
+      <author>41.6.  IEEE)</author>
+    </authors>
+    <affiliations>
+      <institution>41.1.  College of Information System and Management, National University of Defense Technology</institution>
+      <institution>41.2.  Department of Electrical and Computer Engineering, University of Alberta</institution>
+      <country>41.1.  China</country>
+      <country>41.2.  Canada</country>
+    </affiliations>
+    <section1>
+      <h1>41.1.  -</h1>
+      <h1>41.2.  INDEX TERMS</h1>
+      <h1>41.3.  I. INTRODUCTION</h1>
+      <h1>41.4.  II. MATHEMATICAL FORMULATION</h1>
+      <h1>41.5.  IV. CASE STUDIES</h1>
+      <h1>41.6.  V. CONCLUSION</h1>
+      <h1>41.7.  APPENDIX PRIMAL-DUAL INTERIOR POINT METHOD</h1>
+    </section1>
+    <section2>
+      <h2>41.1.  C bgPg C cg :</h2>
+      <h2>41.2.  1) OBJECTIVE FUNCTION</h2>
+      <h2>41.3.  4) RAMP RATE CONSTRAINTS</h2>
+      <h2>41.4.  5) VOLTAGE DEVIATION CONSTRAINTS</h2>
+      <h2>41.5.  6) LINE SECURITY CONSTRAINTS</h2>
+      <h2>41.6.  1) KERNELS 1 AND 3</h2>
+      <h2>41.7.  2) KERNEL 2</h2>
+      <h2>41.8.  1) RESULTS ON CPU PLATFORM</h2>
+      <h2>41.9.  2) RESULTS ON GPU PLATFORM</h2>
+      <h2>41.10.  1) BATCH SIZES</h2>
+      <h2>41.11.  2) HOT START</h2>
+    </section2>
+    <section3>
+      <h3>41.1.  3) GENERATOR CAPACITY CONSTRAINTS</h3>
+      <h3>41.2.  RG;down</h3>
+      <h3>41.3.  Abatch D fPA1 , IA1 , Xbatch, mA1 , nA1 , zA1 g;</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>42. VOLUME</journaltitle>
+    <title>42. Clinician-Driven Design of VitalPAD An Intelligent Monitoring and Communication Device to Improve Patient Safety in the Intensive Care Unit</title>
+    <doi>42. </doi>
+    <pubdate>42. 2018</pubdate>
+    <volume>42. 6</volume>
+    <issue>42. 2018</issue>
+    <fpage>42. 2</fpage>
+    <lpage>42. 15</lpage>
+    <abstract>42. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>42.1.  INDEX TERMS</author>
+    </authors>
+    <affiliations>
+      <institution>42.1.  BC Children's Hospital Research Institute</institution>
+      <institution>42.2.  Department of Anesthesiology The University of British Columba</institution>
+      <institution>42.3.  Department of Electrical and Computer Engineering, The University of British Columba</institution>
+      <institution>42.4.  Department of Pediatrics, The University of British Columba</institution>
+      <institution>42.5.  Department of Systems Design Engineering, University of Waterloo</institution>
+      <institution>42.6.  Faculty of Medicine, The University of British Columba</institution>
+      <country>42.1.  Canada</country>
+      <country>42.2.  Canada</country>
+      <country>42.3.  Canada</country>
+      <country>42.4.  Canada</country>
+      <country>42.5.  Canada</country>
+      <country>42.6.  Canada</country>
+    </affiliations>
+    <section1>
+      <h1>42.1.  -</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>43. VOLUME</journaltitle>
+    <title>43. Power Allocation and Performance Analysis of Cooperative Spatial Modulation in Wireless Relay Networks</title>
+    <doi>43. </doi>
+    <pubdate>43. 2018</pubdate>
+    <volume>43. 6</volume>
+    <issue>43. 2018</issue>
+    <fpage>43. 12145</fpage>
+    <lpage>43. 12155</lpage>
+    <abstract>43. 1</abstract>
+    <keywords>
+      <keyword>43.1.  Spatial modulation</keyword>
+      <keyword>43.2.  cooperative communication</keyword>
+      <keyword>43.3.  amplify and forward relaying</keyword>
+      <keyword>43.4.  power allocation</keyword>
+      <keyword>43.5.  average BER</keyword>
+    </keywords>
+    <authors>
+      <author>43.1.  XIANGBIN YU</author>
+      <author>43.2.  (Member</author>
+      <author>43.3.  IEEE)</author>
+      <author>43.4.  QING PAN</author>
+      <author>43.5.  SHU-HUNG LEUNG</author>
+      <author>43.6.  CHENG WANG</author>
+    </authors>
+    <affiliations>
+      <institution>43.1.  Department of Electronic Engineering and State Key Laboratory of Millimeter Waves, City University of Hong Kong</institution>
+      <institution>43.2.  Department of Electronic Engineering, Nanjing University of Aeronautics and Astronautics</institution>
+      <country>43.1.  Hong Kong</country>
+      <country>43.2.  China</country>
+    </affiliations>
+    <section1>
+      <h1>43.1.  I. INTRODUCTION</h1>
+      <h1>43.2.  V. SIMULATION RESULTS</h1>
+      <h1>43.3.  VI. CONCLUSION</h1>
+      <h1>43.4.  Appendix</h1>
+    </section1>
+    <section2>
+      <h2>43.1.  D N0 C N0(Pr khrd k2F C Ps s2r C N0)</h2>
+      <h2>43.2.  Pr , and Qsrd D ( QQrsdrCQrCd) .</h2>
+    </section2>
+    <section3>
+      <h3>43.1.  2pPs&lt;fysHd hisd xqg</h3>
+      <h3>43.2.  2pPs&lt;fpPs(hisd xq)H hskd xq CnsHd hskd xqg</h3>
+    </section3>
+  </article>
+  <article>
+    <journaltitle>44. VOLUME</journaltitle>
+    <title>44. Maximizing Cognitive Radio Networks Throughput Using Limited Historical Behavior of Primary Users</title>
+    <doi>44. </doi>
+    <pubdate>44. 2018</pubdate>
+    <volume>44. 6</volume>
+    <issue>44. 2018</issue>
+    <fpage>44. 12252</fpage>
+    <lpage>44. 12259</lpage>
+    <abstract>44. 1</abstract>
+    <keywords>
+      <keyword>44.1.  Behavior learning</keyword>
+      <keyword>44.2.  cognitive radios</keyword>
+      <keyword>44.3.  primary users</keyword>
+      <keyword>44.4.  secondary users</keyword>
+      <keyword>44.5.  miss detection</keyword>
+      <keyword>44.6.  ogtm</keyword>
+      <keyword>44.7.  throughput limitation</keyword>
+    </keywords>
+    <authors>
+      <author>44.1.  SRINIVASA KIRAN GOTTAPU</author>
+      <author>44.2.  NELLORE KAPILESWAR</author>
+      <author>44.3.  PALEPU VIJAYA SANTHI</author>
+      <author>44.4.  VIJAY K. R. CHENCHELA</author>
+    </authors>
+    <affiliations>
+      <institution>44.1.  Department of Electrical Engineering, University of North Texas</institution>
+      <institution>44.2.  Department of Electrical University of Pretoria</institution>
+      <country>44.1.  USA</country>
+      <country>44.2.  South Africa</country>
+    </affiliations>
+    <section1>
+      <h1>44.1.  I. INTRODUCTION</h1>
+      <h1>44.2.  II. STATE-OF-THE-ART</h1>
+      <h1>44.3.  III. MOTIVATION</h1>
+      <h1>44.4.  IV. SYSTEM MODEL</h1>
+      <h1>44.5.  V. ONLINE GREEDY THROUGHPUT MAXIMIZATION</h1>
+      <h1>44.6.  VI. SIMULATION SETUP AND RESULTS</h1>
+      <h1>44.7.  VII. CONCLUSIONS</h1>
+    </section1>
+    <section2>
+      <h2>44.1.  A. REDUCING THE SENSING INTERVAL</h2>
+      <h2>44.2.  B. REDUCING THE COOPERATION INTERVAL</h2>
+      <h2>44.3.  C. INCREASING THE TRANSMISSION INTERVAL</h2>
+      <h2>44.4.  A. MODEL DESCRIPTION</h2>
+      <h2>44.5.  C. SPECTRUM SENSING ERROR PROBABILITY</h2>
+      <h2>44.6.  D. REPORTING OR COOPERATION INTERVAL</h2>
+      <h2>44.7.  E. TRANSMISSION INTERVAL</h2>
+      <h2>44.8.  A. THE MARKOV MODEL ADAPTATION</h2>
+      <h2>44.9.  B. ACTIVITY FACTOR IMPLICIT ESTIMATION</h2>
+      <h2>44.10.  A. PERFORMANCE METRICS</h2>
+      <h2>44.11.  C. OVERHEAD PERCENTAGE</h2>
+      <h2>44.12.  B. RELATED PROBABILITIES</h2>
+      <h2>44.13.  D. THROUGHPUT PERCENTAGE</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>45. VOLUME</journaltitle>
+    <title>45. New Wireless Sensor Network Localization Algorithm for Outdoor Adventure</title>
+    <doi>45. </doi>
+    <pubdate>45. 2018</pubdate>
+    <volume>45. 6</volume>
+    <issue>45. 2018</issue>
+    <fpage>45. 13191</fpage>
+    <lpage>45. 13199</lpage>
+    <abstract>45. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>45.1.  XUEJIAN ZHAO</author>
+      <author>45.2.  XINHUI ZHANG</author>
+      <author>45.3.  ZHIXIN SUN</author>
+      <author>45.4.  PAN WANG</author>
+      <author>45.5.  Key Lab of Broadband Wireless Communication</author>
+      <author>45.6.  Sensor Network Technology</author>
+      <author>45.7.  Ministry of Education</author>
+    </authors>
+    <affiliations>
+      <institution>45.1.  College of the Internet of Things, Nanjing University of Posts and Telecommunications</institution>
+      <institution>45.2.  Nanjing University of Posts and Telecommunications</institution>
+      <country>45.1.  China</country>
+      <country>45.2.  China</country>
+    </affiliations>
+    <section1>
+      <h1>45.1.  -</h1>
+      <h1>45.2.  I. INTRODUCTION</h1>
+      <h1>45.3.  II. RELATED WORKS</h1>
+      <h1>45.4.  III. FP-MPP-APIT ALGORITHM</h1>
+      <h1>45.5.  IV. PERFORMANCE ANALYSIS</h1>
+      <h1>45.6.  V. CONCLUSIONS</h1>
+    </section1>
+    <section2>
+      <h2>45.1.  The equation of plane ACF is</h2>
+      <h2>45.2.  The equation of plane BFC is</h2>
+      <h2>45.3.  The equation of plane D1E1F1 is</h2>
+      <h2>45.4.  XUEJIAN ZHAO received the M.Sc. and</h2>
+      <h2>45.5.  XINHUI ZHANG is currently pursuing the mas</h2>
+      <h2>45.6.  ZHIXIN SUN received the Ph.D. degree from</h2>
+      <h2>45.7.  PAN WANG received the Ph.D. degree from the</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>46. VOLUME</journaltitle>
+    <title>46. Enhanced Instant Message Security and Privacy Protection Scheme for Mobile Social Network Systems</title>
+    <doi>46. </doi>
+    <pubdate>46. 2018</pubdate>
+    <volume>46. 6</volume>
+    <issue>46. 2018</issue>
+    <fpage>46. 13706</fpage>
+    <lpage>46. 13715</lpage>
+    <abstract>46. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>46.1.  ZHEN WANG</author>
+      <author>46.2.  ZHAOFENG MA</author>
+      <author>46.3.  SHOUSHAN LUO</author>
+      <author>46.4.  HONGMIN GAO</author>
+    </authors>
+    <affiliations>
+      <institution>46.1.  Information Security Center, Beijing University of Posts and Telecommunications</institution>
+      <institution>46.2.  School of Cyberspace Security, Beijing University of Posts and Telecommunications</institution>
+      <country>46.1.  China</country>
+      <country>46.2.  China</country>
+    </affiliations>
+    <section1>
+      <h1>46.1.  -</h1>
+      <h1>46.2.  RA C H1(IDA; RA) Psys.</h1>
+      <h1>46.3.  D QA TS C (QA C eA) (RServer</h1>
+      <h1>46.4.  C H1(IDServer ; RServer ) Psys)</h1>
+      <h1>46.5.  D QA TS C (QA C eA) (rServer C hServer Xs) P</h1>
+      <h1>46.6.  D QA TS C QA QServer P C eA QServer P</h1>
+      <h1>46.7.  D QA TS C QA QServer P C QServer TA</h1>
+      <h1>46.8.  D QA TS C QA QServer P C QServer TA</h1>
+      <h1>46.9.  D QServer TA C QServer QA P C QA TS</h1>
+      <h1>46.10.  Add the tuple &lt;IDB; Tt0ime; TA1; TB; SK AB1&gt; into L2 and</h1>
+      <h1>46.11.  SK AB&gt; or &lt;IDB; Tt0ime; TA1; TB; SK AB1&gt;, which is denoted</h1>
+      <h1>46.12.  Tt0ime to obtain the tuple &lt;IDB; Ttime; TA; TB; SK AB&gt;.</h1>
+      <h1>46.13.  H0(Ttime0jjIDAjjT AjjT Bjjmessage_typejjM ). Then, sign the</h1>
+      <h1>46.14.  Add tuple &lt;IDA; Tt0ime; TB; TA; SK BA&gt; into L2.</h1>
+    </section1>
+    <section2>
+      <h2>46.1.  TS ) and the point U (Ux ; Uy) D s 1(m P r PServer ).</h2>
+      <h2>46.2.  KA1S D QA TS C (QA C eA) PServer</h2>
+      <h2>46.3.  SKAS D H2(IDA; IDServer ; TA; TS ; KA1S ; KA2S )</h2>
+      <h2>46.4.  KS1A D QServer TA C (QServer C eS ) PA</h2>
+      <h2>46.5.  SKSA D H2(IDServer ; IDA; TS ; TA; KS1A; KS2A)</h2>
+      <h2>46.6.  KA1S D QA TS C (QA C eA) PServer</h2>
+      <h2>46.7.  KS1A D QServer TA C (QServer C eS ) PA</h2>
+      <h2>46.8.  Since R D eA PServer ; TA0 D QSe1rver R D QSe1rver and</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>47. VOLUME</journaltitle>
+    <title>47. A Quadrilinear Decomposition Method for Direction Estimation in Bistatic MIMO Radar</title>
+    <doi>47. </doi>
+    <pubdate>47. 2018</pubdate>
+    <volume>47. 6</volume>
+    <issue>47. 2018</issue>
+    <fpage>47. 13766</fpage>
+    <lpage>47. 13772</lpage>
+    <abstract>47. 1</abstract>
+    <keywords>
+      <keyword>47.1.  Multiple-input multiple-output radar</keyword>
+      <keyword>47.2.  direction estimation</keyword>
+      <keyword>47.3.  tensor decomposition</keyword>
+      <keyword>47.4.  colored noise</keyword>
+    </keywords>
+    <authors>
+      <author>47.1.  ZIYI WANG</author>
+      <author>47.2.  CHANGXIN CAI</author>
+      <author>47.3.  FANGQING WEN</author>
+      <author>47.4.  (Member</author>
+      <author>47.5.  IEEE)</author>
+      <author>47.6.  DONGMEI HUANG</author>
+    </authors>
+    <affiliations>
+      <institution>47.1.  Department of Training Management, Naval Command College</institution>
+      <institution>47.2.  Electronic and Information School, Yangtze University</institution>
+      <institution>47.3.  Key Laboratory of Radar Imaging and Microwave Photonics, Ministry of Education, Nanjing University of Aeronautics and Astronautics</institution>
+      <country>47.1.  China</country>
+      <country>47.2.  China</country>
+      <country>47.3.  China</country>
+    </affiliations>
+    <section1>
+      <h1>47.1.  -</h1>
+      <h1>47.2.  I. INTRODUCTION</h1>
+      <h1>47.3.  II. TENSOR PRELIMINARIES AND DATA MODEL</h1>
+      <h1>47.4.  III. THE PROPOSED ALGORITHM</h1>
+      <h1>47.5.  IV. EXTENSION TO SCENARIO WITH</h1>
+      <h1>47.6.  SPATIALLY COLORED NOISE</h1>
+      <h1>47.7.  V. DISCUSSION</h1>
+      <h1>47.8.  VI. SIMULATION RESULTS</h1>
+      <h1>47.9.  VII. CONCLUSION</h1>
+    </section1>
+    <section2>
+      <h2>47.1.  A. TENSOR PRELIMINARIES</h2>
+      <h2>47.2.  B. DATA MODEL</h2>
+      <h2>47.3.  A. PARAFAC MODEL</h2>
+      <h2>47.4.  B. QUADRILINEAR DECOMPOSITION</h2>
+      <h2>47.5.  C. JOINT DOD AND DOA ESTIMATION</h2>
+      <h2>47.6.  A. ALGORITHM IDENTIFIABILITY</h2>
+      <h2>47.7.  B. COMPUTATIONAL COMPLEXITY</h2>
+    </section2>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>48. VOLUME</journaltitle>
+    <title>48. A Data-Driven Knowledge Acquisition System: An End-to-End Knowledge Engineering Process for Generating Production Rules</title>
+    <doi>48. </doi>
+    <pubdate>48. 2018</pubdate>
+    <volume>48. 6</volume>
+    <issue>48. 2018</issue>
+    <fpage>48. 15587</fpage>
+    <lpage>48. 15607</lpage>
+    <abstract>48. 1</abstract>
+    <keywords/>
+    <authors>
+      <author>48.1.  MAQBOOL ALI</author>
+      <author>48.2.  RAHMAN ALI</author>
+      <author>48.3.  WAJAHAT ALI KHAN</author>
+      <author>48.4.  SOYEON CAREN HAN</author>
+      <author>48.5.  JAEHUN BANG</author>
+      <author>48.6.  TAEHO HUR</author>
+      <author>48.7.  DOHYEONG KIM</author>
+      <author>48.8.  SUNGYOUNG LEE</author>
+      <author>48.9.  (Member</author>
+      <author>48.10.  IEEE)</author>
+      <author>48.11.  BYEONG HO KANG</author>
+    </authors>
+    <affiliations>
+      <institution>48.1.  Department of Computer Science and Engineering, Kyung Hee University</institution>
+      <institution>48.2.  Quaid-e-Azam College of Commerce, University of Peshawar</institution>
+      <institution>48.3.  School of Engineering and ICT, University of Tasmania</institution>
+      <institution>48.4.  School of Information Technologies, The University of Sydney</institution>
+      <country>48.1.  South Korea</country>
+      <country>48.2.  Pakistan</country>
+      <country>48.3.  Australia</country>
+      <country>48.4.  Australia</country>
+    </affiliations>
+    <section1>
+      <h1>48.1.  -</h1>
+      <h1>48.2.  3http://www.miningminds.re.kr/english/</h1>
+      <h1>48.3.  4https://archive.ics.uci.edu/ml/machine-learning-databases/pima</h1>
+      <h1>48.4.  5http://www.openml.org/ 6http://weka.sourceforge.net/doc.dev/</h1>
+      <h1>48.5.  7https://esurvey.uid.com/project#!overview</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>49. VOLUME</journaltitle>
+    <title>49. Secure and Efficient Product Information Retrieval in Cloud Computing</title>
+    <doi>49. </doi>
+    <pubdate>49. 2018</pubdate>
+    <volume>49. 6</volume>
+    <issue>49. 2018</issue>
+    <fpage>49. 14747</fpage>
+    <lpage>49. 14754</lpage>
+    <abstract>49. 1</abstract>
+    <keywords>
+      <keyword>49.1.  Product information retrieval</keyword>
+      <keyword>49.2.  cloud computing</keyword>
+      <keyword>49.3.  information security</keyword>
+    </keywords>
+    <authors>
+      <author>49.1.  YING-SI ZHAO</author>
+      <author>49.2.  QING-AN ZENG</author>
+      <author>49.3.  (Senior Member</author>
+      <author>49.4.  IEEE)</author>
+    </authors>
+    <affiliations>
+      <institution>49.1.  Department of Computer Systems Technology, North Carolina A&amp;T State University</institution>
+      <institution>49.2.  School of Economics and Management, Beijing Jiaotong University</institution>
+      <country>49.1.  USA</country>
+      <country>49.2.  China</country>
+    </affiliations>
+    <section1>
+      <h1>49.1.  -</h1>
+      <h1>49.2.  RScore(C; Vj) D c Vj:</h1>
+      <h1>49.3.  RScore(C; VQ) D c VQ:</h1>
+    </section1>
+    <section2/>
+    <section3/>
+  </article>
+  <article>
+    <journaltitle>50. IEEE TRANSACTIONS ON EMERGING TOPICS IN COMPUTATIONAL INTELLIGENCE</journaltitle>
+    <title>50. The Effects of Noisy Labels on Deep Convolutional Neural Networks for Music Tagging</title>
+    <doi>50. </doi>
+    <pubdate>50. 2018</pubdate>
+    <volume>50. 2</volume>
+    <issue>50. 2</issue>
+    <fpage>50. 139</fpage>
+    <lpage>50. 149</lpage>
+    <abstract>50. 1</abstract>
+    <keywords>
+      <keyword>50.1.  Music tagging</keyword>
+      <keyword>50.2.  convolutional neural networks</keyword>
+    </keywords>
+    <authors>
+      <author>50.1.  Keunwoo Choi</author>
+    </authors>
+    <affiliations>
+      <institution>50.1.  , Gyo ̈ rgy Fazekas</institution>
+      <country>50.1.  </country>
+    </affiliations>
+    <section1>
+      <h1>50.1.  I. INTRODUCTION</h1>
+      <h1>50.2.  II. BACKGROUND AND RELATED WORK</h1>
+      <h1>50.3.  1See https://musicbrainz.org: a crowd-sourced music meta-database. 2See http://www.last.fm: a personalised online radio.</h1>
+      <h1>50.4.  III. EXPERIMENTS AND DISCUSSIONS</h1>
+      <h1>50.5.  5https://labrosa.ee.columbia.edu/millionsong/pages/tasks-demos.</h1>
+      <h1>50.6.  IV. CONCLUSIONS</h1>
+    </section1>
+    <section2>
+      <h2>50.1.  A. Music Tagging Datasets and Their Properties</h2>
+      <h2>50.2.  B. Labelling Strategies</h2>
+      <h2>50.3.  C. Convolutional Neural Networks</h2>
+      <h2>50.4.  D. Evaluation of Tagging Algorithms</h2>
+      <h2>50.5.  A. Tag Co-Occurrences in the MSD</h2>
+      <h2>50.6.  Subsets:</h2>
+      <h2>50.7.  C. Analysis of Predicted Label Vectors</h2>
+    </section2>
+    <section3/>
+  </article>
+</articles>

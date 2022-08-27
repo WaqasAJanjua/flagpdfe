@@ -1,0 +1,44 @@
+<title>{$i}. {data($articles/front/article-meta/title-group/article-title)} </title>
+ <doi>{$i}. {data($articles/front/article-meta/article-id)} </doi>
+ <pubdate>{$i}. {data($articles/front/article-meta/pub-date/year)} </pubdate>
+ <volume>{$i}. {data($articles/front/article-meta/volume)} </volume>
+ <issue>{$i}. {data($articles/front/article-meta/issue)} </issue>
+ <fpage>{$i}. {data($articles/front/article-meta/fpage)} </fpage>
+ <lpage>{$i}. {data($articles/front/article-meta/lpage)} </lpage>
+ <abstract>{$i}. {count($articles/front/article-meta/abstract)} </abstract>
+  <keywords>
+   { for $keyword at $j in  $articles/front/article-meta/kwd-group/kwd
+    return <keyword>{$i}.{$j}.  {data($keyword)} </keyword> }
+   </keywords>
+  <authors>
+   { for $authors at $j in  $articles/front/article-meta/contrib-group/contrib/string-name
+    return <author>{$i}.{$j}.  {data($authors)} </author> }
+   </authors>
+   <affiliations>
+    {
+    for $affiliation at $j in  $articles/front/article-meta/contrib-group/aff
+    return <institution>{$i}.{$j}.  {data($affiliation/institution)} </institution>     
+    }
+    {
+    for $affiliation at $j in  $articles/front/article-meta/contrib-group/aff
+    return <country>{$i}.{$j}.  {data($affiliation/country)} </country> 
+    }
+   </affiliations>
+   <section1>
+    {
+    for $h1 at $j in  $articles/body/sec
+    return <h1>{$i}.{$j}.  {data($h1/title)} </h1> 
+    }
+   </section1>
+     <section2>
+    {
+    for $h2 at $j in  $articles/body/sec/sec
+    return <h2>{$i}.{$j}.  {data($h2/title)} </h2> 
+    }
+   </section2>
+    <section3>
+    {
+    for $h3 at $j in  $articles/body/sec/sec/sec
+    return <h3>{$i}.{$j}.  {data($h3/title)} </h3> 
+    }
+   </section3>
