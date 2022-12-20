@@ -1,0 +1,120 @@
+pageno,top,fonts_size,hasAck,hasAt,Allcap,hasTable,hasFigure,hasRef,hasR,hasAbstract,italic,Bold,LABEL,Text,filename
+1,238,8,0,0,0,0,0,0,0,0,0,0,AFF,"—With the development of human robot interactiontechnologies, haptic interfaces are widely used for 3D applicationsto provide the sense of touch. These interfaces have been utilizedin medical simulation, virtual assembly and remote manipulationtasks. However, haptic interface design and control are stillcritical problems to reproduce the highly sensitive touch sense ofhumans. This paper presents the development and evaluation of a7-DOF (degree of freedom) haptic interface based on the modiﬁeddelta mechanism. Firstly, both kinematics and dynamics of the",i11
+1,238,8,0,0,0,0,0,0,0,0,0,0,AFF,modiﬁed mechanism are analyzed and presented. A novel gravity,i11
+1,238,8,0,0,0,0,0,0,0,0,0,0,AFF,"compensation algorithm based on the physical model is proposedand validated in simulation. A haptic controller is proposedbased on the forward kinematics and the gravity compensationalgorithm. To evaluate the control performance of the hapticinterface, a prototype has been implemented. Three kinds ofexperiments: gravity compensation, static response and forcetracking are performed respectively. The experimental resultsshow that the mean error of the gravity compensation is lessthan",i11
+1,238,8,0,0,0,0,0,0,0,0,0,0,AFF,0,i11
+1,238,8,0,0,0,0,0,0,0,0,0,0,AFF,7,i11
+1,238,8,0,0,0,0,0,0,0,0,0,0,AFF,N and the maximum continuous force along the axiscan be up to,i11
+1,238,8,0,0,0,0,0,0,0,0,0,0,AFF,6,i11
+1,238,8,0,0,0,0,0,0,0,0,0,0,AFF,N. This demonstrates the good performance ofthe proposed haptic interface.,i11
+1,699,7,0,0,0,0,0,0,0,0,0,0,AFF,"Citation: J.-L. Hao, X.-L. Xie, G.-B. Bian, Z.-G. Hou, and X.-H. Zhou,“Development and evaluation of a 7-DOF haptic interface,”",i11
+1,699,7,0,0,0,0,0,0,0,0,1,0,AFF,IEEE/CAA J. ofAutom. Sinica,i11
+1,699,7,0,0,0,0,0,0,0,0,0,0,AFF,", vol. 5, no. 1, pp. 261",i11
+1,699,7,0,0,0,0,0,0,0,0,0,0,AFF,−,i11
+1,699,7,0,0,0,0,0,0,0,0,0,0,AFF,"269, Jan. 2018.",i11
+1,726,7,0,0,0,0,0,0,0,0,0,0,AFF,All,i11
+1,726,7,0,0,0,0,0,0,0,0,0,0,AFF,"the authors are with the State Key Laboratory of Managementand Control for Complex Systems, Institute of Automation, Universityof Chinese Academy of Sciences, Beijing, 100190, China (e-mail: hao-jianlong2012@ia.ac.cn; xiaoliang.xie@ia.ac.cn; guibin.bian@ia.ac.cn; zeng-guang.hou@ia.ac.cn; zhouxiaohu2014@ia.ac.cn).",i11
+1,696,7,0,0,0,0,0,0,0,0,0,0,AFF,"Manuscript received April 20, 2017; revised August 29, 2017; acceptedSeptember 29, 2017. Date of publication December 25, 2017; date of cur-rent version March 20, 2018. Paper no. TSTE-00352-2017.",i12
+1,696,7,0,0,0,0,0,0,0,0,1,0,AFF,(Correspondingauthors: Dominik Dvorak.),i12
+1,732,7,0,0,0,0,0,0,0,0,0,0,AFF,"The authors are with the AIT Austrian Institute of Technology GmbH, Vienna1210, Austria (e-mail: dominik.dvorak@ait.ac.at; thomas.baeuml@ait.ac.at;alexandra.holz@gmx.at; hartmut.popp@ait.ac.at).",i12
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"School of Electrical and Electronic Engineering, North China Electric Power University, Beijing 102206, China",i13
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing 100876, China",i13
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"College of Computer Science, Zhejiang University, Hangzhou 310027, China",i13
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"College of Sciences, Northeastern University, Shenyang 110819, China",i14
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"College of Science, Shenyang Jianzhu University, Shenyang 110168, China",i14
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"Miaozhen Systems, Beijing 100102, China",i14
+1,270,7,0,0,0,0,0,0,0,0,0,0,AFF,This work was supported by NSFC under Grant 61472268.,i15
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"GRIAL Research Group, Computer Science Department, Research Institute for Educational Sciences, University of Salamanca, 37008 Salamanca, Spain",i16
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"GRIAL Research Group, Research Institute for Educational Sciences, University of Salamanca, 37008 Salamanca, Spain",i16
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"GRIAL Research Group, Computer Science Department, and VisUSAL Research Group, University of Salamanca, 37008 Salamanca, Spain",i16
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"UNESCO Chair in University Management and Policy, Technical University of Madrid, 28003 Madrid, Spain",i16
+2,1417,8,0,0,0,0,0,0,0,0,0,0,AFF,"Roadway lighting, light-emitting diode (LEDs), illuminance control.",i18
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"School of Electronics and Information Engineering, Beijing Jiaotong University, Beijing 100044, China",i19
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"Nokia Bell Labs, 2018 Antwerp, Belgium",i19
+2,1560,8,0,0,0,0,0,0,0,0,0,0,AFF,1) MORPHOLOGICAL FACTORS,i20
+1,696,7,0,0,0,0,0,0,0,0,0,0,AFF,"Y. Shen is with the School of Computer Science and Technology, Xidian",i22
+1,768,7,0,0,0,0,0,0,0,0,0,0,AFF,Digital Object Identiﬁer 10.1109/TIFS.2017.2787993,i22
+1,696,7,0,0,0,0,0,0,0,0,0,0,AFF,through the SMILE-IT Project—VLAIO.,i23
+1,768,7,0,0,0,0,0,0,0,0,0,0,AFF,Digital Object Identiﬁer 10.1109/TNET.2017.2779866,i23
+2,1472,8,0,0,0,0,0,0,0,0,0,0,AFF,Three MVBushings,i26
+2,1513,8,0,0,0,0,0,0,0,0,0,0,AFF,Regulator Controller,i26
+2,1526,8,0,0,0,0,0,0,0,0,0,0,AFF,Generator,i28
+2,1544,8,0,0,0,0,0,0,0,0,0,0,AFF,Gi,i28
+2,1553,8,0,0,0,0,0,0,0,0,0,0,AFF,Li,i28
+2,1542,8,0,0,0,0,0,0,0,0,0,0,AFF,DGi,i28
+1,209,10,0,0,0,0,0,0,0,0,1,0,AFF,"Student Member, IEEE",i29
+1,209,10,0,0,0,0,0,0,0,0,1,0,AFF,"Student Member, IEEE",i29
+1,209,10,0,0,0,0,0,0,0,0,1,0,AFF,"Student Member, IEEE",i29
+1,209,10,0,0,0,0,0,0,0,0,1,0,AFF,"Senior Member, IEEE",i29
+1,723,7,0,0,0,0,0,0,0,0,0,0,AFF,"Y. Yoshihara was with Stanford University, Stanford, CA 94305 USA. He isnow with Toshiba Memory Corporation, Kawasaki 212-8520, Japan (e-mail:yoshiaki.yoshihara@toshiba.co.jp).",i29
+1,768,7,0,0,0,0,0,0,0,0,0,0,AFF,Digital Object Identiﬁer 10.1109/JSSC.2017.2782086,i29
+1,696,7,0,0,0,0,0,0,0,0,0,0,AFF,"bridge CB3 0FD, U.K. (e-mail: poonam.yadav07@alumni.imperial.ac.uk).",i31
+1,723,7,0,0,0,0,0,0,0,0,0,0,AFF,J. Cohen and J. Darlington are with the Department of Com-(e-mail:,i31
+1,732,7,0,0,0,0,0,0,0,0,0,0,AFF,"Imperial College London, London SW7 2AZ, U.K.",i31
+1,732,7,0,0,0,0,0,0,0,0,0,0,AFF,"puting,jeremy.cohen@imperial.ac.uk; j.darlington@imperial.ac.uk).",i31
+1,768,7,0,0,0,0,0,0,0,0,0,0,AFF,Digital Object Identiﬁer 10.1109/TCSS.2017.2771479,i31
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"Key Laboratory of Wireless-Optical Communications, Chinese Academy of Sciences, University of Science and Technology of China, Hefei 230026, China",i33
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"Beijing Space Information Ralay And Transmission Technology Research Center, Beijing 100008, China",i33
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"School of Innovation, Design and Engineering, Mälardalen University, 721 23 Västerås, Sweden",i34
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"Arcticus Systems AB, 175 43 Järfälla, Sweden",i34
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"Department of Information Engineering, Computer Science and Mathematics, University of L’Aquila, 67100 L’Aquila, Italy",i34
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"Xiamen Key Laboratory of Mobile Multimedia Communications, College of Information Science and Engineering, Huaqiao University, Xiamen 361021, China",i35
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"School of Computer Science and Educational Software, Guangzhou University, Guangzhou 510006, China",i35
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology, Hong Kong",i35
+1,237,6,0,0,0,0,0,0,0,0,0,0,AFF,"CEA, LETI, MINATEC Campus, University Grenoble Alpes, 38054 Grenoble, France",i36
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,CORRESPONDING AUTHOR: L. FREY (e-mail: laurent.frey@cea.fr),i36
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"Department of Geography and Spatial Information Techniques, Ningbo University, Ningbo 315211, China",i37
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"State Key Laboratory of Information Engineering on Survey, Mapping, and Remote Sensing, Wuhan University, Wuhan 430079, China",i37
+1,223,6,0,0,0,0,0,0,0,0,0,0,AFF,"National Key Laboratory of Science and Technology on Communications, University of Electronic Science and Technology of China, Chengdu 611731, China",i39
+1,223,6,0,0,0,0,0,0,0,0,0,0,AFF,"School of Communication and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing 400065, China",i39
+1,223,6,0,0,0,0,0,0,0,0,0,0,AFF,"Department of Electronic and Electrical Engineering, The University of Shefﬁeld, Shefﬁeld S10 2TN, U.K.",i39
+1,282,7,0,0,0,0,0,0,0,0,0,0,AFF,1,i42
+1,282,7,0,0,0,0,0,0,0,0,0,0,AFF,2,i42
+1,282,7,0,0,0,0,0,0,0,0,0,0,AFF,1,i42
+1,282,7,0,0,0,0,0,0,0,0,0,0,AFF,2,i42
+1,282,7,0,0,0,0,0,0,0,0,0,0,AFF,3,i42
+1,282,7,0,0,0,0,0,0,0,0,0,0,AFF,"2,4",i42
+1,282,7,0,0,0,0,0,0,0,0,0,0,AFF,5,i42
+1,282,7,0,0,0,0,0,0,0,0,0,0,AFF,6,i42
+1,282,7,0,0,0,0,0,0,0,0,0,0,AFF,6,i42
+1,282,7,0,0,0,0,0,0,0,0,0,0,AFF,"2,4",i42
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"Key Lab of Broadband Wireless Communication and Sensor Network Technology, Ministry of Education,Nanjing University of Posts and Telecommunications, Nanjing 210003, China",i45
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"College of the Internet of Things, Nanjing University of Posts and Telecommunications, Nanjing 210003, China",i45
+1,281,7,0,0,0,0,0,0,0,0,0,0,AFF,"This work was supported in part by the National Natural Science Foundation of China under Grant 61373135, Grant 61300240, andGrant 61672299, in part by the Natural Science Foundation of Jiangsu Province of China under Grant BK20140883 and Grant 61572262,in part by the China Postdoctoral Science Foundation funded Project under Grant 2015M581844, in part by the Jiangsu Planned Projectsfor Postdoctoral Research Funds under Grant 1501125B, and in part by the NUPTSF under Grant NY214101.The work of X. Zhao wassupported by the China Scholarship Council.",i45
+1,223,6,0,0,0,0,0,0,0,0,0,0,AFF,"Electronic and Information School, Yangtze University, Jingzhou 434023, China",i47
+1,223,6,0,0,0,0,0,0,0,0,0,0,AFF,"Key Laboratory of Radar Imaging and Microwave Photonics, Ministry of Education, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China",i47
+1,223,6,0,0,0,0,0,0,0,0,0,0,AFF,"Department of Training Management, Naval Command College, Nanjing 210016, China",i47
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"School of Economics and Management, Beijing Jiaotong University, Beijing 100044, China",i49
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"Department of Computer Systems Technology, North Carolina A&T State University, Greensboro, NC 27411, USA",i49
+1,700,7,0,0,0,0,0,0,0,0,0,0,AFF,"K. Choi, G. Fazekas, and M. Sandler are with the Centre for DigitalMusic, Electric Engineering and Computer Science, Queen Mary Univer-sity of London, London E1 4NS, U.K. (e-mail: keunwoo.choi@qmul.ac.uk;g.fazekas@qmul.ac.uk; marksandler@qmul.ac.uk).",i50
+1,736,7,0,0,0,0,0,0,0,0,0,0,AFF,"K. Cho is with the Center for Data Science, New York University, New York,",i50
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"Department of Information and Electronics Engineering, Chonbuk National University, Jeonju 54896, South Korea",i1
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"Institute of International Studies, Chonbuk National University, Jeonju 54896, South Korea",i1
+1,234,6,0,0,0,0,0,0,0,0,0,0,AFF,"Department of Software, Sangmyung University, Cheonan 31066, South Korea",i2
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen 518055, China",i3
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong, Hong Kong",i3
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"School of Information Science and Engineering, Lanzhou University, Lanzhou 730000, China",i3
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"Department of Electrical and Computer Engineering, New Jersey Institute of Technology, Newark, NJ 07102, USA",i3
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"Institute of Systems Engineering, Macau University of Science and Technology, Macau 999078, China",i3
+1,227,6,0,0,0,0,0,0,0,0,0,0,AFF,"Department of Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong",i3
+1,211,10,0,0,0,0,0,0,0,0,1,0,AFF,", Fellow, IEEE, Fellow, OSA",i4
+1,211,10,0,0,0,0,0,0,0,0,1,0,AFF,", Fellow, IEEE, Fellow, OSA",i4
+1,237,10,0,0,0,0,0,0,0,0,1,0,AFF,", Fellow, IEEE, Fellow, OSA",i4
+1,678,7,0,0,0,0,0,0,0,0,0,0,AFF,"L. Schmalen is with Nokia Bell Labs, Stuttgart 70435, Germany (e-mail:",i4
+1,696,7,0,0,0,0,0,0,0,0,0,0,AFF,"Y. Pan, D. Correa, B. McKay, and S. Zsigmond are with Nokia Corpo-ration, Murray Hill, NJ 07974 USA (e-mail: yan_y.pan@nokia.com; diego.correa@nokia.com; brad.mckay@nokia.com; szilard.zsigmond@nokia.com).",i4
+1,723,7,0,0,0,0,0,0,0,0,0,0,AFF,"S. Grubb is with Facebook, Menlo Park, CA 94025 USA (e-mail: sgrubb@",i4
+1,732,7,0,0,0,0,0,0,0,0,0,0,AFF,fb.com).,i4
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"College of Computer Science and Technology, Jilin University, Changchun 130012, China",i5
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA 30332, USA",i5
+1,261,6,0,0,0,0,0,0,0,0,0,0,AFF,"Department of Information Technology, Changchun Vocational Institute of Technology, Changchun 130033, China",i5
+1,208,6,0,0,0,0,0,0,0,0,0,0,AFF,"Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen 518118, China",i6
+1,208,6,0,0,0,0,0,0,0,0,0,0,AFF,"Department of Computer Science, Bahria University, Islamabad 44000, Pakistan",i6
+1,208,6,0,0,0,0,0,0,0,0,0,0,AFF,"Faculty of Computer Science, Free University of Bolzano, 39100 Bolzano, Italy",i6
+1,208,6,0,0,0,0,0,0,0,0,0,0,AFF,"MOE Key Laboratory of Machine Perception, Peking University, Beijing 100080, China",i6
+1,208,6,0,0,0,0,0,0,0,0,0,0,AFF,"Department of Information and Communication Engineering, Yeungnam University, Gyeongbuk 38541, South Korea",i6
+1,208,6,0,0,0,0,0,0,0,0,0,0,AFF,"Department of Embedded Systems Engineering, Incheon National University, Incheon 22012, South Korea",i6
+1,237,6,0,0,0,0,0,0,0,0,0,0,AFF,"School of Information Science and Engineering, Shandong Normal University, Jinan 250014, China",i7
+1,721,7,0,0,0,0,0,0,0,0,0,0,AFF,"The authors are with the Department of Mechanical Engineering, EindhovenUniversity of Technology, 5612 AZ Eindhoven, The Netherlands (e-mail:m.a.reniers@tue.nl).",i8
+1,732,7,0,0,0,0,0,0,0,0,0,0,AFF,"The authors are with the Crime and Security Research Institute,Cardiff University, Cardiff CF10 3AE, U.K. (e-mail: preecead@cardff.ac.uk;spasici@cardff.ac.uk;rogersdm1@cardff.ac.uk;webberleywm@cardff.ac.uk; robertsc10@cardff.ac.uk; innesm@cardff.ac.uk).",i9
+1,768,7,0,0,0,0,0,0,0,0,0,0,AFF,Digital Object Identiﬁer 10.1109/TCSS.2017.2763684,i9
+1,735,7,0,0,0,0,0,0,0,0,0,0,AFF,"D. M. Xiang, G. J. Liu, C. G. Yan, and C. J. Jiang are with the Key Labo-ratory of Embedded System and Service Computing, Ministry of Education,Tongji University, Shanghai 201804, China (e-mail: ﬂysky xdm@163.com; liugj1116@163.com; yanchungang@tongji.edu.cn; cjjiang@tongji.edu.cn).",i10

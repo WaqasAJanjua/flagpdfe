@@ -1,0 +1,231 @@
+filename,top,Text
+a10,5616,Fig. 3. Burglar program from Figure 2 modified to use syntactic sugar.
+a10,5698,Fig. 4. Virus dissemination example.
+a10,6449,Fig. 5. The Datalog
+a10,7908,Fig. 7. The dependency graph for the virus dissemination example of Figure 4.
+a10,18092,Fig. 8. PPDL translation of the MLN of Example 6.2.
+a11,7850,2 1 1 2 1 2
+a11,18047,Fig. 6. Representation of T = ( a % ( b & c )) · ( d ) · ( e + f + д ) .
+a12,3831,2.2. Auditory Representations with Speech-Based and Emotional Content
+a12,6455,2.3.1. Musicons.
+a13,6847,x x
+a13,8610,ALGORITHM 1: Input: Output: U V U V repeat until
+a13,8760,4.4. Optimization
+a13,10121,71:14:00 C. Cui et al.
+a13,11099,5.3. Competitors
+a14,11097,Algorithm 2.
+a15,1918,2. PRELIMINARIES
+a15,5636,3.2. AND/OR Graph for Strong and Weak Equivalences Checking
+a15,6977,"(cid:12) , , ⊥ , 1 (cid:13) −→ (cid:12) , , α , 2 (cid:13) · · · (cid:12) , , ⊥ , 1 (cid:13) −→ (cid:12) , , α , 2 (cid:13)"
+a15,8727,3.3. Application of the Method to CCS Processes
+a16,405,"Ahmad Fadzil M. Hani, Irving Vitra Paputungan, and Mohd Fadzil Hassan. 2015. Renegotiation in servicelevel agreement management for a cloud-based system. ACM Comput. Surv. 47, 3, Article 51 (April 2015),21 pages.DOI: http://dx.doi.org/10.1145/2716319"
+a16,1919,3. SLAM
+a16,2057,3.1. SLA Negotiation
+a16,2779,3.2. Resource Provisioning
+a16,3665,3.3. Service Monitoring and Assessment
+a16,5413,Reactive
+a16,6169,Boloor et al. [2010]Chang et al. [2010]Zaman and Grosu[2013]Addis et al. [2010]Ledoux and Kouki [2012] Yazir et al. [2010]Maurer et al.[2010]Zhu et al. [2011]
+a17,1008,"1,2,3"
+a17,1009,0
+a17,1049,i
+a17,3535,Thread T Thread T
+a17,3536,Thread T
+a17,3537,Thread T
+a17,5670,4. REMOVING TRACE REDUNDANCY
+a17,5726,4.1. Modeling Trace Redundancy
+a17,5776,δ is iff ( ) = ( \ ).
+a18,1977,2. PRELIMINARIES
+a18,1990,2.1. Deﬁnitions
+a19,2235,2.1. Research Questions
+a19,3762,or or or or or
+a19,3891,Rejected Accepted
+a19,5743,4. CONCERNS
+a19,6097,AdaptivityFault toleranceFlexibilityFunctionalityQuality [Hallsteinsen et al. 2006][Thompson and Heimdahl 2003][Colyer et al. 2004][Etxeberria and Mendieta 2008; Hallsteinsen et al. 2006][Etxeberria and Mendieta 2008]
+a2,1440,"The remainder of this article reads as follows. Section 2 briefly presents the core concepts ofautomatic repair. Section 3 discusses the main approaches of behavioral repair, and Section 4 isabout state repair. Section 5 is dedicated to the empirical works that aim at understanding the"
+a20,406,"Additional Key Words and Phrases: Dynamic symbolic execution, mock classes, stubs, test case generation"
+a20,3007,int
+a20,8751,4.1. Overview and Example
+a21,3127,1.2. ARTICLE ORGANIZATION
+a22,3276,"A Boolean conjunctive query What complexity classes does CERTAINTY ( ) belong to, forwhich complexity classes of interest are , , and #NAME?"
+a22,5776,". For every Boolean query , the decision problem CERTAINTY ( ) takes as input an uncertain database and asks whether is sat-isﬁed by every repair of . It is straightforward that, for every Boolean ﬁrst-orderquery , CERTAINTY ( ) is in ."
+a22,8342,3.4. Complexity Classiﬁcation Examples: Non-Boolean Queries
+a22,10121,9:14 P. Koutris and J. Wijsen
+a22,17821,9:24 P. Koutris and J. Wijsen
+a22,21015,8. PROOF OF THE DISSOLUTION LEMMA (LEMMA 7.11)
+a22,21136,8.1. Introductory Example
+a23,403,"Additional Key Words and Phrases: Reputation systems, reputation system evaluation, benchmarking, sim-ulation, reputation systems comparison, reputation systems attacks, threat analysis, credibility, commonlyagreed evaluation framework"
+a23,2210,2. EVALUATION APPROACHES: A TAXONOMY
+a23,5776,"Roosta et al. [2006] present a reputation system for object tracking applicationsin which nodes (sensors) communicate information regarding the location of objects;nodes also estimate local reputation values for their neighbors using beta distributions.The attack scenario considered involves malicious users that compromise other nodesphysically in order to participate in the system and inject faulty data. The evaluationof the reputation system is done using a grid of 2,500 nodes and estimating the of the estimated number of tracks compared with the actual number of tracks."
+a23,10121,35:14:00 E. Koutrouli and A. Tsalgatidou
+a23,13231,A
+a23,13330,E
+a23,13602,P
+a23,14004,A
+a23,14103,E
+a23,14384,P
+a23,14774,A
+a23,14873,E
+a23,15154,P
+a23,17821,35:24:00 E. Koutrouli and A. Tsalgatidou
+a24,2240,"2.1. Integers: Complexity, Randomness"
+a24,3644,3. CONSISTENT OBJECTS
+a25,2968,n + 1
+a25,5696,Fig. 2. Illustration of the multifeature A-OGP fusion framework pipeline.
+a26,2735,3.1. The Naive Network Operator
+a26,10121,56:14:00 A. Maltinsky et al.
+a27,2458,ProbTree Space & constr. time Retrieval time Query quality Section
+a27,9698,1 2 3 4
+a27,9748,5 678
+a27,9792,910 11
+a27,10121,13:14 S. Maniu et al.
+a27,11135,1 2 3 456789
+a27,11263,10
+a27,11859,1
+a27,11881,2 3456789
+a27,13278,1 2 3 4567891011
+a27,13398,12 13 14 15 161718
+a27,13479,19 20
+a27,13503,2122 23
+a27,17821,13:24 S. Maniu et al.
+a27,17851,propagate-dependent ( )
+a27,17864,tree pointer distance distribution
+a27,17886,1 dependent ( ) #NAME?
+a27,17898,/* subtree does not contain dependencies ← . ; */
+a27,17909,23
+a27,17929,"/* reached a leaf, sample the edge . */"
+a27,17940,4567
+a27,17947,(cid:9) ∃ sampled ( . )
+a27,17957,sampled ( . ) ← sample ( . );
+a27,17967,← sampled ( . );
+a27,17978,← dist ( . );
+a27,17981,89
+a27,18001,/* evaluate branches ← propagate-dependent ( . ); ← propagate-dependent ( . ); /* compute convolutions . = ⊕ ← ⊕ ← (cid:12) */
+a27,18012,1011
+a27,18031,*/
+a27,18042,121314 ;
+a28,5776,"An occurs if one or more of the SLOs are not met. In many cases, thisis the result of a situation in which a VM is not being allocated the required capacity(e.g., because of consolidation that is too aggressive). However, other factors, such asinappropriate sizing of VMs or inadequate elasticity solutions, can lead to an inabilityto serve requests within the boundaries stated in the SLA [Xiao et al. 2014]."
+a28,7930,4.1.3. TheOne-DimensionalVMPlacementProblem.
+a28,10121,Z. ´A. Mann
+a28,10122,11:14
+a28,17821,Z. ´A. Mann
+a28,17822,11:24
+a28,21140,REFERENCES
+a31,2063,2. TERMS AND DEFINITIONS
+a31,2780,2.2. Examples
+a31,6541,4. EXTRACTING THE VALIDATION CRITERIA
+a32,2241,Algorithm 1.1 function
+a32,2264,for all ∈ P do
+a32,2759,∈ (cid:2) ( )
+a32,3010,for all do in parallel
+a32,3030,while do
+a32,3977,(cid:14) (cid:14) +
+a33,1441,"The main premise is that a user who is more exposed to malicious webpages is morelikely to be less “security-aware” and put the organization at higher risk. In a similarmanner, it is assumed that a webpage that obtains a lot of trafﬁc from risky users,"
+a33,1782,2. RELATED WORK
+a33,8355,5. USER MODULE: SECURITY–RELATED USER PROFILING
+a33,9853,sym sym
+a33,10121,53:14:00 M. B. Neria et al.
+a33,10397,sym sym sym
+a33,10518,sym
+a34,404,"General Terms: Algorithms, Experimentation, Veriﬁcation, Theory"
+a34,5776,and all other = 0
+a34,18320,deg
+a35,1999,2. RELATED WORK
+a35,2567,2.2. Multi-View Multi-Task Learning
+a35,6311,w
+a35,8604,6.1. Experimental Settings
+a35,10121,36:14:00 L. Nie et al.
+a36,5271,/ /
+a36,7005,","
+a36,7849,"max max , ,"
+a37,2196,2. BACKGROUND AND PRELIMINARIES
+a37,2210,2.1. Problem Deﬁnition
+a37,7516,4.2. Baselines and Parameter Settings
+a37,10121,65:14:00 W. Pan et al.
+a38,3662,2. PRELIMINARIES
+a38,9601,9 10
+a38,10121,8:14 J. Paparrizos and L. Gravano
+a38,10971,1 2 345 6 7 8
+a38,11751,1 2 3 4 5 6 7 8 9 1.01112E+11
+a38,11920,16
+a38,11932,17
+a38,11944,1819
+a38,12542,1 2 3 4
+a38,12598,56789
+a38,12655,10
+a38,12679,1.11213E+13
+a38,12760,18
+a38,14091,1 2 3 4 56
+a38,14160,7 8
+a38,14194,910111213
+a38,14251,141516
+a38,14299,1.71819E+13
+a38,14380,2425
+a38,14404,26
+a38,14852,1 2 34567
+a38,14930,89
+a38,14953,101112
+a38,14991,1314
+a38,15015,15
+a38,15639,1
+a38,15667,2 3 4 5 6 7 8.91011E+11
+a38,15801,1.51617E+11
+a38,15862,2122232425
+a38,15917,26272829
+a38,15964,30
+a38,15984,3132333435
+a38,16038,363738
+a38,17821,8:24 J. Paparrizos and L. Gravano
+a38,20203,"[100x,+ )"
+a38,20205,"Distance MeasureDTWDTW cDTW cDTW cDTW cDTW Better [0,10x) [10x,100x)"
+a38,20279,cDTW cDTW SBD SBD SBD
+a39,2586,7
+a39,2598,8
+a39,2610,9
+a39,2622,10
+a39,2629,"if label ( q ) = Noise then label ( q ) ← c if label ( q ) (cid:2) undefined then continue Neighbors N ← RangeQuery ( DB , dist , q , ε ) label ( q ) ← c if | N | < minPts then continue S ← S ∪ N"
+a39,2633,11
+a39,3265,// Assign border points// Assign noise points
+a39,3266,"Add to a neighboring core point if possibleOtherwise, add to noise"
+a39,12848,"Fig. 9. OPTICS plot for the“PAMAP2” dataset, with a maximum distance of 10 , 0 ."
+a4,3270,"Fig. 1. A graph database showing part of a Social Network. Edge labels are on the edges, and node namesnext to the nodes."
+a4,3415,Fig. 2. RDF graph storing information about cities and transport services between them.
+a4,4891,Fig. 3. Transforming part of the RDF database from Figure 2 into a graph database.
+a40,1917,2. RELATED WORK AND BACKGROUND
+a40,1931,2.1. Deﬁning Inner Source
+a40,2706,OrganizationAlcatel-Lucent Terminology Model
+a40,8716,4.2. Practices and Tools
+a41,1927,2. PRELIMINARIES
+a41,2999,3.1. Syntax and Informal Semantics
+a42,7850,α α α − α
+a43,18042,"Fig. 12. Runtime of Many with different filters on different WikiTables subsets ( m = 650 , k = 6 , p = 2 )."
+a45,6982,1
+a45,7952,1
+a46,406,"Zhonggang Wu, Zhao Lu, and Shan-Yuan Ho. 2016. Community detection with topological structure andattributes in information networks. ACM Trans. Intell. Syst. Technol. 8, 2, Article 33 (November 2016), 17pages.DOI: http://dx.doi.org/10.1145/2979681"
+a46,1942,2. RELATED WORK
+a46,2724,2.2. Attribute Information Analysis
+a46,4786,4. THE PROPOSED APPROACH
+a46,7849,DatasetDBLP-5KDBLP-10KPolitical Blogs Attributes Link types
+a46,10121,33:14:00 Z. Wu et al.
+a47,3516,2. DAEHR SYSTEM MODEL
+a47,6542,1 2
+a47,6566,3
+a47,6581,456
+a47,6612,7
+a47,6623,8
+a47,6634,9101112
+a47,6693,1
+a47,7530,4.1. Experimental Design
+a47,10121,47:14:00 H. Xiong et al.
+a47,12915,5.4.1. Electronic Health Record (EHR) Data.
+a48,2265,UR ECHNIQUE
+a49,8713,if then break
+a49,8762,while
+a49,8856,4.2. FLINT Algorithm
+a5,12873,Fig. 1. Evaluation of different budget single-kernel algorithms on a9a and codrna datasets. The curves ofonline mistake rates vs. time costs were obtained by choosing varied budget values.
+a5,17982,"Fig. 3. Evaluation of different Bounded OMKC algorithms on two large-scale datasets. The curves of onlinemistake rates vs. time costs were obtained by choosing varied budget values. As bounded SD algorithms haveno significant advantages over Bounded DD (see Table 6), we thus only include Bounded DD algorithms inthese two figures to simplify the presentation."
+a50,3301,( s ) i ( s ) i
+a50,7850,1 2 3 4 5
+a50,12912,Received January 2017; revised June 2017; accepted June 2017
+a6,10212,Fig. 2. Relation instances used in the proof of Theorem 3.4.
+a7,3354,Fig. 1. An RDF graph with information about founders and supporters of organizations.
+a7,15595,Fig. 3. An RDF graph containing information about professors and universities.

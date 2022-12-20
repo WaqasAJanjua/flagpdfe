@@ -1,0 +1,31 @@
+filename,top,Text
+e15,3038,Column Volumes
+e18,2805,5 10 15 20 25 0
+e21,3040,"We chose Foursquare dataset of David Floyer (2013), the mostpopular LBSN, to study the user’s check-in behaviour andsocial-historical ties on LBSNs. In the Foursquare dataset, weget a user’s check-in history with timestamps and his/herfriendship information. To collect user check-ins, Four-square does not have any public application programme in-terface (API). So, we were not able to get the check-in history directly. However, users in Foursquare can choose to list ontheir respective Twitter accounts and publish their check-in messages as tweets on Twitter, and these can be ac-cessed through Twitter’s public API. This contains a uniqueURL that points to a Foursquare web page, including the geo-graphical information of the user’s check-in location. We ob-tained check-ins with timestamps ranging from August 2010to November 2011. To keep the friendships identical to theFoursquare data, the Foursquare user’s social circle was di-rectly used from Foursquare. In our experiment, we consid-ered users who had at least 10 check-ins. We obtained 43,108 unique geographical locations as the location vocabulary. In this dataset, the user’s location is stored in terms of latitude"
+e31,2080,−−
+e31,4379,Cu
+e31,4684,-2 0 2 4 6 8
+e34,979,Commonly observed pitfalls
+e34,3611,advance current research and understanding?
+e35,2446,GenderMaleFemale
+e36,2693,W
+e36,2695,≥ \
+e36,2696,"( , )"
+e36,3037,O ( + / + ) O ( + )
+e37,2995,Annalen der Physik
+e37,3151,Annalen der Physik Lectures on Mechanics.
+e38,3611,Institutional pillars Micro-Context
+e5,978,ﺺﺨﻠﻣ
+e5,1893,ﺚﺤﺒﻟﺍ ﺕﺍﻭﺩﺃ 2.1.4
+e5,2081,ﺓﺭﺎﻤﺘﺳﻻﺍ ﺔﻠﺌﺳﻷ ﺔﻳﺮﻈﻨﻟﺍ ﺔﻴﻠﺨﻟﺍ 3.1.4
+e5,2147,ﺔﻴﻋﻼﻄﺘﺳﻻﺍ ﺔﺳﺍﺭﺪﻟﺍ
+e5,2281,ﺔﻳﻮﺑﺮﺘﻟﺍ ﺔﻋﺎﺠﻨﻟﺍ ﻡﻮﻬﻔﻣ 4.1.4
+e5,2302,ﺚﺤﺒﻟﺍ ﺔﻨﻴﻋ 1.1.4
+e5,2736,ﺔﻴﺴﻔﻨﻟﺍ ﺔﻟﺎﺤﻟﺍ ﻡﻮﻬﻔﻣ 5.1.4
+e5,2811,ﺔﻳﺩﺎﺼﺘﻗﻻﺍ ﻭ ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺔﻴﻠﺨﻟﺍ ﻡﻮﻬﻔﻣ 6.1.4
+e5,3011,ﺎﻬﺘﺸﻗﺎﻨﻣ ﻭ ﺕﺎﻴﻄﻌﻤﻟﺍ ﺽﺮﻋ 2.4
+e5,3022,ﺔﻳﻮﺑﺮﺘﻟﺍ ﺔﻋﺎﺠﻨﻟﺍ 2.2.4
+e5,3039,ﺔﻳﺩﺎﺼﺘﻗﻻﺍ ﻭ ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺔﻴﻔﻠﺨﻠﻟ ﺔﺒﺴﻨﻟﺎﺑ 1.2.4
+e5,3624,ﺔﻴﺴﻔﻨﻟﺍ ﺔﻟﺎﺤﻟﺍ ﻡﻮﻬﻔﻤﻟ ﺔ ﺒﺴﻨﻟﺎﺑ 3.2.4
+e5,4381,ﻡﺎﻌﻟﺍ ﺝﺎﺘﻨﺘﺳﻻﺍ 4.2.4
+e5,4685,ﺕﺎﻴﺻﻮﺘﻟﺍ

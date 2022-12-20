@@ -1,0 +1,401 @@
+filename,top,Text
+a1,2693,Table I. RUCM Use Case Template
+a1,4377,Table III. Restriction Rules (R8-R16)
+a1,4619,Table IV. Restriction Rules (R17–R26)
+a1,6989,Table VI. Participant Groups and Tasks – Experiment 1
+a1,7745,Table VII. Participant Groups and Tasks – Experiment 2
+a1,9429,Table VIII. Comprehension Questionnaire of Task 1
+a1,11112,Table IX. Measures Used to Derive Error Rate
+a1,11955,Table X. Error Rate Measurements (R1–R16)
+a1,12041,Table XI. Error Rate Measurements (R17–R26)
+a1,12797,Table XII. Measures Used to Derive CD
+a1,13639,Table XIII. Quality Measures for a Class Diagram
+a1,14481,Table XIV. Quality Measures for a Class
+a1,14679,Table XV. Measures Used to Derive SD
+a1,15323,Table XVI. Quality Measures for a Sequence Diagram
+a1,16164,Table XVII. Mapping between Measurement and Analysis
+a1,16285,Table XVIII. Collected and Analyzed Data Points – Experiment 2
+a1,22454,Table XXII. Summary of ANOVA Tests – SD
+a1,22544,"Table XXIII. Descriptive Statistics of QC – Experiment 1, Experiment 2: lab 2.2, andlab 2.3"
+a1,25427,Table XXV. Summary of Use Case Templates
+a11,7831,Table 3. Initialization of Constraint Annotations
+a11,9793,Fig. 3. The basic residuation algorithm.
+a11,12219,Fig. 5. Basic residuation algorithm with stability.
+a11,28750,"Fig. 16. Negative experiments for cf-RE( # , & ): random words."
+a11,28905,"Fig. 17. Negative experiments for cf-RE( # , & , % ) : random words."
+a11,29527,Fig. 18. Schema experiments: no caching.
+a11,29685,Fig. 19. Schema experiments: caching.
+a12,15323,"B , T. 2009. Tangible auditory interfaces: Combining auditory displays and tangible interfaces. Ph.D."
+a12,16165,"G , W. W. 1986. Auditory icons: Using sound in computer interfaces. , 2, 167–177.G , W. W. 1988. Everyday listening and auditory icons. Ph.D. thesis. University of California.G , W. W. 1989. The SonicFinder, a prototype interface that uses auditory icons."
+a12,16278,"G , A. B , J. E. 2010. Corrective sonic feedback for speed skating: A case study. In"
+a12,16287,. 23–30.
+a13,2647,2. RELATED WORK
+a13,2691,2.1. GPS-based Recommendation
+a13,7811,Augmented CF for Sparseness Reduction in Personalized POI Recommendation 71:11:00
+a13,9351,Augmented CF for Sparseness Reduction in Personalized POI Recommendation 71:13:00
+a13,10891,Augmented CF for Sparseness Reduction in Personalized POI Recommendation 71:15:00
+a13,11661,71:16:00 C. Cui et al.
+a13,12431,Augmented CF for Sparseness Reduction in Personalized POI Recommendation 71:17:00
+a13,13971,Augmented CF for Sparseness Reduction in Personalized POI Recommendation 71:19:00
+a13,16281,71:22:00 C. Cui et al.
+a13,17051,Augmented CF for Sparseness Reduction in Personalized POI Recommendation 71:23:00
+a14,4090,∈
+a14,4376,(cid:3)
+a14,13905,HEOREM
+a15,4377,Table I. The Greedy Algorithm
+a15,15323,"Table VII. Results for the Analyzed Systems (Weak Equivalence), ComparingThree Greedy Strategies"
+a15,16164,Table VIII. Time Results
+a16,6497,4. SLA RENEGOTIATION
+a16,7745,Table III. Related Works on Proactive and Reactive Renegotiation
+a16,11113,Table V. Bargaining-Based Negotiation Techniques
+a16,11955,Table VI. Offer Generation–Based Negotiation Techniques
+a16,12045,Provides rankedagreementalternatives Can work with multipleattributes Difﬁcult to assess theoptimum solution whenperforming bilateralnegotiation
+a16,14671,"T. Alfredson and A. Cungu. 2008. Negotiation theory and practice: A review of the literature. In . http://www.fao.org/docs/up/easypol/550/4-5_negotiation_background_paper_179en.pdf, p. 6."
+a16,15323,". Lecture Notes in Computer Science, Vol. 7652.Springer, 105–117."
+a16,16165,"M. Maurer, I. Brandic, and R. Sakellariou. 2010. Simulating autonomic SLA enactment in clouds using casebased reasoning. In 25–36."
+a16,16292,"K. V. Patel, A. B. R. Khan, M. M. Sidnale, and D. Babu. 2014. Advance strategies to understand the SLA’s (Ser-vice Level Agreement) with speciﬁc issues on requirement gathering. 4, 3, 1199–1207."
+a17,1850,1 2
+a17,11955,Table I. Experimental Results - RQ1: Effectiveness
+a17,13639,Table II. Experimental Results - RQ2: Efﬁciency
+a17,14481,Table III. Experimental Results - RQ3: Correctness
+a18,6191,39
+a18,6194,General leakage channels
+a18,22426,"Ahmed M. Azab, Peng Ning, Zhi Wang, Xuxian Jiang, Xiaolan Zhang, and Nathan C. Skalsky. 2010. Hyper-Sentry: Enabling stealthy in-context measurement of hypervisor integrity. In . 38–49."
+a18,22455,"Yossi Azar, Seny Kamara, Ishai Menache, Mariana Raykova, and Bruce Shepard. 2014. Co-location-resistantclouds. In . 9–20.Adam Barker, Blesson Varghese, Jonathan Stuart Ward, and Ian Sommerville. 2014. Academic cloud com-puting research: Five pitfalls and ﬁve opportunities. In ."
+a18,22533,"Karyn Benson, Rafael Dowsley, and Hovav Shacham. 2011. Do you know where your cloud ﬁles are? In"
+a18,22542,. 73–82.
+a18,22553,"Daniel Bernstein. 2005. Cache-timing attacks on AES. http://cr.yp.to/antiforgery/cachetiming-20050414.pdf,"
+a18,24634,"Bryan Parno, Craig Gentry, Jon Howell, and Mariana Raykova. 2013. Pinocchio: Nearly practical veriﬁable"
+a18,24643,computation. In . 238–252.
+a18,24654,"Erman Pattuk, Murat Kantarcioglu, Zhiqiang Lin, and Huseyin Ulusoy. 2014. Preventing cryptographic keyleakage in cloud virtual machines. In . 703–718.Raluca Ada Popa, Jacob R. Lorch, David Molnar, Helen J. Wang, and Li Zhuang. 2011. Enabling security incloud storage SLAs with CloudProof. In .355–368."
+a18,24703,"Krishna P. N. Puttaswamy, Christopher Kruegel, and Ben Y. Zhao. 2011. Silverline: Toward data conﬁden-tiality in storage-intensive cloud applications. In . 10:1–10:13."
+a18,24731,"Himanshu Raj, Ripal Nathuji, Abhishek Singh, and Paul England. 2009. Resource management for isolation enhanced cloud services. In . 77–84."
+a18,24760,"Thomas Ristenpart, Eran Tromer, Hovav Shacham, and Stefan Savage. 2009. Hey, you, get off of my cloud:Exploring information leakage in third-party compute clouds. In . 199–212."
+a18,24789,"Nuno Santos, Krishna P. Gummadi, and Rodrigo Rodrigues. 2009. Towards trusted cloud computing. In"
+a18,24798,.
+a18,24809,"Nuno Santos, Rodrigo Rodrigues, Krishna P. Gummadi, and Stefan Saroiu. 2012. Policy-sealed data: A newabstraction for building trusted cloud services. In .Joshua Schiffman, Thomas Moyer, Hayawardh Vijayakumar, Trent Jaeger, and Patrick McDaniel. 2010.Seeding clouds with trust anchors. In . 43–46."
+a18,24858,"Bruce Schneier. 1999. DVD Encryption Broken. Retrieved from https://www.schneier.com/essay-193.html,"
+a18,24867,Last accessed date: June 2015.
+a18,24878,Hovav Shacham and Brent Waters. 2008. Compact proofs of retrievability. In
+a18,24887,". Springer, 90–107."
+a18,24898,"Elaine Shi, Emil Stefanov, and Charalampos Papamanthou. 2013. Practical dynamic proofs of retrievability.In . 325–336."
+a18,24927,"Alexander Shraer, Christian Cachin, Asaf Cidon, Idit Keidar, Yan Michalevsky, and Dani Shaket. 2010.Venus: Veriﬁcation for untrusted cloud storage. In . 19–30."
+a18,24956,"Rishi Sinha, Christos Papadopoulos, and John Heidemann. 2007."
+a18,24965,. Technical Report ISI-TR-2007-643. USC/Information Sciences Institute.
+a18,24976,Ronald Smith and G. Scott Knight. 2008. Predictable design of network-based covert communication systems.
+a18,24985,In . 311–321.
+a18,24995,Emil Stefanov and Elaine Shi. 2013. ObliviStore: High performance oblivious cloud storage. In
+a18,25004,. 253–267.
+a18,25015,"Emil Stefanov, Elaine Shi, and Dawn Song. 2012a. Towards practical oblivious RAM. In"
+a18,25024,.
+a18,25035,"Emil Stefanov, Marten van Dijk, Ari Juels, and Alina Oprea. 2012b. Iris: A scalable cloud ﬁle system withefﬁcient integrity checks. In . 229–238."
+a18,25064,"Emil Stefanov, Marten van Dijk, Elaine Shi, Christopher Fletcher, Ling Ren, Xiangyao Yu, and SrinivasDevadas. 2013. Path ORAM: An extremely simple oblivious RAM protocol. In . 299–310."
+a18,25093,San-Tsai Sun and Konstantin Beznosov. 2012. The devil is in the (implementation) details: An empiricalanalysis of oauth SSO systems. In . 378–390.
+a18,25122,Jakub Szefer and Ruby Lee. 2012. Architectural support for hypervisor-secure virtualization. In . 437–450.
+a18,25427,"Hassan Takabi, James B. D. Joshi, and Gail-Joon Ahn. 2010. Security and privacy challenges in cloud"
+a19,2692,2.2. Survey Protocol
+a19,2934,2.3. Survey Material
+a19,3652,2
+a19,3706,or or
+a19,9429,Table IV. Separation Techniques Identiﬁed in This Survey
+a19,16165,"B , G., C , M., E , S., N , S., N , N., S , M. 2006. A manifesto formodel merging. In ACM Press, New York, 5–12."
+a19,16281,"C , L., B , M. A., A , N. 2009. Variability management in software product lines: A systematicreview. In 81–90.C , H., L , K., K , K. C. 2008. Feature relation and dependency management: An aspect ori-ented approach. In 3–11."
+a2,2441,Table 2. Examples of Repair Operators for Behavioral Repair
+a2,7831,Table 3. Examples of State Change Operators for Runtime Repair
+a20,2692,instanceof
+a20,2947,public static void int
+a20,4048,2. BACKGROUND
+a20,5308,foo( p) { x = p + 1; (x 0) x = p + 1 (x 0)
+a20,6194,m
+a20,12796,Table III. Functions We Use in evalSymbolic to Encode Program andType Constraints in the Input Language of an SMT Solver
+a20,13896,// literal type
+a20,13916,// JVM bool is int
+a20,13930,// “.class” expression such as X.class// type of constant to be loaded// Class constant
+a20,13958,Type ← Reftype(type(cp[imd]));Push(Classref(Type));
+a20,13983,"// .. int, String, etc. constants"
+a20,14005,// method call// signature of called method
+a20,15323,"Table IV. Encoding of the Core Elements of a Java Program, Used inTable III as well as in the evalSymbolic Function"
+a21,6194,3.1.3. DeclarationofMultipleVariables.
+a21,14481,100
+a21,14675,20
+a21,22425,. ACM.
+a21,22436,"H , P. W , W. 2010. Solving string constraints lazily. In"
+a21,22445,. ACM.
+a21,22455,"J , D. V , M. 2000. Finding bugs with a constraint solver. In"
+a21,22535,equations. .
+a21,22546,"K , A., G , V., G , P. J., H , P., E , M. D. 2009a. HAMPI: a solver for stringconstraints. In .ACM."
+a22,7811,Consistent Query Answering for Self-Join-Free Conjunctive Queries 9:11
+a22,9351,Consistent Query Answering for Self-Join-Free Conjunctive Queries 9:13
+a22,10891,Consistent Query Answering for Self-Join-Free Conjunctive Queries 9:15
+a22,11661,9:16 P. Koutris and J. Wijsen
+a22,12431,Consistent Query Answering for Self-Join-Free Conjunctive Queries 9:17
+a22,13971,Consistent Query Answering for Self-Join-Free Conjunctive Queries 9:19
+a22,16281,9:22 P. Koutris and J. Wijsen
+a22,17051,Consistent Query Answering for Self-Join-Free Conjunctive Queries 9:23
+a22,22252,db db
+a22,22585,8.2. Relevance of Subsets of Repairs
+a22,28601,9:38 P. Koutris and J. Wijsen
+a22,29371,Consistent Query Answering for Self-Join-Free Conjunctive Queries 9:39
+a22,30141,9:40 P. Koutris and J. Wijsen
+a22,30911,Consistent Query Answering for Self-Join-Free Conjunctive Queries 9:41
+a23,2635,Threat analysis-based
+a23,2636,Criteria-based
+a23,7811,Reputation Systems Evaluation Survey 35:11:00
+a23,9351,Reputation Systems Evaluation Survey 35:13:00
+a23,10891,Reputation Systems Evaluation Survey 35:15:00
+a23,11661,35:16:00 E. Koutrouli and A. Tsalgatidou
+a23,12431,Reputation Systems Evaluation Survey 35:17:00
+a23,13971,Reputation Systems Evaluation Survey 35:19:00
+a23,16281,35:22:00 E. Koutrouli and A. Tsalgatidou
+a23,17051,Reputation Systems Evaluation Survey 35:23:00
+a23,20477,"Johannes S ¨anger, Christian Richthammer, and G ¨unther Pernul. 2015. Reusable components for online rep-utation systems. 2, 1 (2015), http://dx.doi.org/10.1186/s40493-015-0015-3Michael Schillo, Petra Funk, and Michael Rovatsos. 2000. Using trust for detecting deceitful agents in"
+a24,2693,2.2. Integers: Information
+a24,2940,"2.3. Complexity, Randomness, and Information for Reals"
+a25,7831,Table 4. Benchmark Comparison on the FG-NET Dataset
+a26,7811,On Network Neutrality Measurements 56:11:00
+a26,9351,On Network Neutrality Measurements 56:13:00
+a26,10891,On Network Neutrality Measurements 56:15:00
+a26,11661,56:16:00 A. Maltinsky et al.
+a26,12431,On Network Neutrality Measurements 56:17:00
+a26,13971,On Network Neutrality Measurements 56:19:00
+a26,16281,56:22:00 A. Maltinsky et al.
+a27,7811,An Indexing Framework for Queries on Probabilistic Graphs 13:11
+a27,9351,An Indexing Framework for Queries on Probabilistic Graphs 13:13
+a27,9651,index ( G )
+a27,9663,"a probabilistic graph G , width parameter w index index ( G ) = ( T , B ) /* decompose the graph using SPQR trees"
+a27,9690,*/
+a27,9698,"← undirected, unweighted graph of G ; ( B , T ) ← compute-spqr ( ); T"
+a27,9728,copy the edges of G to B ( );
+a27,9740,/* compute edges between uncovered vertices and propagate up */
+a27,9748,T
+a27,9758,root T at ; ← height ( T ) 0
+a27,9778,T level ( ) =
+a27,9788,"precompute-propagate ( B ( ) , T );"
+a27,9792,"root the tree at the node with largest bag; ( T , B );"
+a27,10891,An Indexing Framework for Queries on Probabilistic Graphs 13:15
+a27,11661,13:16 S. Maniu et al.
+a27,11824,"retrieve ( T , B , , )"
+a27,11837,"ProbTree ( T , B ), source , target probabilistic graph G"
+a27,11859,root the tree at one of the bags containing ;
+a27,11869,/* propagate edges up the new tree */
+a27,11881,← height ( T ) 0 B (root( T ))
+a27,11891,T level ( ) =
+a27,11901,← B ( ); ( ) ∩ { } (cid:9)= ∅
+a27,11922,delete in parent ( ) resulting from ; ( parent ( )) ← ( parent ( )) ∪ ( ); ( parent ( )) ← ( parent ( )) ∪ ( );
+a27,12431,An Indexing Framework for Queries on Probabilistic Graphs 13:17
+a27,13971,An Indexing Framework for Queries on Probabilistic Graphs 13:19
+a27,16281,13:22 S. Maniu et al.
+a27,17051,An Indexing Framework for Queries on Probabilistic Graphs 13:23
+a28,2696,3. PROBLEM CHARACTERISTICS
+a28,2938,3.1. Virtual Machines
+a28,7811,Allocation of Virtual Machines in Cloud Data Centers 11:11
+a28,9351,Allocation of Virtual Machines in Cloud Data Centers 11:13
+a28,10891,Allocation of Virtual Machines in Cloud Data Centers 11:15
+a28,11661,Z. ´A. Mann
+a28,11662,11:16
+a28,12073,4.4.1. Multi-DC.
+a28,12200,4.4.2. HybridCloud.
+a28,12431,Allocation of Virtual Machines in Cloud Data Centers 11:17
+a28,13971,Allocation of Virtual Machines in Cloud Data Centers 11:19
+a28,16281,Z. ´A. Mann
+a28,16282,11:22
+a28,17051,Allocation of Virtual Machines in Cloud Data Centers 11:23
+a29,22444,": Xen, VirtualBox, KVM, UMLinux mod, VMware, Knoppix, XenoServer, Migration starts if a threshold is reached, Incremental backup."
+a29,24643,"Christopher Clark, Keir Fraser, Steven Hand, Jacob Gorm Hansen, Eric Jul, Christian Limpach, Ian Pratt,and Andrew Warﬁeld. 2005. Live migration of virtual machines. In . USENIX Association, Berkeley,CA, 273–286."
+a29,24681,"Brendan Cully, Geoffrey Lefebvre, Dutch Meyer, Mike Feeley, Norm Hutchinson, and Andrew Warﬁeld.2008. Remus: High availability via asynchronous virtual machine replication. In . USENIX Associa-tion, Berkeley, CA, 161–174."
+a29,24719,Rogier Dittner and David Rule. 2007.
+a29,24727,. Syngress Publishing.
+a29,24738,"George W. Dunlap, Samuel T. King, Sukru Cinar, Murtaza A. Basrai, and Peter M. Chen. 2002. ReVirt: enabling intrusion analysis through virtual-machine logging and replay. 36, SI (December 2002), 211–224. DOI: http://dx.doi.org/10.1145/844128.844148"
+a29,24767,"George W. Dunlap, Dominic G. Lucchetti, Michael A. Fetterman, and Peter M. Chen. 2008. Executionreplay of multiprocessor virtual machines. In . ACM, New York, NY, 121–130. DOI: http://dx.doi.org/10.1145/1346256.1346273"
+a29,24805,"R. P. Goldberg. 1974. Survey of virtual machine research. (June 1974), 34–45.Thilina Gunarathne, Tak-Lon Wu, Judy Qiu, and Geoffrey Fox. 2010. Cloud computing paradigms forpleasingly parallel biomedical applications. In . ACM, New York, NY, 460–469. DOI: http://dx.doi.org/10.1145/1851476.1851544"
+a29,24854,"Diwaker Gupta, Ludmila Cherkasova, Rob Gardner, and Amin Vahdat. 2006. Enforcing performance iso-lation across virtual machines in Xen. In . Springer-Verlag, New York, NY, 342–362."
+a29,24883,"Jacob Gorm Hansen and Eric Jul. 2004. Self-migration of operating systems. In . ACM, New York, NY, Article 23. DOI: http://dx.doi.org/10.1145/1133572.1133616"
+a29,24912,"Michael R. Hines, Umesh Deshpande, and Kartik Gopalan. 2009. Post-copy live migration of virtual ma-chines. 43, 3 (July 2009), 14–26. DOI: http://dx.doi.org/10.1145/1618525.1618528Takahiro Hirofuchi, Hidemoto Nakada, Satoshi Itoh, and Satoshi Sekiguchi. 2011. Reactive consolidationof virtual machines enabled by postcopy live migration. In . ACM, New York, NY, 11–18. DOI: http://dx.doi.org/10.1145/1996121.1996125"
+a29,24970,"Takahiro Hirofuchi, Hidemoto Nakada, Hirotaka Ogawa, Satoshi Itoh, and Satoshi Sekiguchi. 2009. Alive storage migration mechanism over wan and its performance evaluation. In . ACM, NewYork, NY, 67–74. DOI: http://dx.doi.org/10.1145/1555336.1555348"
+a29,25007,"Khaled Z. Ibrahim, Steven Hofmeyr, Costin Iancu, and Eric Roman. 2011. Optimized pre-copy live migrationfor memory intensive applications. In . ACM, New York, NY, Article 40, 11 pages. DOI: http://dx.doi.org/10.1145/2063384.2063437"
+a29,25045,"P. Iv ´anyi and B.H.V. Topping (Eds.). 2011. . Ajaccio, Corsica, France. DOI: http://dx.doi.org/10.4203/ccp.95.93"
+a29,25074,"Bo Jiang, Binoy Ravindran, and Changsoo Kim. 2010. Lightweight live migration for high availabil-ity cluster service. In . Springer-Verlag, Berlin, 420–434. Retrieved fromhttp://dl.acm.org/citation.cfm?id = 1926829.1926865."
+a29,25112,James J. Kistler and M. Satyanarayanan. 1992. Disconnected operation in the Coda File System.
+a29,25121,"10, 1 (Feb. 1992), 3–25. DOI: http://dx.doi.org/10.1145/146941.146942"
+a29,25427,"Avi Kivity, Yaniv Kamay, Dor Laor, Uri Lublin, and Anthony Liguori. 2007. KVM: The Linux virtual machinemonitor. In . 225–230. Retrieved from http://www.kernel.org/doc/ols/2007/ols2007v1-pages-225-230.pdf."
+a31,22429,"software measurement. 3, 277–281."
+a31,22440,"B , V. R. W , M. 1994. A methodology for collecting valid software engineering data."
+a31,22449,", 728–738."
+a31,22460,"B , P., K , B. A., B , D., T , M., K , M. 2007. Lessons from applying thesystematic literature review process within the software engineering domain. , 571–583.B , L., E , K. E., M , S. 1996. On the Application of Measurement Theory in Software"
+a31,22529,223–231.
+a31,22540,"C , J. M C , J. 1978. A framework for the measurement of software quality. In"
+a31,22549,.
+a32,2284,while do
+a32,6988,( )
+a33,7088,BrowsingHyperlinkReference to users’ risk scores
+a33,7110,Scoring method w/o 0.561 with0.685 Lift
+a33,7811,A Risk-Scoring Feedback Model for Webpages and Web Users Based on Browsing Behavior 53:11
+a33,9351,A Risk-Scoring Feedback Model for Webpages and Web Users Based on Browsing Behavior 53:13
+a33,9374,n m
+a33,9458,5.1.3. User Holistic Similarity Graph.
+a33,9687,5.1.4. Feature Weighting.
+a33,10891,A Risk-Scoring Feedback Model for Webpages and Web Users Based on Browsing Behavior 53:15
+a33,11661,53:16:00 M. B. Neria et al.
+a33,12431,A Risk-Scoring Feedback Model for Webpages and Web Users Based on Browsing Behavior 53:17
+a33,13971,A Risk-Scoring Feedback Model for Webpages and Web Users Based on Browsing Behavior 53:19
+a34,9580,4.1. Flat Array Relations
+a34,13998,mult mod
+a34,14481,Table I. Time Complexity of Invariant Generation Algorithmsin DIG
+a34,24634,. 132–143.
+a34,24645,M. Vaziri and G. Holzmann. 1998. Automatic detection of invariants in Spin. In
+a34,24654,.
+a34,24665,"Ben Wegbreit. 1974. The synthesis of loop predicates. 17, 2 (1974), 102–113.T. Xie and D. Notkin. 2003. Tool-assisted unit test selection based on operational violations. In"
+a34,24685,. 40–48.
+a34,24696,"Xiang Yin, John C. Knight, Elisabeth A. Nguyen, and Westley Weimer. 2008. Formal veriﬁcation by reversesynthesis. In . 305–319.Xiang Yin, John C. Knight, and Westley Weimer. 2009. Exploiting refactoring in formal veriﬁcation. In"
+a34,24724,. 53–62.
+a34,24747,"Received December 2012; revised June, September 2013; accepted November 2013"
+a35,2925,3.1. Data Crawling Strategy
+a35,7151,A
+a35,7315,A
+a35,7422,WB
+a35,7811,Learning User Attributes via Mobile Social Multimedia Analytics 36:11:00
+a35,8123,11
+a35,9351,Learning User Attributes via Mobile Social Multimedia Analytics 36:13:00
+a35,9537,6.2.2. Semantic Location Features for Foursquare.
+a35,9676,6.2.3. VisualFeaturesforInstagram.
+a35,10891,Learning User Attributes via Mobile Social Multimedia Analytics 36:15:00
+a35,11661,36:16:00 L. Nie et al.
+a35,12431,Learning User Attributes via Mobile Social Multimedia Analytics 36:17:00
+a35,13971,Learning User Attributes via Mobile Social Multimedia Analytics 36:19:00
+a36,6989,∈
+a37,2668,2.2. Challenges
+a37,2925,2.3. Bayesian Personalized Ranking
+a37,7811,Transfer Learning for Behavior Ranking 65:11:00
+a37,9351,Transfer Learning for Behavior Ranking 65:13:00
+a37,10891,Transfer Learning for Behavior Ranking 65:15:00
+a37,11661,65:16:00 W. Pan et al.
+a37,12431,Transfer Learning for Behavior Ranking 65:17:00
+a37,13971,Transfer Learning for Behavior Ranking 65:19:00
+a37,16281,65:22:00 W. Pan et al.
+a37,17051,Transfer Learning for Behavior Ranking 65:23:00
+a38,7811,Fast and Accurate Time-Series Clustering 8:11
+a38,9351,Fast and Accurate Time-Series Clustering 8:13
+a38,9468,", = ( , )"
+a38,9483,Two #NAME? and Dissimilarity of and
+a38,9501,Aligned sequence of towards
+a38,9511,"1 = 2 2 = { ( ) ( ) } 3 = 4 [ v , ] = ( ) 5 = 1 − v 6 = − ( ) 7 ≥ 0 8"
+a38,9523,// Equation 12// Equation 8
+a38,9558,// Equation 9
+a38,9585,"= [ (1 , ) , (1 : − ) ]"
+a38,9588,// Equation 5
+a38,9609,"= (1 − : ) , (1 , − )"
+a38,9611,// Equation 5
+a38,10891,Fast and Accurate Time-Series Clustering 8:15
+a38,10919,"= ( , )"
+a38,11661,8:16 J. Paparrizos and L. Gravano
+a38,11689,"= ( , , )"
+a38,11703,is an -by- matrix with #NAME?
+a38,11713,is a 1-by- vector with the reference sequence against which time series of arealigned. is the desired number of centroids per cluster.
+a38,11743,is an -by- matrix with the centroids.
+a38,11751,"← ← ← 1 , ← ( , ( )) ← [ ; ] ← [ ; ] ← ( , ) ← 1 w ← [] ← 1"
+a38,11783,// Algorithm 1
+a38,11855,"( , ) = 0 w ← [ w ; ( ) ]"
+a38,11884,"( ) ≤ ( ( , ))"
+a38,11894,w ← [ w ; ( ) ]
+a38,11916,"← w · w ← − · ← · · ( ) ← ( , 1)"
+a38,11919,// S ofEquation 15// Q of Equation 15// M of Equation 15// Extract first eigenvector
+a38,12431,Fast and Accurate Time-Series Clustering 8:17
+a38,12459,", = - ( , )"
+a38,12474,is an -by- matrix containing time series of length that are initially
+a38,12484,#NAME? is the number of clusters to produce.
+a38,12504,is an -by-1 vector with the assignment of time series to clusters
+a38,12513,(initialized randomly). is a -by- matrix with centroids of length (initialized as vectors withall zeros).
+a38,12542,← 0 ← ! =
+a38,12564,< 100
+a38,12573,←
+a38,12576,// Refinement step ← 1 ← ← 1
+a38,13971,Fast and Accurate Time-Series Clustering 8:19
+a38,13999,", = - ( , , )"
+a38,14013,is an -by- matrix containing time series of length that are initially
+a38,14023,#NAME? is the number of clusters to produce. is the number of centroids per cluster.
+a38,16281,8:22 J. Paparrizos and L. Gravano
+a38,17051,Fast and Accurate Time-Series Clustering 8:23
+a38,22506,"[100x,+ )"
+a38,22507,"Distance Measure Language [0,10x) [10x,100x) ReferenceSch ¨afer [2015]Wang et al. [2013]This workSch ¨afer [2015]Wang et al. [2013]This work"
+a38,22743,6.2. Robustness of Runtime Results across Implementations
+a38,28601,8:38 J. Paparrizos and L. Gravano
+a38,29371,Fast and Accurate Time-Series Clustering 8:39
+a38,30141,8:40 J. Paparrizos and L. Gravano
+a38,30911,Fast and Accurate Time-Series Clustering 8:41
+a39,2446,ALGORITHM 1: Pseudocode of Original Sequential DBSCAN Algorithm
+a39,9661,"Fig. 3. Statistics on DBSCAN clustering results on the “Household” dataset. The vertical lines indicate theminimum ε = 5 , 0 used by Gan and Tao."
+a39,9758,"Fig. 4. OPTICS plot for “Household” dataset, with a maximum distance of 10 , 0 ."
+a39,11975,"Fig. 6. Runtime performance on the “Farm” dataset. The vertical line indicates the minimum ε = 5 , 0 usedby Gan and Tao."
+a39,12078,"Fig. 7. OPTICS plot for the “Farm” dataset, with a maximum distance of 10 , 0 ."
+a4,28621,Table 1. Execution Times for Queries Q1 Through Q5Over the YAGO Dataset
+a4,30161,Table 2. Execution Times for Queries QG1 Through QG10 Overthe Instance Generated by gMark
+a4,30928,Table 3. Datasets and Running Times for TriAL
+a40,5321,3.2. Phase II: Application of the Framework
+a40,6500,4.1. Software Product
+a40,13939,5.1.2. MultipleStakeholdersforVarietyinContributions.
+a40,24986,Table III. Relevant Sources on Inner Source Literature to Date
+a40,25000,Title Year 2001 Authors Dinkelacker andGargDinkelackeret al. Sharma et al.Robbins
+a40,25011,Corporate Source: Applying Open Source Concepts to a CorporateEnvironmentProgressive Open Source
+a40,25031,2002
+a40,25051,200220022005 Neus and Scherf Opening minds: Cultural change with the introduction of open-source A framework for creating hybrid-open source software communitiesAdopting OSS Methods by Adopting OSS Tools
+a40,25081,collaboration methodsAdopting Open Source Software Engineering (OSSE) Practices by AdoptingOSSE ToolsWhat is Open Source? (book chapter in ‘Innovation Happens Elsewhere’)
+a40,25091,Robbins
+a40,25092,2005
+a40,25112,2005 Goldman andGabriel Gurbani et al. Gurbani et al.
+a40,25131,2005 2006 A Case Study of Open Source Tools and Practices in a Commercial Setting A Case Study of a Corporate Open Source Development Model
+a40,25427,Table III. Continued
+a41,22432,"D , J. S., M , B. P., F , N. 1999. Modeling Aircraft Mission Computer Task Rates. In . LectureNotes in Computer Science, vol. 1708. Springer, 1855."
+a41,22460,"F , R. W. 1962. Algorithm 97: Shortest path. , 6, 345.G , P. O , D. 2001. Fast LTL to B ¨uchi automata translation. In . Lecture Notes in Computer Science, vol. 2102.Springer, 53–65."
+a41,22529,"H , D. 1997. Some thoughts on statecharts, 13 years later. In . Lecture Notes in Computer Science, vol. 1254. Springer, 226–231."
+a41,22549,"H , D. G , E. 1997. Executable object modeling with statecharts. , 7, 31–42.H , T. A., N , X., S , J., Y , S. 1994. Symbolic model checking for real-time systems."
+a42,7744,α
+a42,7745,2 2 2
+a42,12038,(cid:16) −
+a42,12046,− ( − )
+a42,14462,(cid:11) (cid:11) (cid:10) (cid:11) (cid:11)
+a42,16276,2
+a43,9427,4:05:06
+a43,12547,"Fig. 6. After combining two matrix rows, a consecutive part of the intermediate result is already cleared (0)."
+a43,17239,"Fig. 10. Scale-up behavior of Many on WikiTables with m = 650 , k = 6 , p = 2 , strategy = dep2refs , and allfilters."
+a43,17402,Fig. 11. The comparison of indexed long arrays and simple long arrays used as bit-vector implementationsin Many.
+a44,13938,ROPOSITION
+a45,4013,R
+a46,1792,√ √
+a46,2936,2.3. Structure and Attribute-Based Analysis
+a46,7811,Community Detection with Topological Structure and Attributes in Information Networks 33:11:00
+a46,9351,Community Detection with Topological Structure and Attributes in Information Networks 33:13:00
+a46,10891,Community Detection with Topological Structure and Attributes in Information Networks 33:15:00
+a46,11661,33:16:00 Z. Wu et al.
+a46,12431,Community Detection with Topological Structure and Attributes in Information Networks 33:17:00
+a47,2929,1.3. Technical Contributions
+a47,7811,A Discriminant Analysis Framework for Electronic Health Record Data 47:11:00
+a47,9351,A Discriminant Analysis Framework for Electronic Health Record Data 47:13:00
+a47,10891,A Discriminant Analysis Framework for Electronic Health Record Data 47:15:00
+a47,11661,47:16:00 H. Xiong et al.
+a47,12019,5.1.1. PredictiveModelsforEarlyDetectionofDisease.
+a47,12156,5.1.2. EHR Data Representation for Predictive Models.
+a47,12431,A Discriminant Analysis Framework for Electronic Health Record Data 47:17:00
+a47,13971,A Discriminant Analysis Framework for Electronic Health Record Data 47:19:00
+a47,15323,"by thresholding for high dimensional data. 39, 2 (2011), 1241–1265."
+a48,4622,1
+a48,9425,(
+a49,3938,2.3. Prioritizing for Fault Localization
+a49,5311,3.1.2. Entropy of Fault Locality.
+a49,6193,F P
+a49,9429,"Table IV. Insertions/Deletions in Source Code between Versions V4 → V5234/2489/761139/4674,004/7,343"
+a49,11113,Table VI. Summary of Results from Precision Study ¯ (cid:4) ¯ (cid:4) 1.530.647.295.085.795.53 − 1.240.74 − 6.99 − 1.461.184.8810.64 − 1.07 − 2.3311.5611.900.750.2732.3032.4214.9015.97 1.330.376.676.8135.2835.283.423.57
+a49,11955,Table VII. Hypothesis Test for Precision Study
+a49,13639,Table VIII. Summary of Results from Robustness Study
+a49,16165,Table X. Results of Comparison to Similarity Sorting Approach
+a49,22456,sed V3
+a5,9371,Table 1. Summary of Binary ClassificationDatasets in Our Experiments
+a5,10911,Table 2. Evaluation of Online Kernel Classification on Six Datasets
+a5,12451,Table 3. Evaluation of Final Classifiers for Test Data
+a5,13991,Table 4. Summary of Binary ClassificationDatasets in the OMKC Experiments
+a5,16301,Table 5. Evaluation of Online Classification on Small-scale and Medium-scale Datasetsby Comparing BOMKC(SPA) with Unbounded OMKC Algorithms
+a5,17072,Table 6. Evaluation of BOMKC Using Different Budget Learning Algorithms
+a50,5996,( s ) i (cid:3) i ( s ) ( s ) ( s ) i ( s ) (cid:3)
+a50,7831,Table 2. Description of the ImageNet Dataset
+a50,9566,Fig. 2. Classification accuracy on the ImageNet dataset.
+a50,9591,Table 3. Average Results ( % ) on Four Datasets
+a50,12036,"Yoshua Bengio. 2009. Learning deep architectures for AI. Found. Trends Mach. Learn. 2, 1 (2009), 1–127.John Blitzer, Ryan McDonald, and Fernando Pereira. 2006. Domain adaptation with structural correspondence learning. In"

@@ -1,0 +1,196 @@
+pageno,top,fonts_size,hasAck,hasAt,Allcap,hasTable,hasFigure,hasRef,hasR,hasAbstract,italic,Bold,LABEL,Text,filename
+1,171,11,0,0,0,0,0,0,0,0,0,0,AU,Yan Ma,s11
+1,171,11,0,0,0,0,0,0,0,0,0,0,AU,", Tobias Kind",s11
+1,171,11,0,0,0,0,0,0,0,0,0,0,AU,", Arpana Vaniya",s11
+1,171,11,0,0,0,0,0,0,0,0,0,0,AU,", Ingrid Gennity",s11
+1,171,11,0,0,0,0,0,0,0,0,0,0,AU,", Johannes F. Fahrmann",s11
+1,171,11,0,0,0,0,0,0,0,0,0,0,AU,and Oliver Fiehn,s11
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,Efficient N Ncube,s12
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Msizi I Mhlongo",s12
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Lizelle A Piater",s12
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Paul A Steenkamp",s12
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Ian A Dubery",s12
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,and Ntakadzeni E Madala,s12
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,Jersson Plácido,s13
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,and Sergio Capareda,s13
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,Bi-Wen Zhu,s14
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Liang Cai",s14
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Xiao-Peng He",s14
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Guo-Rong Chen and Yi-Tao Long",s14
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,Antoine Honoré Lonfouo Nkuété,s15
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Victor Kuete",s15
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Davide Gozzini",s15
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Ludovico Migliolo",s15
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Aline Lima Oliveira",s15
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,",Hippolyte K Wabo",s15
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Pierre Tane",s15
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Giovanni Vidari",s15
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Thomas Efferth",s15
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,and Octávio Luiz Franco,s15
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,"Ting Yu, Xin Gao, Yuhong Ren",s16
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,and Dongzhi Wei,s16
+1,271,10,0,0,0,0,0,0,0,0,0,1,AU,Abstract,s16
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,Ali Ghasemzadeh,s17
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Hawa Z. E. Jaafar",s17
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Mohamad Fhaizal Mohamad Bukhori",s17
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Mohd Hafizad Rahmat",s17
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,and Asmah Rahmat,s17
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Asad Ullah",s18
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Salim S. Al‑showiman",s18
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,and Yahia Nasser Mabkhot,s18
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,Syed Lal Badshah,s18
+1,247,10,0,0,0,0,0,0,0,0,0,1,AU,Abstract,s18
+1,247,10,0,0,0,0,0,0,0,0,0,0,AU,"This commentary highlights the recent work published in journal Nature on the structural based discovery of novelanalgesic compounds for opioid receptors with minimal effects. Manglik et al. selectively targeted the Gi based μORpathway instead of the β‑arrestin pathway of the opioids. The computational screening of millions of compoundsshowed a list of several competent ligands. From these ligands they synthesized the compounds with the bestdocking score, which were further optimized by adding side residues for better interaction with the μOR. A promis‑ing compound, PZM21, was a selective agonist of μOR. It has better analgesic properties with minimal side effects ofrespiratory depression and constipation. This work is a step towards better drug designing and synthesizing in termsof efficacy, specificity with least side effects of targeted GPCR proteins present in the human proteome.",s18
+1,397,10,0,0,0,0,0,0,0,0,0,1,AU,Introduction,s18
+1,224,9,0,0,0,0,0,0,0,0,0,1,AU,Somayeh Firoozi,s19
+1,224,9,0,0,0,0,0,0,0,0,0,1,AU,Mina Jamzad,s19
+1,224,9,0,0,0,0,0,0,0,0,0,1,AU,Mohammad Yari,s19
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,Mrinalini J Singh,s20
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,and Padmavathy Sedhuraman,s20
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,Samuel Boobier,s21
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Anne Osbourn",s21
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,and John B. O. Mitchell,s21
+1,224,9,0,0,0,0,0,0,0,0,0,1,AU,Felipe Sa´nchez,s22
+1,224,9,0,0,0,0,0,0,0,0,0,1,AU,Davide Motta,s22
+1,224,9,0,0,0,0,0,0,0,0,0,1,AU,Nikolaos Dimitratos,s22
+1,226,9,0,0,0,0,0,0,0,0,0,1,AU,Yengaldas Harikrishna,s23
+1,226,9,0,0,0,0,0,0,0,0,0,1,AU,Vanama Pavan Kumar,s23
+1,226,9,0,0,0,0,0,0,0,0,0,1,AU,Kuna Ramu,s23
+1,226,9,0,0,0,0,0,0,0,0,0,1,AU,Komandur V. R. Chary,s23
+1,226,9,0,0,0,0,0,0,0,0,0,1,AU,Vattikonda Venkat Rao,s23
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,Adepu K Kumar,s24
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,and Bhumika S Parikh,s24
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,Yu‑Ze Dong,s25
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Wen‑Shous Chang",s25
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,and Po Ting Chen,s25
+1,401,10,0,0,0,0,0,0,0,0,0,1,AU,Methods:,s25
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,Anna Krawczuk,s26
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,and Piero Macchi,s26
+1,245,10,0,0,0,0,0,0,0,0,0,1,AU,Abstract,s26
+1,263,10,0,0,0,0,0,0,0,0,0,0,AU,"This review reports on the application of charge density analysis in the field of crystal engineering, which is one ofthe most growing and productive areas of the entire field of crystallography.While methods to calculate or measure electron density are not discussed in detail, the derived quantities andtools, useful for crystal engineering analyses, are presented and their applications in the recent literature areillustrated. Potential developments and future perspectives are also highlighted and critically discussed.",s26
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,Michael A. Skinnider,s27
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Chris A. Dejong",s27
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Brian C. Franczak",s27
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Paul D. McNicholas",s27
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,and Nathan A. Magarvey,s27
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,Marta E Lichawska,s28
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Kazimiera H Bodek",s28
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Julia Jezierska",s28
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,and Aleksander Kufelnicki,s28
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,Kartikey Kumar Gupta,s29
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Kamal Rai Aneja",s29
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,and Deepanshu Rana,s29
+1,273,10,0,0,0,0,0,0,0,0,0,1,AU,Abstract,s29
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,"Cow dung, an excreta of bovine animal, is a cheap and easily available bioresource on our planet. Many traditionaluses of cow dung such as burning as fuel, mosquito repellent and as cleansing agent are already known in India. Cowdung harbours a diverse group of microorganisms that may be beneficial to humans due to their ability to produce",s29
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,"a range of metabolites. Along with the production of novel chemicals, many cow dung microorganisms have shown",s29
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,"natural ability to increase soil fertility through phosphate solubilisation. Nowadays, there is an increasing researchinterest in developing the applications of cow dung microorganisms for biofuel production and management ofenvironmental pollutants. This review focuses on recent findings being made on cow dung that could be harnessedfor usage in different areas such as medicine, agriculture and industry.",s29
+1,387,10,0,0,0,0,0,0,0,0,0,1,AU,Keywords:,s29
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Ye Peng,s30
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Tao Liu,s30
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Haifeng Gong,s30
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Xianming Zhang,s30
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,Naseer Hussain,s31
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Tasneem Abbasi",s31
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,and Shahid Abbas Abbasi,s31
+1,403,10,0,0,0,0,0,0,0,0,0,1,AU,Results:,s31
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,"Blen Weldegebreal, Mesfin Redi‑Abshiro and Bhagwan Singh Chandravanshi",s32
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Chen Chen,s33
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Qiang Zhang,s33
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Zhe Meng,s33
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Chunyi Li,s33
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Honghong Shan,s33
+1,208,9,0,0,0,0,0,0,0,0,0,1,AU,Hamid Al-Megren,s34
+1,208,9,0,0,0,0,0,0,0,0,0,1,AU,Yu Huang,s34
+1,208,9,0,0,0,0,0,0,0,0,0,1,AU,Haoyi Chen,s34
+1,208,9,0,0,0,0,0,0,0,0,0,1,AU,Mohammed AlKinany,s34
+1,208,9,0,0,0,0,0,0,0,0,0,1,AU,Sergio Gonzalez-Cortes,s34
+1,208,9,0,0,0,0,0,0,0,0,0,1,AU,Saud Aldrees,s34
+1,208,9,0,0,0,0,0,0,0,0,0,1,AU,Tiancun Xiao,s34
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Delano Mendes de Santana,s35
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Se´rgio Ricardo Lourenc¸o,s35
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Douglas Alves Cassiano,s35
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,Hany W. Darwish,s36
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Mohamed I. Attia",s36
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,and Darius P. Zlotos,s36
+1,397,10,0,0,0,0,0,0,0,0,0,1,AU,"Erratum to:  Chemistry Central Journal 2012, 6:36",s36
+1,208,9,0,0,0,0,0,0,0,0,0,1,AU,Ghodsi Mohammadi Ziarani,s37
+1,208,9,0,0,0,0,0,0,0,0,0,1,AU,Monireh Shakiba Nahad,s37
+1,208,9,0,0,0,0,0,0,0,0,0,1,AU,Negar Lashgari,s37
+1,208,9,0,0,0,0,0,0,0,0,0,1,AU,Alireza Badiei,s37
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,"Bo Liu, Da Li",s38
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,and Hong Shang,s38
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,and Egon Willighagen,s39
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,Rajarshi Guha,s39
+1,264,9,0,0,0,0,0,0,0,0,0,0,AU,As we take over the editorial reigns of,s39
+1,264,9,0,0,0,0,0,0,0,0,0,0,AU,wewould  like  to  present  our  goals  for  the  journal  and  ourviews on where cheminformatics as a field is headed andhow  the  journal  may  influence  it.  As  editors  our  over-arching goal is to disseminate cheminformatics research,s39
+1,264,9,0,0,0,0,0,0,0,0,0,0,AU,and practice that is impactful and useful within the com,s39
+1,264,9,0,0,0,0,0,0,0,0,0,0,AU,-,s39
+1,264,9,0,0,0,0,0,0,0,0,0,0,AU,"munity. Open Access publishing remains central to this,as  well  as  continued  innovation  in  simplifying  reuse  ofpublished  work.  This  includes  encouraging  FAIR  [1]outputs  and  clear,  open  licensing,  resulting  in  researchproducts  that  can  be  reused  and  reproduced.  Recentupdates  to  the  journal’s  website  exemplify  our  attemptsto encourage reuse of data from articles (e.g. integrationwith FigShare).",s39
+1,264,9,0,0,0,0,0,0,0,0,0,0,AU,"cheminformatics,  which  tools  work  and  which  do  not,are all valuable contributions to the field.",s39
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,Iltaf Shah,s40
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", James Barker",s40
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Declan P. Naughton",s40
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Stephen J. Barton",s40
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,and Syed Salman Ashraf,s40
+1,273,10,0,0,0,0,0,0,0,0,0,1,AU,Abstract,s40
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,Glomerular filtration rate (GFR) is usually determined by estimation of iothalamate (IOT) clearance. We have devel-oped and validated an accurate and robust method for the analysis of IOT in human plasma and urine. The mobilephase consisted of methanol and 50 mM sodium phosphate (10:90; v/v). Flow rate was 1.2 mL/min on a C18 reverse,s40
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,"phase column, Synergi-hydro (250",s40
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,"was used for the deproteination and extraction of IOT from human plasma and urine. Precision and accuracy werewithin 15% for IOT in both plasma and urine. The recoveries of IOT in urine and plasma ranged between 93.14% and114.74 and 96.04–118.38%, respectively. The linear range for urine and plasma assays were 25–1500 and 1–150 µg/mL respectively. The lower limits of detection were 0.5 µg/mL for both urine and plasma, with no interference fromplasma and urine matices. This method has been fully validated according to FDA guidelines and the new HPLC assayhas been applied to a new formulation of IOT (Conray",s40
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,"43), to calculate GFR in healthy volunteers. The new methodis simple, less expensive and it would be instrumental in future clinical and pharmacokinetic studies of iothalamate inkidney patients.",s40
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Qingyin Li,s41
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Zifeng Yan,s41
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Peng peng,s41
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Yiran Geng,s41
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Dong Liu,s41
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Min Li,s41
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Linhua Song,s41
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Mengfei Li,s41
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,Yifan Peng,s42
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Chih‑Hsuan Wei",s42
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,and Zhiyong Lu,s42
+1,224,9,0,0,0,0,0,0,0,0,0,1,AU,Javad Safaei-Ghomi,s43
+1,224,9,0,0,0,0,0,0,0,0,0,1,AU,Hossein Shahbazi-Alavi,s43
+1,224,9,0,0,0,0,0,0,0,0,0,1,AU,Seyed Hadi Nazemzadeh,s43
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,Sawsan M. Amer,s44
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Adnan A. Kadi",s44
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Hany W. Darwish",s44
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,and Mohamed W. Attwa,s44
+1,171,11,0,0,0,0,0,0,0,0,0,0,AU,Stefan Senger,s45
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Viswanathan Arcotumapathy,s46
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Dai-Viet N. Vo,s46
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,Faisal M. Alotaibi,s46
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,Adesoji A. Adesina,s46
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Feraih Sh Alenazey,s46
+1,206,9,0,0,0,0,0,0,0,0,0,1,AU,Raja L. Al-Otaibi,s46
+1,382,10,0,0,0,0,0,0,0,0,0,1,AU,Introduction,s46
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,Xin Li,s47
+1,172,11,0,0,0,0,0,0,0,0,0,0,AU,", Zhi-Gang Li and Zhong-Ping Shi",s47
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,Hongchang Yu,s48
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,", Baowu Zhu",s48
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,and Yulian Zhan,s48
+1,273,10,0,0,0,0,0,0,0,0,0,1,AU,Abstract,s48
+1,273,10,0,0,0,0,0,0,0,0,0,1,AU,Background:,s48
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,Artemisinin (,s48
+1,273,10,0,0,0,0,0,0,0,0,0,1,AU,1,s48
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,") and its derivatives are now being widely used as antimalarial drugs, and they alsoexhibited good antitumor activities. So there has been much interest in the structural modification of artemisininand its derivatives because of their effective bioactivities. The microbial transformation is a promising route to obtain",s48
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,artemisinin derivatives. The present study focuses on the microbial transformation of artemisinin by,s48
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,.,s48
+1,273,10,0,0,0,0,0,0,0,0,0,1,AU,Results:,s48
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,"During 6 days at 28 °C and 180 rpm,",s48
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,transformed artemisinin to two products. They wereidentified as 1-deoxyartemisinin (,s48
+1,273,10,0,0,0,0,0,0,0,0,0,1,AU,2,s48
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,) and 4α-hydroxy-1-deoxyartemisinin (,s48
+1,273,10,0,0,0,0,0,0,0,0,0,1,AU,3,s48
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,) on the basis of their spectroscopic data.,s48
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,"Andrea Mauri, Davide Ballabio, Roberto Todeschini and Viviana Consonni",s49
+1,382,10,0,0,0,0,0,0,0,0,0,1,AU,Keywords:,s49
+1,170,11,0,0,0,0,0,0,0,0,0,0,AU,Meena Kapahi,s50
+1,228,11,0,0,0,0,0,0,0,0,0,0,AU,and Sarita Sachdeva,s50
+1,273,10,0,0,0,0,0,0,0,0,0,1,AU,Abstract,s50
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,"Mycoremediation is one of the biotechniques that recruits fungi to remove toxic pollutants from environment in anefficient and economical manner. Mushrooms, macro-fungi, are among the nature’s most important mycoremedia-tors.",s50
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,species (also called oyster mushrooms) are considered to be the most popular and widely cultivated,s50
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,varieties worldwide and this might be attributed to their low production cost and higher yields. Apart from their nutri-,s50
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,"tive and therapeutic properties,",s50
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,"species have high biosorption potential due to their extensive biomass, i.e.mycelial production. The genus has been reported to accumulate high levels of heavy metals. The current state-of-theart review mainly summarises previous investigations carried out by researchers on different roles and mechanismsplayed by",s50
+1,273,10,0,0,0,0,0,0,0,0,0,0,AU,species on heavy metals mycoremediation.,s50
+1,387,10,0,0,0,0,0,0,0,0,0,1,AU,Keywords:,s50

@@ -1,0 +1,160 @@
+pageno,top,fonts_size,hasAck,hasAt,Allcap,hasTable,hasFigure,hasRef,hasR,hasAbstract,italic,Bold,LABEL,Text,filename
+1,265,10,0,0,0,0,0,0,0,0,0,0,AU,Marcos Vizcaíno-González,e11
+1,265,10,0,0,0,0,0,0,0,0,0,0,AU,", Juan Pineiro-Chousa",e11
+1,265,10,0,0,0,0,0,0,0,0,0,0,AU,", M. Ángeles López-Cabarcos",e11
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,Fabiano Barbieri Gonzaga,e13
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,", Sidney Pereira Sobral",e13
+1,209,12,0,0,0,0,0,0,0,0,0,0,AU,Suryakant,e14
+1,209,9,0,0,0,0,0,0,0,0,0,0,AU,∗,e14
+1,209,12,0,0,0,0,0,0,0,0,0,0,AU,and Tripti Mahara,e14
+1,255,10,0,0,0,0,0,0,0,0,0,0,AU,Lúcia M.L.A. Auler,e15
+1,255,10,0,0,0,0,0,0,0,0,0,0,AU,", César R. Silva",e15
+1,255,10,0,0,0,0,0,0,0,0,0,0,AU,", Carla B.G. Bottoli",e15
+1,255,10,0,0,0,0,0,0,0,0,0,0,AU,", Carol H. Collins",e15
+1,265,10,0,0,0,0,0,0,0,0,0,0,AU,Guadalupe Vila Vázquez,e16
+1,265,10,0,0,0,0,0,0,0,0,0,0,AU,", Carmen Castro Casal y Dolores Álvarez Pérez",e16
+1,271,10,0,0,0,0,0,0,0,0,0,0,AU,"Luiz Fernando S. Caldas, Daniel M. Brum, Carlos Eduardo R. de Paula, Ricardo J. Cassella",e18
+1,230,9,0,0,0,0,0,0,0,0,0,0,AU,Yongho Kim and Eric T Matson,e19
+1,221,12,0,0,0,0,0,0,0,0,0,0,AU,"Nithin G., Reshmi S. Bhooshan",e20
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Angel Barajas,e23
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,", Dennis Coates",e23
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,", Patricio Sanchez-Fernandez",e23
+1,260,12,0,0,0,0,0,0,0,0,0,0,AU,"Natalija Koseleva*, Guoda Ropaite",e24
+1,196,9,0,0,0,0,0,0,0,0,0,0,AU,Research Paper,e25
+1,196,10,0,0,0,0,0,0,0,0,0,0,AU,Neelamegam Annamalai,e25
+1,196,10,0,0,0,0,0,0,0,0,0,0,AU,", Huda Al-Battashi",e25
+1,196,10,0,0,0,0,0,0,0,0,0,0,AU,", Saif Al-Bahry",e25
+1,196,10,0,0,0,0,0,0,0,0,0,0,AU,", Nallusamy Sivakumar",e25
+1,274,10,0,0,0,0,0,0,0,0,0,0,AU,Peter,e26
+1,274,10,0,0,0,0,0,0,0,0,0,0,AU,Raus,e26
+1,274,10,0,0,0,0,0,0,0,0,0,0,AU,",",e26
+1,274,10,0,0,0,0,0,0,0,0,0,0,AU,Bharath,e26
+1,274,10,0,0,0,0,0,0,0,0,0,0,AU,Raghuraman,e26
+1,274,10,0,0,0,0,0,0,0,0,0,0,AU,Kumar,e26
+1,274,10,0,0,0,0,0,0,0,0,0,0,AU,",",e26
+1,274,10,0,0,0,0,0,0,0,0,0,0,AU,Martijn,e26
+1,274,10,0,0,0,0,0,0,0,0,0,0,AU,Pinkse,e26
+1,274,10,0,0,0,0,0,0,0,0,0,0,AU,",",e26
+1,274,10,0,0,0,0,0,0,0,0,0,0,AU,Peter,e26
+1,274,10,0,0,0,0,0,0,0,0,0,0,AU,Verhaert,e26
+1,274,10,0,0,0,0,0,0,0,0,0,0,AU,*,e26
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,Glenn D. Castle,e27
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,", Graham A. Mills",e27
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,", Adil Bakir",e27
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,", Anthony Gravell",e27
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,", Melanie Schumacher",e27
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,",Ian Townsend",e27
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,", Lewis Jones",e27
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,", Richard Greenwood",e27
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,", Stuart Knott",e27
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,", Gary R. Fones",e27
+1,210,10,0,0,0,0,0,0,0,0,0,0,AU,Oliver Zhen Li,e28
+1,237,10,0,0,0,0,0,0,0,0,0,0,AU,", Ning Cai",e28
+1,262,10,0,0,0,0,0,0,0,0,0,0,AU,Ezzeddine,e30
+1,262,10,0,0,0,0,0,0,0,0,0,0,AU,Ben,e30
+1,262,10,0,0,0,0,0,0,0,0,0,0,AU,Mohamed,e30
+1,262,10,0,0,0,0,0,0,0,0,0,0,AU,",",e30
+1,262,10,0,0,0,0,0,0,0,0,0,0,AU,Mohamed,e30
+1,262,10,0,0,0,0,0,0,0,0,0,0,AU,Naceur,e30
+1,262,10,0,0,0,0,0,0,0,0,0,0,AU,"Souissi,",e30
+1,262,10,0,0,0,0,0,0,0,0,0,0,AU,Amel,e30
+1,262,10,0,0,0,0,0,0,0,0,0,0,AU,"Baccar,",e30
+1,262,10,0,0,0,0,0,0,0,0,0,0,AU,Abdelfettah,e30
+1,262,10,0,0,0,0,0,0,0,0,0,0,AU,Bouri,e30
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Adriana D. Meinhart,e32
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,", Cristiano A. Ballus",e32
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,", Roy E. Bruns",e32
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,", Juliana A. Lima Pallone",e32
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,", Helena T. Godoy",e32
+1,255,10,0,0,0,0,0,0,0,0,0,0,AU,", Chris D. Hewitt",e33
+1,255,10,0,0,0,0,0,0,0,0,0,0,AU,", Francisco J. Doblas-Reyes",e33
+1,255,10,0,0,0,0,0,0,0,0,0,0,AU,", Suraje Dessai",e33
+1,265,10,0,0,0,0,0,0,0,0,0,0,AU,"Günther Eder,",e36
+1,265,10,0,0,0,0,0,0,0,0,0,0,AU,Martin Held,e36
+1,228,10,0,0,0,0,0,0,0,0,0,1,AU,Creating the Conversation,e37
+1,244,9,0,0,0,0,0,0,0,0,0,1,AU,"The first article in this issue has several dimensions, all of them significant. “OnceMore, with Feeling: Design Thinking and Embodied Cognition” by Karin Lind-gaard and Heico Wesselius",e37
+1,244,9,0,0,0,0,0,0,0,0,0,1,AU,"asks us to reconsider design thinking. What is designthinking, really? How can we account for it? And what—if anything—do our ac-counts have to do with how we use design thinking in a variety of contexts andapplications?",e37
+1,263,10,0,0,0,0,0,0,0,0,0,0,AU,Jesús Barrena Martínez,e38
+1,263,10,0,0,0,0,0,0,0,0,0,0,AU,", Macarena López Fernández, Pedro Miguel Romero Fernández",e38
+1,197,9,0,0,0,0,0,0,0,0,0,0,AU,Erratum,e39
+1,262,10,0,0,0,0,0,0,0,0,0,0,AU,Onur Akkaya,e40
+1,227,10,0,0,0,0,0,0,0,0,0,1,AU,Conference Title,e41
+1,235,11,0,0,0,0,0,0,0,0,0,0,AU,"Conference Organized by Interscience Institute of Management and Technology,",e42
+1,212,11,0,0,0,0,0,0,0,0,0,0,AU,(ICCC-2014),e42
+1,212,12,0,0,0,0,0,0,0,0,0,0,AU,(ICCC-2015),e42
+1,258,11,0,0,0,0,0,0,0,0,0,0,AU,"Bhubaneswar, Odisha, India",e42
+1,263,10,0,0,0,0,0,0,0,0,0,0,AU,Carmen García García,e43
+1,263,10,0,0,0,0,0,0,0,0,0,0,AU,y Marina Fabero Fernández de Marcos,e43
+1,253,9,0,0,0,0,0,0,0,0,0,1,AU,"There are similarities and differences betweenthe way the design and the business communitiesrelate to design thinking. In a study comparing theattitudes of the two communities, Marina Herrmann",e44
+1,253,9,0,0,0,0,0,0,0,0,0,1,AU,"found that both communities emphasize iterativeprocesses, collaboration, speed of concept modelingand testing through prototyping, and interaction withusers. Designers see design thinking as a learningprocess; the business community sees it as a knowl-edge-based process. Design texts emphasize experi-ence, exploration, experimentation, play, and evenfailure, when it leads to learning. Designers tend tosearch out validity, whereas the business communityseeks reliability.",e44
+1,253,9,0,0,0,0,0,0,0,0,0,1,AU,"Business texts on design thinkingstress innovation, while design texts center more oncreativity. There is also a notable difference in thepreferred mode of communication, which is mostlyvisual in design and verbal in business. Despite thecommon ground in the interpretation of designthinking by the two communities, the differencesbetween them should not be overlooked. When refer-ring to design thinking, it is important to specify thesense in which the term is used. In what follows, theviewpoint on design thinking concurs with the waydesigners understand and have understood this termbefore it became a method—and a buzzword—as thisis the sense in which cognition matters most.",e44
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,Jaqueline Hoscheid,e45
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,", Alexandre Reinas",e45
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,", Dio´ genes Aparı´cio Garcia Cortez",e45
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,", Willian Ferreira da Costa",e45
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,",Mara Lane Carvalho Cardoso",e45
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Morgana B. Dessuy,e46
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,", Maria Goreti R. Vale",e46
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,", Bernhard Welz",e46
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,", Aline R. Borges",e46
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,",Márcia M. Silva",e46
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,", Patrícia B. Martelli",e46
+1,272,10,0,0,0,0,0,0,0,0,0,0,AU,Laiana O.B. Silva,e47
+1,272,10,0,0,0,0,0,0,0,0,0,0,AU,", Danilo J. Leao",e47
+1,272,10,0,0,0,0,0,0,0,0,0,0,AU,", Debora C. dos Santos",e47
+1,272,10,0,0,0,0,0,0,0,0,0,0,AU,", Geraldo D. Matos",e47
+1,272,10,0,0,0,0,0,0,0,0,0,0,AU,",Jailson B. de Andrade",e47
+1,272,10,0,0,0,0,0,0,0,0,0,0,AU,", Sergio L.C. Ferreira",e47
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Silvane,e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Morés,e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,",",e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Gustavo,e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,C.,e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Monteiro,e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,",",e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Flaviane,e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,da,e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Silva,e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Santos,e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,",",e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Eduardo,e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Carasek,e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,",",e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Bernhard,e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Welz,e48
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Erika,e49
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,"Matoso,",e49
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Solange,e49
+1,264,10,0,0,0,0,0,0,0,0,0,0,AU,Cadore,e49
+1,271,10,0,0,0,0,0,0,0,0,0,0,AU,Jardes Figuerˆedo Rˆego,e50
+1,271,10,0,0,0,0,0,0,0,0,0,0,AU,", Alex Virgilio",e50
+1,271,10,0,0,0,0,0,0,0,0,0,0,AU,", Joaquim A. No´ brega",e50
+1,271,10,0,0,0,0,0,0,0,0,0,0,AU,", Jose´ A. Gomes Neto",e50
+1,240,12,0,0,0,0,0,0,0,0,0,0,AU,Jose Manuel Lopez-Guede,e1
+1,240,12,0,0,0,0,0,0,0,0,0,0,AU,"*, Ismael Soto",e1
+1,240,12,0,0,0,0,0,0,0,0,0,0,AU,", Aitor Moreno Fdez. de Leceta",e1
+1,240,12,0,0,0,0,0,0,0,0,0,0,AU,",",e1
+1,240,12,0,0,0,0,0,0,0,0,0,0,AU,Jesus Maria Larrañaga,e1
+1,249,11,0,0,0,0,0,0,0,0,0,0,AU,Patrick Müller*,e3
+1,242,11,0,0,0,0,0,0,0,0,0,0,AU,John Lindström,e4
+1,242,11,0,0,0,0,0,0,0,0,0,0,AU,"*, Hans Larsson",e4
+1,242,11,0,0,0,0,0,0,0,0,0,0,AU,", Martin Jonsson",e4
+1,242,11,0,0,0,0,0,0,0,0,0,0,AU,", Erik Lejon",e4
+1,382,11,0,0,0,0,0,0,0,0,1,1,AU,Dr. Abdelkader Sellami*,e5
+1,239,10,0,0,0,0,0,0,0,0,0,0,AU,Bartolomeu C. Viana,e6
+1,239,10,0,0,0,0,0,0,0,0,0,0,AU,", Odair P. Ferreira",e6
+1,239,10,0,0,0,0,0,0,0,0,0,0,AU,", Antonio G. Souza Filho",e6
+1,239,10,0,0,0,0,0,0,0,0,0,0,AU,", Angel A. Hidalgo",e6
+1,239,10,0,0,0,0,0,0,0,0,0,0,AU,",Josué Mendes Filho",e6
+1,239,10,0,0,0,0,0,0,0,0,0,0,AU,", Oswaldo L. Alves",e6
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,"Marcelo B. Lima, Inak",e7
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,~,e7
+1,254,10,0,0,0,0,0,0,0,0,0,0,AU,"a S. Barreto, Ste´ fani Iury E. Andrade, Luciano F. Almeida, Ma´ rio C.U. Arau´ jo",e7
+1,271,10,0,0,0,0,0,0,0,0,0,0,AU,"Claudineia R. Silva, Taciana F. Gomes, Valdemir A.F. Barros, Elias A.G. Zagatto",e8
+1,253,10,0,0,0,0,0,0,0,0,0,0,AU,"Andréia C. Pereira, Boaventura F. Reis, Fábio R.P. Rocha",e9
+1,228,10,0,0,0,0,0,0,0,0,0,0,AU,A. Aliboni,e10
+1,228,10,0,0,0,0,0,0,0,0,0,0,AU,", L. Lona",e10
+1,228,10,0,0,0,0,0,0,0,0,0,0,AU,", C. Felici",e10
+1,228,10,0,0,0,0,0,0,0,0,0,0,AU,", N. Corsaro",e10
+1,228,10,0,0,0,0,0,0,0,0,0,0,AU,", G. Izzo",e10
+1,228,10,0,0,0,0,0,0,0,0,0,0,AU,", E. De Luca",e10

@@ -1,0 +1,287 @@
+filename,top,Text
+i10,2445,ATA FLOW RRORS
+i12,4055,.
+i13,2426,Step 1
+i13,2655,Step 2
+i13,2708,Step 3 CUR-decomposition Algorithm
+i13,3018,C. CONSTRUCTION OF PRECODING MATRIX
+i13,3211,B. PERFORMANCE EVALUATION OF CUR-DECOMPOSITION
+i13,3444,Algorithm
+i13,4053,p K
+i13,4057,i K
+i13,4058,R K E
+i14,4787,Example 1:
+i15,5662,d lower bound
+i17,6352,User registration on the CCH
+i17,8159,q q W kW
+i19,3223,C. CLEAR CHANNEL ASSESSMENT (CCA)
+i19,5662,a) b)
+i19,7340,Step 3: Step 2
+i19,8161,B
+i2,3014,E. USE OF VIRTUAL IDs
+i2,3125,F. TIMESTAMP INSTEAD OF A NONCE
+i2,3211,G. PRIVATE KEY OF A USER
+i2,3448,H. BENEFITS TO THE BIDaaS PROVIDER
+i2,3508,I. BENEFITS TO THE PARTNER
+i2,3617,J. BENEFITS TO THE USER
+i21,4787,k K
+i21,5661,BW i i M
+i22,4782,y s C y s stmt in out invoke bra
+i22,6339,P M P
+i22,8006,M p P M P M p p
+i22,8056,2) The Commit-and-Sampling Based Solution: commit-and-sampling protocol
+i22,9596,"In the experiment, we used theDragon Stack, a cloud server hosted in Xidian University asthe public cloud. It was responsible for executing the Hadoopapplications (the PWL) and collecting the execution logs. Thecloud server was set up with two Intel Xeon E5 CPU (6 coreson each CPU), 128 GB of memory and 6 TB of hard diskstorage. We chose XenServer 6.2 as the cloud hypervisor.On this server, we deployed a Hadoop cluster consisting ofﬁve Linux virtual machines. Each virtual machine used Ubuntu14.04.1 and was conﬁgured with one core of CPU, 2 GB ofmemory and 128 GB of storage. We also set up a privatecloud to perform the execution audition. The private cloudserver was set up with two Intel Xeon E5 CPU (8 cores oneach CPU), 128 GB of memory and 3 TB of hard disk storage.We chose KVM 2.0.0 as the cloud hypervisor. On the privatecloud, we set up one Linux virtual machine, conﬁgured as8 cores of CPU, 8 GB of memory and 512 GB of storage. In this set of experiments, PPWC processes the same dataas Word Count application. However, data are processedin ciphertexts. Due to the repeated execution of encryptionfunction (such as AH_add in Listing 2), the execution time oforiginal PPWC is 2.54 times of Word Count. When the PWLof PPWC was executed on the public cloud, it incurred 34.34%of performance overhead compared to the original PPWC, andgenerates 46.3 GB of logs, in which 14 GB are the invocationlogs for the encryption functions."
+i23,4786,B. Distance Computation Using Finite State Automata
+i23,5546,"W D w L W A w k ,"
+i23,8003,ShortLex Short-Lex word hyperbolic
+i23,8078,"σ B Id, k σ V B Id, k k k δ δ > k D k D B Id, k σ n k k k D k D"
+i23,9182,F. Stretch
+i24,4055,h t t
+i24,4056,D t
+i24,4781,t T
+i24,4783,h
+i24,5665,c t t
+i24,5667,t t
+i24,7997,u t x t t t t u Theorem 4: n n U P q P P
+i24,8053,Corollary 2: V p q D V V t x t t t V s x s qV t x t s t t p D V V t x t t t V s x s qV t x t s t t p t t t V t x t V t x t t t q x
+i24,8159,b t
+i24,8265,P
+i24,9588,Consider Lyapunov functions = = | | .
+i25,3117,A. BILINEAR PAIRING
+i25,5666,g
+i26,2575,"voltage,  the  nominal  120  v  on  the  vt-sensing  circuitis  well  within  the  margins  for  controller  operation.  forthe  vvt  operating  at  0–100%  of  the  nominal  controlpower,  another  solution  was  needed.  in  the  prototypecontroller,  as  shown  in  figure  5,  the  panel  source  (f1)and  motor  source  (f2)  fuse  outputs  were  juxtaposed,enabling  easy  redirection  of  the  cPt  power.  carefulinventory control was needed to clearly identify the cus-tom controllers. though custom units would work on avoltage regulator, a regulator controller would not workon a vvt."
+i26,2718,"the first long heater demonstration was in houston,texas. i n a well called Horizontal 4 ( HZ4 ), a 518-m(1,700  ft)-long  pipe-in-pipe  heater  was  installed  hori-zontally  450  m  (1,500  ft)  below  the  surface,  as  shown in figure 6. with a resistance of approxima tely 2 Ω, the device  required  nearly 630 a to achieve 1,100 w/m(350 w/ft) on  the  heater.  including  overburden  loss-es, the 1,100-v power supply total load approached700  kw.  following  the  precedence  of  shorter  heatertests, an scr fed by an isolation transformer was chosenas  the  power  supply.  this  quickly  led  to  a  case  of  Mvsticker shock."
+i26,2808,Raise TapR
+i26,2815,Raise
+i26,2875,"in  addition  to  the  cost  increase  associated  with  Mvcomponents,  the  equipment’s  size  required  an  air-condi-tioned building rather than an enclosure. the addition ofa  custom  isolation  transformer  and  programmable  logiccontroller  (Plc)  increased  costs  to  nearly  us$250,000.while  the  controller  successfully  operated  hZ4  for  90days to prove the viability of a long horizontal heater, testsamplified  concerns  regarding  the  controller  cost  and  theobserved harmonics."
+i26,2983,"the  idea  for  a  modified  regulator  as  a  replacementcontroller  for  hZ4  was  revisited  and  given  approval  fortesting.  the  833-kva  unit  shown  in  figure  7  was  pro-duced at a cost of us$35,000. Because of an aggressiveschedule, there was no time to program a supervisoryPlc, and the test was run with a modified regulator con-troller alone."
+i26,3078,"once the target set point and heater parameters were setin  the  controller,  the  vvt  automatically  ramped  powerover  a  four-day  period.  even  though  the  unit  remainedenergized for weeks while the heater temperature contin-ued to increase and the test site’s nonoil-bearing shale for-mation slowly heated, the transformer oil temperature was the  voltage,  heater  temperature  in  degrees  fahrenheit,and power in watts per foot as recorded for correspondingtest start-up periods for the two power supplies.  the topcurves display the voltage, the middle ones show the tem-perature, and the bottom lines present the power for bothvvt and scr in the units of the actual tests."
+i26,3139,"control or, for long heaters, watt-per-length control. toprovide  a  true-start  and  walkaway  operation  of  long the  previous  heater  process  controller  capabilities  andoperating experience."
+i26,3199,a  controller  hardware  issue  was  the  control  powerfor the microprocessor and was supplied by the voltage-sensing  vt  rather  than  from  the  cPt  used  for  themotor  source.  for  regulators  operating  at  ±10%  of  the
+i26,3399,"the  difference  at  the  start-up  isthat  the  scr  voltage  is  taken  imme-diately  to  50%  to  limit  the  harmon-ics.  a  further  voltage  step  is  shownin  the  chart  a  few  hours  into  thescr-driven  test.  this  was  done  toaddress  flickering  lights  in  an  officebuilding  served  by  the  same  12.47k-vfeeder  as  the  scr  controller.  havingno  harmonics  issues,  the  vvt  startsat 0 v with the time in step increasingto  give  the  voltage  plot  an  exponen-tial  curve  to  provide  a  straight  lineincrease  of  the  power  steps.  thoughlower power is seen initially from thevvt,  the  higher  initial  temperatureis  shown  because  of  residual  heat ended three months earlier. the vvttest heater temperature remains high-er throughout the test with the curveshowing  slight  waves  with  each  tapchange.  Power  levels  for  both  controldevices  were  slightly  off  the  1,100-w/m  (350  w/ft)  targetwith  the  scr    operating  at  100%  output on a slightly lowisolation transformer tap, while the vvt had tap choicesof 1,033 w/m or 1,246 w/m (315 or 380 w/ft). (1,050  °f)  target.  unfortunately,  whenthe  heater  specialist  saw  the  resultsthe  next  day,  he  explained  that  the518-m  (1,700-ft)  heater  was  expand-ing  or  contracting  approximately  2  ftduring every tap cycle. to avoid heaterdamage,  an  immediate  stop  to  thetap cycling was ordered. considerablysmaller percentage steps were deemednecessary if the cycled taps were to beused for long heater control."
+i26,3542,"a  test  facility  located  approximately500  km  (300  mi)  north  of  edmon-ton, alberta, canada, had operated 18heater wells for more than three years with a subsurface conversion of kero- gen,  producing  thousands  of  barrelsof low-viscosity product. while a rela-tively low quantity, the facility productprovided a significant benefit by actingas  a  diluent  for  the  heavier  output  oflarger  nearby  installations.  two  heaters  previously  underscr control were transferred to vvts specifically designedfor  the  180-m  (600-ft)-long  horizontal  heaters  located450 m (1,500 ft) beneath the surface. Given a length nearlyone-third of hZ4, the new design output was 480 v. Basedon discoveries from the first vvt test, the desire for small-er tap steps was addressed in three ways."
+i26,3723,"once  at  the  target  temperature,  the  gap  control  wasprogramed  with  a  15-min  tap  change  delay.  the  currentovershot on the high tap and was below the setting on thelower  tap,  resulting  in  tap  cycling  to  provide  an  averagepower  of  1,100  w/m  (350  w/ft)  that  enabled  temperaturecontrol  within  a  narrow  window  centered  on  the  570-°c"
+i26,3759,"a  300-v  base  winding  was  added  to  the  secondarywinding  so  the  16  taps  could  now  buck  and  boost  like  astandard regulator to provide 32 taps, as shown in figure 9."
+i27,2147,4) ANALYSIS OF THE PAIRHAND PROTOCOL
+i27,2284,2) AUTHENTICATION SETS TO ANALYZE SECURITY ISSUES
+i27,3010,B. ONE-FACTOR PROTOCOLS 1) MULTI-LEVEL PASSWORD GENERATION
+i27,3012,8) ANALYSIS OF A ‘‘MORE EFFICIENT AND SECUREDYNAMIC ID-BASED REMOTE USERAUTHENTICATION SCHEME’’
+i28,1858,Controller i
+i28,1859,Governor i Turbine i Generator i
+i28,1886,∆ P
+i28,1889,∆ Freq
+i28,2327,"the  block  diagram  of  the  tie-line  interconnection , T which  is  also  included  in  table  1,  represents  the  tie-linesynchronizing torque coefficient between areas i and j ofthe islanded grid.  as indicated in this figure, the tie-linepower  error  is  the  integral  of  the  frequency  differencebetween  the  two  areas  of  the  grid.  therefore, P is calculated by"
+i28,2575,"T s turbance r .  for  the  controller  to  be  decentralized,  itsstructure should be diagonal as per the following:"
+i28,2580,P ( Freq Freq ).
+i28,2610,K 1 1 s 100 100 s
+i28,2611,augmenting  all  of  the  area  transfer  functions  in  (1)
+i28,2612,K s
+i28,2617,0 0
+i28,2623,results in an overall grid transfer function T s ( ) as
+i28,2631,K s
+i28,2637,0 K 0
+i28,2650,PrP K s
+i28,2656,ACEFreq 0 0 K
+i28,2662,"T s ( ) , TT"
+i28,2673,11 s 0 0 0
+i28,2676,K 0 K 0 K 0 K 0 0 0
+i28,2680,0 K K
+i28,2686,TT TT
+i28,2693,"( ) T s , E"
+i28,2700,0
+i28,2710,"KT s ( ),"
+i28,2731,"where, for the case of three areas ( i = 1, 2, 3),"
+i28,2753,]
+i28,2755,"ACE [ ACE ,"
+i28,2767,] ]
+i28,2768,"Freq [ Freq ,"
+i28,2779,"where  both  the  static  feedback  gain  matrix K and  thedynamic  matrixhave  block-diagonal  structures.therefore, the controller dynamic equation is representedbywhich generates the control command P asa function of ace as"
+i28,2782,", [ ] r"
+i28,2791,T s ( )
+i28,2795,"r [ ,"
+i28,2807,]
+i28,2809,"P [ P ,"
+i28,2815,"KT s ( ),"
+i28,2839,"T diag ) T (represents the diagonal trans-and fer  function  matrix  from  inputs], r P { , U } P as  indi-Freq ACE,{ cated in figure 3, for the case of three areas ( i = 1, 2, 3),the  interconnection  transfer  functionis  repre-sented by"
+i28,2851,U [ P KT s ACE( ) .
+i28,2861,]
+i28,2863,to  outputs Y Y }. [
+i28,2875,"In the rest of this article, for notational simplicity andto  transform  the  system  into  the  standard  state-space P model,  the  new  variables y are  defined.  the  notations r [in  (3)]  and u are  in  line r r r with the variables r and u in figure 2 (and] u ,Using thesenotations, the system in (3) and the dynamic controller in(5) are simplified and transformed to"
+i28,2887,( ) T s
+i28,2899,T s ACE( ) and u
+i28,2922,"[ r 1 2 3, )."
+i28,2927,"P , Freq T s ( ) TT s T s T s"
+i28,2933,u u u ]
+i28,2935,for the three areas i [
+i28,2939,TsTs s
+i28,2940,Ts sTs
+i28,2958,T T
+i28,2963,T s ( ) .
+i28,2977,T T
+i28,2982,"u , r"
+i28,2989,"y ( ) T s ( T s T s ( ), ( ))"
+i28,3004,u Ky
+i28,3005,.
+i28,3019,"the  lower  linear  fractional  transformation  of  thegrid  transfer  functionand  the  interconnection transfer function( )),(which  yields  the  following  input–output  dynamicequation:"
+i28,3031,T s ( ) the linear system transfer function in (6) can be trans-formed into the following equivalent state-space model byusing the command tf2ss in matlaB:
+i28,3043,"is represented by T s T s ( ), ( ) T s"
+i28,3075,x Ax Bu Er
+i28,3076,","
+i28,3090,"P r y Cx Fr ,"
+i28,3096,ACE
+i28,3097,"( T s T s ( ), ( )) ."
+i28,3103,"z Mx ,"
+i28,3127,"the transfer functionsection to design a decentralized pI controller. T s T s ( ), ( )) ( is used in the next where x , u , r , y , and z represent the state, input, distur-bance,  measurement  output,  and  performance  outputvectors, respectively. In this article, for the transfer func- however,  (8) 0 is kept in its general form with z )to develop an optimization algorithm for the more genericform of the problem in (8)."
+i28,3162,"In this section, a decentralized pI controller is formu-lated  for  the  dynamic  equation  in  (3).  the  decentral-ized  controller  takes  the  required  measurements  tocalculate  ace  and,  based  on  it,  generates  the  controlcommand P such  that  ace  will  converge  to  zeroand the control performance will be robust to the dis-"
+i28,3163,y ( M C and
+i28,3175,F
+i28,3211,"In the next section, the feedback gain matrix K in (7),for which the decentralized structure is indicated in (4), iscalculated and optimized for the state-space model in (8)"
+i28,3399,"such that the performance output z will converge to zero,whereas  the  control  performance  will  be  robust  to  thedisturbance r . will  minimize  output  energy,  input  energy,  and  distur-bance impact, and the last term will enforce the decentral-ized, respectively, structure of the feedback gain matrix K in (4) and (5)."
+i28,3446,"In this section, an optimization technique will be usedto design the feedback gain matrix K in (7) for the state-space model in (8). the feedback gain matrix K will beoptimized such that the performance output z will con-verge to zero, and the control performance will be robustto the disturbance r , while K will preserve its decentral-ized structure indicated in (4)."
+i28,3447,"for  the  optimization  problem  (12)  to  converge  to  alocally minimum point, the following five conditions needto be satisfied [14]: system  matrix A is  output  stabilizable,  which  meansthere exists a matrix K that makes A + BKC hurwitz."
+i28,3507,system matrix C has full rank. matrices Q and R in (12) are semipositive and positive
+i28,3530,"definite, respectively, i.e., Q 0 and, 0"
+i28,3531,"R is  detectable,  where Q is  the) Q M A ."
+i28,3543,the  pair  (
+i28,3553,Q Q Q
+i28,3555,"Using the feedback gain matrix K in (7) for thestate-space model in (8), the closed-loop system is trans -formed to square root of Q such that ."
+i28,3567,"the  positive  integer k is  chosen  such  that  the  pair C K RKC A )is  detectable,  where P is  as"
+i28,3579,", ( ! k P presented in (14). the  integral  term  in  the  minimization  problem  (12) can be replaced by an equivalent algebraic term subject toseveral algebraic riccati constraints as"
+i28,3602,x
+i28,3603,"E BKF r A x B r () , A BKC x ()"
+i28,3625,"y Cx Fr ,"
+i28,3638,z Mx .
+i28,3650,z Vz
+i28,3652,"J trace ( P X ) g k ,"
+i28,3662,"r and  denoting  the  steady-state  and  tran-sient  values  of  a  variable  by  “−”  and  “˜”,  respectively,  thesteady-state equations [associated with the closed-loop sys-tem in (9) and the feedback gain matrix in (7)] are given by"
+i28,3663,taking r
+i28,3674,A P P A M QM 0
+i28,3675,"Subject to f ,"
+i28,3689,A P
+i28,3690,"P A P 0 , f"
+i28,3716,A P
+i28,3717,"f P A P 0 ,"
+i28,3727,x 0 y Cx Fr z Mx u Kx
+i28,3728,", A B r CA B , MA B r , KA B r"
+i28,3729,A x B r x y z u
+i28,3730,(
+i28,3731,A P C K RKC
+i28,3732,"f P A k P ! 0 ,"
+i28,3742,",) F r"
+i28,3758,where X is defined by using x in (10) as
+i28,3781,.
+i28,3782,X xx
+i28,3783,A B r r B A
+i28,3795,and the associated transient equations are given by
+i28,3807,to minimize the cost function J in (13) with respect to
+i28,3816,". x A x y Cx z Mx u KCx ,"
+i28,3819,", , K , the lagrangian L is defined as"
+i28,3843,"Based on the steady-state and transient equations (10)and (11), the cost (objective) function of the optimal con-troller will be formulated and solved. z Vz"
+i28,3844,"L trace ( P X ) g k ,"
+i28,3854,"),"
+i28,3855,trace
+i28,3863,( f trace ( f )
+i28,3890,"Cost Function and Optimization Problem Formulation In this section, the following problem of minimizing thecost function J is considered and solved:"
+i28,3891,"wherestraints , ..., f , ..., are the lagrange multipliers for the con- in (14). f"
+i28,3915,taking the partial derivatives of L with respect to thelagrange  multipliers results  in  the  same  set  of equations as in (14). taking the partial derivative of L withrespect to K results in
+i28,3927,", ...,"
+i28,3947,t z Qz u Ru dt z Vz
+i28,3949,"J Minimize ,Subject  ot u Ky ( ) g k ,"
+i28,4682,V V m
+i28,4686,^ h
+i28,4687,c
+i28,4783,D D D
+i29,5662,C C V C V
+i29,8041,T
+i30,3005,B. CONTROL IMPLEMENTATION
+i30,3211,W s
+i32,2611,p
+i32,3448,A. EQUIVALENT TRANSFORMATION VIA THERB ASSIGNMENT MATRIX a a a f
+i32,3478,a
+i32,3579,x x y y x y
+i32,3601,e
+i32,3666,a f a e f e
+i32,3734,a a e e
+i32,3863,f e
+i32,3866,e e
+i32,3886,e f e
+i32,3888,e
+i32,5638,e y
+i32,6353,f
+i32,7230,f
+i32,7340,N J
+i33,2613,H
+i33,3200,C. PERFORMANCE METRICS
+i33,5518,P
+i35,5353,Proof: N N
+i35,5629,N
+i35,7178,P
+i35,7230,P
+i35,8041,L
+i35,8061,P P
+i35,8062,L
+i38,3020,4) INDIVIDUAL/INSTANCE CREATION
+i40,2296,T
+i40,2316,T T
+i40,2401,V
+i40,2644,C I
+i40,2659,I I I
+i40,2730,I I
+i40,2734,H
+i40,2736,H
+i40,2894,T
+i40,2970,T T
+i40,2987,T T T T T
+i40,3060,T T T
+i40,3114,h
+i40,3116,C T h C
+i40,3140,H
+i40,3197,T
+i40,3231,T
+i40,3243,T T
+i40,3600,T
+i40,3737,T T
+i40,3794,T
+i40,3849,T
+i40,5638,u RB Px KxPBR B P A P PA Q
+i40,5670,A A E E A A
+i40,5674,Q
+i41,1858,2) NODAL POWER BALANCE CONSTRAINTS
+i42,3448,A. CLINICIAN OBSERVATION
+i43,5517,r
+i43,8010,N P x G h h x
+i43,8047,d
+i43,8077,d N
+i45,4780,f x y z f x y z x y z
+i46,5351,T ID T T T SK
+i46,5661,m H T
+i46,6342,Theorem 2:
+i47,4053,i
+i48,7232,RuleConditionsList reverse RuleConditionsList
+i49,3223,A. CONSTRUCTION OF PRODUCT RETRIEVAL TREE
+i50,7181,","
+i8,4671,1) Manual Control:
+i8,4779,2) Cruise Control:
+i8,4796,1) System Components:
+i8,5351,2) Low-Level Controllers for ADASs:
+i8,5353,5) HMI Component Models:
+i8,5518,3) Component Observers:
+i8,5545,6) CC Formal Requirements:
+i8,5629,7) Enabling CC:
+i8,5665,8) Activating and Deactivating CC:
+i8,5805,4) Controller Observers:
+i8,6158,9) Setting the Set-Point Velocity:
+i8,6342,10) Decreasing the Set-Point Velocity:
+i8,6354,11) Erasing the Set-Point Velocity:
+i8,6481,12) Activating and Deactivating ACC:
+i9,6097,1) Purpose:
+i9,6181,2) Method: 3) Results:
+i9,7178,2) Method:
+i9,7227,4) Discussion:
+i9,7346,3) Results:
+i9,7444,1) Purpose:
+i9,7997,4) Discussion:
+i9,8044,3) Results:
+i9,8159,1) Purpose:
+i9,8266,2) Method:
+i9,9185,4) Discussion:

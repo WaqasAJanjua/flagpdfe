@@ -1,0 +1,300 @@
+filename,top,Text
+a1,7210,3.4.1. Experiment1.
+a1,7942,3.4.2. Experiment Replication (Experiment 2).
+a1,8638,3.5.1. Task1–DeriveUseCaseSpeciﬁcations.
+a1,11606,3.6.1. Error Rate.
+a1,13130,"3.6.2. Understandability, Applicability and Restrictiveness."
+a1,13246,3.6.3. Quality of Analysis Class Diagram (CD).
+a1,14066,3.6.4. Quality of Analysis Sequence Diagram (SD).
+a1,15689,3.6.5. CorrectnessofResponsestotheComprehensionQuestionnaires(QC).
+a1,17253,4.1.1. ErrorRate.
+a1,17500,4.1.2. Understandability.
+a1,18276,4.1.3. Applicability.
+a1,18817,4.1.4. Restrictiveness.
+a1,19080,4.2.1. QualityofAnalysisClassDiagram(CD).
+a1,21266,4.2.2. Quality of Analysis Sequence Diagram (SD).
+a1,21754,4.2.3. Correctness of Responses to the Comprehension Questionnaire.
+a12,2692,2.1.2. Earcons.
+a12,13098,4.2.2. The Spiral Discovery Method.
+a13,5804,u i j f f z u i j z u i j q u i j i q u i j c
+a13,7233,e a i j
+a13,8004,e h u e h e d e
+a13,8074,e h u e h e d e
+a13,8075,d u
+a13,8076,d
+a13,8928,l q i c
+a13,14948,O n m d d n m O n m
+a14,964,N R DEVANUR ET AL
+a14,2677,p
+a14,2724,p
+a14,8060,S A x m S m S x s A B t
+a14,8268,m S m S
+a14,11600,EMMA
+a14,13059,EMMA
+a14,13105,ROOF
+a14,13258,EMMA
+a14,13293,ROOF
+a14,14071,ACKNOWLEDGMENTS
+a14,14122,REFERENCES
+a14,14139,"A , K., D , G. 1954. Existence of an equilibrium for a competitive economy."
+a14,14148,", 265–290."
+a14,14158,"B , W. C., S , H. E. 2000. How to compute equilibrium prices in 1891."
+a14,14168,1270
+a14,14178,"C , D., D , N., V , V. 2006. New results on rationality and strongly polynomial solvability in Eisenberg-Gale markets. In ."
+a15,4781,"If the input implicit graph is ﬁnite, the algorithm of Table I terminates"
+a15,6158,p q q
+a15,6182,p q
+a15,7228,Example . p p q q q q
+a15,8038,SG SG SG SG n n t n s t t t s t S S p q S p q
+a15,8267,SG G p q SG SG
+a15,13115,3.4.2. HeuristicBasedonCommunicationActions: (cid:2) h .
+a19,8060,multilevel
+a2,9593,"4.7.1 Invariant Restoration. In some cases, state correctness can be expressed as an invariant.Consequently, repair means restoring the invariant, if possible, with a minimum of changes fromthe current erroneous state."
+a20,3017,// ..
+a20,12964,java.lang.Class
+a20,13089,evalSymbolic evalSymbolic evalSymbolic Subtype Ite
+a20,13299,@interface A { .. } (p A) { .. } (p.getClass().isAnnotationPresent(A. )) { .. }
+a20,14033,Obj ← Pop();Push(Classref(Dyntype(Obj));
+a20,14067,"Param ← Type(Pop());Receiver ← Type(Pop());Push(Ite(Subtype(Param,Receiver), Bv32(1), Bv32(0)));"
+a20,14088,// literal ints
+a20,14110,"Param ← Type(Pop());Receiver ← Type(Pop());Push(Ite(Annotated(Receiver,Param), Bv32(1), Bv32(0)))"
+a20,14144,// .. other methods
+a20,14166,// .. other bytecode instructions
+a20,15608,"dispatchNodeData(child, ch, depth+1);"
+a20,15616,} ; ∗ ∗ Node.ATTRIBUTE NODE :
+a20,15658,String str = node.getNodeValue(); (ch CharacterNodeHandler)
+a20,15678,((CharacterNodeHandler)ch).characters(node);
+a20,15698,"ch.characters(str.toCharArray(), 0, str.length());"
+a20,15708,;
+a20,15718,:
+a20,15728,;
+a20,15736,}
+a20,15746,}
+a20,17294,(i J)
+a20,18899,"@A MockClass I, J {"
+a20,18966,MockClass() {} m1() { 0; } m2() { 10; }
+a20,19006,}
+a21,7996,n S S n n k T n T T n N n S S n N S S S S n S S n n n n
+a21,17141,# generated inputs (%): 110 (64%) 98 (100%) 208 (81%)
+a21,17191,# generated inputs (%): 27 (5%) 198 (100%) 225 (89%)
+a22,7235,"Furthermore, it can be decided in quadratic time in the size of q which of these threecases applies."
+a22,7446,q R x y R x y f q f q conjunctive query free variables f f q
+a22,8050,q
+a22,8066,f q
+a22,8163,Example . e c
+a22,8263,n d n c d n c d c
+a22,8919,G
+a22,15005,q R x y S y z x q q q q
+a22,15569,c c H F G H F G a c F G
+a22,15590,H
+a22,15593,H
+a24,5629,"IP Is Simpler, CT More Abstract"
+a24,5662,IP Is Easier to Support
+a24,6159,from other strings from scratch r.e.
+a26,14929,t r i r t d t t d d d i i T T t k t T k t T r t T r t r t t T t r t d d
+a27,2445,Table I. Summary of the ProbTree Structures
+a27,8925,serial S-bags
+a27,8936,parallel
+a27,15563,p p p p p p p p
+a29,5668,precopy
+a29,6181,"managed migration, self-migration"
+a29,9593,"A measure of performance was reported with ISR-1. In tests, it was considered thatbefore each resume operation on a client a reboot should be executed to ensure a coldNFS cache. Two types of suspend events were considered: warm suspend, which occursin a VM shortly after a resume event, and cold suspend, which occurs long after aresume event. A cold resume takes 125 seconds, a warm suspend 114 seconds, anda cold suspend 146 seconds. These results are tolerable for some users but generallymuch longer than suspend resume in a laptop."
+a29,19133,7.3.1. ImportantConcepts.
+a29,19162,7.3.2. Remus.
+a30,964,A MEHTA ET AL
+a30,2877,y y y y y
+a30,4056,c b i
+a30,4778,i c i i c i i
+a30,6341,x
+a30,8049,L L
+a30,8076,k slabs k i i j j k j k j j k j i N k i k N k k
+a30,8641,ALG OPT
+a30,11626,HEOREM
+a30,11658,ROOF
+a30,15566,Proceedings of the Symposium on Theory of Computing.
+a30,15576,Develop-
+a30,15586,ments from a June 1996 Seminar on Online Algorithms
+a30,15606,"matching. , 1–2, 319–325."
+a30,15616,"K , R., V , U., V , V. 1990. An optimal algorithm for online bipartite matching."
+a30,15626,In .
+a30,15636,"L , S., P , D., S , A., V , R. 2007. . In N. Nisan, T. Rough-garden, E. Tardos, V.V. Vazirani, Eds, , Cambridge University Press, Cam-bridge, UK."
+a30,15666,"L , B., L , D., N , N. 2001. Combinatorial auctions with decreasing marginal"
+a30,15676,"utilities. In . ACM, New York."
+a30,15686,"M , M., M , E., S , A., V , V. 2001. A greedy facility location algorithmanalyzed using dual ﬁtting. In , Lecture Notes in Computer Science, vol. 2129.Springer, New York."
+a30,15716,"M , M., N , H., S , A. 2007. Allocating online advertisement space withunreliable estimates. In . ACM, New York, 288–294."
+a30,15745,"M E , R., R , E., R , H., W , L. 1977. New upper bounds on the rate of acode via the Delsarte – MacWilliams inequalities. , , 2 (Mar.) 157–166.M , A., S , A., V , U. V., V , V. V. 2005. Adwords and generalized on-linematching. In . IEEEComputer Society Press, Los Alamitos. CA."
+a30,15795,"V , H. R. 2006. Position auctions. , To appear.V , V. V. 2006. Spending constraint utilities, with applications to the AdWords market."
+a32,958,R A MOSER AND G TARDOS
+a32,2284,∃ A ∈ A : A is violated when ( = : ∀ P ∈ P )
+a32,3010,P ∈ P
+a32,3020,v ← a random evaluation of P ;
+a32,3040,← a maximal independent set in the subgraph of induced by all events which are
+a32,4683,ROOF
+a32,5545,N
+a32,7229,Q k C
+a32,7342,x A x A x A x A
+a32,9587,"then we can break up all the events ∈ A into elementary events and ﬁnd a corresponding assignment to the elementary events satisfying the same condition.Even in cases where a suitable assignment is not possible for the set A , breakingup the events may cause many of the dependencies among the elementary eventsto disappear when considering lopsidependence, and Theorem 6.1 may becomeapplicable."
+a32,11591,REFERENCES
+a32,11607,"A , N. 1991. A parallel algorithmic version of the local lemma. , 4, 367–378.B , J. 1991. An algorithmic approach to the Lov´asz local lemma. , 4, 343–365.B , P., K , M., S , A. D. 2003. Approximation hardness and satisﬁability of"
+a32,11637,"bounded occurrence instances of SAT. , 022."
+a32,11647,"C , K., G , N., H , B. To appear in 2010. Deterministic algorithms for the Lov´asz local lemma. In . ACM, New York."
+a34,8035,T X P T H P H r ya
+a34,11593,← genFormula ( ) ← SMT ( ) (cid:9)= ∅
+a34,11623,← + { s }
+a34,14151,"mult,add,xor,mod"
+a34,17445,"mult, div, mod, sqrt, gcd"
+a34,19031,cohendiv
+a34,19074,sqrt1 egcd freire2
+a35,8043,V V V
+a35,8048,V
+a36,964,R OSTROVSKY AND Y RABANI
+a36,4054,x i g i y f i h i g i i b h i f i b x y
+a36,6339,x
+a36,6342,x
+a36,8039,s
+a36,8044,s z z s
+a36,8075,s s
+a36,8158,i j
+a36,11661,The comparison of ( ) and ( ) is done using the same outcome of the algorithm’s coin tosses inboth cases.
+a36,12841,"B , A., G , S., M , M., Z , G. 1997. Syntactic clustering of the Web. In"
+a36,12851,", 391–404."
+a36,12861,"C , G., M , S. 2002. The string edit distance matching problem with moves.In IEEE Computer Society Press,Los Alamitos, CA. 667–676."
+a36,12891,"C , G., P , M., S , C. S., V , U. 2000. Communication complexityof document exchange. In IEEEComputer Society Press, Los Alamitos, CA."
+a36,12921,"I , P. 2004. Approximate nearest neighbor under edit distance via product metrics. In IEEE Computer Society Press, Los Alamitos,CA. 646–650."
+a36,12950,"I , P., M , R. 1998. Approximate nearest neighbors: Towards removing the curse of dimensionality. In . ACM, New York. 604–613.K , S., N , A. 2005. Nonembeddability theorems via Fourier analysis. In IEEE Computer Society Press, Los Alamitos, CA."
+a36,12990,"K , R., R , Y. 2006. Improved lower bounds for embeddings into . In"
+a36,13000,", ACM, New York."
+a36,13010,"K , E., O , R., R , Y. 2000. Efﬁcient search for approximate nearest neigh-bor in high dimensional spaces. , 2, 457–474. (Preliminary version appeared in . ACM, New York.)"
+a36,13040,"L , V. I. 1965. Binary codes capable of correcting deletions, insertions, and reversals. , 4, 845–848 (Russian). (English translation in , 8,707–710, 1996.)"
+a36,13070,"M , W. J., P , M. S. 1980. A faster algorithm for computing string edit distnace."
+a36,13080,", 1, 18–31."
+a36,13090,"M , S., S , S. C. 2000. Approximate nearest neighbors and sequence com-parison with block operations. In ACM, NewYork., 416–424."
+a36,13132,2005; 2007; 2007
+a37,8262,d T d
+a38,8005,CC x y x y x s m
+a38,8077,q b NCC q u NCC q c NCC
+a38,14053,is an -by-1 vector with the assignment of time series to clusters
+a38,14063,(initialized randomly). is a · -by- matrix containing · centroids of length (initialized as vectorswith all zeros).
+a38,14091,"← 0 , ← − ( , ) ← 1"
+a38,14101,←
+a38,14114,// Algorithm 4
+a38,14132,w ← 1
+a38,14142,( w + ( − 1) · ) ← ( )
+a38,14160,< 100 ! =
+a38,14169,←
+a38,14172,// Refinement step ← 1 ← ← 1
+a38,14220,( ) = ← [ ; ( )]
+a38,14248,"← ( , ( · )) , ) w ← 1"
+a38,14250,// Algorithm 3
+a38,14891,Lea eOneOut TRUE
+a38,14901,i j
+a38,14911,dist SBD Training j Test i
+a38,14936,dist SBD Training j Test i
+a38,14950,dist best dist
+a38,14960,class TrainingLabels j best dist dist
+a38,14987,TestLabels i class Accuracy Accuracy
+a38,15015,Accuracy Accuracy n
+a38,15570,Training k m k m
+a38,15580,Test n m n m TrainingLabels k k Training TestLabels n n Test InstancesLabels Training
+a40,7235,Cathedral Bazaar
+a40,13202,5.1.1. SeedProducttoAttractaCommunity.
+a40,17299,5.2.3. StandardizationofToolsforFacilitatingCollaboration.
+a40,19217,5.3.3. ManagementSupportandMotivationtoInvolvePeople.
+a40,21458,6.1.3. OrganizationandCommunity.
+a41,8269,t D
+a42,963,G TARDOS
+a42,4054,X p t t i m t c p r r t t t t t
+a42,5669,some m n
+a42,7446,u e u u t t t u u
+a42,7999,n c C C n n c C X F X p p p p p U q X U q q X y X S
+a42,8059,y U j C x q n x q
+a42,8162,P C X P S n Z
+a42,13028,EMMA
+a42,13181,ROOF
+a42,15564,H f Q f R H Q R
+a42,15583,Q R P Q q
+a42,15749,ROOF OF HEOREM
+a42,18974,ACKNOWLEDGMENT
+a42,19015,REFERENCES
+a42,19031,"A , N. P., B , A., D , I. 2008. On the ﬁngerprinting capacity under the"
+a42,19041,marking assumption. (Feb.).
+a42,19051,"B , G. R., M , C., P , G. B. 1985. Fingerprinting long forgiving messages. In"
+a42,19061,". Springer-Verlag Berlin, Heidelberg, Germany, 180–189."
+a42,19071,"B , D., F , M. 1999. An efﬁcient public key traitor tracing scheme. In"
+a42,19081,". Springer-Verlag, Berlin, Heidelberg, Germany, 338–353."
+a42,19091,"B , D., S , J. 1998. Collusion-secure ﬁngerprinting for digital data."
+a42,19101,", 480–491."
+a42,19111,"C , B., F , A., N , M. 1994. Tracing traitors. In . Lecture Notes"
+a42,19121,"in Computer Science, vol. 839. Springer-Verlag, Berlin, Heidelberg, Germany, 257–270."
+a42,19131,"C , F., G , R., L , T. 2001. Guessing secrets. .F , A., T , T. 2001. Dynamic traitor tracing. , 3, 211–223.G , J., Pﬁ , B. 2000. Error- and collusion-secure ﬁngerprinting for digital data. In . Springer-Verlag, Berlin, 134–145. LNCS1768."
+a42,19180,"K , J., L , T., M , L., S , T., T , R., Z , F. 1998. Resistanceof digital watermarks to collusive attacks. In . IEEE Computer Society Press, Los Alamitos, CA, 71."
+a42,19210,"K , K., D , Y. 1998. Optimum traitor tracing and asymmetric schemes. In . Lecture Notes in Computer Science, vol. 1403. Springer, Berlin,Germany, 145–157."
+a42,19240,"L , T. 1999. Fingerprinting digital documents. Ph.D. dissertation. Link¨oping Studies in Science"
+a42,19250,and Technology. Thesis No. 798.
+a44,964,LESLIE G VALIANT
+a44,5669,s r t r t N M
+a44,7346,"If C is evolvable by R over D, then it is efﬁciently learnable"
+a44,8004,variable population evolution. s
+a44,8075,evolvability with optimization r t Neigh r t t i r r i t r R M t r R r r R r i t r r r redundant r
+a44,17121,", 803–808."
+a44,17131,"M #NAME? , J. 1982. . Cambridge Univ. Press, Cambridge,"
+a44,17141,UK.
+a44,17151,"P , C. H. 1994. . Addison-Wesley, Reading, MA.P , L., V , L. G. 1988. Computational limitations on learning from examples. ,"
+a44,17171,"4, 965–984."
+a44,17181,"R , D. A. 1997. . Chapman & Hall, New York.R , J. P. 1993. Learning Boolean functions with genetic algorithms: A PAC analysis. In"
+a44,17200,", L. D. Whitley, Ed., Morgan-Kaufmann, San Mateo, CA, 257–275."
+a44,17210,"V , L. G. 1984. A theory of the learnable. , , 11, 1134–1142.V , L. G. 2000. Robust logics. , 231–253.V , L. G. 2006. Knowledge infusion. In"
+a44,17240,. 1546–1551.
+a44,17250,"W , G. P., A , L. 1996. Complex adaptations and the evolution of evolvability."
+a44,17260,", 3, 967–976."
+a44,17270,"W , I. 2001. Theoretical aspects of evolutionary algorithms. In . Lecture Notes in Computer Science,vol. 2076, Springer-Verlag, Berlin, Germany, 64–78."
+a44,17300,"W , S. 1968–1978. . University of Chicago"
+a44,17310,"Press, Chicago, IL."
+a45,963,SANTOSH S VEMPALA
+a45,6356,P P P B l
+a45,7445,n l
+a45,8035,n l V P
+a45,8043,x
+a45,8070,n l C
+a45,9587,( − ) (cid:2)
+a45,9589,32
+a45,9595,= 4 ln(2 /δ )
+a46,8055,i j
+a47,2611,Assumption I. Non-negative Noise in Diagnosis-Frequency Vector Data –
+a47,2775,Assumption II. Variance of Parameter (Covariance Matrix) Estimation forLDA-Based Early Detection of Diseases –
+a47,8005,Increasing prevalence of mental health disorders—
+a47,8159,Limitations of existing approaches for assessment and early detection of mentalhealth disorders—
+a48,965,SERGEY YEKHANIN
+a48,5349,w T w w v p
+a48,6352,i n u v N p R s S p N
+a48,7238,u v
+a48,7995,x x
+a48,7998,Let p be a Mersenne prime. The set S
+a48,8046,x x x g g g S S S S L x x p T L S x GC D x x x g x x x L x x x L p S x L x x
+a48,11594,HEOREM
+a48,11637,HEOREM
+a48,12851,"K , J., T , L. 2000. On the efﬁciency of local decoding procedures for error-correctingcodes. In . ACM, New York,pp. 80–86."
+a48,12881,"K , I., W , R. 2003. Exponential lower bound for 2-query locally decodable codesvia a quantum argument. , 3, 395–420. (Earlier version in STOC’03. quant-ph/0208062.)"
+a48,12911,"L , J ., H. W. 1980. Primarlity testing. In (Sept. 1–5)."
+a48,12921,"Stichting Math., Centrum, Amsterdam, The Netherlands."
+a48,12931,"L , R., N , H. 1983. . Cambridge University Press, Cambridge, MA.M , E. 1998. Private access to distributed information. Master’s thesis, Technion - Israel Institute of"
+a48,12950,"Technology, Haifa, Israel."
+a48,12960,"O , K. 2002. Optimal lower bounds for 2-query locally decodable linear codes. In : Lecture Notes in Computer Science, vol.2483. Springer-Verlag, New York, pp. 39–50."
+a48,12990,"P , A., S , D. 1994. Nearly-linear size holographic proofs. In"
+a48,13000,". ACM, New York, pp. 194–203."
+a48,13010,"P , C. 1980/81. Recent developments in primality testing. , 3, 97–105.R , A., Y , S. 2006. An (cid:4) ( ) lower bound for bilinear group based privateinformation retrieval. In IEEE Computer Society Press, Los Alamitos, CA, 739–748."
+a48,13050,"S , M. 1992. Efﬁcient checking of polynomials and proofs and the hardness of approximation"
+a48,13060,"problems. Ph.D. dissertation, University of California at Berkeley, Berkeley, CA."
+a48,13070,"T , L. 2004. Some applications of coding theory in computational complexity."
+a48,13080,", 347–424."
+a48,13090,"W , S., W , R. 1997. Improved lower bounds for locally decodable codes and privateinformation retrieval. In . Lecture Notes in Computer Science, vol. 3580, Springer-Verlag, New York,pp. 1424–1436."
+a48,13130,"W , S. 1983. Divisors of Mersenne numbers. , 161, 385–397.W , D. 2007. New lower bounds for general locally decodable codes. In"
+a48,13150,Tech. rep. TR07-006.
+a48,13160,"W , D., Y , S. 2007. A geometric approach to information theoretic private infor-"
+a48,13170,"mation retrieval. , 4, 1046–1056."
+a48,13180,"Y , S. 2006. New locally decodable codes and private infromation retrieval schemes. In"
+a48,13190,Tech. rep. TR06-127.
+a48,13211,2007; 2007; 2007
+a49,4786,C
+a9,1863,1.1.1. PriorWork.
+a9,2692,1.1.2. Subsequent Work.

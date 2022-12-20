@@ -1,0 +1,350 @@
+filename,top,Text
+a1,1073,1. INTRODUCTION
+a1,2124,2. USE CASE MODELING APPROACH (RUCM)
+a1,5425,3. EXPERIMENT PLANNING
+a1,15803,4. EXPERIMENT RESULTS AND ANALYSIS
+a1,23914,5. DISCUSSION
+a1,25745,6. RELATED WORK
+a1,29209,7. CONCLUSION
+a10,486,1 INTRODUCTION
+a10,8811,4 CHASING GENERATIVE PROGRAMS
+a10,15580,6 PPDL EXAMPLES
+a10,24250,8 CONCLUDING REMARKS
+a11,3256,) = N ( T ) or N ( T )) = N ( T ) and N ( T
+a11,11418,"Theorem 4.2 (Soundness). MemberStab( w , T ) yields TRUE iff w ∈ (cid:2) T (cid:3) ."
+a11,12832,w ∈ (cid:2) T % T % . . . % T (cid:3) ⇐⇒ ∃ π ∈ S . w ∈ (cid:2) T · T · . . . · T (cid:3) .
+a11,15250,"Case T = a [ m .. n ]. The case is easy as w (cid:4) ϵ and w | = SIf ( T ) with ¬ N ( T ) . So, we have that w is not emptyand only contains the a symbol. By w | = ZeroMinMax ( T ) , we directly have that w ∈ (cid:2) a [ m .. n ] (cid:3) ."
+a12,1445,2. BASIC AND COMPOUND AUDITORY REPRESENTATIONS
+a12,1884,"Both music-based and environmental sounds can be entertaining and can includedramatized and emotional content. However, in their simplest forms, neither of thesesound types are well-suited to convey much information at the same time. Further, inthe case of musical sounds, the listener has to learn the abstract mappings betweensound and information; however, in the case of environmental sounds, the existence of apriori connotations often restricts the designer’s ability to create free associations. Mu-sical effects, short musical events, environmental sound events, or simple instrumentscan be used for iconic representations, but only with limitation."
+a12,2024,2.1. Classical Auditory Representations
+a13,994,"As one of the most important digital footprints, user-uploaded geotagged photosrecord people’s actual presences and their activities at speciﬁc locations in the phys-ical world [Jiang et al. 2015]. With this insight, recent research efforts [Shen et al. 2014, 2016] have been dedicated to providing online travel guidance services such aspersonalized Point-of-Interest (POI) recommendation based upon the geotagged pho-tos. In real life, users are often overwhelmed by the countless POIs when arriving ina new city. To minimize the matching gap, personalized POI recommendation workstoward routing the most appropriate POIs to the right persons by taking their personalpreferences encoded in their historical photos into account."
+a13,2445,"(1) We harvest a set of rich cues including photo uploading records, user favoringbehaviors, as well as preference degrees to enhance the personalized POI rec-ommendation performance. The unique nature of the cues allows us to gain acomprehensive understanding of user preferences on various POIs. To the best ofour knowledge, we are the ﬁrst authors to provide a set of such cues."
+a13,2856,2.2. Check-In-based Recommendation
+a13,3607,3. POI DISCOVERY
+a13,4293,U V u v
+a13,8227,VL V
+a13,8230,v v
+a13,8250,H W D
+a13,8264,D
+a13,8266,L I D
+a13,13564,VAR-F:
+a13,13608,VAR-U:
+a13,13640,VAR-P:
+a13,13662,VAR-SG:
+a14,5537,p p
+a14,8571,p
+a14,8628,p
+a14,8729,L 6.4.
+a14,8763,p
+a14,8776,p
+a14,8853,p p
+a14,10255,p p
+a14,10366,p p p p
+a14,10399,p
+a14,10408,p
+a14,10420,p p p p p p p
+a14,10481,p p p p p p p
+a14,10557,p p p p p p p p
+a14,10814,p
+a14,10826,p
+a14,13622,p p
+a14,13650,p
+a14,13652,p p p
+a14,13679,p
+a14,13703,p
+a14,13705,p
+a15,7423,"P . We prove point (i) only, since point (ii) can be proved similarly.Let us prove the ⇐ direction ﬁrst. Take a solution of ( , , −→ ) and consider"
+a15,8894,Sum Par
+a15,8948,−→ .
+a15,10292,R1.
+a15,10315,R2.
+a15,10338,R3.
+a15,10354,R4.
+a15,10377,R5.
+a15,10400,R6.
+a15,11134,R1.
+a15,11157,R2.
+a15,11180,R3.
+a15,11196,R4.
+a15,11219,R5.
+a15,11256,R6.
+a16,1347,2. MATERIAL AND METHODS
+a16,5590,"Among the studies that have been done on SLAM within the cloud-based system, it isclearly mentioned that cloud service providers continuously need to adapt the networksituation and changing demands of customers to avoid violations during service deliv-ery that may affect the agreed SLA. Table II provides some salient points with regardto cloud SLAM to maintain service delivery. Reconﬁguring the resources to supportservice continuity is what was suggested by most reference works. However, consider-ing that available resources are limited, SLA renegotiation is advised as well. Servicesthat are maintained and evolve regularly can lead to fewer service level violations.Such violations may reduce trust with regard to the cloud provider."
+a17,1850,T T m1 lock l; write x;unlock l;
+a17,1852,m2 read x;
+a17,3548,e :e :e :e :e :e : write x;fork T write x;fork T ;write x;fork T ; e :e :e :e :e :e :e :e :e :e :e :e :
+a17,3549,start T lock l;enter m;read x;exit m;unlock l;enter m;read x;exit m;enter m;read x;exit m; e :e :e :e :e :e :e :e :e :e :e :e : e :e :e :e :e :e :e :e :e :e :e :e : start T lock l;enter m;read x;exit m;unlock l;enter m;read x;exit m;enter m;read x;exit m;
+a17,3550,start T lock l;enter m;read x;exit m;unlock l;enter m;read x;exit m;enter m;read x;exit m;
+a17,12828,"The goal of our ﬁrst research question is to investigate how much redundancy exists inthe execution traces of real concurrent programs. To generate the data necessary forinvestigating this question, we proceed as follows. For each benchmark, we ﬁrst run itmultiple times with different inputs and the number of threads, and used PECAN tocollect the corresponding trace of each run. For each trace, we then apply our techniqueto produce a ﬁltered trace with the redundancy removed. As our technique deals withtwo dimensions of redundancy (the local redundancy and the global redundancy), wemeasured the percentage of redundant events with respect to the local and globalredundancy, respectively."
+a17,15824,8. CONCLUSION
+a18,2311,Cloud control-stack.
+a18,8625,Dedicated VMs.
+a18,8872,Corporate segregation.
+a18,9073,Cryptography while in transit.
+a18,9868,User creation and access control.
+a18,10701,3.3. Contractual Security
+a18,10775,Location constraints.
+a18,11112,SLAs.
+a18,11195,Billing integrity.
+a19,400,Categories and Subject Descriptors: A.1 [ ]: Introductory and Survey; D.2.13 [ ]: Domain engineering; D.2.13 [ ]: Reuse models
+a19,462,ACM Reference Format:
+a19,513,1. INTRODUCTION
+a19,5589,"The ﬁve queries were executed on DBLP database on 13 December 2010, using developed by Bast [2010]. We developed shell scripts to automaticallyextract papers and merge the results of the various queries. The aggregate result ofﬁve queries is a total of 144 papers."
+a19,10757,5.2. Techniques for Composing Concerns
+a2,2607,3 BEHAVIORAL REPAIR
+a2,7422,4 STATE REPAIR
+a2,8634,4.3 Alternatives
+a2,12133,7 CONCLUSION
+a20,472,"Unit testing is an important technique for ﬁnding software bugs [Mockus et al. 2002;Do et al. 2005; Venolia et al. 2005; Williams et al. 2009, 2011; Zaidman et al. 2011;M ¨antyl ¨a et al. 2012]. For example, according to a survey among software developersat Microsoft in 2005, the fraction of software developers who use unit tests was 79%.When a project uses unit tests, it often uses a lot of them. For example, it is reportedthat in many projects within Microsoft the production code is smaller than its unittests [Tillmann and Schulte 2006b]."
+a20,1314,1.1. Limitation of Current Dynamic Test Case Generators
+a20,2987,if
+a20,3087,instanceof
+a20,3589,1.3. Research Questions and Contributions
+a20,5308,void int int if int if
+a20,7316,instanceof
+a20,8229,instanceof
+a20,11296,FUNCTION
+a20,13661,FUNCTION
+a20,15658,if instanceof
+a20,15688,else
+a20,15708,break
+a20,15718,default
+a20,15728,break
+a20,23749,public static void byte int int
+a20,23759,throws
+a20,23779,if instanceof
+a20,23860,public static boolean
+a20,23872,if class
+a20,23892,class short
+a20,23920,if
+a20,25604,6.1. Mock Classes Inferred from Programmer-Written Speciﬁcations
+a20,29050,7. CONCLUSIONS
+a20,29155,REFERENCES
+a21,463,Software Engineering Software Engineering
+a21,1416,"A key feature of H is bounding of regular and context-free languages. Boundingmakes H different from custom string-constraint solvers commonly used in testingand analysis tools [Emmi et al. 2007]. As we demonstrate in our experiments, formany practical applications, bounding the input languages is not a handicap. In fact,it allows for a more expressive input language that enables operations on context-freelanguages that would be undecidable without bounding. Furthermore, bounding makesthe satisﬁability problem solved by H more tractable. This difference is analogousto that between model-checking and bounded model-checking [Biere et al. 2003]."
+a21,10497,c1
+a21,10539,c2
+a21,10562,c1 c2 c1 c1
+a21,10631,c1
+a21,10778,c1
+a21,11113,c2
+a22,2477,P NP coNP
+a22,2949,coNP
+a22,3334,FO db db db FO P FO
+a22,4308,db
+a22,4787,(cid:2) (cid:3)
+a22,5659,r r
+a22,5870,satisﬁes q.
+a22,5885,Let q be a Boolean conjunctive query and let X q . Let be an #NAME?
+a22,8211,db db
+a22,9693,FO
+a22,9765,FO
+a22,9807,L
+a22,9839,L FO
+a22,10494,db db
+a22,10505,db db db db FO
+a22,10562,db
+a22,10584,db db db
+a22,10599,db db
+a22,10619,db db
+a22,10645,db r db r db
+a22,10665,db r db
+a22,10693,r
+a22,10702,r db
+a22,15248,( ) = (cid:8)
+a22,15249,"Case = and = . If = , then (cid:8) ( ). Assume next that (cid:4)= .From Equation (7), it follows that key ( ) ⊆ . Consequently, vars ( ) ⊆ .Since does not occur inside in the Venn diagram of Figure 3, we have that (cid:8)"
+a22,22851,8.3. Gblocks and Gpuriﬁcation
+a22,23015,db db db
+a22,23499,8.4. k-Partite Digraph Representation of Database Facts
+a22,27128,8.6. Proof of Lemma 7.11
+a22,27477,9. RELATED WORK
+a22,28794,10. CONCLUSION
+a22,28910,APPENDIXES
+a22,28924,A. PROOFS FOR SECTION 3
+a22,28938,A.1. Proof of Lemma 3.3
+a22,29131,A.2. Proof of Lemma 3.5
+a22,31263,We ﬁrst show two helpful lemmas.
+a23,502,1. INTRODUCTION
+a23,5853,rate of selected trustworthy nodes reputation convergence
+a23,16506,The concept of time should be explicitly modeled because it can beused to deﬁne time periods for simulated scenarios and to weight reputation informa-tion according to its recency.
+a24,2004,2. COMPLEXITY TOOLS
+a24,2017,m K d m K K K m m
+a24,2240,K m m m m
+a24,2693,m m I d m m K K K K K K I K K K I I I
+a24,2829,I K K I K I K K I I
+a24,2979,m d
+a24,3717,I
+a25,3254,"(cid:2)(cid:3) (cid:2) x and (cid:3) real-valued targets Y = with amonotonic function д : R → R parameterized by θ . Our training aim is to learn a set of modelparameters ( α , β , θ ) where α , β > 0 such that the following negative log-likelihood function canbe minimized:"
+a25,3261,"Suppose that we are given a dataset D , consisting of N pairs of input vectors X = (cid:2) д ( y )"
+a25,3267,(cid:3) that are transformed into latent space G = (cid:2) y
+a25,3321,(cid:2) (cid:3) (cid:3) (cid:4)
+a25,3328,(cid:3) (cid:3)
+a25,4784,(cid:2) h is more accurate with α (cid:2) λ + (cid:2) β as the angle between (cid:2) β and
+a26,1297,2. RELATED WORK
+a26,2445,"Switzerland, whose latest design document (version 0.3) dates back to 2008, is apassive bilateral technique [Electronic Frontier Foundation (EFF)]. Switzerland looksfor lost, modiﬁed, and injected packets in a ﬂow between a pair of hosts. It does sousing a central server to which both hosts report the cryptographic hashes of sent andreceived packets along with the time when the packets were observed. The server thenlooks at the packets in search of anomalies. It searches for packets that were receivedwith a hash different from the hash reported during transmission, which indicatesmodiﬁed packets. It also looks for packets injected by the network, that is, packetsthat the receiver reports but the sender does not. Lastly, it counts dropped packetsby comparing the number of packets observed by the receiver and comparing it to thenumber of packets sent. The design of Switzerland is not complete and the project seems to have been abandoned."
+a26,2870,3.2. The Defensive ISP Model defensive ISP model
+a26,3597,4. NETWORK NEUTRALITY MEASUREMENT DETECTION
+a26,3610,4.1. How to Detect a Neutrality Measurement
+a26,5876,t t t t
+a26,11419,"The experiment results show that these false positives did not signiﬁcantly alter the loss rates of the different classes. Apparently, this is because fewer high prioritypackets meant that the scheduler could service the low priority class longer. The lossrates of the different classes are shown in Table II. Note that both the rate of falsepositives and the packet loss depend heavily on the noise trace and the conﬁguration ofthe differentiating node. Other noise traces and other conﬁgurations could produce"
+a26,15578,"PPrate does have some drawbacks stemming from its passive approach. As PPrateuses one-sided packet traces for capacity estimation, it is forced to guess which packetswere sent back to back, and therefore can be used as samples; mistakes in these guessescould lead to large inaccuracies. CONNEcT avoids the guesswork by passing packettimestamps between the two sides."
+a27,1256,"Data uncertainty is inherent in the applications above. In a wireless network, theconnection between two mobile devices may or may not be established, as factors such as signal interference and antenna power may affect the connection of devices [Ghosh et al. 2007]. Due to hardware limitations, measurement errors also occur in biologicaldatabases (e.g., protein-to-protein interaction [Asthana et al. 2004]) and road monitor-ing systems (e.g., trafﬁc congestion data [Hua and Pei 2010]). In a graph that depictsthe relationship of authors of Wikipedia entries, the existence of edges may not bedeﬁnite. As another example, viral marketing techniques [Liben-Nowell and Kleinberg2007] study the purchase behavior of users in a social network. A directed edge fromMary to John, for example, indicates that John’s purchases are inﬂuenced by thoseof Mary. This is unlikely to be a deterministic relationship, for John may not alwaysfollow Mary’s purchase behavior [Adar and Re 2007]. Querying these graphs withoutconsidering this uncertainty information can lead to incorrect answers."
+a27,5850,q q q q q
+a27,23542,Decomp.
+a28,3596,3.3. PM Characteristics
+a28,5158,3.6. Service Level Agreements
+a28,8635,"When the CP makes some change in the mapping ofVMs or the states of PMs at time instance , it can base its decision only on its obser-vations of VM behavior for the period ≤ ; however, the decision will have an effectonly for > . The CP could make ideal decisions only if it knew the future resourceutilization of the VMs. Since these are not known, it is an important subproblem to the resource utilization values of the VMs or their probability distributions, atleast for the near future [Xiao et al. 2013]."
+a28,11419,"— : These fees are either proportional to the time the VM is used orcharged for small time quanta (e.g., hourly), based on the number of time quantathe VM is used."
+a29,2037,1.1. Deﬁnition of Terms
+a29,2137,1.2. Background Work
+a29,3689,2. LIVE MIGRATION
+a29,3703,2.1. Important Concepts
+a29,11560,4.2. Seamless Live Migration of Virtual Machines over the MAN/WAN
+a29,15694,5.4. pMapper
+a29,23907,REFERENCES
+a3,2001,2 BACKGROUND
+a3,5588,4 MT IN TESTING
+a3,8634,5 EXTENSION OF MT BEYOND TESTING
+a3,12831,7 MORE RESEARCH OPPORTUNITIES
+a3,16505,8 CONCLUSION
+a30,1257,1 2
+a30,2877,∗ ∗ ∗
+a30,6401,∀ : ≥ 0
+a30,8237,b
+a30,9739,y b y y b y
+a30,9801,y y
+a30,10726,"(1), (2), (3):"
+a30,11232,(4):
+a30,11268,(5):
+a30,11327,(6):
+a31,488,ACM Reference Format:
+a31,2123,2.1. Metric Terminology
+a31,2985,3. METHODOLOGY AND PROCESS
+a31,3075,3.1. Planning the Review
+a31,8730,# 38# 39 # 40# 41# 42# 43# 44# 45# 46# 47 X X
+a32,2987,Algorithm 1.2 function
+a32,3059,for all
+a32,3061,do in parallel
+a32,3081,return
+a33,3596,3. PROPOSED APPROACH
+a33,4830,4. WEBPAGE MODULE: A RISK SCORING FRAMEWORK
+a33,5142,(cid:7)
+a33,9374,Y Y Y
+a33,9853,L I D I L A
+a33,9909,A D
+a33,10397,L L A L
+a33,10518,L A
+a33,10671,A F F G G
+a34,500,1. INTRODUCTION
+a34,2987,2. MOTIVATING EXAMPLE
+a34,4066,"Currently we do not support variables from dynamic data structures that may have values in some execu-tions and may not exist in other executions. invariants refer to candidate relations that hold over the observed traces at a program location,but they might not hold over all possible traces at that location."
+a34,5588,"We demonstrate these steps by deriving the nonlinear equalities = + , = + , 1 = − for . For illustration, we focus on the case where = 2,in which the algorithm generates quadratic equations."
+a34,11521,input output foreach do
+a34,11573,if then
+a34,11593,if then
+a34,15813,5.2. Polyhedra and Inequalities
+a35,452,"Social media and mobile phones promote mutually. In particular, the development ofsocial networking technologies has changed the role of mobile phones, which, apartfrom pure communication devices, are also powerful devices for generating and con-suming multimedia data [Ji et al. 2014]. The growing ubiquity of mobile phones has"
+a35,2013,2.1. User Attributes Learning from Social Media
+a35,5630,w
+a35,7422,"= . We then apply to P , and we reach the optimal solution of ,"
+a35,8221,t L L y q X X X X
+a35,8222,X X
+a35,8236,X
+a35,9409,Heuristically Inferred Features.
+a35,9705,Local Features.
+a35,9749,Global Features.
+a35,10299,W
+a35,10309,XW Y W
+a35,10419,W W XW Y W
+a35,12825,"This article has presented a novel model for user attributes learning from multiple mo-bile social media platforms. This model seamlessly sews complementary informationfrom heterecious sources and regularizes the inter-task relatedness with the graph-guided penalty. In addition, it also jointly learns the task-sharing and task-speciﬁcfeatures via lasso and graph-guided fused lasso. The graph-structure is constructed byleveraging the external and internal knowledge. We relaxed the non-smooth objectivefunction to a smooth one and derived its optimization process. To validate our proposedmodel, we crawled ground truth, short texts, check-ins, and images from four prevail-ing sources, namely Linkedin, Twitter, Foursquare, and Instagram. Representativefeatures were extracted from these sources to characterize users from various views.Extensive experiments on this dataset show the priority of our model to the baselines.It is worth mentioning that our model is ﬂexible to incorporate more sources and it is applicable to infer other attributes beyond occupations."
+a36,2877,", ,"
+a37,13389,Collaborative ranking
+a37,13674,One-class collaborative ﬁltering
+a38,468,"Additional Key Words and Phrases: Time-series clustering, time-series classiﬁcation, distance measures"
+a38,3739,Hardness of clustering:
+a38,13498,Complexity of k #NAME? k -MS:
+a38,26401,Better Worse AlgorithmH-S+ED
+a38,26412,H-S+cDTW H-S+SBD H-A+EDH-A+cDTW H-A+SBD H-C+EDH-C+cDTW H-C+SBD S+ED S+cDTW S+SBD PAM+EDPAM+cDTW PAM+SBD
+a38,26720,"Among allmethods using cDTW as distance measure that we evaluated, only PAM+cDTW out-performs -AVG+ED with statistical signiﬁcance. Similarly to -AVG+ED, #NAME? -MS also outperform H-C+cDTW and S+cDTW with statistical signiﬁcance. Therefore,we compare this approach with #NAME? -MS. PAM+cDTW performs equally orbetter in 45 datasets in comparison to -Shape and equally or better in 41 datasets incomparison to -MS, but these differences are not signiﬁcant."
+a38,27412,6.5. k-Shape and k-MS against Outlier-Aware Methods
+a38,27950,Better Worse AlgorithmDBSCAN #NAME? DBSCAN #NAME? DBSCAN #NAME? #NAME? #NAME?
+a38,27961,DBSCAN #NAME?
+a38,28024,TADPole TADPole U-Shapelets U-Shapelets
+a38,28760,6.6. k-Shape and k-MS against a Shapelet-Based Method 3 3
+a38,29160,6.7. Evaluation of NSC
+a38,29479,k 1 k 2 k 3 k 4
+a38,29481,AlgorithmRandomRT1 RT2 RT3NSCR -R
+a39,1256,"The DBSCAN [16] article consists of two major contributions. The first contribution is a formalmodel for density-based clusters; the second contribution is a database-oriented algorithm to find clusters that adhere to this model, which benefits from advances in database indexing."
+a39,5760,1 / 3 4 / 3
+a4,6683,3 AN ALGEBRA FOR RDF
+a4,17333,5 QUERY EVALUATION
+a4,22179,6 TRIPLE ALGEBRA AS A GRAPH LANGUAGE
+a40,501,1. INTRODUCTION
+a40,3730,2.2. Adopting Open-Source Development Practices
+a40,8729,"Software development in an inter-nal bazaar is inherently different from conventional approaches, including contempo- rary ones such as agile methods. Two aspects related to implementation activities areparticularly different in open-source development: requirements elicitation and main-tenance. For an Inner Source project to succeed, developers should be comfortable withbazaar-style practices, as conventional approaches may not be appropriate."
+a40,11422,The core team and trusted lieutenants previously mentioned must agree on a commonvision for future evolution of the project [Gurbani et al. 2006] and guard the commonarchitecture so that additions from one contributing group do not lead to integrationproblems in another group.
+a41,2999,if else
+a41,3926,else
+a41,12825,"—# is ﬁnite. All variables have ﬁnite domains by assumption.—# is ﬁnite. Notice that is constituted by process names, events, the associatedclocks and parameters of the timed process constructs. Because processes are notparameterized , process names and events are ﬁnite. By assumption, every reach-able process is constituted by only ﬁnitely many process constructs. Because clocksare associated with timed process constructs, it implies that for every abstract con-ﬁguration ( , , ), ( ) is ﬁnite. By reusing clocks (as in Deﬁnition 4.2), it impliesthat only ﬁnitely many clocks are necessary. Last, notice that all abstract ﬁring rulespreserve parameters of timed process constructs and therefore the possible valuesfor parameters is ﬁnite. Finally, # is ﬁnite."
+a41,15726,6.1. Modeling
+a42,8728,"Using the rules of the second phase of the code generation, we have"
+a42,12832,[ σ ( ρ ( )) #NAME? or σ ( ρ ( )) (cid:6)⊆ ]
+a43,472,"As an example, consider only the articles in the English Wikipedia category “Astronomical ob-jects.” It consists of 37 subcategories and hundreds of articles. Many of the articles contain tables,such as the one shown in Figure 1, which contains some interesting attributes of the planets in oursolar system. The first column, Planet, lists the entities of this table and it can be considered thetable’s primary key."
+a43,16504,"We also observe that the use of multi-hashing is not always outperforming configurations withonly one bit-signature per input column, that is, the top 10 results for WDCWebTables1 containsolely parametrizations with p ≤ 3 , and six times only was one pass applied. However, almost allworst configuration settings only use p = 1 and the smallest value for m . With this observation, wemight not be able to guess the best parametrization for Many in advance, but we can easily avoidthe worst runtimes shown in Figure 9 by setting m > 100 and p > 1. For the following evaluations,we chose for each dataset the best available parametrization."
+a44,9000,a x a R R R a
+a44,9088,a x a R R
+a45,2019,R
+a45,2177,R R
+a45,2675,R
+a45,2981,R
+a45,3516,R R
+a45,3582,R
+a45,3625,R
+a45,3851,R
+a45,6275,R
+a45,8208,R
+a45,8728,= 1
+a45,9092,Z
+a45,9733,Z
+a46,2042,2.1. Structural Information Analysis
+a46,4786,"The basic ideas of our method are the following. We ﬁrst compute the topologicalcloseness of nodes by calculating their global importance and edge strengths. We nextmeasured attribute similarities of nodes using various attribute values. Finally, wedevised a balanced strategy to combine structure closeness and attribute similarity."
+a46,5865,e inﬂuence parameter D
+a46,6016,5. CLUSTERING ALGORITHM
+a46,7567,6. EXPERIMENTS AND ANALYSIS
+a47,472,ACM Reference Format:
+a47,1354,EHR Data Representation for Early Detection of Diseases.
+a47,2534,Observation 1. Variation in EHR Coding Practices –
+a47,2676,Observation 2. Limited Positive Training Samples –
+a47,3560,2.1. Diagnosis-Frequency Vector and Sample Covariance Matrix Estimation
+a48,509,ACM Reference Format:
+a48,3912,ROPOSITION
+a48,4788,∗
+a48,8730,− 1 ∗
+a48,10472,Correctness:
+a48,10511,Privacy:
+a49,400,"Yoo, S., Harman, M., and Clark, D. 2013. Fault localization prioritization: Comparing information-theoreticand coverage-based approaches. ACM Trans. Softw. Eng. Methodol. 22, 3, Article 19 (July 2013), 29 pages.DOI: http://dx.doi.org/10.1145/2491509.2491513"
+a49,450,Fault localization can be used to prioritize the statements of a program according tothe likelihood that each contains a fault that causes a known failure [Jones et al. 2002;Renieres and Reiss 2003]. Regression test prioritization is used to order statementsaccording to early achievement of some testing goal such as coverage [Elbaum et al.2000; Li et al. 2007; Rothermel et al. 2001; Yoo and Harman 2012].
+a49,2982,2. BACKGROUND
+a49,2996,2.1. Test Case Prioritization
+a49,3217,2.2. Fault Localization Metrics
+a49,4786,"(3) The mapping between tests and structural elements, , is known (we relax this"
+a49,5644,H P
+a49,8670,ALGORITHM 2:
+a5,5142,4 BOUNDED ONLINE MULTIPLE-KERNEL LEARNING
+a50,2606,"2 RELATED WORK Since we adopt the transfer-learning techniques for transfer learning in this work, we first wouldlike to introduce some deep-learning methods for representation learning, and then the most re-lated works of transfer learning."
+a50,4319,⎡⎢⎢⎢⎢⎢⎢⎢ ⎢⎢ ⎣ ⎤⎥⎥⎥⎥⎥⎥⎥ ⎥⎥ ⎦ ⎡⎢⎢⎢⎢⎢⎢⎢ ⎢⎢ ⎣ ⎤⎥⎥⎥⎥⎥⎥⎥ ⎥⎥ ⎦
+a50,7424,by the following optimization problem:
+a6,3264,2 BOUNDED QUERY REWRITING
+a6,31271,7 RELATED WORK
+a7,994,1 INTRODUCTION
+a7,5727,3 WEAK MONOTONICITY VERSUS WELL DESIGNEDNESS
+a7,11423,5 CAPTURING WEAKLY MONOTONE FRAGMENTS OF SPARQL
+a7,15249,6 CAPTURING CONSTRUCT QUERIES
+a7,26729,9 CONCLUDING REMARKS AND FUTURE WORK
+a9,512,1. INTRODUCTION
+a9,4441,2. DEFINITIONS
+a9,6394,3. GENERAL RELEASE MECHANISM
+a9,10740,4. INTERVAL QUERIES
+a9,12315,5. LOWER BOUNDS
+a9,13141,6. ANSWERING HALFSPACE QUERIES
+a9,17320,7. CONCLUSIONS AND OPEN PROBLEMS

@@ -1,0 +1,350 @@
+filename,top,Text
+a1,2214,2.1. Use Case Template
+a1,3895,2.2. Restriction Rules
+a1,5479,3.1. Experiment Deﬁnition
+a1,6530,3.3. Hypotheses Formulation
+a1,7157,3.4. Experiment Design
+a1,8586,3.5. Instrumentation
+a1,11508,3.6. Evaluation Measurement and Data Collection
+a1,17179,4.1. Usage of Restriction Rules
+a1,18960,4.2. Quality of Analysis Models
+a1,23069,4.3. Summary of Analysis Results
+a1,23960,5.1. Threats to Validity
+a1,24879,5.2. Practical Implications and Limitations
+a1,25809,6.1. Use Case Template
+a1,26781,6.2. Restriction Rules
+a1,27448,6.3. Empirical Evaluation
+a10,15643,6.1 Markov Logic Networks in PPDL
+a10,20263,6.2 Stochastic Context-Free Grammars in PPDL
+a10,23265,7.4 Recursion Models
+a11,25961,"(3) If w ∈ (cid:2) T (cid:3) , then we apply again steps (1) and (2) until we get a word w (cid:5) (cid:2) T (cid:3) ."
+a13,1839,"Secondly, we adapt the CF approach to personalized POI recommendation with aranking-based matrix factorization technique. Due to the lack of explicit preferenceratings on POIs, we leverage the number of a user’s uploaded or favored photos fora POI as a proxy to quantify his/her preference degree on that POI. The underlyingassumption is that a high uploading or favoring frequency can be interpreted in away that a user repeatedly conﬁrms his/her preference [Wang et al. 2014; Shi et al.2013]. Several prior efforts focus on approximating the observed preference scores [Shiet al. 2013; Phan et al. 2014]. In practice, however, users do not care about the speciﬁcscores, but about a compact recommendation list of POIs. Inspired by this, we proposeto generate the relative ranking of users’ preferences on POIs. The matrix factorizationtechnique is applied to learn latent factors of users and POIs from a large number ofpairwise preference relations with varying degrees of importance, which are inducedvia the comparison of two POIs. It is worth noting that, in our approach, both POIswith and without observed preference mutually reinforce the learning process, whichhelps further reduce the effects of data sparseness."
+a13,7194,(cid:3)
+a13,7499,p u i j u i j u i j c u i j p u i j
+a13,7598,r r b b r x x
+a13,11151,PopRank
+a13,11194,UCF
+a13,11227,ATM
+a13,11260,WMF
+a13,11304,GeoMF
+a13,15642,REFERENCES
+a14,3957,u x x
+a14,6414,"—The initial prices are low enough prices that each buyer can afford all the goods.Fixing prices at 1 / sufﬁces, since the goods together cost one unit and all ’sare integral."
+a14,6505,u
+a14,6538,N e p
+a14,8137,S A S S S S S S B m S B x m S S S s S S S m S
+a14,10226,Market Equilibrium via a Primal–Dual Algorithm for a Convex Program
+a14,10255,. Establishing Polynomial Running Time f N surplus i f i t f e i t
+a14,10743,a b a a
+a14,10746,b
+a15,2338,q p q
+a15,3230,G SG n G n SG
+a15,3895,3.1. The Greedy Algorithm on AND/OR Graphs
+a15,6200,p q
+a15,6386,n
+a15,6414,"The start node of ( , , (cid:2) ) is (cid:12) , , (cid:14) , λ (cid:13) . The successor function is given by the oper-ators in Table II. The operators generate the outgoing arcs and the successor nodes ofeach node. The operators with the form"
+a15,7423,SG G p q
+a15,10754,Deﬁnition h : Heuristic Function n p q u p q p q q p h p S h q S
+a15,10775,u u u u
+a15,19061,6. CONCLUSION AND FUTURE WORK
+a17,1026,m read x;
+a17,1027,for(i=1;i<=3;i++) lock lm unlock lm()m()
+a17,1156,N N N
+a17,1568,This corresponds to a 0.01sec execution of a Bank benchmark in Wang et al. [2009] with 135 lines of code.
+a17,1871,m1 m1 m2 m2
+a17,4524,e e e e T e e T e e T e e T e T e T e T e T e l t t e e e e e e e e e e e e e e
+a17,4711,"In this section, we present a generalized detection model for the PTA of concurrencyaccess anomalies. The model consists of a generalized pattern speciﬁcation of accessanomalies and the corresponding PTA algorithm. This generalization is crucial for usto reason about event redundancy with respect to the nature of PTA algorithms and afoundation for the wide applicability of our redundancy criteria."
+a17,5504,Lockset L L Happens-before e e e e
+a18,1535,"Public IaaS services rely on a wealth of computing systems, including web inter- faces, specialized virtualization hardware, and systems software. To make this sur-vey tractable, we restrict ourselves to considering security mechanisms and academicwork that is speciﬁc to public IaaS clouds, as opposed to computer systems security in"
+a18,2261,Hypervisor.
+a18,2798,Customers and users.
+a18,3617,Availability.
+a18,5389,✗✗✗✗✗✗✗✗✗✗✗✗✗✗
+a18,13858,Caches timing channels.
+a18,16409,"Research on the integrity, availability, and durability of customer data in the cloud canbe classiﬁed into two categories: security in storage clouds and security in computeclouds. Research on the security of data in storage clouds can be further categorizedas approaches using Proof of Retrieval (POR) and Provable Data Possession (PDP)and systems approaches to guarantee the integrity, availability, and durability of cus-tomer data. Research on the security of data in compute clouds involves securing theunderlying hypervisor and can be classiﬁed into proposals that detect a compromisedhypervisor, proposals that harden the hypervisor against compromise, and proposalsthat protect customer VMs against a compromised hypervisor."
+a18,18914,4.3. Contractual Security
+a18,20539,"One way the academic literature can have an inﬂuence over industry practice is todemonstrate the feasibility of certain attacks. For example, one attack that academiahas shown to be practical and occurring in the wild is the threat of malicious VMimages, as well as the threat of conﬁdential information leakage via shared VM images.These threats have been conﬁrmed both by measurement performed by academics onimages in Amazon’s Marketplace and by Amazon itself, which acknowledges themin its documentation. Another example is the aforementioned leakage of sensitiveinformation over various side channels that exist between physically co-located VMs,which has partially resulted in a number of CSPs offering dedicated VM instances fora small premium."
+a2,4998,3.2 Static Analysis
+a2,5794,3.4 Other Oracles
+a2,6777,3.6 Fault Classes and Repair
+a2,8283,4.2 Checkpoint and Rollback
+a2,11160,6.1 Forward Engineering for Repair
+a20,2915,/ .. / / .. /
+a20,2987,>
+a20,4834,— — — — — — — —
+a20,5308,> >
+a20,8032,// ..
+a20,8044,// ..
+a20,8146,// ..
+a20,8587,3.2. Annotation Patterns of Table II
+a20,18899,public class implements
+a20,18966,public public int return public int return
+a20,19051,"5. EXPERIENCE (RQ4, RQ5)"
+a20,23008,public class public interface public int public interface public int public class
+a20,23049,public static void
+a20,23069,if is
+a20,23942,throw new
+a20,23952,return null
+a20,27379,public class public interface public class
+a20,27410,public static native int int
+a20,27429,static
+a20,27468,public static int ﬁnal int int
+a20,27478,int if instanceof
+a20,27500,for int
+a20,27520,if
+a20,27540,else
+a20,27568,return
+a20,28115,int int
+a20,28127,return
+a20,28455,"6.3. Mock Classes Inferred from Test Executions: Test Carving, Capture and Replay"
+a21,3061,"(2) H now supports word equations (equalities and disequalities) over string terms.(3) H now allows variable-sized strings to be declared.(4) H now supports a substring extraction operation.(5) H now allows multiple input string variables, simulating this feature by using"
+a21,4659,string variable
+a21,6314,cfg
+a21,6474,reg
+a21,10748,bv bv bv bv D D
+a21,11488,4.2. Constraint Templates
+a21,19018,6.1. Practical Solvers for String Constraints
+a22,2843,q q
+a22,3334,q consistent ﬁrst-order rewriting q q q q
+a22,3566,P coNP FO
+a22,4489,Boolean conjunctive queries Boolean query q q q q satisfy q q q
+a22,5677,r
+a22,5896,"uncertain database. Then, every repair of satisﬁes q if and only if every (cid:19) repair of satisﬁes q."
+a22,6520,Let ∈ sjfBCQ . We deﬁne K ( ) as the following set of functional dependencies:
+a22,10222,u
+a22,10223,u H
+a22,10225,u
+a22,10251,a a b b a a b b H F H F H
+a22,10254,H
+a22,10916,r r r r r db r r
+a22,10989,db db
+a22,11155,Basis
+a22,11177,Step
+a22,11274,FO
+a22,11305,db
+a22,16623,7. POLYNOMIAL-TIME TRACTABILITY
+a23,1735,nario in order to select the right reputation system among them.
+a23,3656,badmouthin collusive manipulating of reputation oscillating behavior traitors attack
+a23,8134,2.3.1.1. Threat Analysis-Based Theoretic Evaluation.
+a23,12976,Flexibility
+a24,2338,x y r.e. x y x y x y y x rarity x x x x f f f x x r.e. x x x x x x x
+a24,2812,I I I I
+a24,3579,I d M M M M M M d
+a24,3767,T O x
+a25,3579,(cid:6)
+a25,5798,"2. For each PCA-compressed feature (DSIFT, MLBP, or BIF) with D components, randomlyselect K components from the D components with K ≈ 0 . 8 D . Here, D is the dimension offeatures to selected from, and K is dimension of sampled features (e.g., random subfeatures).3. Combine the selected components (from the three kinds of feature descriptors) into a new"
+a25,5895,ing this training set as ˆ X .
+a26,15647,7. SUMMARY AND FUTURE WORK
+a26,15784,REFERENCES
+a27,4998,. We now propose an indexing framework for probabilistic
+a27,7194,"In other words, Theorem 4.3 states that the independent subgraph approach is the manner in which a lossless indexing system can be obtained for a probabilisticgraph, at least for undirected graphs. The case of directed graphs is more complex;the tools that we use (in particular, tree decompositions) are more robust and betterunderstood in the setting of undirected graphs [Robertson and Seymour 1984] than inthat of directed ones [Safari 2005]. For that reason, we leave open the possibility ofusing techniques that exploit directedness of edges to obtain better indexing systems,in the case of directed graphs, than techniques based on the independent subgraphapproach."
+a27,16013,6.4. Analysis for w 2
+a27,16383,7. LINEAGE TREES
+a27,20536,"The space overhead of I (Figure 8) is also reasonable. Generally, the ProbTree forFWD w (cid:2) 2 and SPQR only incurs between 10% (W ) and double (N ) space overheadcompared to the space cost of the original graph. As expected, the LIN decompositionsfor the road networks increase signiﬁcantly in size compared to their original graphsize, even reaching a few gigabytes in the case of C and E , and up to 10 timesin the size of the original graph in the case of E . Since the higher widths of thetree decompositions no longer retain the linear size increase property, that is, canbe quadratic in the original size, this is not surprising. Nevertheless, the query timesavings of the lossless decompositions of E , N , and C are very important, as weshall see next."
+a28,2136,Private cloud
+a28,2563,cloud provider external cloud providers
+a28,3408,white-box black-box
+a28,4833,"For the preceding reasons, it is beneﬁcial to place VMs that communicate intensivelywith each other on the same PM, or at least within the same DC [Beloglazov andBuyya 2010b]. On the other hand, VMs that belong to the same application may exhibitcorrelation between their loads, increasing the probability that they will peak at the same time; this also has to be considered carefully in the VM allocation [Verma et al.2009]."
+a28,8284,"Closely related to online versus ofﬂine optimization is what wemay call the . On the one hand, (1) initial placement and (2) placementreoptimization must be differentiated: the former determines a placement for a newset of VMs, whereas the latter optimizes an existing placement. (The key difference isthat placement reoptimization must use migrations, which is not necessary for initial placement.) On the other hand, based on the set of VMs for which the placement isdetermined, the following three different levels can be distinguished: (1) all VMs of theCP, (2) a set of coupled VMs (e.g., the VMs implementing a given service), or (3) a singleVM. Since these are two independent dimensions, we get six possible placement tasks;all of them are meaningful, although some are rather rare (e.g., initial placement ofall VMs occurs only when a new DC starts its operation). It should also be noted that"
+a28,16807,6.2. Static Placement in a Single DC
+a29,9549,coda has integrated a mechanism to use distributed storage.
+a29,11492,4.1. Important Concepts
+a29,19120,7.3. Record/Replay for Replication
+a29,20538,"—Once the guest VM is resumed, the content stored in the migration buffer is migrated"
+a29,20549,ﬁrst to the replica machine.
+a3,2546,2.2 The Intuition and Formalization of MT
+a3,9548,"5.2 A Framework for Verification, Validation, and Quality Assessment"
+a30,3771,. Click-Fraud and Cost-Per-Acquisition Auctions.
+a30,4482,c c q c q q q q q
+a30,4696,k
+a30,6205,Nk ik
+a30,6375,i
+a30,6378,N
+a30,6503,k
+a30,7424,L
+a30,9550,(cid:2)
+a30,10226,AdWords and Generalized Online Matching
+a30,10774,j B i k j B i
+a31,4530,List the criteria.
+a31,17128,6.1. Goal-Driven Philosophy Principles
+a31,18996,7. CHOOSING APPROPRIATE METRICS VALIDATION CRITERIA
+a32,2264,P
+a32,2274,v P
+a32,2284,P v
+a32,3030,A A P v P
+a32,3040,S G
+a32,3049,P v P
+a32,3059,P
+a32,3061,v P
+a32,3081,v
+a32,4448,C
+a32,6082,Let a ﬁxed proper witness tree with its root vertex labeled A.The probability p that the Galton-Watson process described above yields exactlythe tree is
+a32,6474,v
+a32,6538,x v x A x A x A
+a32,9546,(cid:3)
+a32,10220,A Constructive Proof of the General Lov´asz Local Lemma
+a33,1365,user module webpage module
+a33,4433,u u r r
+a33,7196,"was executed separately over this graph. The AUC (area under the ROC curve) ofthe test set was measured for each algorithm. The relative score (lower percentilerank, as discussed in Section 4.2) of the “hidden” risky webpages in a descendingordered test set of webpages was examined. The average AUC of all the 10-foldswas used as a performance measure for each of the examined algorithms. Note thatthe evaluation is conservative in the sense that unlabeled risky webpages in thetest set with a zero score reduced the AUC performance, even though the algorithmcould separate those from the others well."
+a34,2131,"—The use of equation solving and automatic theorem proving to dynamically inferrelations among array variables of multiple dimensions and functions of multiplearguments. In particular, we encode the problem of ﬁnding nested array relationsas a satisﬁability formula that can be efﬁciently solved by a satisﬁability modulotheories (SMT) solver."
+a34,3897,2.1. Overview of DIG
+a34,5385,"V X d S S T V ,d F T E F,X S E S"
+a34,6382,c c c c c c
+a34,7092,S S
+a34,7125,"T V ,d P T ,X H P S H"
+a34,7187,"// if additional information is given V ,X,d S ,"
+a34,7218,S
+a34,9492,4. ARRAY INVARIANTS
+a34,10768,A i j B i j i j A B L
+a34,11508,ALGORITHM 4:
+a34,12978,A x A y A k ip q p q d d A A C d p p q
+a35,5676,f X X f
+a35,5798,"— We assume that the heterogeneous social media platforms ofthe same users characterize their behaviors from multiple views but should consis-tently reﬂect the same occupation type. Mathematically, ( ) should be the sameor very close with"
+a35,7491,x x
+a35,7493,x x
+a35,10255,SVM
+a36,3233,there exists an injection
+a36,4485,z x i b ib s z z k x y
+a36,4698,a y a a
+a36,4754,a
+a36,4755,b z x i b ib s z y i b ib s z b s b b s f b a a b s b s j b a f j a j b s f j b s b a y y a b j b s
+a36,6196,A B
+a36,6372,ts ts ts t s s
+a36,6538,x y x A y B t x A
+a36,7426,x I z i j
+a36,8137,x y k s
+a36,10226,Low Distortion Embeddings for Edit Distance
+a36,10254,A B
+a36,10257,N
+a37,2569,u u u
+a37,3345,u i u j u i u j
+a37,3750,3. TRANSFER TO RANK
+a37,5892,"Mathematically, we can instantiate the notation Prob( rating | examination , ( user ,"
+a37,7194,esis in Section 4.7.
+a37,15534,6. CONCLUSIONS AND FUTURE WORK
+a37,15760,ACKNOWLEDGMENTS
+a37,15799,REFERENCES
+a38,3291,k k k k k
+a38,3335,k k k k
+a38,3739,2.1. Theoretical Background
+a38,7588,R y x
+a38,9468,ALGORITHM 1: [ ]
+a38,9483,Input: Output:
+a38,9511,if then
+a38,11211,MultiShapesExtraction (MSE):
+a38,15555,ALGORITHM 7:
+a38,15570,Input:
+a38,15639,Output:
+a38,15667,for to do
+a38,15727,for to do
+a38,15737,if and then
+a38,15798,else if and then
+a38,15859,else if and then
+a38,15869,for to do
+a38,15913,else if and then
+a38,15923,for to do
+a38,15981,if then
+a38,16577,5. EXPERIMENTAL SETTINGS
+a38,24295,"Even in cases where both the distance measure and the centroid computation methodof -means are modiﬁed, the performance does not improve signiﬁcantly in comparisonto #NAME? #NAME? -AVG+DTW with statistical signiﬁcance in 67 of85 datasets. Both of these approaches use DTW as distance measure, but -DBA alsomodiﬁes its centroid computation method. This modiﬁcation signiﬁcantly improvesthe performance of #NAME? -AVG+DTW, with an average improvementin the Rand Index of 19%. Despite this improvement, #NAME? -AVG+ED in a statistical signiﬁcant manner. Another algorithm thatmodiﬁes both the distance measure and the centroid computation method of #NAME? -DBA, KSC is signiﬁcantly worse than -AVG+ED. We note thatthis ﬁnding contradicts our previous analysis on a subset of 48 datasets [Paparrizosand Gravano 2015], where -AVG+ED was shown to perform better in 54% of thedatasets but not in a statistically signiﬁcant manner. Our current analysis is based onalmost twice as many datasets as our analysis in Paparrizos and Gravano [2015], whichprovides substantially more evidence to the Wilcoxon test. (The -value for Wilcoxonwas very close to the conﬁdence level in Paparrizos and Gravano [2015], which resultedin considering the difference in accuracy of -AVG+ED and KSC negligible.)"
+a39,4998,"The third problematic aspect of Gan and Tao [18] is that it constrains DBSCAN to Euclideandistance (Section 2.1), while the original publication clearly states “our approach works with anydistance function so that an appropriate function can be chosen for some given application” [16].All claims and proofs of Gan and Tao [18] implicitly assume the use of the Euclidean distance, andthe proposed new algorithms cannot be used with arbitrary distances; i.e., they only work for asubset of DBSCAN problems."
+a39,5899,"Theorem 3.2. Let D ⊂ R ( d ≥ 3 ) be a database containing | D | = n points in R , with dimension-"
+a4,6414,2.3 Triplestore Databases
+a4,19707,5.1 Low-complexity Fragments
+a40,1535,The remainder of this article is structured as follows. Section 2 presents a brief discussion of related work in this area. This is followed by a presentation of our research
+a40,1568,One of the earliest records using the term ‘Inner Source’ is an article by Tim O’Reilly [2000].
+a40,2692,Table I. Reports on Organizations that have Adopted Inner Source
+a40,9546,"Open-source quality assurance practices can differ signiﬁcantly from those used inconventional software development. Peer review, which was brieﬂy mentioned, is oneof the best known practices in open-source development [McConnell 1999; Rigby et al.2012]. Feller and Fitzgerald [2002, p. 84] characterized peer review in open-source settings as ; that is, peer-review in open-source projects is a self-selected task by other interested developers [Asundi and Jayvant 2007; Rigby et al.2008]. Open-source developers are more likely to provide genuine feedback given theirinterest in the success of the project they work on, rather than doing a review becausethey were told to and possibly having to consider relationships with co-workers whenpointing out any issues with their contributions."
+a40,19702,"“The driver to do this [collaboration] is to ensure that what’s implementedworks for us. It’s not to help others with that new functionality, it’s primarilyfor us. But, once it’s ﬁnished, then you’d also discuss this beforehand withthe core team that the component can go back into the platform.” (P8)"
+a40,25869,ACKNOWLEDGMENTS
+a40,25924,REFERENCES
+a41,4530,S A S A AAT
+a41,10775,adl adl P deadline d adl P d adl P deadline
+a41,16408,[ ] : =
+a41,19094,6.2. Veriﬁcation
+a42,1516,m
+a42,4480,X
+a42,4699,p
+a42,6203,P C X
+a42,10226,Optimal Probabilistic Fingerprint Codes
+a42,10746,nx nx t
+a42,10751,M
+a42,10754,E
+a42,10769,t
+a42,10777,t t
+a43,5889,"4.1 Bloom Filters The main challenge we have to tackle is the number of potential candidates. Taking simple meta-data into account alone for the candidate set generation, such as the minimal and maximum valueof each column or the data type, still would lead to a vast amount of candidates to check. Ouralgorithm does not explicitly enumerate all ind candidates and thus keeps the initial candidate setof inds to check small. Instead, we create bit-signatures for each of the columns in the input thatact as fingerprints. Those fingerprints must fulfill one important criterion: If the value set of onecolumn A in an instance of R is a subset of another column B in R (ind R . A ⊆ R . B holds), thebit-signature of A shall also be a subset of the bit-signature of B . Similar hashing approaches arealready known as simhash (Charikar 2002)."
+a43,9548,ALGORITHM 5: dep2refs Strategy
+a44,6542,Deﬁnition C evolvable by R over D p n s n p n N R C p n R N s n D
+a44,10226,Evolvability
+a44,10255,Fact Coupon Collector’s Problem n M m j CC n m n m M
+a45,1064,R
+a45,1996,R n
+a45,4509,k
+a45,4603,C
+a45,4611,C C
+a45,4624,C y R x C y x
+a45,4650,X N
+a45,4660,C B x
+a45,4661,x
+a45,4680,i n l
+a45,4692,C B x
+a45,4693,x
+a45,4715,V x x C
+a45,4724,C V
+a45,4739,S m
+a45,4747,U B i u u x
+a45,4766,S
+a45,4778,u S U x
+a45,4808,u M x u U
+a45,4888,C y x C x y C C B
+a45,6375,e l
+a45,6540,n k
+a45,10225,An Algorithm for Learning Intersections of Halfspaces
+a45,10252,k e k r r
+a45,10681,Naval Res. Quart. 45
+a45,10690,Math. Oper.
+a45,10700,Res. 31
+a45,10720,APPROX-RANDOM
+a45,10740,Proceedings of the Conference on Foundations of Computer Science
+a45,10750,Acta Sci. Math. S z eged 33
+a45,10770,Inf. Comput. 113
+a46,5798,"S ( v , v ) = ,"
+a46,7070,G V E X K K b T S S S S T S K
+a46,7172,C c S
+a46,7214,Objective function converges
+a47,1960,Supervised Learning for Early Detection of Diseases.
+a47,2135,increasing the sample size lowers the sample variance inverse of the covariance matrices
+a47,6562,k I
+a47,8285,"We are motivated to use EHR data for the early detection of mental health disorders,considering its wide accessibility and standardized use in primary care settings. Fur-ther, we are especially interested in identifying those high-risk students who have notyet received diagnosis or treatment for a mental health disorder. We thus design ourexperiments as follows."
+a47,11145,Computational Time Analysis—
+a47,11320,Covariance Matrix Estimation Analysis—
+a48,1011,i
+a48,3232,L dual L u
+a48,3656,C
+a48,3954,S N I S w N I S w S I S C G i n i G T y i n r R y I Q
+a48,4072,i x i x
+a48,4696,u m p i n v e u
+a48,4752,N p
+a48,6376,i n
+a48,9547,C 5.14. ( )
+a48,10226,Towards 3-Query Locally Decodable Codes of Subexponential Length
+a48,10254,n
+a49,5391,τ ( | )
+a49,8131,t t H s S c CP s s C t c c TP TF c CF s c C F s s C t c c TP TF CP s c
+a49,17038,8. RELATED WORK
+a5,1736,2.1 Online Learning
+a5,2570,2.3 Multiple-Kernel Learning
+a5,5901,4.2 Bounded Online Multiple-Kernel Learning Using the SPA Algorithm
+a50,5899,1 − ˆ ξ (cid:5) 1 − z (cid:4) 1 − ξ
+a6,24290,5.2 Topped Queries for Bounded Rewriting
+a7,5811,3.1 The Notion of Weak Monotonicity
+a7,6519,3.2 The Notion of Well Designedness
+a7,7197,3.3 On the Relationship between Weak Monotonicity and Well Designedness
+a7,15715,6.1 The CONSTRUCT Operator
+a7,16404,6.2 Capturing Monotone CONSTRUCT Queries
+a7,20542,7.1 A Bit of Background on Computational Complexity
+a7,25957,8.2 Query Reformulation
+a8,1900,2
+a9,1850,1.1. Prior and Subsequent Work
+a9,3742,1.2. Motivation from Learning Theory
+a9,3944,1.3. Organization
+a9,9532,3.1. The Necessity of a Dependence on VC-Dimension

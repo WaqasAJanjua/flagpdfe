@@ -1,0 +1,64 @@
+pageno,top,fonts_size,hasAck,hasAt,Allcap,hasTable,hasFigure,hasRef,hasR,hasAbstract,italic,Bold,LABEL,Text,filename
+4,2854,7,0,0,0,0,0,0,0,0,0,1,ACK,Avg. Illuminance (lx),i18
+13,10224,7,0,0,0,0,0,0,0,0,0,0,ACK,T,i22
+13,10224,7,0,0,0,0,0,0,0,0,0,0,ACK,I,i22
+13,10224,7,0,0,0,0,0,0,0,0,0,0,ACK,A,i22
+13,10224,7,0,0,0,0,0,0,0,0,0,0,ACK,T,i22
+13,10224,7,0,0,0,0,0,0,0,0,0,0,ACK,W,i22
+13,10224,7,0,0,0,0,0,0,0,0,0,0,ACK,C,i22
+13,10224,7,0,0,0,0,0,0,0,0,0,0,ACK,T,i22
+13,10224,7,0,0,0,0,0,0,0,0,0,0,ACK,E,i22
+13,10224,7,0,0,0,0,0,0,0,0,0,0,ACK,A,i22
+13,10224,7,0,0,0,0,0,0,0,0,0,0,ACK,D,i22
+13,10224,7,0,0,0,0,0,0,0,0,0,0,ACK,PPWC,i22
+4,2878,7,0,0,0,0,0,0,0,0,0,1,ACK,(a),i23
+4,2878,7,0,0,0,0,0,0,0,0,0,1,ACK,(b),i23
+4,2878,7,0,0,0,0,0,0,0,0,0,1,ACK,(c),i23
+4,2878,7,0,0,0,0,0,0,0,0,0,1,ACK,(d),i23
+13,10240,7,0,0,0,0,0,0,0,0,0,0,ACK,2,i24
+13,10240,7,0,0,0,0,0,0,0,0,0,0,ACK,0,i24
+13,10240,7,0,0,0,0,0,0,0,0,0,0,ACK,0,i24
+7,5047,9,0,0,0,0,0,0,0,0,1,1,ACK,bay. figure 11 overlays the prototypeoperation of hZ4 with the smoothertemperature  control  enabled  by  the32-tap vvt.,i26
+7,5047,9,0,0,0,0,0,0,0,0,1,1,ACK,"the vvts, a maximum 1,200-v outputwas  guaranteed  where  the  full  taprange voltage was 2,000 v.",i26
+8,6382,8,0,0,0,0,0,0,0,0,0,1,ACK,V. IMPLEMENTATION AND SECURITY ANALYSIS,i27
+13,10213,7,0,0,0,0,0,0,0,0,0,0,ACK,"(S’06–M’12–SM’17) received thePh.D. degree in electrical engineering and computerscience from the University of California at Berke-ley, Berkeley, CA, USA, in 2011.",i29
+13,10249,7,0,0,0,0,0,0,0,0,0,0,ACK,"From 2007 to 2008, he was with the Initial Engi-neering Team, Tagarray, Inc., Palo Alto, CA, USA.He was with Qualcomm’s Corporate Research andDevelopment Division, San Diego, CA, USA, in2010, where he designed circuits for next-generationultralow-power wireless transceivers. In 2012, hejoined Stanford University, Stanford, CA, USA,as an Assistant Professor of electrical engineering. He is currently a FrederickE. Terman Fellow with the School of Engineering. His current research inter-ests include high-frequency systems, medical imaging, Internet-of-Everythingdevices including wireless power delivery techniques, and medical implants.",i29
+13,10213,7,0,0,0,0,0,0,0,0,0,0,ACK,"Dr. Arbabian was a recipient or co-recipient of the 2016 Stanford UniversityTau Beta Pi Award for Excellence in Undergraduate Teaching, the 2015 NSFthe 2014 DARPA Young Faculty Award including theCAREER Award,Director’s Fellowship in 2016,the 2013 Hellman Faculty Scholarship,the 2010–2011, 2014–2015, and 2016–2017 Qualcomm Innovation Fellow-ships, the 2010 IEEE Jack Kilby Award for Outstanding Student Paper atthe IEEE International Solid-State Circuits Conference, and two time secondplace best student paper awards at 2008 and 2011 RFIC symposiums, andthe 2017 IEEE Biomedical Circuits and Systemsbest paper awards atConference, the 2016 IEEE Conference on Biomedical Wireless Technologies,Networks, and Sensing Systems, the 2014 IEEE VLSI Circuits symposium,and the 2013 IEEE International Conference on Ultra-Wideband. He currentlyserves on the steering committee of RFIC Symposium, the technical programcommittees of RFIC symposium, ESSCIRC, and VLSI Circuits Symposium,and as an Associate Editor of the IEEE S",i29
+13,10213,7,0,0,0,0,0,0,0,0,0,0,ACK,#NAME?,i29
+13,10213,7,0,0,0,0,0,0,0,0,0,0,ACK,C,i29
+13,10213,7,0,0,0,0,0,0,0,0,0,0,ACK,L,i29
+13,10213,7,0,0,0,0,0,0,0,0,0,0,ACK,and the IEEE J,i29
+13,10213,7,0,0,0,0,0,0,0,0,0,0,ACK,E,i29
+13,10213,7,0,0,0,0,0,0,0,0,0,0,ACK,", RF",i29
+13,10213,7,0,0,0,0,0,0,0,0,0,0,ACK,M,i29
+13,10213,7,0,0,0,0,0,0,0,0,0,0,ACK,M,i29
+13,10213,7,0,0,0,0,0,0,0,0,0,0,ACK,B,i29
+13,10213,7,0,0,0,0,0,0,0,0,0,0,ACK,.,i29
+13,10222,7,0,0,0,0,0,0,0,0,0,0,ACK,in,i32
+13,10250,7,0,0,0,0,0,0,0,0,0,0,ACK,"[7] A. Al-Hourani, S. Kandeepan, and A. Jamalipour, ‘‘Modeling air-to-ground path loss for low altitude platforms in urban environments,’’ in",i32
+13,10250,7,0,0,0,0,0,0,0,0,0,0,ACK,", Austin, TX, USA,Dec. 2014, pp. 2898–2904.",i32
+13,10216,7,0,0,0,0,0,0,0,0,0,0,ACK,9,i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,"The InstrumentClusterModule is responsible for collectingthe user’s inputs, such as speed and time gap, and for sendingthem to the AdaptiveCruiseControlModule. The EngineCon-trolModule and the BrakeControlModule are responsible forsending the information regarding speed and braking of thevehicle to the AdaptiveCruiseControlModule, respectively.",i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,AdaptiveCruiseControlModule is the core of the ACC fea-ture and it is responsible for calculating the acceleration,i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,and the braking of the vehicle in the presence of forward,i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,"vehicles or obstacles. In particular, the InputHandler soft-",i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,ware component is responsible for acquiring and processing,i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,the inputs coming from the other modules and to forward,i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,"them to the InputProcessing software component. Similarly,the RadarInput software component is responsible for acquir-",i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,ing and processing the information coming from the radar,i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,and forwarding it to the InputProcessing software component.,i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,Based on the user inputs on the cruise mode and considering,i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,"the presence of a forward obstacle, the InputProcessing soft-",i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,"ware component is responsible for computing the decisionwhether the vehicle has to slow down, speed up or keep",i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,a steady speed. It communicates this information to the,i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,"OutputHandler software component which, in turn, is respon-",i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,sible for sending the related brake torque and throttle sig-,i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,"nal to the BrakeControlModule and EngineControlModule,",i34
+13,10242,9,0,0,0,0,0,0,0,0,0,0,ACK,respectively.,i34
+13,10228,7,0,0,0,0,0,0,0,0,0,0,ACK,[42],i41
+13,10228,7,0,0,0,0,0,0,0,0,0,0,ACK,", NVIDIA, Santa Clara, CA, USA, 2017.[43] J. R. Gilbert, C. Moler, and R. Schreiber, ‘‘Sparse matrices in MATLAB:Design and implementation,’’",i41
+13,10228,7,0,0,0,0,0,0,0,0,0,0,ACK,", vol. 13, no. 1,pp. 333–356, Jan. 1992.",i41
+15,12104,8,0,0,0,0,0,0,0,0,0,1,ACK,ACKNOWLEDGMENTS,i5
+8,6391,8,0,0,0,0,0,0,0,0,0,1,ACK,ACKNOWLEDGMENT,i7
+13,10243,9,0,0,0,0,0,0,0,0,0,0,ACK,A,i9
+13,10243,7,0,0,0,0,0,0,0,0,0,0,ACK,CKNOWLEDGMENT,i9

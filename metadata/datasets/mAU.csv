@@ -1,0 +1,157 @@
+pageno,top,fonts_size,hasAck,hasAt,Allcap,hasTable,hasFigure,hasRef,hasR,hasAbstract,italic,Bold,LABEL,Text,filename
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,Jung Hwan Hyun,m11
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,", Bang Yeon Lee",m11
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,and Yun Yong Kim,m11
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,*,m11
+1,241,9,0,0,0,0,0,0,0,0,0,1,AU,"Dianfa Wu *, Ningling Wang, Zhiping Yang, Chengzhou Li",m12
+1,241,9,0,0,0,0,0,0,0,0,0,1,AU,and Yongping Yang,m12
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,Michael Di Gioacchino,m13
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,"*, Gaetano Campi",m13
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,", Nicola Poccia",m13
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,and Antonio Bianconi,m13
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,Peter H. Tang,m14
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,Somchai Rice,m15
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,", Nanticha Lutt",m15
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,", Jacek A. Koziel",m15
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,*,m15
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,", Murlidhar Dharmadhikari",m15
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,andAnne Fennell,m15
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,Toshio Kawahara,m17
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,"*, Hiroaki Hiramatsu",m17
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,", Yasuo Suzuki",m17
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,", Shin-ichi Nakakita",m17
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,",Yasuhide Ohno",m17
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,", Kenzo Maehashi",m17
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,", Kazuhiko Matsumoto",m17
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,", Kazumasa Okamoto",m17
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,",Teruaki Matsuba",m17
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,and Risa Utsunomiya,m17
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,Yoshikazu Mizuguchi,m18
+1,198,9,0,0,0,0,0,0,0,0,0,1,AU,Timothy Yiu-Cheong Ho and Hong Xue *,m19
+1,260,9,0,0,0,0,0,0,0,0,0,1,AU,Abul K. Mallik,m20
+1,260,9,0,0,0,0,0,0,0,0,0,1,AU,"*, Hiroki Noguchi",m20
+1,260,9,0,0,0,0,0,0,0,0,0,1,AU,", Yige Han",m20
+1,260,9,0,0,0,0,0,0,0,0,0,1,AU,", Yutaka Kuwahara",m20
+1,260,9,0,0,0,0,0,0,0,0,0,1,AU,", Makoto Takafuji",m20
+1,260,9,0,0,0,0,0,0,0,0,0,1,AU,and Hirotaka Ihara,m20
+1,260,9,0,0,0,0,0,0,0,0,0,1,AU,*,m20
+1,198,9,0,0,0,0,0,0,0,0,0,1,AU,Elisa Guelpa * and Vittorio Verda,m21
+1,171,12,0,0,0,0,0,0,0,0,0,0,AU,ISSN 1099-4300,m22
+1,171,12,0,0,0,0,0,0,0,0,0,0,AU,www.mdpi.com/journal/entropy,m22
+1,202,12,0,0,0,0,0,0,0,0,0,0,AU,Article,m22
+1,218,9,0,0,0,0,0,0,0,0,0,1,AU,Muhammad Idrees Afridi,m23
+1,218,9,0,0,0,0,0,0,0,0,0,1,AU,", Muhammad Qasim",m23
+1,218,9,0,0,0,0,0,0,0,0,0,1,AU,", Ilyas Khan",m23
+1,218,9,0,0,0,0,0,0,0,0,0,1,AU,"*, Sharidan Shaﬁe",m23
+1,218,9,0,0,0,0,0,0,0,0,0,1,AU,and Ali Saleh Alshomrani,m23
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,Mohammad Yaghoub Abdollahzadeh Jamalabadi,m24
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,", Mohammad Reza Safaei",m24
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,",Abdullah A. A. A. Alrashed",m24
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,", Truong Khang Nguyen",m24
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,*,m24
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,and Enio Pedone Bandarra Filho,m24
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,Yoshiharu Dogishi,m25
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,", Shun Endo",m25
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,", Woon Yong Sohn",m25
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,and Kenji Katayama,m25
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,*,m25
+1,221,9,0,0,0,0,0,0,0,0,0,1,AU,Tomasz Sowi ´nski,m26
+1,241,9,0,0,0,0,0,0,0,0,0,1,AU,Chunhua Song,m27
+1,241,9,0,0,0,0,0,0,0,0,0,1,AU,", Wenge Wang, Huili Peng, Ying Wang *, Chenglong Zhao *, Huibin Zhang,Qiwei Tang, Jinzhao Lv, Xianjun Du and Yanmeng Dou",m27
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,Kaiyan Qiu,m28
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,and Anil Netravali,m28
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,*,m28
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,Mercedes Alcock,m29
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,", Shabbir Ahmed",m29
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,", Shawna DuCharme",m29
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,and Chad A. Ulven,m29
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,*,m29
+1,259,9,0,0,0,0,0,0,0,0,0,1,AU,"M. Nur-E-Alam *, Mikhail Vasiliev and Kamal Alameh",m30
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,Zhichao Zhang,m31
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,", Corina Drapaca",m31
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,", Zhifeng Zhang",m31
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,*,m31
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,", Shuaifang Zhang",m31
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,", Shimei Sun",m31
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,and Hui Liu,m31
+1,219,9,0,0,0,0,0,0,0,0,0,1,AU,Piotr Miluski,m32
+1,218,9,0,0,0,0,0,0,0,0,0,1,AU,Angela Rosa Piergiovanni,m33
+1,255,9,0,0,0,0,0,0,0,0,0,1,AU,Rahma Bouabda,m34
+1,255,9,0,0,0,0,0,0,0,0,0,1,AU,"*, Mounir Bouabid",m34
+1,255,9,0,0,0,0,0,0,0,0,0,1,AU,", Ammar Ben Brahim",m34
+1,255,9,0,0,0,0,0,0,0,0,0,1,AU,and Mourad Magherbi,m34
+1,218,9,0,0,0,0,0,0,0,0,0,1,AU,"Victoria Samanidou *, Dimitrios Bitas, Stamatia Charitonos and Ioannis Papadoyannis",m35
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,Md Rashedul Kabir,m36
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,", M. Shahria Alam",m36
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,*,m36
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,", Aly M. Said",m36
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,and Achraf Ayad,m36
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,Carlos Alberto Badillo-Ruiz,m37
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,", Miguel Angel Olivares-Robles *",m37
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,andPablo Eduardo Ruiz-Ortega,m37
+1,197,9,0,0,0,0,0,0,0,0,0,1,AU,Zahra Torbatian,m38
+1,197,9,0,0,0,0,0,0,0,0,0,1,AU,and Reza Asgari,m38
+1,197,9,0,0,0,0,0,0,0,0,0,1,AU,*,m38
+1,166,12,0,0,0,0,0,0,0,0,0,1,AU,ISSN 2079-6439,m39
+1,166,12,0,0,0,0,0,0,0,0,0,0,AU,www.mdpi.com/journal/fibers,m39
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,Jie Ji,m40
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,"*, Hui Yao",m40
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,*,m40
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,", Wenhua Zheng",m40
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,", Zhi Suo",m40
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,", Yuefeng Shi",m40
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,", Ying Xu",m40
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,", Hao Wu",m40
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,and Zhanping You,m40
+1,238,9,0,0,0,0,0,0,0,0,0,1,AU,Jie Zhang,m42
+1,238,9,0,0,0,0,0,0,0,0,0,1,AU,", Bin Yang",m42
+1,238,9,0,0,0,0,0,0,0,0,0,1,AU,", Feng Fu, Fusheng You, Xiuzhen Dong * and Meng Dai *",m42
+1,216,9,0,0,0,0,0,0,0,0,0,1,AU,"Agnieszka Ste¸pniak-Dybala *, Mieczysław Jałochowski and Mariusz Krawiec",m43
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,Filipe Natalio,m44
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,*,m44
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,and Raquel Maria,m44
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,Paweł Ogrodnik,m45
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,", Bartosz Zegardło",m45
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,and Maciej Szel ˛ag,m45
+1,239,9,0,0,0,0,0,0,0,0,0,1,AU,*,m45
+1,218,9,0,0,0,0,0,0,0,0,0,1,AU,Mohammad Gholamrezaei * and Kaveh Ghorbanian,m46
+1,238,9,0,0,0,0,0,0,0,0,0,1,AU,"Hwayoung Lee, Su-Gwang Jeong, Seong Jin Chang, Yujin Kang, Seunghwan Wi andSumin Kim *",m48
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,Fuli Zhu,m49
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,", Lingen Chen",m49
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,* and Wenhua Wang,m49
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,Zhixiang Wu,m50
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,", Lingen Chen",m50
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,* and Huijun Feng,m50
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,Luc Denoroy,m1
+1,217,9,0,0,0,0,0,0,0,0,0,1,AU,* and Sandrine Parrot,m1
+1,221,9,0,0,0,0,0,0,0,0,0,1,AU,Xiao-Yong Wang,m2
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,Christoph Prall,m3
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,"*, Daniel Erni",m3
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,and Dirk Rueter,m3
+1,258,9,0,0,0,0,0,0,0,0,0,1,AU,"Ana Isabel Argente-García, Yolanda Moliner-Martínez, Esther López-García, Pilar Campíns-Falcóand Rosa Herráez-Hernández *",m4
+1,257,9,0,0,0,0,0,0,0,0,0,1,AU,Arshad Khan,m5
+1,257,9,0,0,0,0,0,0,0,0,0,1,AU,", Kashif Ali Abro",m5
+1,257,9,0,0,0,0,0,0,0,0,0,1,AU,", Asifa Tassaddiq",m5
+1,257,9,0,0,0,0,0,0,0,0,0,1,AU,and Ilyas Khan,m5
+1,257,9,0,0,0,0,0,0,0,0,0,1,AU,*,m5
+1,218,9,0,0,0,0,0,0,0,0,0,1,AU,Lluís Gil,m6
+1,218,9,0,0,0,0,0,0,0,0,0,1,AU,"*, Ernest Bernat-Masó",m6
+1,218,9,0,0,0,0,0,0,0,0,0,1,AU,and Francisco Javier Cañavate,m6
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,Mariya Aleksandrova,m7
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,*,m7
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,", Georgi Kolev",m7
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,", Yordanka Vucheva",m7
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,", Habib Pathan",m7
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,and Krassimir Denishev,m7
+1,197,9,0,0,0,0,0,0,0,0,0,1,AU,Ipsita Mandal,m8
+1,197,9,0,0,0,0,0,0,0,0,0,1,AU,* and Atri Bhattacharya,m8
+1,257,9,0,0,0,0,0,0,0,0,0,1,AU,Shengwei Huang,m9
+1,257,9,0,0,0,0,0,0,0,0,0,1,AU,", Chengzhou Li",m9
+1,257,9,0,0,0,0,0,0,0,0,0,1,AU,", Tianyu Tan",m9
+1,257,9,0,0,0,0,0,0,0,0,0,1,AU,", Peng Fu",m9
+1,257,9,0,0,0,0,0,0,0,0,0,1,AU,", Ligang Wang",m9
+1,257,9,0,0,0,0,0,0,0,0,0,1,AU,*and Yongping Yang,m9
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,Zengchao You,m10
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,", Florian Meier",m10
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,and Steffen Weidner,m10
+1,237,9,0,0,0,0,0,0,0,0,0,1,AU,*,m10

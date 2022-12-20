@@ -1,0 +1,174 @@
+pageno,top,fonts_size,hasAck,hasAt,Allcap,hasTable,hasFigure,hasRef,hasR,hasAbstract,italic,Bold,LABEL,Text,filename
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,Université Paris-Dauphine - PSL Research University - CNRS,a11
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,Università di Pisa,a11
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,Università della Basilicata,a11
+1,236,8,0,0,0,0,0,0,0,0,0,0,AFF,Regular Expressions (REs) are ubiquitous in database and programming languages. While many applicationsmake use of REs extended with,a11
+1,236,8,0,0,0,0,0,0,0,0,0,0,AFF,interleaving,a11
+1,236,8,0,0,0,0,0,0,0,0,0,0,AFF,(,a11
+1,236,8,0,0,0,0,0,0,0,0,0,0,AFF,shuffle,a11
+1,236,8,0,0,0,0,0,0,0,0,0,0,AFF,) and,a11
+1,236,8,0,0,0,0,0,0,0,0,0,0,AFF,unordered concatenation,a11
+1,236,8,0,0,0,0,0,0,0,0,0,0,AFF,"operators, this extensionbadly affects the complexity of basic operations, and, especially, makes",a11
+1,236,8,0,0,0,0,0,0,0,0,0,0,AFF,membership,a11
+1,236,8,0,0,0,0,0,0,0,0,0,0,AFF,"NP-hard, which is unac-ceptable in most practical scenarios.",a11
+1,280,8,0,0,0,0,0,0,0,0,0,0,AFF,"In this article, we study the problem of membership checking for a restricted class of these extended REs,called",a11
+1,280,8,0,0,0,0,0,0,0,0,0,0,AFF,conflict-free REs,a11
+1,280,8,0,0,0,0,0,0,0,0,0,0,AFF,", which are expressive enough to cover the vast majority of real-world applications. Wepresent several polynomial algorithms for membership checking over conflict-free REs. The algorithms areall polynomial and differ in terms of adopted optimization techniques and in the kind of supported operators.As a particular application, we generalize the approach to check membership of Extensible Markup Languagetrees into a class of EDTDs (Extended Document Type Definitions) that models the crucial aspects of DTDs(Document Type Definitions) and XSD (XML Schema Definitions) schemas.",a11
+1,184,7,0,0,0,0,0,0,0,0,0,0,AFF,", Budapest University of Tech. and Economics / MTA SZTAKI",a12
+1,184,7,0,0,0,0,0,0,0,0,0,0,AFF,", Sz´echenyi Istv ´an University",a12
+1,165,7,0,0,0,0,0,0,0,0,0,0,AFF,", Shandong University of Finance and Economics",a13
+1,165,7,0,0,0,0,0,0,0,0,0,0,AFF,", Northumbria University",a13
+1,165,7,0,0,0,0,0,0,0,0,0,0,AFF,", Shandong University",a13
+1,165,7,0,0,0,0,0,0,0,0,0,0,AFF,", Hefei University of Technology",a13
+1,165,7,0,0,0,0,0,0,0,0,0,0,AFF,", Shandong University",a13
+1,277,8,0,0,0,0,0,0,0,0,1,0,AFF,"University of California at Berkeley, Berkeley, California",a14
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of Pisa",a15
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of Sannio",a15
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of Pisa",a15
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", Centre for Intelligent Signal & Imaging Research (CISIR),Universiti Teknologi PETRONAS",a16
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", Department of Electrical & Electronic Engineering,Universiti Teknologi PETRONAS",a16
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", Department of Computer Information Science,Universiti Teknologi PETRONAS",a16
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", Hong Kong University of Science andTechnology",a17
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,",University of Toronto",a18
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of Namur",a19
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", The Open University and University of Namur",a19
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of Namur",a19
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of Texas at Arlington",a20
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", Brigham and Women’s Hospital / Harvard Medical School",a21
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", Massachusetts Institute of Technology",a21
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", IBM T.J. Watson Research Center",a21
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", Stanford University",a21
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of Virginia",a21
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of Washington",a21
+1,165,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of Washington",a22
+1,165,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of Mons",a22
+1,283,7,0,0,0,0,0,0,0,0,1,0,AFF,q,a22
+1,283,7,0,0,0,0,0,0,0,0,1,0,AFF,q,a22
+1,283,7,0,0,0,0,0,0,0,0,1,0,AFF,q,a22
+1,283,7,0,0,0,0,0,0,0,0,1,0,AFF,q,a22
+1,283,7,0,0,0,0,0,0,0,0,1,0,AFF,q,a22
+1,202,7,0,0,0,0,0,0,0,0,0,0,AFF,"Various reputation systems have been proposed for a broad range of distributed applications, such as peer-to-peer, ad-hoc, and multiagent systems. Their evaluation has been mostly based on proprietary methods dueto the lack of widely acceptable evaluation measures and methodologies. Differentiating factors in variousevaluation approaches include the evaluation metrics, the consideration of the dynamic behavior of peers, theuse of social networks, or the study of resilience to speciﬁc threat scenarios. The lack of a generally accepted",a23
+1,202,7,0,0,0,0,0,0,0,0,0,0,AFF,"common evaluation framework hinders the objective evaluation and comparison of different reputationsystems. Aiming at narrowing the gap in the research area of objective evaluation of reputation systems,in this article, we study the various approaches to evaluating and comparing reputation systems, presentthem in a taxonomy, and analyze their strengths and limitations, with special focus on works suggesting aCommon Evaluation Framework (CEF). We identify the challenges for a widely accepted CEF that enablestesting and benchmarking of reputation systems, and we present the required properties for such a CEF;we also present an analysis of current CEF-related works in the context of the identiﬁed properties and ourrelated proposals.",a23
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", Boston University",a24
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,Chinese Academy of Sciences,a25
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,Chinese University of Hong Kong,a25
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,University of Sydney,a25
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,Chinese Academy of Sciences,a25
+1,202,7,0,0,0,0,0,0,0,0,0,0,AFF,"Network level surveillance, censorship, and various man-in-the-middle attacks target only speciﬁc typesof network trafﬁc (e.g., HTTP, HTTPS, VoIP, or Email). Therefore, packets of these types will likely receive“special” treatment by a transit network or a man-in-the-middle attacker. A transit Internet Service Provider(ISP) or an attacker may pass the targeted trafﬁc through special software or equipment to gather data orperform an attack. This creates a measurable difference between the performance of the targeted trafﬁc",a26
+1,202,7,0,0,0,0,0,0,0,0,0,0,AFF,"versus the general case. In networking terms, it violates the principle of “network neutrality,” which statesthat all trafﬁc should be treated equally. Many techniques were designed to detect network neutralityviolations, and some have naturally suggested using them to detect surveillance and censorship. In thisarticle, we show that the existing network neutrality measurement techniques can be easily detected andtherefore circumvented. We then brieﬂy propose a new approach to overcome the drawbacks of currentmeasurement techniques.",a26
+1,164,7,0,0,0,0,0,0,0,0,0,0,AFF,", Budapest University of Technology and Economics",a28
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", Universidad Michoacana de San Nicol ´as de Hidalgo",a29
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", Instituto Tecnol´ogico de Morelia",a29
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", North Carolina State University",a31
+1,165,7,0,0,0,0,0,0,0,0,0,0,AFF,", Tel-Aviv University",a33
+1,165,7,0,0,0,0,0,0,0,0,0,0,AFF,", Stanford University",a33
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of New Mexico",a34
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of Virginia",a34
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of New Mexico",a34
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,"The proliferation and ubiquity of temporal data across many disciplines has generated substantial interestin the analysis and mining of time series. Clustering is one of the most popular data-mining methods, notonly due to its exploratory power but also because it is often a preprocessing step or subroutine for othertechniques. In this article, we present",a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,#NAME?,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,-MultiShapes (,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,"-MS), two novel algorithms for time-series clustering.",a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,#NAME?,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,"-MS rely on a scalable iterative reﬁnement procedure. As their distancemeasure,",a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,#NAME?,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,#NAME?,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,"measure, to consider the shapes of time series while comparing them. Based on the properties of SBD, we",a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,"develop two new methods, namely ShapeExtraction (SE) and MultiShapesExtraction (MSE), to computecluster centroids that are used in every iteration to update the assignment of time series to clusters.",a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,"-Shaperelies on SE to compute a single centroid per cluster based on all time series in each cluster. In contrast,",a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,"-MSrelies on MSE to compute multiple centroids per cluster to account for the proximity and spatial distributionof time series in each cluster. To demonstrate the robustness of SBD,",a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,#NAME?,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,"-MS, we perform anextensive experimental evaluation on 85 datasets against state-of-the-art distance measures and clusteringmethods for time series using rigorous statistical analysis. SBD, our efﬁcient and parameter-free distancemeasure, achieves similar accuracy to Dynamic Time Warping (DTW), a highly accurate but computationallyexpensive distance measure that requires parameter tuning. For clustering, we compare",a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,#NAME?,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,#NAME?,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,"-Shape outperforms all scalablemethods in terms of accuracy. Furthermore,",a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,#NAME?,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,#NAME?,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,"-Shape, thisapproach requires tuning of its distance measure and is signiﬁcantly slower than",a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,#NAME?,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,#NAME?,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,#NAME?,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,-MS is signiﬁcantly more accurate than,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,#NAME?,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,"-Shape to reduce the search space of one-nearest-neighbor classiﬁers for time series. Overall, SBD,",a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,#NAME?,a38
+1,191,7,0,0,0,0,0,0,0,0,0,0,AFF,"-MS emerge as domain-independent, highlyaccurate, and efﬁcient methods for time-series comparison and clustering with broad applications.",a38
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,Heidelberg University,a39
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,University of Alberta,a39
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,Simon Fraser University,a39
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,Ludwig-Maximilians-Universität München,a39
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,University of Arkansas at Little Rock,a39
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", Lero, University of Limerick",a40
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of Groningen",a40
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of Adelaide",a40
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", Neopost Technologies",a40
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", Lero, University of Limerick",a40
+1,267,7,0,0,0,0,0,0,0,0,0,0,AFF,"A number of organizations have adopted Open Source Software (OSS) development practices to supportor augment their software development processes, a phenomenon frequently referred to as",a40
+1,267,7,0,0,0,0,0,0,0,0,0,0,AFF,".However the adoption of Inner Source is not a straightforward issue. Many organizations are strugglingwith the question of whether Inner Source is an appropriate approach to software development for them inthe ﬁrst place. This article presents a framework derived from the literature on Inner Source, which identiﬁesnine important factors that need to be considered when implementing Inner Source. The framework can be",a40
+1,267,7,0,0,0,0,0,0,0,0,0,0,AFF,used as a probing instrument to assess an organization on these nine factors so as to gain an understanding of,a40
+1,267,7,0,0,0,0,0,0,0,0,0,0,AFF,"whether or not Inner Source is suitable. We applied the framework in three case studies at Philips Healthcare,Neopost Technologies, and Rolls-Royce, which are all large organizations that have either adopted InnerSource or were planning to do so. Based on the results presented in this article, we outline directions forfuture research.",a40
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", Singapore University of Technology and Design",a41
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", NationalUniversity of Singapore",a41
+2,1429,8,0,0,0,0,0,0,0,0,0,0,AFF,HE,a42
+2,1429,8,0,0,0,0,0,0,0,0,0,0,AFF,ODEL,a42
+1,163,8,0,0,0,0,0,0,0,0,0,0,AFF,Hasso Plattner Institute,a43
+1,206,8,0,0,0,0,0,0,0,0,0,0,AFF,"Detecting inclusion dependencies, the prerequisite of foreign keys, in relational data is a challenging task.Detecting them among the hundreds of thousands or even millions of tables on the web is daunting. Still, suchinclusion dependencies can help connect disparate pieces of information on the Web and reveal unknownrelationships among tables.",a43
+1,250,8,0,0,0,0,0,0,0,0,0,0,AFF,"With the algorithm Many, we present a novel inclusion dependency detection algorithm, specialized forthe very many—but typically small—tables found on the Web. We make use of Bloom filters and indexedbit-vectors to show the feasibility of our approach. Our evaluation on two corpora of Web tables shows asuperior runtime over known approaches and its usefulness to reveal hidden structures on the Web.",a43
+1,315,8,0,0,0,0,0,0,0,0,0,0,AFF,.,a45
+1,602,8,0,0,0,0,0,0,0,0,0,0,AFF,"The author acknowledges support from NSF awards AF-0915903 and AF-0910584.Authors’ address: Santosh S. Vempala, School of Computer Science, Georgia Tech, 266 Ferst Drive,Atlanta, GA 30332, e-mail: vempala@gatech.edu.Permission to make digital or hard copies of part or all of this work for personal or classroom useis granted without fee provided that copies are not made or distributed for proﬁt or commercialadvantage and that copies show this notice on the ﬁrst page or initial screen of a display along withthe full citation. Copyrights for components of this work owned by others than ACM must be honored.Abstracting with credit is permitted. To copy otherwise, to republish, to post on servers, to redistributeto lists, or to use any component of this work in other works requires prior speciﬁc permission and/ora fee. Permissions may be requested from Publications Dept., ACM, Inc., 2 Penn Plaza, Suite 701,New York, NY 10121-0701 USA, fax",a45
+1,602,8,0,0,0,0,0,0,0,0,0,0,AFF,+,a45
+1,602,8,0,0,0,0,0,0,0,0,0,0,AFF,"1 (212) 869-0481, or permissions@acm.org.",a45
+1,602,8,0,0,0,0,0,0,0,0,0,0,AFF,2010 ACM 0004-5411/2010/10-ART32 $10.00,a45
+1,602,8,0,0,0,0,0,0,0,0,0,0,AFF,DOI 10.1145/1857914.1857916 http://doi.acm.org/10.1145/1857914.1857916,a45
+2,1547,8,0,0,0,0,0,0,0,0,0,0,AFF,A preliminary version of this article appeared in FOCS 1997 [Vempala 1997]. While the main,a45
+2,1547,8,0,0,0,0,0,0,0,0,0,0,AFF,"algorithm here is essentially the same, this complete version corrects errors and extends the analysis",a45
+2,1547,8,0,0,0,0,0,0,0,0,0,0,AFF,to logconcave input distributions.,a45
+1,165,7,0,0,0,0,0,0,0,0,0,0,AFF,", East China Normal University",a46
+1,165,7,0,0,0,0,0,0,0,0,0,0,AFF,", East China Normal University & University of Pittsburgh",a46
+1,165,7,0,0,0,0,0,0,0,0,0,0,AFF,", Massachusetts Institute of Technology",a46
+1,177,7,0,0,0,0,0,0,0,0,0,0,AFF,", Missouri University of Science and Technology",a47
+1,177,7,0,0,0,0,0,0,0,0,0,0,AFF,",University of Virginia",a47
+1,582,8,0,0,0,0,0,0,0,0,0,0,AFF,Preliminary versions of this article appeared in,a48
+1,582,8,0,0,0,0,0,0,0,0,1,0,AFF,Electronic Colloquium on Computational Complexity,a48
+1,582,8,0,0,0,0,0,0,0,0,1,0,AFF,(ECCC),a48
+1,582,8,0,0,0,0,0,0,0,0,0,0,AFF,". Tech. Rep. TR06-127, 2006 and in",a48
+1,582,8,0,0,0,0,0,0,0,0,1,0,AFF,Proceedings of the 39th ACM Symposium on Theory ofComputing (STOC),a48
+1,582,8,0,0,0,0,0,0,0,0,0,0,AFF,", ACM, New York, 2007, pp. 266–274.Author’s present address: Institute for Advanced Study (IAS), Princeton, NJ 08540; e-mail:yekhanin@ias.edu.Permission to make digital or hard copies of part or all of this work for personal or classroom use isgranted without fee provided that copies are not made or distributed for proﬁt or direct commercialadvantage and that copies show this notice on the ﬁrst page or initial screen of a display along with thefull citation. Copyrights for components of this work owned by others than ACM must be honored.Abstracting with credit is permitted. To copy otherwise, to republish, to post on servers, to redistributeto lists, or to use any component of this work in other works requires prior speciﬁc permission and/ora fee. Permissions may be requested from Publications Dept., ACM, Inc., 2 Penn Plaza, Suite 701,",a48
+1,582,8,0,0,0,0,0,0,0,0,0,0,AFF,"New York, NY 10121-0701 USA, fax",a48
+1,582,8,0,0,0,0,0,0,0,0,0,0,AFF,+,a48
+1,582,8,0,0,0,0,0,0,0,0,0,0,AFF,"1 (212) 869-0481, or permissions@acm.org.",a48
+1,582,8,0,0,0,0,0,0,0,0,0,0,AFF,2008 ACM 0004-5411/2008/02-ART1 $5.00 DOI 10.1145/1326554.1326555 http://doi.acm.org/10.1145/1326554.1326555,a48
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", University College London",a49
+1,274,8,0,0,0,0,0,0,0,0,0,0,AFF,"Transfer learning has gained a lot of attention and interest in the past decade. One crucial research issuein transfer learning is how to find a good representation for instances of different domains such that thedivergence between domains can be reduced with the new representation. Recently, deep learning has beenproposed to learn more robust or higher-level features for transfer learning. In this article, we adapt the au-toencoder technique to transfer learning and propose a supervised representation learning method basedon double encoding-layer autoencoder. The proposed framework consists of two encoding layers: one forembedding and the other one for label encoding. In the embedding layer, the distribution distance of theembedded instances between the source and target domains is minimized in terms of KL-Divergence. In thelabel encoding layer, label information of the source domain is encoded using a softmax regression model.Moreover, to empirically explore why the proposed framework can work well for transfer learning, we pro-pose a new effective measure based on autoencoder to compute the distribution distance between differentdomains. Experimental results show that the proposed new measure can better reflect the degree of transferdifficulty and has stronger correlation with the performance from supervised learning algorithms (e.g., Lo-gistic Regression), compared with previous ones, such as KL-Divergence and Maximum Mean Discrepancy.Therefore, in our model, we have incorporated two distribution distance measures to minimize the differencebetween source and target domains in the embedding representations. Extensive experiments conducted onthree real-world image datasets and one text data demonstrate the effectiveness of our proposed methodcompared with several state-of-the-art baseline methods.",a50
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", Simula Research Laboratory, Norway",a1
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", Simula Research Laboratory and University of Oslo",a1
+1,197,7,0,0,0,0,0,0,0,0,0,0,AFF,", Carleton University, Canada",a1
+1,163,8,0,0,0,0,0,0,0,0,0,0,AFF,University of Lille,a2
+1,304,8,0,0,0,0,0,0,0,0,0,0,AFF,"Additional Key Words and Phrases: Program repair, self-healing software",a2
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,Swinburne University of Technology,a3
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,Victoria University,a3
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,RMIT University,a3
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,University of Nottingham Ningbo China,a3
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,The University of Hong Kong,a3
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,University of Wollongong,a3
+1,163,8,0,0,0,0,0,0,0,0,0,0,AFF,University of Edinburgh,a4
+1,163,8,0,0,0,0,0,0,0,0,0,0,AFF,Pontifica Universidad Católica de Chile and Center for Semantic Web Research,a4
+1,163,8,0,0,0,0,0,0,0,0,0,0,AFF,Pontifica Universidad Católica de Chile and Center for Semantic Web Research,a4
+1,163,8,0,0,0,0,0,0,0,0,0,0,AFF,Pontifica Universidad Católica de Chile and Center for Semantic Web Research,a4
+1,177,8,0,0,0,0,0,0,0,0,0,0,AFF,"School of Information Systems, Singapore Management University,Singapore",a5
+1,177,8,0,0,0,0,0,0,0,0,0,0,AFF,"School of Software Engineering, South China University of Technology, China",a5
+1,177,8,0,0,0,0,0,0,0,0,0,0,AFF,"School of Information Systems, Singapore Management University, Singapore",a5
+1,163,8,0,0,0,0,0,0,0,0,0,0,AFF,University of Edinburgh,a6
+1,163,8,0,0,0,0,0,0,0,0,0,0,AFF,University of Edinburgh and Beihang University,a6
+1,163,8,0,0,0,0,0,0,0,0,0,0,AFF,University of Antwerp,a6
+1,163,8,0,0,0,0,0,0,0,0,0,0,AFF,Beihang University,a6
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,Pontificia Universidad Católica de Chile & Center for Semantic Web Research,a7
+1,180,8,0,0,0,0,0,0,0,0,0,0,AFF,Université Libre de Bruxelles,a7
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", Vrije Universiteit Brussel",a8
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", Carnegie Mellon University",a9
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", California Institute of Technology",a9
+1,185,7,0,0,0,0,0,0,0,0,0,0,AFF,", University of Pennsylvania",a9
+1,162,8,0,0,0,0,0,0,0,0,0,0,AFF,"LogicBlox, Inc.",a10
+1,162,8,0,0,0,0,0,0,0,0,0,0,AFF,Technion – Israel Institute of Technology,a10
+1,162,8,0,0,0,0,0,0,0,0,0,0,AFF,University of Oxford,a10
+1,162,8,0,0,0,0,0,0,0,0,0,0,AFF,"LogicBlox, Inc.",a10

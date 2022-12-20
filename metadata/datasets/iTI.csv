@@ -1,0 +1,132 @@
+pageno,top,fonts_size,hasAck,hasAt,Allcap,hasTable,hasFigure,hasRef,hasR,hasAbstract,italic,Bold,LABEL,Text,filename
+1,107,23,0,0,0,0,0,0,0,0,0,0,TI,Development and Evaluation of a 7-DOFHaptic Interface,i11
+1,109,23,0,0,0,0,0,0,0,0,0,0,TI,A Comprehensive Algorithm for EstimatingLithium-Ion Battery Parameters From Measurements,i12
+5,3512,9,0,0,0,0,0,0,0,0,0,1,TI,for,i12
+5,3512,9,0,0,0,0,0,0,0,0,0,1,TI,to,i12
+5,3512,9,0,0,0,0,0,0,0,0,0,1,TI,do,i12
+5,3512,9,0,0,0,0,0,0,0,0,0,1,TI,calculate,i12
+5,3512,9,0,0,0,0,0,0,0,0,0,1,TI,if,i12
+5,3512,9,0,0,0,0,0,0,0,0,0,1,TI,then,i12
+5,3512,9,0,0,0,0,0,0,0,0,0,1,TI,end ifif,i12
+1,169,21,0,0,0,0,0,0,0,0,0,0,TI,Dimension Reduction of Channel CorrelationMatrix Using CUR-Decomposition Techniquefor 3-D Massive Antenna System,i13
+5,3516,9,0,0,0,0,0,0,0,0,0,1,TI,A,i13
+1,169,21,0,0,0,0,0,0,0,0,0,0,TI,Adaptive Semi-Periodically Intermittent and LagSynchronization Control of Neural NetworksWith Mixed Delays,i14
+1,169,21,0,0,0,0,0,0,0,0,0,0,TI,Fast Discrepancy Identification forRFID-Enabled IoT Networks,i15
+1,169,21,0,0,0,0,0,0,0,0,0,0,TI,Enabling Adaptability in Web Forms Basedon User Characteristics Detection ThroughA/B Testing and Machine Learning,i16
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,"Regarding the ﬁrst attempt to build the best predictivemodel, the researchers used all the variables (excluding the",i16
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,cleaned ones applying the rules deﬁned in the methods,i16
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,"sections). As presented in https://github.com/juan-cb/paper-ieeeAccess-2017/blob/master/machinelearning-results.ipynb[26], the predictive model generated had an average precisionof 0.79 (Table 2 shows the results and explanations of the",i16
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,"results metrics) in predicting whether users will ﬁnalize theweb form before starting it (in fact, this 0.79 is a fairly good",i16
+1,169,21,0,0,0,0,0,0,0,0,0,0,TI,An Adaptive Multi-Channel Assignment andCoordination Scheme for IEEE 802.11P/1609.4in Vehicular Ad-Hoc Networks,i17
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,"According to the standard speciﬁcations, safety-related pack-",i17
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,"ets always have the higher priority; therefore, the AMAC",i17
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,scheme classiﬁes the packets during the random contentionperiod into two priorities: higher (AC1) and lower (AC2)priorities for safety and WSA packets respectively. This kindof classiﬁcation can ensure the reliable and real-time trans-,i17
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,mission of the safety packets on the CCH under dense trafﬁcconditions. In order to support QoS for different applications,i17
+1,183,23,0,0,0,0,0,0,0,0,0,1,TI,A Novel Illuminance Control Strategy forRoadway Lighting Based on GreenshieldsMacroscopic Trafﬁc Model,i18
+1,158,10,0,0,0,0,0,0,0,0,0,1,TI,Open Access,i18
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,"After the weighing factor is determined, the class of illumination is determined based on (4).",i18
+1,169,21,0,0,0,0,0,0,0,0,0,0,TI,Opportunistic Coexistence of LTE and WiFi forFuture 5G System: Experimental PerformanceEvaluation and Analysis,i19
+1,169,21,0,0,0,0,0,0,0,0,0,0,TI,Pattern Based Comprehensive Urdu Stemmerand Short Text Classification,i20
+1,169,21,0,0,0,0,0,0,0,0,0,0,TI,A Bandwidth Variation Pattern-DifferentiatedRate Adaptation for HTTP Adaptive StreamingOver an LTE Cellular Network,i21
+1,108,23,0,0,0,0,0,0,0,0,0,0,TI,Practical Veriﬁable Computation–A MapReduce Case Study,i22
+1,108,23,0,0,0,0,0,0,0,0,0,0,TI,WMGR: A Generic and Compact RoutingScheme for Data Center Networks,i23
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,Switching Laws Design for Stability of Finite andInfinite Delayed Switched Systems With Stableand Unstable Modes,i24
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,A New Inter-Domain Information SharingSmart System Based on ABSES in SDN,i25
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,Vulnerability Analysis for the AuthenticationProtocols in Trusted Computing Platforms and aProposed Enhancement of the OffPAD Protocol,i27
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,Plateaux,i27
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,[24] proposed a new authentication pro-,i27
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,tocol for online banking and electronic payment systems,i27
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,called,i27
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,". Their protocol involves two maincomponents: the OffPAD, which ensures security and pri-vacy, and a supporting biometrics algorithm. The proto-col demonstrates outstanding performance when applied tothree levels of ﬁngerprint databases, and has great prop-",i27
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,erties for safety and protection issues. A challenge-based,i27
+1,108,23,0,0,0,0,0,0,0,0,0,0,TI,A Miniaturized Single-Transducer ImplantablePressure Sensor With Time-MultiplexedUltrasonic Data and Power Links,i29
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,"Simultaneous Robust, Decoupled OutputFeedback Control for MultivariateIndustrial Systems",i30
+1,108,23,0,0,0,0,0,0,0,0,0,0,TI,A Collaborative Citizen Science Platform forReal-Time Volunteer Computing and Games,i31
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,Time-Frequency Scheduling and PowerOptimization for Reliable MultipleUAV Communications,i32
+5,4011,9,0,0,0,0,0,0,0,0,1,1,TI,y,i32
+6,4352,9,0,0,0,0,0,0,0,0,1,1,TI,y,i32
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,Dynamic Spectrum Access With Physical LayerSecurity: A Game-Based Jamming Approach,i33
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,MoVES: A Model-Driven Methodology forVehicular Embedded Systems,i34
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,Antenna Mode Switching for Full-DuplexDestination-Based Jamming Secure Transmission,i35
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,(γ,i35
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,),i35
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,(cid:16),i35
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,α,i35
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,E,i35
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,(,i35
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,1,i35
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,−,i35
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,α),i35
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,E,i35
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,α(cid:127),i35
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,(,i35
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,1,i35
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,−,i35
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,α) (cid:127),i35
+1,158,21,0,0,0,0,0,0,0,0,0,0,TI,Enhancing Near-Infrared PhotodetectionEfﬁciency in SPAD With Silicon SurfaceNanostructuration,i36
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,Hydrological Analysis Using Satellite RemoteSensing Big Data and CREST Model,i37
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,Representing Social Network Patient Data asEvidence-Based Knowledge to Support DecisionMaking in Disease Progression for Comorbidities,i38
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,Modeling and Analysis of One-TierUltradense Multiuser Networks,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,We consider a typical SBS,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,"located at the origin. Basedon the Reduce Palm Theorem [21], all interfering SBSs",i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,{,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,(cid:56),i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,/,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,},i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,are still a P.P.P. with density of,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,λ,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,. For any sub-channel,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,∈,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,1,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,",",i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,2,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,",",i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,· · ·,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,",",i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,of,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,", all interfering SBSs inwhich sub-channel",i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,is active are a P.P.P. with density of,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,·,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,λ,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,according to the Thinning P.P.P. Theorem [19]. Turningoff sub-channels inﬂuences not the distribution of distancesbetween users and their tagged SBS but rather the distribution,i39
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,of distances between users and all interfering SBSs except,i39
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,Multistage Angular Momentum Managementfor Space Station Attitude Control,i40
+6,4363,9,0,0,0,0,0,0,0,0,1,1,TI,x,i40
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,Fast Batched Solution for Real-TimeOptimal Power Flow With Penetrationof Renewable Energy,i41
+1,169,21,0,0,0,0,0,0,0,0,0,0,TI,Clinician-Driven Design of,i42
+1,169,21,0,0,0,0,0,0,0,0,1,0,TI,VitalPAD,i42
+1,169,21,0,0,0,0,0,0,0,0,0,0,TI,—AnIntelligent Monitoring and CommunicationDevice to Improve Patient Safety in theIntensive Care Unit,i42
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,Power Allocation and Performance Analysisof Cooperative Spatial Modulationin Wireless Relay Networks,i43
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,Maximizing Cognitive Radio NetworksThroughput Using Limited HistoricalBehavior of Primary Users,i44
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,Figure 4 shows ﬁve sensing frames in order to illustrate the,i44
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,New Wireless Sensor Network LocalizationAlgorithm for Outdoor Adventure,i45
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,Enhanced Instant Message Security and PrivacyProtection Scheme for Mobile SocialNetwork Systems,i46
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,"When the server has received the message, the server will",i46
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,A Quadrilinear Decomposition Method forDirection Estimation in Bistatic MIMO Radar,i47
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,"Generally, the low-rank approximation is non-unique whilelow-rank tensor factorization is essentially unique under mildconditions. Eq.(16) implies the sufﬁcient condition for theuniqueness of PARAFAC decomposition. Usually, we have",i47
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,(cid:29),i47
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,and,i47
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,(cid:29),i47
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,", thus",i47
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,=,i47
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,=,i47
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,". Therefore, the proposed algorithm can idendity up",i47
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,to,i47
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,+,i47
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,−,i47
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,1 targets.,i47
+5,4007,9,0,0,0,0,0,0,0,0,0,0,TI,(cid:118)(cid:117)(cid:117)(cid:116),i47
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,A Data-Driven Knowledge Acquisition System:An End-to-End Knowledge Engineering Processfor Generating Production Rules,i48
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,Secure and Efficient Product InformationRetrieval in Cloud Computing,i49
+1,109,23,0,0,0,0,0,0,0,0,0,0,TI,The Effects of Noisy Labels on Deep ConvolutionalNeural Networks for Music Tagging,i50
+1,423,29,0,0,0,0,0,0,0,0,0,1,TI,M,i50
+1,169,21,0,0,0,0,0,0,0,0,0,0,TI,Vehicle Detection and Counting inHigh-Resolution Aerial Images UsingConvolutional Regression Neural Network,i1
+1,200,21,0,0,0,0,0,0,0,0,0,0,TI,BIDaaS: Blockchain Based ID As a Service,i2
+1,161,21,0,0,0,0,0,0,0,0,0,0,TI,Mobile Cyber Physical Systems: CurrentChallenges and Future Networking Applications,i3
+1,109,23,0,0,0,0,0,0,0,0,0,0,TI,Trans-Atlantic Field Trial Using High SpectralEfﬁciency Probabilistically Shaped 64-QAM andSingle-Carrier Real-Time 250-Gb/s 16-QAM,i4
+1,169,21,0,0,0,0,0,0,0,0,0,0,TI,A Sidelobe and Energy Optimization Array NodeSelection Algorithm for CollaborativeBeamforming in Wireless Sensor Networks,i5
+1,169,21,0,0,0,0,0,0,0,0,0,0,TI,Trajectory Mining Using Uncertain Sensor Data,i6
+1,169,21,0,0,0,0,0,0,0,0,0,0,TI,Data Offloading in Mobile Edge Computing:A Coalition and Pricing Based Approach,i7
+1,108,23,0,0,0,0,0,0,0,0,0,0,TI,Systematic Model-Based Design andImplementation of Supervisors forAdvanced Driver Assistance Systems,i8
+1,108,23,0,0,0,0,0,0,0,0,0,0,TI,Sentinel: A Codesigned Platform for SemanticEnrichment of Social Media Streams,i9
+1,108,23,0,0,0,0,0,0,0,0,0,0,TI,Detecting Data-ﬂow Errors Based on Petri NetsWith Data Operations,i10

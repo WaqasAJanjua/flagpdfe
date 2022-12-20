@@ -1,0 +1,195 @@
+pageno,top,fonts_size,hasAck,hasAt,Allcap,hasTable,hasFigure,hasRef,hasR,hasAbstract,italic,Bold,LABEL,Text,filename
+1,169,10,0,0,0,0,0,0,0,0,0,0,AU,"Jian-Long Hao, Xiao-Liang Xie,",i11
+1,169,10,0,0,0,0,0,0,0,0,0,0,AU,"Gui-Bin Bian,",i11
+1,169,10,0,0,0,0,0,0,0,0,0,0,AU,"Zeng-Guang Hou,",i11
+1,169,10,0,0,0,0,0,0,0,0,0,0,AU,and Xiao-Hu Zhou,i11
+1,237,9,0,0,0,0,0,0,0,0,0,0,AU,"Company) [2], [3] and delta device series (Force DimensionCompany) [4], [5]. Detailed research on the phantom hapticdevice can be found in [6], [7]. The other kind of hapticinterface is the admittance controlled one (force in and motionout), which is generally used for applications requiring highforce in a large workspace.",i11
+1,170,10,0,0,0,0,0,0,0,0,0,0,AU,Dominik Dvorak,i12
+1,170,10,0,0,0,0,0,0,0,0,0,0,AU,", Thomas B¨auml, Alexandra Holzinger",i12
+1,170,10,0,0,0,0,0,0,0,0,0,0,AU,", and Hartmut Popp",i12
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,XIONGWEN ZHAO,i13
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", (Senior Member, IEEE), ADAM MOHAMED AHMED ABDO",i13
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,",CHEN XU",i13
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE), SUIYAN GENG",i13
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", JIANHUA ZHANG",i13
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", (Senior Member, IEEE),AND IMRAN MEMON",i13
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE)",i13
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,NING LI,i14
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", HAIYI SUN",i14
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", ZHOUTONG LI",i14
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", AND QINGLING ZHANG",i14
+1,233,9,0,0,0,0,0,0,0,0,0,0,AU,CAIDONG GU,i15
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,JUAN CRUZ-BENITO,i16
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE), ANDREA VÁZQUEZ-INGELMO",i16
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,",JOSÉ CARLOS SÁNCHEZ-PRIETO",i16
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", ROBERTO THERÓN",i16
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,",FRANCISCO JOSÉ GARCÍA-PEÑALVO",i16
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE),AND MARTÍN MARTÍN-GONZÁLEZ",i16
+1,257,9,0,0,0,0,0,0,0,0,0,0,AU,AKRAM A. ALMOHAMMEDI,i17
+1,257,9,0,0,0,0,0,0,0,0,0,0,AU,", NOR KAMARIAH NOORDIN",i17
+1,257,9,0,0,0,0,0,0,0,0,0,0,AU,", (Senior Member, IEEE),ADUWATI SALI",i17
+1,257,9,0,0,0,0,0,0,0,0,0,0,AU,", (Senior Member, IEEE),FAZIRULHISYAM HASHIM",i17
+1,257,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE),AND MOHAMMED BALFAQIH",i17
+1,257,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE)",i17
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,SHAOYI XU,i19
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE), YAN LI",i19
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", YUAN GAO",i19
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", YANG LIU",i19
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,",AND HARIS GAČANIN",i19
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", (Senior Member, IEEE)",i19
+1,233,9,0,0,0,0,0,0,0,0,0,0,AU,MUBASHIR ALI,i20
+1,233,9,0,0,0,0,0,0,0,0,0,0,AU,", SHEHZAD KHALID, AND MUHAMMAD HASEEB ASLAM",i20
+1,257,9,0,0,0,0,0,0,0,0,0,0,AU,HAIPENG DU,i21
+1,257,9,0,0,0,0,0,0,0,0,0,0,AU,", QINGHUA ZHENG",i21
+1,257,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE),WEIZHAN ZHANG",i21
+1,257,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE), AND XIANG GAO",i21
+1,174,10,0,0,0,0,0,0,0,0,0,0,AU,"Yongzhi Wang , Yulong Shen, and Xiaohong Jiang,",i22
+1,167,10,0,0,0,0,0,0,0,0,0,0,AU,"Daniela Aguirre-Guerrero , Miguel Camelo, Lluís Fàbrega, and Pere Vilà",i23
+1,246,9,0,0,0,0,0,0,0,0,0,0,AU,XIAODI LI,i24
+1,246,9,0,0,0,0,0,0,0,0,0,0,AU,", JINDE CAO",i24
+1,246,9,0,0,0,0,0,0,0,0,0,0,AU,", (Fellow, IEEE), AND MATJA",i24
+1,246,9,0,0,0,0,0,0,0,0,0,0,AU,ˇ,i24
+1,246,9,0,0,0,0,0,0,0,0,0,0,AU,Z PERC,i24
+1,229,9,0,0,0,0,0,0,0,0,0,0,AU,"JINGJING XU , HANSHU HONG, GUOFENG LIN , AND ZHIXIN SUN",i25
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,MADA ALHAIDARY,i27
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", SK MD MIZANUR RAHMAN",i27
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", MOHAMMED ZAKARIAH",i27
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,",M. SHAMIM HOSSAIN",i27
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", ATIF ALAMRI",i27
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", MD SARWAR M HAQUE",i27
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", AND B. B. GUPTA",i27
+1,199,12,0,0,0,0,0,0,0,0,0,0,AU,AN OPTIMIZATION APPROACH FORSYNCHRONOUS GENERATORS IN ISLANDED GRIDS,i28
+1,195,10,0,0,0,0,0,0,0,0,0,0,AU,Marcus J. Weber,i29
+1,195,10,0,0,0,0,0,0,0,0,0,0,AU,",",i29
+1,195,10,0,0,0,0,0,0,0,0,0,0,AU,", Yoshiaki Yoshihara,",i29
+1,195,10,0,0,0,0,0,0,0,0,0,0,AU,",",i29
+1,209,10,0,0,0,0,0,0,0,0,0,0,AU,"Ahmed Sawaby,",i29
+1,209,10,0,0,0,0,0,0,0,0,0,0,AU,", Jayant Charthad ,",i29
+1,209,10,0,0,0,0,0,0,0,0,0,0,AU,",Ting Chia Chang,",i29
+1,209,10,0,0,0,0,0,0,0,0,0,0,AU,", and Amin Arbabian,",i29
+1,264,9,0,0,0,0,0,0,0,0,0,0,AU,"health [1], [2]. Today, health monitoring and screening aretypically performed during periodic visits to the clinic, pro-viding only brief and infrequent snapshots of a patient’s health.In response, there has been increased interest in developing anew technologies to allow for continuous",i29
+1,264,9,0,0,0,0,0,0,0,0,0,0,AU,monitoring,i29
+1,264,9,0,0,0,0,0,0,0,0,0,0,AU,"outside of the clinic with the goals of better understand-ing disease dynamics as well as to enable early detection.Ultimately, this will allow for more preventative and targetedtreatments with more favorable outcomes and lower healthcarecosts [1], [2].",i29
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,PENGWEI LI,i30
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", XU YANG",i30
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE), AND YURI A. W. SHARDT",i30
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE)",i30
+1,174,10,0,0,0,0,0,0,0,0,0,0,AU,"Poonam Yadav ,",i31
+1,174,10,0,0,0,0,0,0,0,0,0,0,AU,", Ioannis Charalampidis, Jeremy Cohen, John Darlington, and Francois Grey",i31
+1,249,9,0,0,0,0,0,0,0,0,0,0,AU,ZHEN XUE,i32
+1,249,9,0,0,0,0,0,0,0,0,0,0,AU,", JINLONG WANG",i32
+1,249,9,0,0,0,0,0,0,0,0,0,0,AU,", (Senior Member, IEEE), QINGJIANG SHI",i32
+1,249,9,0,0,0,0,0,0,0,0,0,0,AU,",GUORU DING",i32
+1,249,9,0,0,0,0,0,0,0,0,0,0,AU,", (Senior Member, IEEE), AND QIHUI WU",i32
+1,249,9,0,0,0,0,0,0,0,0,0,0,AU,", (Senior Member, IEEE)",i32
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,YANJUN YAO,i33
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", WUYANG ZHOU",i33
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE), BAOHUA KOU",i33
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", AND YAQI WANG",i33
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,ALESSIO BUCAIONI,i34
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", LORENZO ADDAZI",i34
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", ANTONIO CICCHETTI",i34
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", FEDERICO CICCOZZI",i34
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,",ROMINA ERAMO",i34
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", SAAD MUBEEN",i34
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", (Senior Member, IEEE), AND MIKAEL SJÖDIN",i34
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,YUANJIAN LI,i35
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", RUI ZHAO",i35
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE), LISHENG FAN",i35
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,",AND AN LIU",i35
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE)",i35
+1,237,9,0,0,0,0,0,0,0,0,0,0,AU,"LAURENT FREY , MICHEL MARTY, SÉVERINE ANDRÉ, AND NORBERT MOUSSY",i36
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,JUN MA,i37
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", WEIWEI SUN",i37
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE), GANG YANG",i37
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", AND DIANFA ZHANG",i37
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,MADAN KRISHNAMURTHY,i38
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", PAWEL MARCINEK",i38
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,",KHALID MAHMOOD MALIK",i38
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE),AND MUHAMMAD AFZAL",i38
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE)",i38
+1,223,9,0,0,0,0,0,0,0,0,0,0,AU,QIAOSHOU LIU,i39
+1,223,9,0,0,0,0,0,0,0,0,0,0,AU,", ZHONGPEI ZHANG",i39
+1,223,9,0,0,0,0,0,0,0,0,0,0,AU,", HAONAN HU",i39
+1,223,9,0,0,0,0,0,0,0,0,0,0,AU,", AND JIANGPAN SHI",i39
+1,229,9,0,0,0,0,0,0,0,0,0,0,AU,QINGQING DANG AND LEI JIN,i40
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,SHENGJUN HUANG,i41
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", (Student Member, IEEE),AND VENKATA DINAVAHI",i41
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", (Senior Member, IEEE)",i41
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,XIANGBIN YU,i43
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE), QING PAN",i43
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", SHU-HUNG LEUNG",i43
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", AND CHENG WANG",i43
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,SRINIVASA KIRAN GOTTAPU,i44
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", NELLORE KAPILESWAR",i44
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", PALEPU VIJAYA SANTHI",i44
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,",AND VIJAY K. R. CHENCHELA",i44
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,XUEJIAN ZHAO,i45
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", XINHUI ZHANG",i45
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", ZHIXIN SUN",i45
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", AND PAN WANG",i45
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,ZHEN WANG,i46
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", ZHAOFENG MA",i46
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", SHOUSHAN LUO",i46
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", AND HONGMIN GAO",i46
+1,223,9,0,0,0,0,0,0,0,0,0,0,AU,ZIYI WANG,i47
+1,223,9,0,0,0,0,0,0,0,0,0,0,AU,", CHANGXIN CAI",i47
+1,223,9,0,0,0,0,0,0,0,0,0,0,AU,", FANGQING WEN",i47
+1,223,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE), AND DONGMEI HUANG",i47
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,MAQBOOL ALI,i48
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", RAHMAN ALI",i48
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", WAJAHAT ALI KHAN",i48
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", SOYEON CAREN HAN",i48
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,",JAEHUN BANG",i48
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", TAEHO HUR",i48
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", DOHYEONG KIM",i48
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", SUNGYOUNG LEE",i48
+1,252,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE),AND BYEONG HO KANG",i48
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,YING-SI ZHAO,i49
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,AND QING-AN ZENG,i49
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", (Senior Member, IEEE)",i49
+1,170,10,0,0,0,0,0,0,0,0,0,0,AU,Keunwoo Choi,i50
+1,170,10,0,0,0,0,0,0,0,0,0,0,AU,", Gy¨orgy Fazekas",i50
+1,170,10,0,0,0,0,0,0,0,0,0,0,AU,", Kyunghyun Cho, and Mark Sandler",i50
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,HILAL TAYARA,i1
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", KIM GIL SOO",i1
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", AND KIL TO CHONG",i1
+1,234,9,0,0,0,0,0,0,0,0,0,0,AU,"JONG-HYOUK LEE , (Senior Member, IEEE)",i2
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,YANXIANG GUO,i3
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", XIPING HU",i3
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", (Member, IEEE), BIN HU",i3
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", (Senior Member, IEEE),JUN CHENG",i3
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", MENGCHU ZHOU",i3
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", (Fellow, IEEE), AND RICKY Y. K. KWOK",i3
+1,227,9,0,0,0,0,0,0,0,0,0,0,AU,", (Fellow, IEEE)",i3
+1,198,10,0,0,0,0,0,0,0,0,0,0,AU,Junho Cho,i4
+1,198,10,0,0,0,0,0,0,0,0,0,0,AU,", Xi Chen",i4
+1,198,10,0,0,0,0,0,0,0,0,0,0,AU,",",i4
+1,211,10,0,0,0,0,0,0,0,0,0,0,AU,Sethumadhavan Chandrasekhar,i4
+1,211,10,0,0,0,0,0,0,0,0,0,0,AU,", Gregory Raybon",i4
+1,211,10,0,0,0,0,0,0,0,0,0,0,AU,",",i4
+1,224,10,0,0,0,0,0,0,0,0,0,0,AU,Ronen Dar,i4
+1,224,10,0,0,0,0,0,0,0,0,0,0,AU,", Laurent Schmalen",i4
+1,224,10,0,0,0,0,0,0,0,0,0,0,AU,", Ells Burrows, Andrew Adamiecki, Steve Corteselli, Yan Pan,",i4
+1,237,10,0,0,0,0,0,0,0,0,0,0,AU,"Diego Correa, Brad McKay, Szilard Zsigmond, Peter J. Winzer",i4
+1,237,10,0,0,0,0,0,0,0,0,0,0,AU,", and Steve Grubb",i4
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,GENG SUN,i5
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", (Student Member, IEEE), YANHENG LIU",i5
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", SHUANG LIANG",i5
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,",ZHAOYU CHEN",i5
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", AIMIN WANG",i5
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", QIANAO JU",i5
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", (Student Member, IEEE),AND YING ZHANG",i5
+1,261,9,0,0,0,0,0,0,0,0,0,0,AU,", (Senior Member, IEEE)",i5
+1,208,9,0,0,0,0,0,0,0,0,0,0,AU,MUHAMMAD MUZAMMAL,i6
+1,208,9,0,0,0,0,0,0,0,0,0,0,AU,", MONEEB GOHAR",i6
+1,208,9,0,0,0,0,0,0,0,0,0,0,AU,", ARIF UR RAHMAN",i6
+1,208,9,0,0,0,0,0,0,0,0,0,0,AU,", QIANG QU",i6
+1,208,9,0,0,0,0,0,0,0,0,0,0,AU,",AWAIS AHMAD",i6
+1,208,9,0,0,0,0,0,0,0,0,0,0,AU,", AND GWANGGIL JEON",i6
+1,237,9,0,0,0,0,0,0,0,0,0,0,AU,TIAN ZHANG,i7
+1,202,10,0,0,0,0,0,0,0,0,0,0,AU,"Tim Korssen , Victor Dolk ,",i8
+1,202,10,0,0,0,0,0,0,0,0,0,0,AU,", Joanna van de Mortel-Fronczak,",i8
+1,167,10,0,0,0,0,0,0,0,0,0,0,AU,"Alun Preece , Irena Spasi´c, Kieran Evans, David Rogers, William Webberley, Colin Roberts, and Martin Innes",i9
+1,169,10,0,0,0,0,0,0,0,0,0,0,AU,"Dongming Xiang, Guanjun Liu,",i10
+1,169,10,0,0,0,0,0,0,0,0,0,0,AU,", Chungang Yan, and Changjun Jiang",i10

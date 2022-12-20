@@ -1,0 +1,430 @@
+filename,top,Text
+i1,560,I. INTRODUCTION
+i1,1235,II. RELATED WORKS
+i1,2995,III. THE PROPOSED SYSTEM
+i1,4596,IV. EXPERIMENTAL RESULTS
+i1,7612,V. CONCLUSION
+i10,400,NTRODUCTION
+i10,1095,ODEL
+i10,2445,III. D - E
+i10,2877,ATA FLOW RRORS ETECTION ASED ON
+i10,5762,ASE TUDY
+i12,488,I. M S
+i12,1256,Fig. 2.ment at 25 ° C. Imposed cell current and resulting voltage proﬁle during a measure-
+i12,1803,Algorithm 1: for do
+i12,1829,iStart i
+i12,1842,end forfor iStart do
+i12,1863,iRs t t iStart iRp1 t t iStart iRp2 t t iStart
+i12,2826,a
+i12,3728,end forend whilereturn
+i12,3928,H
+i13,393,ABSTRACT C U R
+i13,612,I. INTRODUCTION
+i13,1343,II. SYSTEM MODEL h
+i13,1780,U V w
+i13,1781,h
+i13,1828,R U V U V
+i13,1836,R c R
+i13,1839,w
+i13,1844,h a a a a a
+i13,2025,h R
+i13,2027,h
+i13,2030,R R H H h h h
+i13,2113,h h h
+i13,2231,R
+i13,2238,c R
+i13,2239,w
+i13,2241,w
+i13,2309,w w
+i13,2334,R R
+i13,2426,C A
+i13,2435,R U V U V
+i13,2613,A A A
+i13,2625,A A A
+i13,2628,A
+i13,2635,A CUR A
+i13,2655,R A A A A
+i13,2667,A A C U R
+i13,2679,A
+i13,2708,U C R A A CUR
+i13,2771,A
+i13,3812,v
+i13,3814,h h h
+i13,3918,h h c
+i13,4272,h h h
+i13,4300,h h h
+i13,4307,v
+i14,580,I. INTRODUCTION
+i14,1284,II. NEURAL NETWORKS MODEL AND PRELIMINARIES
+i14,3264,-13 +
+i14,4493,"+ ( ( )) + ( ) ,"
+i14,4787,The chaotic neural networks with mixed delays
+i15,948,3
+i15,1570,II. RELATED WORK
+i15,2048,III. PRELIMINARIES
+i15,3106,67
+i15,3692,V. PROBABILISTIC IDENTIFICATION PROTOCOL WITHOPTIMIZED COMMUNICATION
+i15,5662,DIP:
+i15,6154,PIP-E:
+i15,7612,REFERENCES
+i16,601,INDEX TERMS
+i16,653,I. INTRODUCTION
+i16,1258,"Regarding the data used in this research, it is worth noting that to generate the predictive models needed to characterize the main factors that affect users in completing the question-naires, the authors have chosen only those available before the users began the questionnaire. This is because the research is focused on investigating which factors predetermine partici- pants’ success or failure in completing the form, considering all the factors related only to personal context and device and software used to access the web forms. The data aboutthe personal context of the user are provided by the OEEU’s system and include information submitted by the university where the user (graduated) studied. All the information that could be used to create the models that predict whether theuser will complete the questionnaire (before starting it) is pre-sented in Table 1. Table 1 also explains the data variables usedand whether they were valuable for the models. This researchhas been carried out with a total of 7349 users (all whohave some type of experience with the web forms). Of them,the data from 5768 users were considered initially. Finally,data from 3456 users (those resultant after cleaning the data)were used to train and try the machine-learning algorithms(as will be explained in the following section); 1165 userswere the cohort introduced in a phase of reinforcement for the questionnaires that validated the rules generated to adapt the web form to users. This number (1165) includes userswho did not complete the web form in the ﬁrst stage as wellas users that joined the experiment during the reinforcementand validation phase. Other users (416) only viewed the web forms without starting them. For that reason, were notconsidered in the experimental report."
+i16,9089,"Pre-reinforcement users randomly assigned to thewrong vertical (G1, n 3833):"
+i16,9391,"Pre-reinforcement users randomly assigned to theright vertical (G2, n 1542): Post-reinforcement users (G3, n 1003):"
+i17,635,INDEX TERMS
+i17,673,I. INTRODUCTION
+i17,1258,"Yet, the criteria and procedures for selecting the channel access scheme type and measuring the level of congestion on the channel are not speciﬁed in the IEEE 1609.4. The policy of selecting a SCH type and setting up non-overlapping time intervals over the same SCH frequency by the providersare also not clearly deﬁned in the IEEE 1609.4 standard draft. Moreover, according to the legacy standard and other researchers, the SCH communications resource reservation mechanism between service providers and users is imple- mented over the CCH during the ﬁxed CCHI. Consequently, in heavy trafﬁc, safety packets may suffer from severe colli-sions with control packets on the CCH, resulting in unrelia- bility and low PDR of safety applications. Thus, an adaptiveSCH resource reservation mechanism is needed to reducesafety packet collisions over the CCH, and ensure highernetwork throughput of service applications over the SCHs.Typically, the transmission of safety applications in VANETsfollows broadcast mode in which the failed broadcast packetwill never be detected due to the lack of acknowledgementsexchange among vehicles. As a result, the CW size valuefor safety applications remains constant, and accordingly thecollisions of safety packets are increased in heavy networkconditions. For this reason, collision-aware packet transmis- sion mechanism on the CCH is needed providing best initial CW size value according to the network conditions. Thiswill improve time diversity among vehicles, and ensure fewercollisions and higher PDR for safety packet on the CCH."
+i17,3597,III. SYSTEM MODEL AND ASSUMPTIONS
+i17,8732,", 0"
+i17,8733,","
+i17,8951,-15
+i17,12132,=
+i18,1244,Abstract:
+i18,1417,Index Terms:
+i18,1447,1. Introduction
+i18,2935,2.1 The CIE Model
+i18,3785,3. Proposed Lighting Level Modeling and Control
+i18,4784,f ( t ) = v ρ ( t ) 1 −
+i18,4786,-7
+i18,5142,This can be written in a matrix form as shown in (10) which can be linearized by setting theas shown in the equality statements
+i18,5588,V )
+i18,7264,4.3 Static Roadway Parameters
+i18,8620,6. Conclusion
+i18,8851,References
+i19,685,INDEX TERMS
+i19,748,I. INTRODUCTION
+i2,984,II. PRELIMINARIES
+i2,1212,III. PROPOSED BLOCKCHAIN BASED ID AS A SERVICE
+i2,2866,IV. DISCUSSION
+i2,3725,V. CONCLUSION
+i20,577,I. INTRODUCTION
+i20,709,II. URDU LANGUAGE AND MORPHOLOGY
+i20,1255,"(husband wife). (bandaging),"
+i20,3241,IV. PROPOSED URDU STEMMER
+i20,7204,DB
+i20,7205,SW UW UW UW H UW C
+i20,7218,DB
+i21,592,INDEX TERMS
+i21,630,I. INTRODUCTION
+i21,1570,II. RELATED WORK
+i21,2033,III. SYSTEM MODEL
+i21,4787,The bandwidth prediction of BVPDRA uses dynamic (cid:101) + 1 and (cid:101) λ + 1 according to the outcomes of BVP differentiationinstead of using ﬁxed and carefully selected and λ follow-ing Eq. (15).
+i21,5727,Let (cid:101) ξ denote the dynamic bitrate margin in deciding the
+i21,6400,"Note that when upshifting the quality version, BVPDRAchooses the next higher-quality version to avoid suddenquality transitions. When downshifting the quality version,BVPDRA chooses the highest-quality version that matchesthe predicted bandwidth."
+i21,9836,average bitrate
+i21,9860,Bitrate switching
+i21,9884,rebuffering ratio
+i22,469,I. I NTRODUCTION
+i22,1416,We denote that the contribution of RIA is not only restricted to MapReduce computations. The execution log insertionand the execution audition proposed in Section III-C andSection III-E are applicable to general computations.
+i22,3957,if then
+i22,4066,44:00:00
+i22,5817,= 0
+i22,7423,-5
+i23,471,ATA Center Networks (DCN) connect hundreds of thou-
+i23,2878,"Cayley graph of group ( , ⊕ ) with respect to the generatingFig. 1.set , where = { 0 1 10 11 100 101 110 111 } , ⊕ is the symbolfor the XOR operation and = = { 1 10 100 } . Map (4)assigns letters in an alphabet, e.g. = { } , to each generator (edge),e.g. ( ) = 001 , ( ) = 100 and ( ) = 010 . Map (5) assigns a set ofwords in ( ) to each node. These words represent paths from to saidnode, e.g. (000) = { } . Given a lexicographicalorder over , e.g. , the language is deﬁned by (6). Map (7)assigns a unique word in to each node."
+i23,3749,(a) (b) (c) (d)
+i23,4319,Algorithm 1 Input:
+i23,5626,The forwarding process in topologies embedded into the WMS of the FG is performed by using Algorithm 2 The forwarding process in topologies embedded intothe WMS of their underlying CG is performed by usingAlgorithm 3
+i23,6136,end if end for
+i23,6161,Forwarding decision time
+i24,637,I. INTRODUCTION
+i24,4785,-17
+i24,8635,"> 0 ,"
+i25,541,INDEX TERMS
+i25,593,I. INTRODUCTION
+i25,1258,"Klaedtke et al. [6] proposed an access control program forSDN controller, which is mainly divided into four parts: sep-aration, execution, conﬂict and authorization. Firstly, in orderto distinguish who can access the network and how toaccess it, the various components of the network shouldbe separated logically. Secondly, network users have theirown security requirements for accessing network compo-nents, which means it is necessary for mechanisms to sup-port, express and enforce these requirements. Furthermore,user conﬂicts when sharing network components must beresolved and the authorization to access component shouldbe permitted. Jäger et al. [7] concentrated their work on the environment combining cloud computing with network func-tion virtualization (NFV) /software deﬁned network (SDN)and proposed a multi-level access control system. The basicidea is to limit the executable instruction set of telephonecomponents. And the access control of the application layerand control layer is mainly analyzed."
+i26,631,"Power  electronic  devices  are  the  standard  solution  for  low-voltage  (lv)  heater  control;  however,  cost  and  harmonic  issues  are  amplifiedfor  medium-voltage  (Mv)  heater  applications.  to  provide  an  Mv  alternative  ata  significantly  lower  cost,  this  article  details  modifications  and  testing  thatwill  evolve  part-range  and  load-tap-changing  voltage  regulators  into  full-range"
+i26,1263,"figure  3  shows  both  the  base  and  tap-changer  wind-ings of an autotransformer. two fingers of the tap-changercontacts are split by a balance winding with at least one ofthe  fingers  in  contact  with  one  of  the  eight  1.25%  taps  atall times. when the fingers span two taps, the step size ishalved to 0.625% with the effective number of taps doubledto 16. at the neutral position, the M-K switch reverses thetap  winding  polarity  in  relation  to  the  base  winding  toeither buck for voltage reduction or boost to add to theregulator output for a total of 32 steps. the unit’s threebushings, in the gray circle that represents a top-downview of the tank, are labeled source ( S ) for the nominalinput voltage and load ( L ) for the adjusted output, and SL ,the normally grounded sl bushing."
+i26,1313,%
+i26,1431,"the  voltage  regulator  was  rejected  for  heater  controlbecause  of  the  limited  20%  adjustment  range  and  thelack of secondary isolation. however, the 1,247-v travelrange of the tap changer was a near match for the 1,200-voperating voltage of a proposed heater application. dis-cussions  with  a  voltage  regulator  manufacturer  revealedthat  the  units  incorrectly  installed  with  the  s  bushing grounded had resulted in a 0–1,247-v output."
+i26,1538,"an  autotransformer,  also  called  a step  transformer ,  is  atwo-winding  transformer  connected  in  a  special  way  [5].in the voltage regulator, what was the secondary windingis now a step winding sharing a common point with the"
+i26,1751,"base winding at the  s bushing.  con-nected as intended, the sl bushing isthe ground point for both the sourceand load. the source voltage at thes bushing is added to the number oftaps selected for the step winding toprovide  an  increased  load  voltage  atthe  l  bushing  if  the  winding  polari-ties  are  the  same.  however,  if  thestep winding is reversed, it becomesa step-down arrangement [6]. if the sbushing  common  point  is  grounded,the l and sl bushings have separatewinding  output  voltages  like  a  tradi-tional transformer except with a shared ground. Becauseearly  heaters  required  isolation  from  utility  systems,  thecommon  ground  of  the  autotransformer  was  unaccept- regulator  still  showed  promise  for  control  applications.the vt and current transformer (ct) provide the operat-ing  feedback  for  heater  power  flow.  the  control  powertransformer  (cPt)  enables  the  remote  standalone  opera-tion without the need for auxiliary power supplies. nology.  as  shown  in  the  gray  circlerepresenting  the  top  of  the  devicetank in figure 4, the  sl became h1,s became h2, l became X2, and thenew  bushing  is  the  X1  of  the  now-isolated secondary winding."
+i26,1770,"An autotransformer,also called a steptransformer, is a two-winding transformerconnected in aspecial way."
+i26,1823,"these  changes  appear  simple  onpaper, but a great deal of lobbyingwas required to get manufacturersto believe this would work. of thefour  regulator  manufacturers  in  theunited states, only two responded toa quote request for a prototype, withone placing a significant premium onthe “removal of a wire and addition of a bushing.” Beyondthe mechanical revisions, modifications were required tomake the voltage regulator’s microprocessor-based tap-"
+i26,2027,"in  theory,  solving  the  autotransformer  isolation  issuewas a simple matter of separating the 1,247-v-tap-changerwinding  section  from  the  12,470-v-base  winding  of  theautotransformer to create the variable output transformershown in figure 4."
+i26,2087,"the  initial  vvt  schematic  differed  from  a  standardvoltage  regulator  only  by  a  missing  wire  connecting  thetap  changer  to  the  base  winding  and  the  addition  of  afourth  bushing.  in  this  configuration,  the  output  from0–1,247  v  is  divided  between  16  steps  of  6.25%.  foroperational clarity, the voltage regulator bushing namingconvention was replaced with standard transformer termi-"
+i26,2410,Figure 3. Figure 4.
+i26,2441,59
+i26,2891,Figure 5.
+i26,3078,well  below  the  rated  55-°c  (130  °f)  rise. figure  8  shows
+i26,3643,Figure 7.
+i26,3911,600
+i26,4282,"after the field test in canada, a round-table  operational  discussion  led  tothe creation of a controller wish listfor future vvts.1) Power supply isolation : the powersupply circuit of regulator control-lers resembles a residential servicedrop with a single neutral ground point that is also tiedto the controller case.  when an external uninterrupt-ible  power  supply  was  connected  to  the  controller,much like a grounded back-up generator connected to equipped with ground-fault circuit interrupters wouldtrip, leading to the need for a controller with an iso-lated power input."
+i26,7318,though  creation  of  the  vvt  re  -duced the proposed in situ heaterfield  development  budget  by  us$1
+i26,8209,66
+i27,588,I. INTRODUCTION
+i27,1246,1 2
+i27,1497,a.
+i27,1545,c.
+i27,7612,VI. CONCLUSION
+i28,951,"the lfc problem is approached in [6] using the pI-dif-ferential  controller,  which  is  optimized  by  the  lozi  map-based chaotic algorithm. In [7], a differential game-theoryapproach  is  applied  for  the  cooperative  control  of  loadfrequency  in  multiple  areas  by  using  the  conflict  resolu-tion  capability  of  the  algorithm.  a  multiagent  reinforce-ment  learning  approach  is  employed  in  [8]  for  the  lfcproblem in power systems, where the aces are estimatedto tune the controller parameters and improve the controlperformance.  the  authors  in  [9]  used  an  internal  modelcontrol  scheme  with  two  degrees  of  freedom,  in  whicha  reduced-order  model  of  the  system  is  considered  forthe design of a reduced-order lfc system for disturbancerejection. In  [10], a decentralized optimal control schemeis  used  to  solve  the  lfc  problem  in  distributed  power tion, which mitigates the inconsistencies in local estimates.In  most  lfc  techniques  in  the  literature,  either  thecontrol  method  is  nonlinear  (or  linear  time  varying)  orthe  controller  performance  depends  on  communicationlinks  throughout  the  grid.  In  this  article,  the  pI  control-ler structure is selected, which makes the design, stabilityanalysis, and implementation of the controller straightfor-ward due to its simple linear time-invariant structure [11].moreover,  a  classical  descent-direction  Qn-based  optimi-zation technique is applied to simultaneously optimize theperformances  of  all  local  pI  controllers.  the  augmentedconfiguration  of  the  simultaneously  optimized  local  pIcontrollers,  i.e.,  the  optimal  decentralized  pI  controller,does not require any communication among the local con-trollers of the islanded grid."
+i28,974,"In an islanded grid in which the synchronous generatorsare  relatively  large  (compared  to  the  other  distributedgeneration systems), the synchronous generators mainlycontrol  the  voltage  and  frequency.  the  lfc  and  auto-matic-voltage-regulator (aVr) systems exist in each syn-chronous generator to compensate for the impact of loadchanges  in  the  frequency  and  voltage  of  the  grid.  themagnitude of these changes are associated with those ofthe  real  (powers,  respectively.however, the dynamics of the two control loops are con-sidered  as  decoupled  because  the  time  constant  of  theprime  mover  (in  lfc)  is  considerably  greater  than  that of  the  excitation  system  (in  an  aVr).  to  this  end,  this article focuses on the lfc loop only, which is importantfor  the  performance  of  the  islanded  grid  when  discon-necting  from  or  connecting  to  the  main  grid  or  whenthe power generated by the other distributed generationsystems  drastically  changes.  therefore,  an  optimal  con-troller  is  needed  to  improve  the  steady-state  and  tran-sient responses of the grid, which is studied in detail inthis article. designing a controller whose performance isrobust to the parameter changes of the system is investi-gated by the authors in [1]."
+i28,1263,"the  lfc  problem  has  been  tackled  in  the  literatureby  different  techniques.  In  [2],  the  performance  of  thelfc  loop  is  improved  by  using  a  decentralized  slidingmode control with a pI switching surface. In [3], a decen-tralized  fuzzy-logic-based  scheme  is  used  to  solve  thelfc  problem  in  the  presence  of  high-penetration  windpower,  and  the  particle-swarm  optimization  techniqueis used to calculate the parameters of membership func-tions.  In  [4],  a  direct–indirect  adaptive  fuzzy-controltechnique is used for the lfc control problem of powersystems, in which the unknown parameters of intercon-nected power areas are estimated using adaptive controllaws, and the estimation errors and external disturbanceeffects  are  minimized  using  an H tracking  criteria.  In[5],  a  fuzzy  pI  controller  scheme  in  which  pI  gains  areadaptively  adjusted  by  using  fuzzy  rules  based  on  areacontrol  errors  (aces),  and  a  genetic  algorithm  and  par-"
+i28,1347,Freq
+i28,1443,"the generators are coupled through the tie lines indi-cated  in  figure  3.  In  figure  2,  the  term r represents  the  impacts  of  the  local  distributed  genera-tion  systems  (for  eacharea i in  figure  2,  the  dynamic  parameters  are  specifiedin table 1.  the turbine, generator, and governor transfer functions are represented by"
+i28,1533,1 s 1 M s D 1 s
+i28,1537,"T ,"
+i28,1542,1
+i28,1886,"tie ,i"
+i28,2016,T s
+i28,2027,","
+i28,2030,T
+i28,2034,1 B T
+i28,2035,T T / R
+i28,2038,","
+i28,2075,FIGURE 3.
+i28,2099,where T PrU { represents  the  transfer  function  from  input {
+i28,2110,"Y }to output In figure 2, the governor block stabilizes the grid oper-ation  by  allowing  the  frequency  to  drop  when  the  loadincreases.  the load power changes linearly as a functionof the frequency according to the droop equation"
+i28,2111,", , P Freq ACE, }."
+i28,2120,Table 1. The dynamic parameters of each area
+i28,2184,1 Freq R
+i28,2188,-2
+i28,2219,"as indicated in  figure 2, the  ace is given as input tothe  controller  . i the  frequency-response  characteristic is used to calcu- (bias factor) defined by B late the  ace defined byFreqACE,which consists  of  a  linear  combination  of  the  frequency  error(with  the  coefficient  1)  and  the  tie-line  error  (with  thecoefficient.) B the objective of the lfc is to regulate thefrequency  and  tie-line  errors  by  forcing  the  ace  to  con-verge to zero."
+i28,2243,) R P ( /1 D
+i28,2441,69
+i28,2851,-5
+i28,2989,-6
+i28,3097,-3
+i28,3732,-14
+i28,4270,"A A 0 ,"
+i28,4287,I
+i28,4288,H
+i28,4298,L P
+i28,4303,A A 0 .
+i28,4307,and it is iteratively updated as
+i28,4324,H D
+i28,4325,H
+i28,5489,0 2 0 2 0 2 [ .. ]..
+i29,490,"— Continuous monitoring, implantable medicalimplantable sensor, precision health, pressure sensor,"
+i29,500,"devices,ultrasonic communication, ultrasonic power."
+i29,4784,"Therefore, in all operating conditions, the PA will block any"
+i29,8732,"[22] H. Bhamra, J.-W. Tsai, Y.-W. Huang, Q. Yuan, and P. Irazoqui, “A sub-mm wireless implantable intraocular pressure monitor microsystem,”in , Feb. 2017, pp. 356–357.[23] A. Donida , “A circadian and cardiac intraocular pressure sensorfor smart implantable lens,” , vol. 9,no. 6, pp. 777–789, Dec. 2015."
+i3,558,INDEX TERMS
+i3,612,I. INTRODUCTION
+i3,1212,II. MOBILE CPS APPLICATIONS
+i3,3055,III. KEY CHALLENGES AND TECHNIQUES
+i3,4830,IV. FUTURE RESEARCH DIRECTION
+i3,5306,V. CONCLUSION
+i30,516,I. INTRODUCTION
+i30,1201,"II. SIMULTANEOUS ROBUST, DECOUPLED OUTPUTFEEDBACK CONTROL APPROACH"
+i30,1780,Q.E.D.
+i30,2183,Q.E.D.
+i31,452,I. I
+i31,1257,C. Participation Diversity
+i31,4784,2) The project team sets up a VC infrastructure using LiveQ for the real-time distribution and management ofVC tasks.
+i32,561,INDEX TERMS
+i32,613,I. INTRODUCTION
+i32,1557,− 1 max ×
+i32,1779,E
+i32,1884,θ
+i32,1886,−
+i32,3224,III. PROBLEM TRANSFORMATION
+i32,3734,W A WA
+i32,3793,X Y W
+i32,4277,Algorithm 1 X Y Initialize X Y
+i32,4279,X Y
+i32,4288,1 x 1 y A x y
+i32,4319,1 A e e y A e x e y f A e f x e y e
+i32,4328,repeat
+i32,4492,"= .Set = + 1, and = , = ."
+i32,5142,(18c)
+i32,6165,X Y p
+i32,7230,X X Y p
+i33,4493,"furthermore, the studied system is similar to ours whichjustiﬁes the comparison. For fairness, the setting for Power-control scheme is the same as the conﬁguration describedbefore."
+i34,489,"Model-driven development, vehicular embedded systems, EAST-ADL, component model,model transformations."
+i34,533,I. INTRODUCTION
+i34,1216,II. BACKGROUND
+i34,15656,ACKNOWLEDGMENT
+i34,15721,REFERENCES
+i35,534,INDEX TERMS
+i35,588,I. INTRODUCTION
+i35,1535,II. SYSTEM MODEL
+i35,1780,g
+i35,1788,h
+i35,1793,h h
+i35,1800,h n
+i35,1821,h n h
+i35,1829,h
+i35,1849,n I
+i35,1887,2
+i35,2039,v v
+i35,2146,g v
+i35,2609,"+ γ γ When γ ≥ γ = 0 for all 0 ≤ α ≤ 1.For = 0, in the case of γ < γ , we get = 0"
+i35,8731,( − 1 )(cid:127)
+i36,2994,REFERENCES
+i37,536,INDEX TERMS
+i37,580,I. INTRODUCTION
+i37,949,◦ ◦ ◦ ◦ 2
+i38,563,I. INTRODUCTION
+i38,6400,"The second module aims at evaluating the time taken toprogress from one identiﬁed condition to another predictedcondition in a given patient. This uses unidirectional adja-cency matrix representation of the sub-graph to depict pathtraversal from one condition to another. The sub-graphsobtained from our previous analysis are simple unidirec-tional graph segments with no self-loop. This allows us torepresent the sub-graphs as symmetric square matrices withrows (i) and columns (j) deﬁned by graph nodes havinga 0 or 1 value based on whether the entries (conditions) are adjacent or not. In our initial observation we consider that two nodes/conditions can have only one path deﬁnedbetween them, hence the adjacency matrix obtained will haveall 0s on the diagonal [42]. Also, if multiple patients havethe same path traversal between conditions, average time between the progressions are considered. Fig. 8 represents thesub-graph obtained for disease progression from source node Where,"
+i38,11422,"In this paper, we discussed the importance of representingpatient social network data as a signiﬁcant contributor forevidence-based healthcare studies in CDSS. Knowledge andontology engineering fundamentals with statistical modelingwere used to predict condition and time of disease pro-gression based on comorbidity behaviors for a sample casestudy considering Brain Aneurysm. The outcomes obtainedfrom our evaluation convey the impact of patient and time relationships in predicting disease progression trends. Our current work is a suggested research approach implying theimportance of knowledge engineering of patient data to inferfuturistic patterns of comorbid progression. This can be fur-ther extended to other speciﬁc healthcare studies as part of future work. We recommend a few areas of enrichment thatcan be applied for our current work."
+i39,502,I. INTRODUCTION
+i39,1884,-3
+i39,4066,", − λ"
+i4,469,I. I NTRODUCTION
+i4,1311,II. S YSTEM C ONFIGURATION
+i4,2890,III. R EAL #NAME? IME T RANSMISSION OF U NIFORM QAM
+i4,3263,IV. T PS-64-QAM
+i40,455,"Attitude control and momentum management, closed-loop angular momentum feedback,torque equilibrium attitude, internal model principle, linear quadratic regulator with pole placement."
+i40,504,I. INTRODUCTION
+i40,1223,I
+i40,1256,"The attitude of the space station is deﬁned as the orienta-tion of the body-ﬁxed frame with respect to the LVLH frameand is written as θ = (cid:2) ϕ ϑ ψ (cid:3) T , where ϕ , ϑ and ψ are theroll, pitch and yaw angles produced through a 3-1-2 rotationsequence. The transformation matrix from the LVLH frameto the body-ﬁxed frame is deﬁned as"
+i40,1345,C
+i40,1546,II. SPACE STATION MODELING
+i40,1778,r r C r r V
+i40,1781,T
+i40,1838,(cid:3)
+i40,1855,T
+i40,1869,T
+i40,2024,H I H 0 H H T
+i40,2027,h
+i40,2042,h
+i40,2043,T
+i40,2085,H
+i40,2086,H
+i40,2101,C
+i40,2105,H
+i40,2164,E C E I
+i40,2182,H
+i40,2184,H T T
+i40,2226,I I I I
+i40,2247,T
+i40,3265,-30
+i40,4067,
+i40,5638,0
+i41,1556,•
+i41,2012,3) GENERATOR CAPACITY CONSTRAINTS
+i41,8632,min ln( ) -17
+i41,8734,1 2
+i41,8883,Step 1:
+i41,8949,=
+i41,8951,-25
+i41,8984,Step 2:
+i41,9036,Step 3:
+i42,647,INDEX TERMS
+i42,694,I. INTRODUCTION
+i43,600,I. INTRODUCTION
+i43,1257,"II. SYSTEM AND CHANNEL MODELS By combining spatial modulation and cooperative communi-cation with AF protocol, a two-hop half-duplex cooperativeAF-SM system with direct link is presented. The systemmodel is illustrated in Fig.1, and it includes one sourcenode with N transmit antennas, one destination node with N receive antennas, and one relay node with single antenna.In the ﬁrst hop, the source transmits signals to the destinationand the relay, while in the second hop, only the relay transmitssignals to the destination."
+i43,1440,x
+i43,1498,h H y
+i43,1781,h
+i43,1833,y h n
+i43,1854,h H h n n
+i43,1887,2
+i43,2088,I
+i43,2101,n D y D y
+i43,2136,h
+i43,2151,D h
+i43,2152,h
+i43,2156,h
+i43,2171,h
+i43,2174,h
+i43,2176,h y
+i43,2179,h
+i43,2217,h
+i43,2877,"λ,µ"
+i43,2891,ˆ
+i43,4066,4
+i43,4492,"(cid:17) (2 + 1) !! (2 + 2) !! ( , ˆ )( µ ) 2 log ( )"
+i43,4493,(cid:16) 1 γ 1 γ 1 − 1 (cid:88)
+i43,4807,( γ + γ
+i43,8191,h h
+i44,1463,II. STATE-OF-THE-ART
+i44,2021,"III. MOTIVATION Existing CR algorithms do not consider system throughput asa primary criteria while improving the system performance.Resultantly, existing CR algorithms have poor performance interms of system throughput. Moreover, in literature, the pri-mary metrics being used to evaluate the performance of CRalgorithms include delay, energy efﬁciency, scalability, andnode required resources [18], [19]. Among these metrics,the metric that affects the overall system throughput is thedecision making delay. It is either due to the spectrum sensinginterval (i.e., sequentially sensing channels with sam-ples for each) or reporting interval (i.e., sequentially reporting decisions with possible retransmissions). Furthermore,increasing or up to a certain limit leads to a higher delaythan the decision validity interval."
+i44,3543,V. ONLINE GREEDY THROUGHPUT MAXIMIZATION
+i44,3819,12
+i45,1272,II. RELATED WORKS
+i45,4281,Algorithm 1 Input: Output: Algorithm 1
+i46,560,I. INTRODUCTION
+i46,666,II. RELATED WORKS
+i46,1319,III. PRELIMINARIES
+i47,526,I. INTRODUCTION
+i47,948,"× ×···× ( ) 1 2 ( ) = 1 , (cid:54)= − 1"
+i47,1036,A A
+i47,1218,A A A A A
+i47,1557,II. TENSOR PRELIMINARIES AND DATA MODEL
+i47,1780,R R Y Y Y Y R R
+i47,1853,A A A A
+i47,1884,"Herein, R is a Hermitian tensor [10] and can be interpretedas the symmetric Hermitian unfolding of R , denoting by[ R ] ( ) = . Similarity, [ G ] ( ) = and [ N ] ( ) = .Obviously, Eq.(8) presents the Tucker decomposition modelfor the covariance tensor."
+i47,2086,A A s
+i47,2104,A A A A
+i47,2144,a
+i47,2148,R I
+i47,2181,a
+i47,2226,w w w
+i47,2229,A A A A
+i47,2308,A A S
+i47,2309,Y
+i47,2312,Deﬁnition 4
+i47,2402,A A G A A N
+i47,2403,R
+i47,2406,A A G
+i47,2422,G SS G N
+i47,2427,G
+i47,2614,A A A A A A A A A A A A
+i47,2615,A A A
+i47,2647,R A R A R A R A G G G G
+i47,2689,A A
+i47,2726,A A N A A N A A N A A N
+i47,2733,R G A A A A A A A
+i47,2838,A R G A A
+i47,2857,h a c A A
+i47,2861,A
+i47,2864,R A G A A A A A a h c
+i47,2891,R 4 A ∗ G
+i47,2919,R G A A G A A ABC C A B G
+i47,2920,P c P c h h A A a a A A a h
+i47,2976,R A A A A G
+i47,2978,a h
+i47,3718,Z A A S E Z A A S E
+i47,3805,Z Z
+i47,3810,A A G A A
+i47,3811,R
+i47,3922,R G
+i48,638,INDEX TERMS
+i48,708,I. INTRODUCTION
+i48,1258,"The data understanding phase of the data mining process involves collecting the data as well as inspecting it closely, which is crucial for the next phase, data preparation. In a dataset, instances represent data entities, which are further characterized by their properties. These properties can alsobe referred to as features or attributes, and they help to understand the characteristics of the data. Feature selection plays a crucial role in the procedure of ‘knowledge discov- ery’ [10]. Generally, a feature selection method evaluates the usefulness of the attributes (i.e., features) present in thedataset; a ranking methodology is considered the optimal way to score such features [11]. A substantial amount of research has been devoted to improving feature selection method-ologies [11]–[15]. However, less attention is given to thedevelopment of a uniﬁed and comprehensive methodologyfor feature ranking. This study proposes an innovative featureranking methodology called Uniﬁed Features Scoring (UFS).The primary ambition of UFS is to evaluate the feature set ina comprehensive manner dependent on several different fea-ture selection measures, namely information gain (IG), gainratio (GR), symmetric uncertainty (SU), chi-square (CS), andsigniﬁcance [12], [16]–[18]. UFS is a consensus methodol-ogy that assists the domain expert in selecting informative features for the data preparation phase of CRISP-DM."
+i48,3212,III. MATERIALS AND METHODS
+i48,5760,https://archive.ics.uci.edu/ml/machine-learning-databases/pima-
+i48,7232,end
+i48,7284,end
+i48,7304,while do
+i48,7336,end
+i49,2187,III. SYSTEM MODEL AND THE INDEX TREES
+i49,3223,IV. ENCRYPTED PRODUCT INFORMATIONRETRIEVAL SCHEME
+i49,3715,while if if
+i49,5426,VI. CONCLUSIONS
+i5,625,I. INTRODUCTION
+i5,1451,II. RELATED WORKS
+i5,2152,III. SYSTEM MODELS
+i5,2890,where is the communication range of the source node. The energy consumption of the second part is expressed as follows:
+i5,7853,V. SIMULATION RESULTS AND ANALYSIS
+i5,11530,VI. CONCLUSION
+i50,3718,X
+i50,7214,S
+i6,534,I. INTRODUCTION
+i6,1283,II. TRAJECTORY DATA EXTRACTION AND MINING
+i6,2176,III. TRAJECTORY MINING USING UNCERTAIN EVENTS
+i6,4492,"In the next step, the trajectories were input to the miningalgorithm which reported the frequent trajectories. The run-ning time recorded in seconds and the number of interestingtrajectories reported are given in Fig. 4. The support thresholdwas varied from 10% to 40%, the trajectory length changedevery hour and increased to 8, 14, 17, 27 during hours 1 – 4,and the interesting trajectories were reported every hour."
+i6,4625,IV. EMPIRICAL EVALUATION
+i6,5154,V. RELATED WORK
+i6,6018,VI. CONCLUSION
+i7,496,I. INTRODUCTION
+i7,1558,II. SYSTEM MODEL AND OFFLOADINGSCHEME PROPOSAL
+i7,2017,III. COALITIONAL GAME FORMULATION
+i7,3224,IV. COALITIONAL GAME ANALYSIS
+i7,3592,V. NUMERICAL RESULTS
+i7,6200,VI. CONCLUSION AND FUTURE WORK
+i8,594,I. I
+i8,1885,II. M ODEL #NAME? ASED D ESIGN A PPROACH
+i8,4067,III. C ASE S TUDY : S UPERVISOR D ESIGN
+i8,6400,IV. C ASE S TUDY : S IMULATION AND I MPLEMENTATION
+i8,8340,V. C R
+i8,8948,VI. A
+i9,455,I. I NTRODUCTION
+i9,1257,II. P LATFORM A RCHITECTURE
+i9,3264,III. S TREAM #NAME? ROCESSING A RCHITECTURE
+i9,4785,IV. U SER I NTERFACES
+i9,5814,V. P ILOT S TUDIES
+i9,8728,VI. R ELATED W ORK

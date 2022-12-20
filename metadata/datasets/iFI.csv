@@ -1,0 +1,389 @@
+filename,top,Text
+i1,1139,FIGURE 1.
+i1,2026,FIGURE 2.
+i1,2838,FIGURE 3.
+i1,3743,FIGURE 4.
+i1,4029,FIGURE 5.
+i1,4571,FIGURE 6.
+i1,5519,FIGURE 8.
+i1,5524,FIGURE 7.
+i1,6210,FIGURE 9.
+i1,6481,FIGURE 10.
+i1,7258,FIGURE 11.
+i10,1039,Fig. 2: (a) Data-generation. (b) Data-update. (c) − (d) A writearc and its equivalent part.
+i10,1440,"Fig. 3: Concurrent write operations. (a) − (b) A net with 3write arcs, and its extended reachability graph. (c) − (d) Theequivalent model with inhibitor arcs, and its reachability graph."
+i10,1468,Fig. 1: (a) Self-loop representing a read operation. (b) Readarcs.
+i10,5776,Fig. 7: Different reduced ERGs.
+i12,1900,v v v R R
+i12,6978,"[14] M. A. Rahman, S. Anwar, and A. Izadian, “Electrochemical model pa-rameter identiﬁcation of a lithium-ion battery using particle swarm opti-mization method,” , vol. 307, pp. 86–97, 2016."
+i12,7005,"[15] S. Li and X. Cheng, “A comparative study on rc models of lithium-ionbattery,” in , Aug.2014, pp. 1–4."
+i13,1997,IV. THE PROPOSED METHOD USINGCUR-DECOMPOSITION
+i13,4406,FIGURE 3.
+i13,4580,FIGURE 4.
+i13,4751,FIGURE 5.
+i13,5651,VI. CONCLUSION
+i14,1782,III. MAIN RESULTS
+i14,1963,ζ
+i14,2705,21 22
+i14,2761,T T
+i14,2826,2
+i14,4427,FIGURE 1.
+i15,1954,FIGURE 2.
+i15,4424,FIGURE 4.
+i15,6273,FIGURE 6.
+i15,7115,FIGURE 8.
+i15,7191,FIGURE 7.
+i16,3853,III. RESULTS
+i16,4365,TABLE 3.
+i16,4721,TABLE 7.
+i16,6132,FIGURE 3.
+i16,6190,FIGURE 5.
+i16,6368,FIGURE 4.
+i16,6779,TABLE 12.
+i16,7110,TABLE 13.
+i17,3817,FIGURE 2.
+i17,4508,FIGURE 3.
+i17,8873,","
+i17,8877,", ,"
+i17,9674,FIGURE 5.
+i17,10346,FIGURE 6.
+i17,10675,FIGURE 7.
+i17,11145,FIGURE 8.
+i17,12610,TABLE 3.
+i17,12981,FIGURE 9.
+i17,13799,FIGURE 10.
+i17,13844,TABLE 4.
+i17,14619,FIGURE 11.
+i17,14804,FIGURE 12.
+i17,15230,FIGURE 15.
+i17,15231,FIGURE 13.
+i17,15729,FIGURE 14.
+i17,16063,FIGURE 16.
+i17,16327,FIGURE 17.
+i18,2686,Motorized-Highly Mixed
+i18,2824,Class M1 M2 M3 M4 M5 M6
+i18,8876,https://conduitnw.org/_layouts/Conduit/FileHandler.ashx?RID = 389
+i19,1083,FIGURE 1.
+i19,2753,II. CONCEPT OVERVIEW
+i19,4396,FIGURE 7.
+i19,6089,FIGURE 13.
+i19,6161,FIGURE 12.
+i19,6857,FIGURE 14.
+i19,6910,FIGURE 17.
+i19,7028,FIGURE 15.
+i19,7129,FIGURE 16.
+i19,8877,FIGURE 22.
+i19,8977,FIGURE 21.
+i19,9588,FIGURE 23.
+i19,10330,FIGURE 24.
+i19,10342,FIGURE 25.
+i19,10396,TABLE 4.
+i19,11429,FIGURE 26.
+i19,12013,FIGURE 28.
+i19,12088,FIGURE 27.
+i2,2842,FIGURE 1.
+i20,1039,"(discussions),"
+i20,1440,and
+i20,1782,III. RELATED WORK
+i20,4563,TABLE 3.
+i20,5552,TABLE 9.
+i20,6051,TABLE 11.
+i20,6532,TABLE 10.
+i20,7104,train
+i20,7887,TABLE 14.
+i20,8779,FIGURE 3.
+i20,8800,TABLE 18.
+i20,8818,FIGURE 2.
+i20,8836,TABLE 16.
+i20,9647,TABLE 25.
+i20,9689,TABLE 21.
+i20,10520,TABLE 26.
+i21,1080,FIGURE 1.
+i21,1932,FIGURE 2.
+i21,3005,IV. DESIGN OF BVPDRA
+i21,6117,FIGURE 8.
+i21,6142,TABLE 1.
+i21,6882,FIGURE 9.
+i21,6917,TABLE 2.
+i21,9720,FIGURE 12.
+i21,9721,FIGURE 13.
+i21,10111,TABLE 6.
+i21,10232,TABLE 7.
+i21,10287,FIGURE 14.
+i21,11114,FIGURE 15.
+i21,11313,FIGURE 16.
+i21,11777,TABLE 8.
+i22,2758,− 1 − 1 − 1 − 1 − 1 − 1
+i24,7009,2 0 − + 1
+i24,10203,FIGURE 3.
+i24,10204,FIGURE 2.
+i25,3117,III. PRELIMINARIES
+i25,5413,1
+i25,6324,TABLE 1.
+i25,7105,[1] Stanford University. (2006). . [Online]. Available:
+i26,2226,VT
+i26,2261,VT
+i26,2262,L
+i26,2263,S
+i26,2631,F2
+i26,2792,Manual
+i26,3139,"heaters, a ramp-over-time function was included to match"
+i26,7466,IEEE Industry Applications Magazine
+i26,7926,"er, eaton’s cooper Power series Products."
+i27,1994,FIGURE 1.
+i27,2059,II. LITERATURE REVIEW OF RELEVANT RESEARCH
+i27,3783,FIGURE 2.
+i27,6218,FIGURE 4.
+i27,7060,FIGURE 5.
+i27,7201,FIGURE 7.
+i27,7218,FIGURE 6.
+i28,1083,G G
+i28,1562,"gen, i"
+i28,1567,i i
+i28,1580,","
+i28,1584,"gov, i"
+i28,1589,"g i ,"
+i28,1789,B
+i28,1790,r = ∆ P + ∆ P
+i28,1943,tions are determined
+i28,1978,– T s
+i28,2074,-1
+i28,2219,i i i
+i28,2243,"i tie , i"
+i28,2258,i i i
+i28,2590,!
+i28,2782,P P
+i28,3005,-7
+i28,3103,-8
+i28,3127,"tion  (6),  we  have"
+i28,3638,-9
+i28,3652,-13
+i28,3864,-15
+i3,1026,FIGURE 1.
+i3,1913,FIGURE 2.
+i3,2283,TABLE 3.
+i30,1037,(cid:107) W ( s ) T ( s ) (cid:107) < 1
+i30,1039,-3
+i30,2032,FIGURE 3.
+i30,2074,III. CASE STUDY ON A MULTIVARIATEROLLING MILL SYSTEM
+i30,2838,FIGURE 4.
+i30,4069,IV. CONCLUSIONS
+i30,4472,REFERENCES
+i31,1039,"Gamiﬁcation and VT task interfaces provide great learningand creativity opportunities for volunteers. CCS game playersand volunteers learn and enhance their project speciﬁc scien-tiﬁc knowledge through hands-on experience with real tools.For example, in the VAS game, the players learn about particlephysics by visualizing simulated results that are generatedusing equation parameters that the volunteers can alter. Thesimulations correspond to the real-world experiments beingundertaken by physicists at CERN. The game players alsolearn about various new computing technologies, for example,how to work with the VirtualBox [50] virtualization software. Without the integration of VC, the computation that would berequired to undertake the simulations may be too much foran individual user’s computer system. This would either meanthat the generation of results would take too long and spoilsthe game playing experience or that result generation usingreal-world parameters would not be possible at all."
+i31,6979,Fig. 13. CitizenGrid: VAS application client details.
+i32,2614,1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2
+i32,3476,X Y
+i32,6167,5:00
+i32,6779,TABLE 1.
+i32,7128,FIGURE 2.
+i32,9637,FIGURE 6.
+i33,1782,II. SYSTEM SCENARIO AND DSA SCHEMEBASED ON MARKOV THEORY
+i33,4458,FIGURE 4.
+i33,4461,FIGURE 6.
+i34,3780,FIGURE 3.
+i34,4566,FIGURE 4.
+i34,5679,IV. MoVES FOR TIMING
+i34,6233,FIGURE 7.
+i34,7184,FIGURE 8.
+i34,8780,FIGURE 10.
+i34,9773,FIGURE 12.
+i34,10194,FIGURE 13.
+i34,11170,FIGURE 14.
+i34,11317,FIGURE 17.
+i34,11401,FIGURE 15.
+i34,11530,FIGURE 16.
+i34,12021,FIGURE 20.
+i34,12054,FIGURE 18.
+i34,12272,FIGURE 19.
+i34,12610,TABLE 1.
+i35,2609,R T R R
+i35,6131,FIGURE 3.
+i35,6346,FIGURE 2.
+i35,6554,FIGURE 4.
+i35,7952,4
+i36,1041,FIGURE 1.
+i36,1889,FIGURE 3.
+i36,1913,FIGURE 4.
+i36,2076,III. RESULTS AND DISCUSSION
+i36,2770,IV. CONCLUSION
+i37,2685,◦
+i37,2783,III. METHODS
+i37,3903,FIGURE 2.
+i37,4523,FIGURE 3.
+i37,4560,TABLE 5.
+i37,6207,FIGURE 6.
+i37,6543,FIGURE 7.
+i38,1132,FIGURE 1.
+i38,2200,II. RELATED WORK
+i38,3104,III. METHODOLOGY
+i38,4520,FIGURE 5.
+i38,4555,TABLE 1.
+i38,6084,FIGURE 7.
+i38,6157,FIGURE 10.
+i38,6220,FIGURE 8.
+i38,6779,TABLE 5.
+i38,6993,IV. EVALUATION
+i38,7948,TABLE 7.
+i38,8740,TABLE 11.
+i38,8992,TABLE 12.
+i38,10335,FIGURE 12.
+i38,10370,TABLE 15. TABLE 17.
+i38,10495,TABLE 16.
+i38,11052,FIGURE 13.
+i39,1098,FIGURE 1. FIGURE 2.
+i39,1582,II. SYSTEM MODEL
+i39,1963,− λ π − λ π
+i39,2683,α
+i39,4428,FIGURE 4.
+i4,1109,Fig. 2. Location and speciﬁcation of the AEC-1 Cable.
+i4,1133,Fig. 1. Record SEs reported in literature to date.
+i4,1963,Fig. 3. Experimental setup.
+i4,2756,Fig. 5. Adjustment of the per-channel launch power from a constant EDFAoutput power.
+i4,2825,Fig. 4. Comparison of ASE line loading and fully modulated systems throughsplit step simulations.
+i4,3977,"Fig. 7. Results of real-time processing: (a) with 8-QAM (dashed line) and16-QAM (solid lines) at 5,523 km, and (b) with QPSK at 11,046 km."
+i40,2768,III. DYNAMIC CHARACTERISTIC ANALYSIS
+i40,6107,FIGURE 4.
+i40,6290,FIGURE 5.
+i40,6984,TABLE 1.
+i40,7262,FIGURE 6.
+i40,7365,FIGURE 7.
+i41,1046,FIGURE 1.
+i41,1994,II. MATHEMATICAL FORMULATION
+i41,3635,III. PARALLEL IMPLEMENTATION ON GPU
+i41,4350,FIGURE 6.
+i41,5311,FIGURE 8.
+i41,6201,FIGURE 9.
+i41,6235,TABLE 1.
+i41,6543,IV. CASE STUDIES
+i41,6779,TABLE 2.
+i41,6874,TABLE 3.
+i42,1142,FIGURE 1.
+i42,4583,FIGURE 2.
+i42,6963,FIGURE 4.
+i42,7214,FIGURE 5.
+i43,1031,FIGURE 1.
+i43,1440,= [0 0 · · · x · · · 0]
+i43,2704,γ
+i43,3902,IV. POWER ALLOCATION SCHEME AND DIVERSITY GAIN
+i43,5271,(2 + 1) !! (2 + 2) !!
+i43,5413,2 21 + 31
+i43,5651,V. SIMULATION RESULTS
+i43,6123,FIGURE 2.
+i43,6124,FIGURE 4.
+i43,6332,FIGURE 3.
+i43,6946,FIGURE 5.
+i43,7346,FIGURE 6.
+i44,1858,FIGURE 1.
+i44,3731,FIGURE 3.
+i44,4369,FIGURE 4.
+i44,4456,FIGURE 6.
+i44,5412,"[12] N. Zhao, F. R. Yu, H. Sun, and A. Nallanathan, ‘‘Energy-efﬁcientcooperative spectrum sensing schemes for cognitive radio networks,’’ , vol. 1, p. 120, 2013. [Online].Available: https://doi.org/10.1186/1687-1499-2013-120"
+i44,5732,REFERENCES
+i45,1947,FIGURE 1.
+i45,1960,III. FP-MPP-APIT ALGORITHM
+i45,2968,2 1 0 2 1 0
+i45,3741,FIGURE 6.
+i45,6142,FIGURE 9.
+i45,6143,FIGURE 11.
+i45,6378,FIGURE 10.
+i46,2211,IV. PROPOSED ENHANCED SECURE IM SCHEME FORMOBILE SOCIAL NETWORKS
+i46,5674,V. SECURITY AND ANALYSIS OF THE PROPOSEDENCHANCED SECURE IM SCHEME
+i46,6154,TABLE 1.
+i46,6931,FIGURE 2.
+i46,7025,TABLE 2.
+i47,1907,FIGURE 1.
+i47,1960,III. THE PROPOSED ALGORITHM
+i47,2615,A
+i47,2857,×
+i47,4412,FIGURE 4.
+i47,4416,FIGURE 2.
+i47,4756,FIGURE 6.
+i47,5271,"ZIYI WANG was born in Huanggang, China,in 1999. She is currently a Junior majoring inautomation with the Electronic and InformationSchool, Yangtze University, China. She joinedthe Signal Processing Lab, Yangtze University,in 2016. Her research interests include artiﬁcialintelligence, wireless communications, and arraysignal processing. She received the Innovation andEntrepreneurship Fund for College Students fromYangtze University in 2016."
+i48,6281,TABLE 2.
+i48,6811,1
+i48,6847,2
+i48,6879,3
+i48,6895,4 56 7
+i48,6959,8 910 1112 13 14 1516 17
+i48,7067,18
+i48,7077,19
+i48,7088,2021
+i48,7109,22
+i48,7119,23
+i48,7130,24
+i48,7140,2526
+i48,7161,27
+i48,7171,28
+i48,7182,2930
+i48,7203,31
+i48,7213,32
+i48,7224,3334
+i48,7245,35
+i48,7255,36
+i48,7266,37
+i48,7276,3839
+i48,7297,40
+i48,7307,414243
+i48,7339,44
+i48,7349,45
+i48,7360,46 47 48 49
+i48,7898,TABLE 3.
+i48,9652,FIGURE 6.
+i48,9820,FIGURE 7.
+i48,10302,FIGURE 8.
+i48,10339,FIGURE 9.
+i48,10491,FIGURE 10.
+i48,10628,FIGURE 11.
+i48,13196,FIGURE 12.
+i48,13980,FIGURE 13.
+i48,14275,TABLE 5.
+i49,1967,FIGURE 1.
+i49,4419,FIGURE 4.
+i49,5666,REFERENCES
+i5,2260,IV. SEOANS ALGORITHM
+i5,2831,FIGURE 1.
+i5,6918,FIGURE 3.
+i5,7272,FIGURE 2.
+i5,7909,FIGURE 4.
+i5,8872,FIGURE 6.
+i5,9010,FIGURE 5.
+i5,9689,FIGURE 7.
+i5,9708,FIGURE 8.
+i5,10256,FIGURE 10.
+i5,10490,FIGURE 9.
+i5,11274,FIGURE 11.
+i50,407,NTRODUCTION
+i50,5776,"The reliability of evaluation is typically assessed with a givengroundtruth and can be measured by , the Pearson correlationcoefﬁcient between AUCs using our annotation and the MSD.The correlation between the four tags and all other tags (shown"
+i6,4365,FIGURE 3.
+i6,4574,FIGURE 2.
+i6,5550,FIGURE 4.
+i7,1186,FIGURE 1.
+i7,3900,FIGURE 2.
+i7,4476,FIGURE 4.
+i7,4522,FIGURE 3.
+i7,4698,FIGURE 5.
+i7,5308,FIGURE 8.
+i7,5309,FIGURE 6.
+i7,5531,FIGURE 9.
+i7,5533,FIGURE 7.
+i7,6140,FIGURE 10.
+i8,403,Fig. 1. Hierarchical control for highly inter-coupled complex vehicle systems.
+i8,1838,Fig. 3. Model for a button.
+i8,1901,Fig. 4. Model for enabling and disabling Cruise Control.
+i8,2683,Fig. 6. Requirement model for enabling and disabling CC.
+i8,2759,Fig. 5. Synchronous product of the models for the button and enabling anddisabling CC components.
+i8,5270,Fig. 13. Model of the CC lever.
+i8,5276,Fig. 12. Model for the brake sensor.
+i8,6097,Fig. 14. Requirement model that restricts reactivation of CC.
+i8,6926,Fig. 17. Toyota Prius Executive test vehicle.
+i8,6976,Fig. 15. Graphical representation of the simulation model.
+i8,7107,Fig. 16. Simulation results of various test cases.
+i8,7952,Fig. 19. Experimental results. The dark gray parts indicate that CC is active. The light gray parts indicate that ACC is active.
+i9,2705,Fig. 4. Top-down (ontology-driven) interpretation of social media streams.
+i9,2857,Fig. 5. Extract of Sentinel ontology concepts related to policing and society.
+i9,2968,Fig. 6. Example concept description in the Sentinel ontology.
+i9,5413,Fig. 9. Sentinel app screenshot.
+i9,6170,Fig. 11. Sample tweet volumes from London and South Wales channels.
+i9,7005,Fig. 13. Tweet volumes from Woolwich channel (key events labeled).
+i9,7849,Fig. 14. Key events prior to Summit identiﬁed by tweet volume for termscontaining “Summit.”
+i9,8875,"Fig. 15. Sentiment of Summit-related terms (top) versus all terms (bottom),June–August 2014."

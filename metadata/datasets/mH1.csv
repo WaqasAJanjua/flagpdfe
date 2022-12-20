@@ -1,0 +1,323 @@
+filename,top,Text
+m1,1528,2. Materials and Methods
+m1,2449,3. Results
+m1,10344,4. Discussion
+m10,544,1. Introduction
+m10,1528,2. Materials and Methods
+m10,2177,3. Results and Discussion
+m10,8204,4. Conclusions
+m11,544,1. Introduction
+m11,1271,2. Materials and Methods
+m11,1501,Table 1.
+m11,1526,Density(g/mm ) Length(mm) Diameter( m) TensileStrength (MPa) Young’sModulus (GPa) Elongation(%)
+m11,1531,Fiber
+m11,5860,σ ( δ ) d δ ≡ J
+m11,5862,J ≤ σ δ −
+m11,5890,where σ is the maximum ﬁber bridging stress and δ is the crack opening corresponding to σ on theﬁber bridging curve.
+m11,7616,References
+m12,3708,3. Methodology of Multi-Index Comprehensive Evaluation
+m12,5864,p p
+m12,5877,e =
+m12,5878,-9
+m12,5885,ln n
+m12,11202,4. A Case Study of Coal-Fired Power Units
+m12,12826,"= ( 0.7418, 0.4420, 0.8038, 0.8371, 0.5063, 0.6967, 0.7916 )"
+m12,12827,-35
+m12,15911,Figure 5.
+m13,590,1. Introduction
+m13,3264,"The spatial distribution of azimuthal dispersion may be visualized through the spatial mapof ∆Φ / ∆Φ 0 in selected illuminated spots of fresh and unfresh samples. Two typical color maps oforientation ﬂuctuation amplitude ∆Φ / ∆Φ 0 in fresh and unfresh samples, in an area of 300 125 µ m 2 , are depicted in Figure 3a, to the left and to the right, respectivley. The probability density functions (PDF) of orientation ﬂuctuations ∆Φ / ∆Φ 0 for the two samples are plotted in Figure 2b. The PDF of ∆Φ / ∆Φ 0 for the fresh sample shows a skewed line shape with a fat tail, which we found could beﬁtted by a Levy stable distribution [28–33], as shown in Figure 3b by the solid red curve. Recently,the Levy stable distribution has found increasing interest in several applications in diverse ﬁeldsfor describing complex phenomena [28–33]. This kind of probability distribution does not have ananalytical expression, but is represented by a characteristic function deﬁned by four parameters:stability index , skewness parameter , scale parameter (width of the distribution) and locationparameter . These parameters vary in the ranges of 0 < 2, 1 1, > 0 and real.For Gaussian distribution, the stability parameter becomes 2 Condens. Matter 2017 , 2 , 28  5 of 10 Figure 3. ( a ) Maps of axon orientation fluctuations given by ΔΦ , normalized to their mean value ΔΦ , in an area of 300 × 125 μ m of fresh state, to the left, and unfresh state, to the right, axons in the sciatic nerve of a Xenopus Laevis ; ( b ) Probability density function (PDF) of the orientation fluctuations ΔΦ / ΔΦ for fresh and unfresh samples in semilog plot. We note the fat tails of the PDF in the fresh sample are fitted by a Levy stable distribution."
+m14,1217,2. Materials and Methods
+m14,1450,Table 1.
+m14,1474,Parameters Conditions
+m14,7275,4. Conclusions
+m15,679,Keywords:
+m15,2165,Figure 1.
+m15,2309,2. Materials and Methods
+m15,3218,SampleVolume (mL) Model WineVolume (mL) Total Volume(mL)
+m15,3224,Dilution Factor Weighting Factor
+m15,4231,3. Results
+m15,5489,56
+m15,10238,4. Discussion and Conclusions
+m15,10843,12 16 19 21 22 24 27 37 39 44 46 49 50
+m16,1032,1. Introduction
+m16,2312,2. Materials and Methods
+m16,3708,3. Results and Discussion
+m16,5872,"To test the sorbent tubes used, a set of serial dilutions were conducted using the 30 componentVOC gas standard (NPL 30). A particular focus of this testing was to determine the linearity of thecalibration for the more volatile compounds being targeted by the new set-up (i.e., C -C ) over arange of mixing ratios from 0.4 to 4 ppbv. The results of these tests showed that this method was notsuitable for the analysis of species with 4 or less carbon atoms but gave a linear response for isoprene,the speciﬁc target compound of interest, at expected atmospheric mixing ratios (shown in Table 1)."
+m16,9951,4. Conclusions
+m16,10545,AppendixA.SupplementaryInformation FigureA1.
+m16,10947,Appendix
+m16,11324,References
+m17,711,1. Introduction
+m17,2985,Figure 2. a b
+m17,4265,3. Materials and Methods
+m17,4789,"In the ELISA binding assay we used the sugar chain from sialoglycopolymer, as stated in theprevious section. Solutions with a concentration between 1000 and 15.6 ng/mL were spread onto96-well plates and the 8 HAU of A/California/07/2009 (H1N1) and A/mallard/Hokkaido/24/2009(H5N1) were fed into the wells. The HA titer, where HAU is expressed as the power of 2, is the reciprocal of the dilution that produces 1 HAU, where 1 HAU in the haemagglutinin titrationis the minimum amount of virus that will cause complete agglutination of the red blood cells.We also used HA proteins for the comparison in the binding assay, namely, 500 ng/mL derived fromA/California/07/2009 (H1) and A/Vietnam/1203/2004 (H5). The binding activity was measuredusing ﬂuorescence at 490 nm."
+m17,6397,2012
+m18,448,Keywords:
+m18,1254,1 − 1 − 2 2 2 2 ◦ 2 2 ◦ 4 4 3
+m18,2482,2. Emergence of Superconductivity in BiS #NAME?
+m18,5636,3. Material Design Strategies for the BiS #NAME?
+m19,543,1. Introduction
+m19,1359,Figure 1.
+m19,2446,3. Rusults
+m19,4940,4. Discussion
+m19,5959,References
+m2,558,1. Introduction
+m2,1447,2. Modeling of Hydration for Metakaolin Blended Concrete
+m2,4236,3. Property Evaluations of MK Blended Concrete
+m2,11075,4. Conclusions
+m20,630,1. Introduction
+m20,1282,Figure 1.
+m20,2028,3. Results and Discussion
+m20,3209,Figure 3.
+m20,3707,Table 2.
+m20,4300,4. Conclusions
+m21,486,"In the last decades, both entropy and entropy generation have been largely applied in engineeringprocedures aiming to improve the performances of manufactured devices [1,2] as well as and formodelling the behaviour of natural phenomena. When the entropy generation (i.e., the irreversibility)is minimized in properly constrained components and systems, their exergy destruction becomesminimal [3,4]. Engineering approaches based on this concept allow designing and operating devicesand systems as efﬁciently as possible. Minimum entropy generation analysis has been appliedto thermal insulation problems involving minimum heat transfer at ﬁxed temperature differenceand thermal enhancement involving minimum temperature difference to exchange a ﬁxed heatﬂux [2]. In the literature, there are numerous applications of entropy generation analysis to storagesystems [5–7], ﬂuid ﬂow within technical devices [8–10], engines [11,12], heat exchangers [13,14] anddesalination plants [15]."
+m21,2001,"The wind spreads towards the East with an intensity of 2 m/s. The terrain is 18 slope, directedtowards a direction between NE and N, so that an angle between wind and slope of 60 is obtained.As an effect, the main ﬁre propagation will occur between E and N. Fire propagation analysis lasts250 s, which is the time spent to reach the end of the domain."
+m21,4785,(Equation (9)):
+m21,5852,∂ ∂
+m21,5858,+ ∇ ( ) = ∇ ( ) + g ( )
+m21,5886,dM ( t ) dt
+m21,5892,= − M ( t )
+m21,5894,-12
+m21,8728,"Entropy 2017 , 19 , 433 11 of 16 temperature variation in each time-step. The maximum values reached are considerably lower than those related to TERM 1 and TERM2. The integrals of the curve represented in Figure 6 are evaluated and results are reported in Figure 8 for all the considered values. Bars represent the total entropy generated during the entire process (until the first temperature peak). Figure 8. Entropy generated: three contributions. The values of TERM 1 significantly differ in the various sectors of the front. In particular, the largest values occur in the second flanks of the fire front, because of the higher temperature gradients.  The contributions due to mass transfer (TERM 2) are larger at the head of the fire front. This is particularly relevant for the point at the tip of the front (the point characterized by a larger y coordinate). Values are negative at the end of the lower front, due to two reasons: (1) in these cells the fire front propagates in a direction that is opposite with respect to the direction where the equivalent velocity spreads and (2) the entropy flux exchanged by the lateral surfaces is lower than zero. TERM 3 is quite similar in the various cells. Such values mainly depends on the temperature variation inside the control volume during the considered time. This varies between the environmental temperature and the first peak temperature. Consequentially the cells characterized by higher entropy generation are the ones in the central part of the fire front, where temperature rapidly increases when reached by the fire front. It is evident that TERM 3 is negligible compared to the contribution due to mass flow rate and heat exchanged. TERM 2 in the central part of the fire front includes some values of the same magnitude as the ones of the TERM 1 and more than ten times the TERM 3. If all the control volumes are considered, the mean contribution due to mass flow rate and the one due to the losses are quite similar (about 250 J/K). 4.3. Propagation Prediction Comparison Using the methodology described in Section 2, the evolution predictions for the STATE 2 are obtained for all the discussed approaches. Results are shown in Figure 9. The capability of the compact models in predicting the fire evolution can be evaluated through comparison of the corresponding fronts (plain line for the vector composition and dashed line for the entropy generation) with the results of the full physical model (bold line). BACKHEADFLANK 1FLANK 2"
+m21,11041,5. Conclusions
+m22,5869,m W
+m22,5875,1.00E+02
+m22,5881,n = 0.6
+m22,12131,Entropy generation in a power-law emulsion72.21 % by volume  O/W emulsion ;K = 7.9 Pa.s ; n = 0.355
+m22,15576,"Thermodynamics , 7th ed.; McGraw-Hill: New York, NY, USA, 2005; Chapter 5."
+m23,392,Abstract:
+m23,1416,∂ u ∂ y σ B u ρ
+m23,2816,3. Irreversibility Analysis
+m23,3346,4. Results and Discussion
+m23,7694,Nomenclature
+m23,8229,Greeks Symbols
+m24,606,Keywords:
+m24,2030,Figure 1.
+m24,2446,-3
+m24,3264,-15
+m25,2917,3. Results
+m25,4949,4. Conclusions
+m25,5491,References
+m26,1190,2. The System Studied
+m26,1665,Ψ Ψ
+m26,2021,.
+m26,2085,Ψ Ψ Ψ Ψ
+m26,2542,3. The Method
+m27,595,Keywords: LiNi Co Al O ; LiAlO coating; lithium compound residues; pH value; capacityretention
+m27,1257,developed recently:
+m28,603,1. Introduction
+m28,2446,"MFC, as water based slurry (KY-100G) was received from Daicel Chemical Industries, Kita-Ku,Osaka, Japan. Homogeneous MFC containing culture medium was prepared by adding MFC (5% byweight of the culture media) into the mannitol culture medium (described above) to produce BC-MFChybrid ﬁbrous structure. The seed liquid (6 mL) was then inoculated into a 100-mL MFC-containingculture medium (600-mL conical ﬂask) after two days in seed culture (as described above). Conditionsof initial pH of 5.0 and 30 C were applied for BC cultivation in a static incubator for 10 days.The BC-MFC ﬁbrous hybrid structure produced on the surface of the MFC-containing mannitol culture medium was harvested after the 10-day incubation period. The BC-MFC hybrid ﬁbrous structure was then rinsed successively with water and 1% ( / ) aqueous NaOH at 90 C for 15 min and then furtherrinsed with deionized water to remove all remaining microbial contaminants. During the multi-steprinsing process, the BC-MFC ﬁbrous hybrid structure was treated with extreme care so as to avoid anyseparation of the MFC from the BC pellicle."
+m28,4253,3. Results and Discussion
+m29,562,Keywords:
+m29,626,1. Introduction
+m29,3916,Clamped ﬁber in North Dakota State University (NDSU)’s Deben micro-tensile tester.
+m3,623,1. Introduction
+m3,4947,2. Materials and Methods
+m3,7620,3. Results
+m3,11244,4. Conclusions
+m30,1258,2. Materials and Methods
+m30,2479,3. Results and Discussion
+m30,3707,Table 1.
+m30,3744,Samples/Parameters S S S S
+m30,9059,References
+m31,549,1. Introduction
+m31,1190,2. The VEG Method
+m31,1530,Figure 1.
+m31,2446,Due to the mass leakage (
+m31,3265,/
+m31,5879,"This case is an evaluation of capillaries exchange with surrounding interstitial ﬂuid in biology [14].The capillary exists between the arterial end (inlet) and venous end (outlet). The capillaries in humanbodies have permeable walls that allow the exchange of nutrients with the surrounding tissues. Thus,capillary leakage plays a positive and crucial role in maintaining the balance of water, oxygen, ions,and other much-needed nutrients in the human body."
+m32,2968,2. Materials and Methods Figure 2. 3. Results
+m32,3311,a b
+m32,3708,3. Results
+m32,4269,a b Figure 5. a b
+m32,5970,References
+m32,6397,2009 2015
+m33,471,alpha-amylase inhibitors; capillary zone electrophoresis; protein selectively extracted withchloroform/methanol (CM-proteins); commercial cultivars; Triticum species (spp.); wheat allergens
+m33,536,1. Introduction
+m33,2215,3. Results and Discussion
+m33,2429,Figure 1
+m33,3735,2016 Figure 3
+m33,5855,R y x y vs. x n etc.
+m33,7275,References
+m34,546,Keywords:
+m34,596,1. Introduction
+m34,2177,U
+m34,2226,U
+m34,2876,3. Second Law Formulation
+m34,3708,5. Results and Discussion
+m34,5875,"Figure 7 illustrates the evolution of the total entropy generation with the Hartman number forRa = 10 and 10 . As shown in Figure 7, at a ﬁxed Hartmann number, the entropy generation generallyincreases as the Rayleigh number increases. This is due to the improvement of the convection in theporous cavity which will, in turn, increase the thermal and the velocity gradients and consequently theentropy generation."
+m34,7275,Nomenclature
+m35,1455,2016
+m35,1705,2 Antibiotics
+m35,2403,Figure 2 Compound R R R R R R R Figure 3
+m35,2508,2. Antibiotics
+m35,2964,Compound R R R R R R R Figure 3
+m35,3040,Figure 2.
+m35,3339,Compound R R R R R R R
+m35,3356,Figure 4
+m35,5651,3. Trends in the Extraction of Antibiotics from Shrimps
+m35,5887,"For the class of sulfonamides, SPE is the sample preparation of choice, followed by SLE.In addition, there are some studies in which a combination of SLE and LLE is used for the extraction ofsulfonamide drugs from shrimp samples. Furthermore, MISPE and QuECheRS are applied for thedetermination of sulfonamides."
+m35,23259,2016
+m35,23292,Table 5.
+m35,23316,"AnalyticalTechnique LOD, LOQ, CC ,CC"
+m35,23321,Reference Analytes Sample Sample Preparation Recovery %
+m35,23904,2016
+m35,23937,Table 5.
+m35,26485,2016
+m35,26715,Author Contributions:
+m35,26731,Conﬂicts of Interest:
+m35,27377,2016
+m35,28269,2016
+m35,29161,2016
+m35,29426,2009 2008 2005 2011
+m36,590,Keywords:
+m36,641,1. Introduction
+m36,2974,4. Experimental Program
+m36,3707,Table 1.
+m36,3732,Specimen
+m36,3736,Geometry
+m36,3746,JBC1 JBC2 JBC4 J4
+m36,4067,GFRP:
+m37,699,Keywords:
+m37,2474,2. One-Dimensional Model of a Segmented TEMC
+m37,2996,Figure 1.
+m37,5589,Figure 2a–c shows the behavior of the properties of the materials in the temperature range of
+m38,1313,"dt (cid:48) d (cid:48) ε (cid:48) , t t (cid:48) (cid:48) , t (cid:48)"
+m38,1337,r r r E r
+m38,1339,J r
+m38,1435,k
+m38,3774,k k G r
+m38,3776,k
+m38,3789,G
+m38,3806,k G
+m38,5644,g G
+m38,5865,E ( q ω ) = −(cid:61) m [ ε ( q ω )]
+m38,5890,"It is worth mentioning that the nonlocal ﬁeld effects are included in EEL through the off-diagonalelements of the general χ [35] function.In addition, one may use the non-local dynamicalconductivity to describe the electronic processes and light-matter interactions. This can be simplyachieved by writing the longitudinal conductivity in terms of the density-density response functionthrough the relation:"
+m38,6041,3. Result and Discussion
+m38,8341,(cid:115)
+m38,12824,h ω (eV) Intraband
+m38,15577,"The non-interacting response function of bilayer MoS for = 0.084 Å with the charge carrierconcentration of = 6.9 × 10 cm shown in Figure 12. We can see that in bilayer MoS , both interbandand intraband contributions of non-interacting response function are considerable. The intrabandcontribution of this quantity is quite strong and refers to the main collective mode, although its interbandterm is weak, and this can lead to new modes in the system; thus, in the following, we will explain itfurther."
+m38,15915,Figure 12.
+m38,25372,2010
+m38,25398,2017
+m38,25411,2015
+m38,25449,1996
+m38,25462,2015
+m38,25501,2014
+m38,25527,2011
+m38,25540,2016 2014
+m38,25617,2017 2015
+m38,25682,2014
+m38,25733,2014 2017
+m39,2773,2015 383
+m39,3665,2015 384
+m39,4833,Figure  2. a b c d e f
+m39,5597,Table 2.
+m39,5619,Measurement method CS (g)/CS–PLA (g)
+m39,6113,Figure  4. a b c d e f
+m39,7233,2015 388
+m39,7692,Figure 7. a b c
+m39,9017,2015 390
+m39,9909,391 2015
+m39,10125,Acknowledgments
+m39,10200,Author Contributions
+m39,10275,Conflicts of Interest
+m39,10333,References
+m39,10801,2015 392
+m39,10852,1994
+m39,10869,2003
+m39,10920,2007
+m39,10971,2011
+m39,11039,2005
+m39,11073,2005
+m39,11107,2005
+m39,11124,2002
+m39,11192,1999
+m39,11226,1996
+m39,11243,2002
+m39,11294,2004
+m4,601,1. Introduction
+m4,2248,2. Experimental Section
+m4,3744,3. Results and Discussion
+m4,9951,4. Conclusions
+m40,626,Keywords:
+m40,691,1. Introduction
+m40,2085,3. Test Materials
+m40,2194,Table 1.
+m40,3036,Table 2.
+m40,3058,Softening Point/ C 25 C Penetration/0.1 mm
+m40,3059,Speciﬁc Gravity/(g/cm )
+m40,3060,Items
+m40,5879,"The test results in Table 6 addressed that the combination A B C had the highest correlationdegree, which presented that the physical properties of this asphalt binder were the best compared tothe other test samples. As a result, the following optimal combination was recommended: A B C ."
+m41,593,Keywords:
+m41,3106,˝
+m41,7325,Abbreviations
+m42,684,1. Introduction
+m43,2028,3. Results and Discussion
+m43,5491,4. Conclusions
+m43,6397,2016
+m44,626,1. Introduction
+m44,1339,2. Material and Methods
+m44,3240,Figure 2.
+m44,8812,4. Conclusions
+m45,548,Keywords:
+m45,2163,2. Thermal Energy Storage in Building Issues
+m45,2503,3. Thermal Transformations and Parameters Describing the TES Phenomena
+m45,10146,Material Type S AC SLB CB FB CGA ‐ PC CGA ‐ AC CCA ‐ PC CCA ‐ AC G
+m45,10406,Figure 7 left right 6 Conclusions
+m45,11297,6. Conclusions
+m46,4315,3. Results and Discussion
+m46,10145,4. Conclusions
+m46,10902,Nomenclature
+m46,10926,English letters:
+m47,11423,Figure 10. Entropy generations with no phase change (problem in Figure 1a) for Pr 50 = and
+m48,1339,2. Experimental
+m48,1526,Table 1.
+m48,2523,3. Results and Discussion
+m48,2566,a b c d
+m48,3580,Figure 2 Figure 3 Table 3
+m48,7275,Abbreviations
+m49,549,1. Introduction
+m49,1204,2. Cycle Model and Performance Analyses of Irreversible Maisotsenko ReciprocatingBrayton Cycle
+m49,1539,Figure 1.
+m49,5491,3. Numerical Examples and Discussion
+m49,9951,References
+m5,642,1. Introduction
+m5,1663,2. Formulation of Problem and Governing Equations
+m5,2021,", , , , 0,"
+m5,2816,3. Problem Calculation
+m5,3264,","
+m5,5662,4. Results and Discussion
+m5,9059,5. Concluding Remarks
+m50,593,Keywords:
+m50,4786,= −
+m50,5885,= -41
+m50,5891,[( − )( ) + ( )] · ( + ) [( − ) + ( )] − ( + ) +
+m50,11208,5. Conclusions
+m50,15664,2011 2010 2011
+m50,15729,2011
+m50,15768,2015
+m50,15807,2016
+m50,15845,2013
+m50,15858,2015
+m50,15910,2015
+m50,15923,2016
+m50,15961,2016
+m6,563,1. Introduction
+m6,1339,2. Experimental Section
+m6,8472,3. Discussion
+m6,10055,4. Conclusions
+m7,707,1. Introduction
+m7,2136,2. Materials and Methods
+m7,3232,3. Results and Discussion
+m7,7275,4. Conclusions
+m8,447,1. Introduction
+m8,2037,3 U (3) Gauge Potential with Non-Constant Wilson Loop
+m8,5886,4 U ( 3 ) Gauge Potential with Constant Wilson Loop
+m8,8476,5. Discussion
+m9,1032,1. Introduction
+m9,2501,2. Description of Case Studies
+m9,5491,3. Methodology
+m9,9418,4. Results and Discussion
+m9,13820,5. Conclusions

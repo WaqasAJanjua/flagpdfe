@@ -1,0 +1,68 @@
+pageno,top,fonts_size,hasAck,hasAt,Allcap,hasTable,hasFigure,hasRef,hasR,hasAbstract,italic,Bold,LABEL,Text,filename
+1,130,14,0,1,0,0,0,0,0,0,0,0,TI,"Linear Time Membership in a Class of Regular Expressionswith Counting, Interleaving, and Unordered Concatenation",a11
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,Overview of Auditory Representations in Human-Machine Interfaces,a12
+1,128,11,0,0,0,0,0,0,0,0,0,1,TI,Augmented Collaborative Filtering for Sparseness Reductionin Personalized POI Recommendation,a13
+1,150,13,0,0,0,0,0,0,0,0,0,1,TI,Market Equilibrium via a Primal–Dual Algorithmfor a Convex Program,a14
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,GreASE: A Tool for Efﬁcient “Nonequivalence” Checking,a15
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,Renegotiation in Service Level Agreement Managementfor a Cloud-Based System,a16
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,Scaling Predictive Analysis of Concurrent Programs by RemovingTrace Redundancy,a17
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,The State of Public Infrastructure-as-a-Service Cloud Security,a18
+5,4008,9,0,0,0,0,0,0,0,0,0,1,TI,Malicious Cloud User.,a18
+5,4008,9,0,0,0,0,0,0,0,0,0,0,TI,"An attacker who hasn’t compromised the cloud service is morelimited because he only has the capabilities of a normal cloud customer. While suchattackers are weaker, such capabilities are easier to gain because they do not rely onthe presence of privilege escalation vulnerabilities in the CSP infrastructure. However,there may still be some limited capabilities that such attackers are assumed to have,such as the ability to co-locate themselves with the victim customer.",a18
+1,116,11,0,0,0,0,0,0,0,0,0,1,TI,51,a19
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,Separation of Concerns in Feature Diagram Languages:A Systematic Survey,a19
+1,116,11,0,0,0,0,0,0,0,0,0,1,TI,21,a20
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,Generating Test Cases for Programs that Are Codedagainst Interfaces and Annotations,a20
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,"HAMPI: A Solver for Word Equations over Strings, RegularExpressions, and Context-Free Grammars",a21
+1,128,11,0,0,0,0,0,0,0,0,0,1,TI,Consistent Query Answering for Self-Join-Free Conjunctive QueriesUnder Primary Key Constraints,a22
+1,156,11,0,0,0,0,0,0,0,0,0,1,TI,9,a22
+5,3511,9,0,0,0,0,0,0,0,0,0,1,TI,P,a22
+5,3511,9,0,0,0,0,0,0,0,0,0,1,TI,coNP,a22
+5,3511,9,0,0,0,0,0,0,0,0,0,1,TI,coNP,a22
+5,3511,9,0,0,0,0,0,0,0,0,0,1,TI,P,a22
+5,3511,9,0,0,0,0,0,0,0,0,0,1,TI,coNP,a22
+5,3511,9,0,0,0,0,0,0,0,0,0,1,TI,P,a22
+5,3511,9,0,0,0,0,0,0,0,0,0,1,TI,coNP,a22
+1,128,11,0,0,0,0,0,0,0,0,0,1,TI,Reputation Systems Evaluation Survey,a23
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,Forbidden Information,a24
+1,130,14,0,0,0,0,0,0,0,0,0,0,TI,Multifeature Anisotropic Orthogonal Gaussian Process forAutomatic Age Estimation,a25
+1,128,11,0,0,0,0,0,0,0,0,0,1,TI,On Network Neutrality Measurements,a26
+1,128,11,0,0,0,0,0,0,0,0,0,1,TI,An Indexing Framework for Queries on Probabilistic Graphs,a27
+1,84,11,0,0,0,0,0,0,0,0,0,1,TI,11,a28
+1,128,11,0,0,0,0,0,0,0,0,0,1,TI,Allocation of Virtual Machines in Cloud Data Centers—A Survey ofProblem Models and Optimization Algorithms,a28
+1,116,11,0,0,0,0,0,0,0,0,0,1,TI,30,a29
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,A Survey of Migration Mechanisms of Virtual Machines,a29
+5,4009,9,0,0,0,0,0,0,0,0,0,0,TI,Postcopy migration [Hirofuchi et al. 2011] basically follows the next steps:,a29
+1,150,13,0,0,0,0,0,0,0,0,0,1,TI,AdWords and Generalized Online Matching,a30
+1,122,11,0,0,0,0,0,0,0,0,0,1,TI,22,a30
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,Validating Software Metrics: A Spectrum of Philosophies,a31
+1,128,11,0,0,0,0,0,0,0,0,0,1,TI,A Risk-Scoring Feedback Model for Webpages and Web UsersBased on Browsing Behavior,a33
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,DIG: A Dynamic Invariant Generator for Polynomialand Array Invariants,a34
+1,128,11,0,0,0,0,0,0,0,0,0,1,TI,Learning User Attributes via Mobile Social Multimedia Analytics,a35
+1,150,13,0,0,0,0,0,0,0,0,0,1,TI,Low Distortion Embeddings for Edit Distance,a36
+1,128,11,0,0,0,0,0,0,0,0,0,1,TI,Transfer Learning for Behavior Ranking,a37
+1,84,11,0,0,0,0,0,0,0,0,0,1,TI,8,a38
+1,128,11,0,0,0,0,0,0,0,0,0,1,TI,Fast and Accurate Time-Series Clustering,a38
+1,130,14,0,0,0,0,0,0,0,0,0,0,TI,"DBSCAN Revisited, Revisited:Why and How You Should (Still) Use DBSCAN",a39
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,Key Factors for Adopting Inner Source,a40
+1,116,11,0,0,0,0,0,0,0,0,0,1,TI,3,a41
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,Modeling and Verifying Hierarchical Real-Time Systems UsingStateful Timed CSP,a41
+1,150,13,0,0,0,0,0,0,0,0,0,1,TI,Optimal Probabilistic Fingerprint Codes,a42
+1,130,14,0,0,0,0,0,0,0,0,0,0,TI,Detecting Inclusion Dependencies on Very Many Tables,a43
+1,150,13,0,0,0,0,0,0,0,0,0,1,TI,Evolvability,a44
+1,128,11,0,0,0,0,0,0,0,0,0,1,TI,Community Detection with Topological Structure and Attributesin Information Networks,a46
+1,128,11,0,0,0,0,0,0,0,0,0,1,TI,Daehr: A Discriminant Analysis Framework for ElectronicHealth Record Data and an Application to Early Detectionof Mental Health Disorders,a47
+1,122,11,0,0,0,0,0,0,0,0,0,1,TI,1,a48
+1,150,13,0,0,0,0,0,0,0,0,0,1,TI,Towards 3-Query Locally Decodable Codes ofSubexponential Length,a48
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,Fault Localization Prioritization: Comparing Information-Theoreticand Coverage-Based Approaches,a49
+1,130,14,0,0,0,0,0,0,0,0,0,0,TI,Supervised Representation Learning with DoubleEncoding-Layer Autoencoder for Transfer Learning,a50
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,Facilitating the Transition from Use Case Models to Analysis Models:Approach and Experiments,a1
+1,130,14,0,0,0,0,0,0,0,0,0,0,TI,Automatic Software Repair: A Bibliography,a2
+1,130,14,0,0,0,0,0,0,0,0,0,0,TI,Metamorphic Testing: A Review of Challengesand Opportunities,a3
+1,130,14,0,0,0,0,0,0,0,0,0,0,TI,TriAL: A Navigational Algebra for RDF Triplestores,a4
+1,130,14,0,0,0,0,0,0,0,0,0,0,TI,Sparse Passive-Aggressive Learning for Bounded OnlineKernel Methods,a5
+1,130,14,0,0,0,0,0,0,0,0,0,0,TI,Bounded Query Rewriting Using Views,a6
+1,130,14,0,0,0,0,0,0,0,0,0,0,TI,Designing a Query Language for RDF: Marrying Openand Closed Worlds,a7
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,A Survey on Reactive Programming,a8
+1,160,11,0,0,0,0,0,0,0,0,0,1,TI,A Learning Theory Approach to Noninteractive Database Privacy,a9
+1,130,14,0,0,0,0,0,0,0,0,0,0,TI,Declarative Probabilistic Programming with Datalog,a10

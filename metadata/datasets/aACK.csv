@@ -1,0 +1,33 @@
+pageno,top,fonts_size,hasAck,hasAt,Allcap,hasTable,hasFigure,hasRef,hasR,hasAbstract,italic,Bold,LABEL,Text,filename
+33,24958,9,0,0,0,0,0,0,0,0,0,0,ACK,"Once an AST is generated, it is transformed into an actual type in the following way:",a11
+24,19594,8,0,0,0,0,0,0,0,0,0,1,ACK,REFERENCES,a15
+6,4653,8,0,0,0,0,0,0,0,0,0,1,ACK,public,a20
+7,5046,9,0,0,0,0,0,0,0,0,0,1,ACK,db,a22
+7,5024,9,0,0,0,0,0,0,0,0,0,1,ACK,db,a22
+7,5024,9,0,0,0,0,0,0,0,0,0,1,ACK,db,a22
+7,5024,9,0,0,0,0,0,0,0,0,0,1,ACK,db,a22
+7,5024,9,0,0,0,0,0,0,0,0,0,1,ACK,db,a22
+7,5024,9,0,0,0,0,0,0,0,0,0,1,ACK,db,a22
+7,5024,9,0,0,0,0,0,0,0,0,0,1,ACK,db,a22
+7,5024,9,0,0,0,0,0,0,0,0,0,1,ACK,db,a22
+16,12099,8,0,0,0,0,0,0,0,0,0,1,ACK,6.2. Background on Covert Channels,a26
+8,6376,8,0,0,0,0,0,0,0,0,0,1,ACK,3.3. Conducting the Follow-Up Search,a31
+24,19609,8,0,0,0,0,0,0,0,0,0,1,ACK,7.1. Observed Advantages of Using Various Metrics Validation Criteria,a31
+13,10247,7,0,0,0,0,0,0,0,0,0,0,ACK,(cid:14)+,a32
+13,10247,7,0,0,0,0,0,0,0,0,0,0,ACK,(cid:14)+,a32
+7,5041,9,0,0,0,0,0,0,0,0,1,1,ACK,G,a33
+7,5041,9,0,0,0,0,0,0,0,0,1,1,ACK,V,a33
+7,5041,9,0,0,0,0,0,0,0,0,1,1,ACK,E,a33
+7,5041,9,0,0,0,0,0,0,0,0,1,1,ACK,V,a33
+7,5041,9,0,0,0,0,0,0,0,0,1,1,ACK,E,a33
+8,6382,8,0,0,0,0,0,0,0,0,0,1,ACK,3.2. Inequalities,a34
+13,10254,7,0,0,0,0,0,0,0,0,0,0,ACK,1,a36
+13,10254,7,0,0,0,0,0,0,0,0,0,0,ACK,1,a36
+13,10257,7,0,0,0,0,0,0,0,0,0,0,ACK,∈,a36
+16,12103,8,0,0,0,0,0,0,0,0,0,1,ACK,REFERENCES,a46
+44,33632,9,0,0,0,0,0,0,0,0,0,0,ACK,ACKNOWLEDGMENTS,a4
+44,33635,9,0,0,0,0,0,0,0,0,0,0,ACK,ACKNOWLEDGMENTS,a7
+44,33635,9,0,0,0,0,0,0,0,0,0,0,ACK,The authors thank the anonymous referees for their careful reading of the paper and for providingmany helpful comments.,a7
+24,19584,8,0,0,0,0,0,0,0,0,0,1,ACK,ACKNOWLEDGMENTS,a9
+33,24956,9,0,0,0,0,0,0,0,0,0,0,ACK,ACKNOWLEDGMENTS,a10
+33,24956,9,0,0,0,0,0,0,0,0,0,0,ACK,"We are thankful to Molham Aref, Todd J. Green, and Emir Pasalic for insightful discussions andfeedback on this work. We also thank Michael Benedikt, Georg Gottlob, and Yannis Kassios forproviding useful comments and suggestions.",a10

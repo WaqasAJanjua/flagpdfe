@@ -1,0 +1,469 @@
+filename,top,Text
+i1,1330,A. SHALLOW-LEARNING-BASED METHODS
+i1,2135,B. DEEP-LEARNING-BASED METHODS
+i1,3044,A. FULLY CONVOLUTIONAL REGRESSIONNETWORK (FCRN)
+i1,3095,B. GROUND-TRUTH PREPARATION
+i1,3839,C. IMPLEMENTATION DETAILS
+i1,4596,B. QUANTITATIVE EVALUATION AND COMPARISON
+i1,4662,A. DATASETS DESCRIPTION
+i1,6571,C. QUALITATIVE RESULTS
+i10,1152,A. Read Arc
+i10,1518,B. Write Arc
+i10,1534,"Write operations usually consider data-generation and/ordata-update. Data-generation means that a variable is initial-ized via a write operation, i.e., this variable has no value beforethis write operation is executed. Data-update means that theoriginal value of a variable is replaced by a new value."
+i10,3656,B. Data-ﬂow Error Detection Based on ERG
+i11,1321,Fig. 2. Geometric drawing of one chain for kinematic analysis. The coordi-
+i11,1357,z γ
+i11,1519,"Forward kinematics describes the transformation of theposition from the joint space to the Cartesian space, whichis an essential step to realize the impedance control algorithm [17]. The translation and rotation are decoupled thanks to the"
+i11,1628,-3
+i11,1964,M I m J JC m J JG J G T T
+i11,2337,D. Gravity Compensation
+i11,4528,x x . z y
+i11,4890,x z
+i12,1900,end forv Rs v meas iRs v meas iStart v Rp1 v meas iRp1 v meas iRs v Rp2 v meas iRp2 v meas iRp1 0 i meas iStart i meas iStart SOC soc meas iRp2 OCV v meas iRp2 R s i R p1 i R p2 i C d1 C d2 return SOC OCV R s R p1 R p2 C d1 C d2
+i12,2803,a
+i12,3292,v
+i12,3608,then
+i12,3617,end if
+i12,3651,j
+i12,3989,0
+i12,4141,"r i , . . . , ."
+i12,4946,κ
+i13,1567,h h h
+i13,1568,"h ,"
+i13,1579,h
+i13,1839,-8
+i13,1920,a
+i13,1943,a
+i13,1962,h
+i13,2199,A. CUR-DECOMPOSITION AND FRAMEWORK
+i13,2264,w
+i13,2792,A C R
+i13,3568,D. ACHIEVABLE SUM RATE CAPACITY h v h
+i13,3579,A R A C U C C End
+i13,3589,A
+i13,3654,Output C U R A C U R A CUR End of the algorithm
+i13,4660,B
+i14,1314,N N
+i14,1324,i i i ij j j
+i14,1325,ij
+i14,1351,N
+i14,1352,t
+i14,1360,f j x j t f j x j s ds
+i14,1362,d ij
+i14,1518,(cid:90)
+i14,1983,y x m
+i14,2131,+
+i14,2132,-5
+i14,2335,Q Q Q Q Q Q
+i14,2340,e t Ce t Ag e t Bg e t
+i14,3233,e t L e t
+i14,3772,P t B Qexp a t T
+i14,4493,D f y s ds u t
+i14,4529,T T T i a a e t y t x t
+i14,4835,Example 2: Consider a delayed coupled neural network
+i14,4884,B
+i15,2048,A. EPCglobal NETWORK
+i15,2283,B. PROBLEM FORMULATION
+i15,2852,C. TRADITIONAL WHOLESALE PROTOCOL
+i15,3737,VI. PROBABILISTIC IDENTIFICATION PROTOCOLWITH OPTIMIZED ROUNDS
+i15,3957,P S
+i15,4003,if then else
+i15,4483,F n b n
+i15,6445,B. EXPERIMENTAL COMPARISON
+i16,1055,A. MATERIALS
+i16,4032,A. RESULTS REGARDING MACHINE-LEARNING PROCEDURES: PREDICTIVE MODELS AND CLUSTERING
+i16,4483,device_screen_width viewport_width browser_name_Firefox device_pixel_ratio viewport_height modern_browser mod-ern_os.
+i16,6471,B. RESULTS REGARDING CRITERIA FOR REDIRECTINGUSERS WITHIN A/B TESTING VERTICALS
+i17,4008,A. MULTI-PRIORITY TRANSMISSION STRATEGY
+i17,4615,B. MEASUREMENT-BASED CONGESTION DETECTION
+i17,4746,C. CHANNEL ACCESS OPTIONS
+i17,10260,B. FAILURE p AND COLLISION p PROBABILITIES p p
+i18,2283,2. CIE Recommendation Model and Illuminance Level Control Strategy
+i19,2133,as follows.
+i19,3092,B. LTE CARRIER AGGREGATION AND SYSTEM NETWORKS
+i19,3853,D. CELL ON/OFF MECHANISM
+i19,4805,A. EVALUATION ENVIRONMENT AND DEVICES
+i19,5396,B. EVALUATION PARAMETERS
+i19,6470,B. CAPACITY TRIAL
+i19,10732,E. PERFORMANCE OF ENHANCED CELL ON/OFF MECHANISM
+i2,984,A. BLOCKCHAINS
+i2,1020,B. DEMAND FOR A NEW TYPE OF IDaaS
+i2,1212,A. OVERVIEW
+i2,2056,C. EXAMPLE
+i2,2089,B. PROCEDURES
+i2,2866,A. CONSENSUS ALGORITHM
+i2,2916,D. PROVIDED USER INFORMATION
+i2,3027,B. CONSORTIUM BLOCKCHAIN
+i2,3175,C. SERVICE LEVEL AGREEMENT
+i20,1130,3) COMPOUND WORDS
+i20,4071,A. STEMMING RULES
+i20,4459,b: TE ARABIC MASDAR (INFINITIVE VERBS BEGINNINGWITH TE) CLASS INFIX STRIPPING RULES
+i20,4466,a: ALIF ARABIC MASDAR (INFINITIVE VERBS BEGINNING WITH ALIF) CLASS INFIX STRIPPING RULES
+i20,4815,c: ISAM FIALE (ACTIVE SUBJECT) CLASS INFIXSTRIPPING RULES
+i20,5113,f: ARABIC JAMAH AND ISAM FIALE (ARABIC PLURALS ANDACTIVE SUBJECT) BEGINNING WITH MEEM (‘‘
+i20,5275,d: ISAM MAFOOL (PASSIVE OBJECT) CLASS INFIXSTRIPPING RULES ISAM MAFOOL (PASSIVE OBJECT)BEGINNING WITH MEEM ’ ’
+i20,5390,"If a word starts with Meem (‘‘ ’’) and the character ’’) and length of the word is exactly ’’),"
+i20,6283,C. PROPOSED URDU STEMMER ALGORITHM
+i20,7761,A. EXPERIMENTAL DATASETS
+i21,3090,A. OVERVIEW
+i21,3764,TP
+i21,4482,STP
+i21,4483,i
+i21,4525,TP i
+i21,4699,trend TP TP TP trend TP TP TP TP i TP i trend TP TP TP i TP i trend
+i21,4833,(cid:101) k and (cid:101) λ can be determined as:
+i21,4882,e e
+i21,4888,P trend P trend
+i21,6567,A. LTE CELLULAR NETWORK TESTBED
+i22,1909,Algorithm 1 Require:
+i22,1944,for do
+i22,1968,for j q do
+i22,1994,i iq i
+i22,3232,1) The Function Execution Audition: control ﬂowgraph (CFG)
+i22,3574,switch case :
+i22,3634,case :
+i22,3957,s s y X y X
+i22,4144,(a) s y
+i22,4146,Case 7: s
+i22,5797,1 N − i
+i22,5802,P t t f
+i22,6209,M N
+i22,6372,"Proof: s C l C s l Corollary 2 (Phase Output Log Integrity): Suppose thelog of a phase preserves the computation integrity.input If function execution auditions (FEA) are performed on eachfunction execution of that phase, the output log of that phasepreserves the computation integrity if all the FEAs are passed.Proof: i i i i i"
+i22,7194,duce application when using RIA.
+i23,1559,", . . . , s s"
+i23,2132,We say that π is greedy if it satisﬁes that
+i23,2133,III. P
+i23,2340,"y, z V , d π y , π z d y, z ,"
+i23,2342,V
+i23,4975,S
+i23,4987,word acceptor WA
+i23,4999,accepts the language deﬁned by (6).
+i23,6372,n O l l
+i23,8137,δ
+i24,1900,1 ∈ Z − 1
+i24,3131,k
+i24,3650,t t t
+i24,3655,N t T t t
+i24,3767,h h h Proof: t T N t T t T T T t T T T
+i24,4480,T t
+i24,4481,t
+i24,4525,r h r
+i24,4526,h t T T t T N
+i24,4528,T
+i24,4700,t t
+i24,4752,t
+i24,4753,h
+i24,4757,t
+i24,4758,h T h T
+i24,4884,t x t t
+i24,5393,− 1 +
+i24,6197,r T N P P
+i24,6205,t B A n n
+i24,8504,x t v h v dv u
+i24,8505,A x t B
+i24,10253,Remark 6:
+i25,2902,C. DECISIONAL BILINEAR DIFFIE-HELLMAN ASSUMPTION
+i25,2962,A. SYSTEM ARCHITECTURE
+i25,4488,A. CONCRETE CONSTRUCTIONS Setup KeyGen IndexGen Trapdoor Test D D
+i25,4522,D D g
+i25,4711,"(cid:1) ,"
+i25,4759,g MSK t t t y g
+i25,4760,g g
+i25,4832,T D g
+i25,4833,· g
+i25,5394,(cid:32) (cid:33)
+i25,6196,N e g g g N e g g
+i26,1823,changer controller suitable for the new application.
+i26,2123,"the operating parameters for heater control are cur-rent  or  power.  with  the  current  sense  as  the  standardfor  the  regulator  controller,  a  modification  to  the  oper-ating  firmware  provided  an  option  for  current-based"
+i26,2256,X2 H2
+i26,2258,P0P114400:120
+i26,4835,"the  first  set  of  32-tap,  1,300-v vvts  supported  hZ4with a new, three-phase 518-m (1,700-ft) Mi heater. thevvts were configured as a wye power supply with alow  resistance  ground  and  physically  arranged  in  a  tri-angular  formation  to  fit  in  the  existing  power  platform"
+i27,1306,3
+i27,1521,b.
+i27,1581,d.
+i27,2176,A. CLASSIFICATION BASED ON AUTHENTICATIONANALYSIS
+i27,3877,b: OPTICAL DEVICE FOR FINGERPRINT AUTHENTICATION
+i27,3943,C. MULTI-FACTOR PROTOCOLS
+i27,4008,a: ONE-TIME BIOMETRICS
+i27,4423,b: REMOTE USER AUTHENTICATION SCHEMEUSING SMART CARDS
+i27,4647,d: FIDO
+i27,4756,e: MMR
+i27,4829,A. POSSIBLE VULNERABILITIES OF SINGLE- AND MULTI-FACTOR AUTHENTICATION PROTOCOLS
+i27,5470,IV. PROPOSED SOLUTION
+i27,6298,C. COMMUNICATION AND COMPUTATIONAL COST
+i27,6441,A. AVISPA: A VERIFICATION TOOL FOR FORMALSECURITY ANALYSIS
+i27,7244,B. SECURITY ANALYSIS
+i28,1455,P P
+i28,1559,"T ,"
+i28,1576,FIGURE 1.
+i28,1580,T
+i28,1914,FIGURE 2.
+i28,1943,"respectively, based on which associated area transfer func-"
+i28,2255,B
+i28,2264,x
+i28,2338,R B
+i28,3748,-10
+i28,3958,-12
+i28,3997,B A P M VM xy
+i28,3998,"Q 0 V 0 , and g are constant coef-whereficients with a large magnitude to force a penalty on the12  zero  elements k (e.g., k and k )  of  the  feedbackgain matrix K in (4) and (5) ( k is the i th-row, j th-columnelement of the feedback gain matrix K ). out of the fourterms in the cost function J in  (12), the first three terms ) ( g K * 0 ,"
+i28,3999,", , 0 0 R"
+i28,4753,M M M
+i28,4797,x x x
+i28,4812,x x x
+i28,5294,a
+i28,5393,= -
+i29,4494,f Z C C
+i29,5390,"The OTA was implemented using a folded-cascode topologywith an additional PMOS cascode stage, as shown in Fig. 8(b).The extra PMOS stage increases the / efﬁciency of theOTA by dropping the impedance seen looking into the cascodePMOS, forcing the signal current to the output. Current inthe second branch can then be further reduced without losingsigniﬁcant . The input pair was sized to 336 μ m/2 μ m forlarge / and to reduce offset. To allow for fast front-endsettling time, a slew-rate enhancement common-mode bufferis used to generate . This helps in charging the largefront-end/sensor caps ( = 49 . 5 pF and = 2 . 2 pF) ina fast and energy efﬁcient manner."
+i29,6081,P
+i29,8137,f
+i3,1450,A. VEHICULAR NETWORKING SYSTEMS
+i3,1994,C. MOBILE EDUCATION
+i3,2044,B. HEALTHCARE SYSTEMS
+i3,3482,A. SECURITY
+i3,3949,B. ENERGY CONSUMPTION
+i3,3996,C. MOBILE DYNAMIC ENVIRONMENT
+i3,4805,D. SYSTEM STABILITY
+i3,5113,A. MOBILE USER PRIVACY
+i3,5358,B. GREEN INTERNET OF THINGS
+i3,5603,C. CLOUD-BASED MOBILE ROBOTIC SYSTEM
+i30,1201,A. BACKGROUND
+i30,1249,"B. THE SIMULTANEOUS ROBUST, DECOUPLEDCONTROL APPROACH"
+i30,2074,A. GENERAL DESCRIPTION OF THE CROWN-THICKNESSCONTROL SYSTEM IN THE HOT STRIP MILL PROCESS
+i30,2339,PC
+i30,2345,h S
+i30,3829,C. RESULTS AND DISCUSSION
+i30,3957,A M
+i31,4757,A. Integration Between the VAS Game Interface and LiveQ
+i32,984,B. RELATED WORK AND CONTRIBUTION
+i32,1450,C. ORGANIZATION AND NOTATIONS
+i32,1557,Notations: A A A A
+i32,1969,y
+i32,1995,bs bs k j k jLoS
+i32,2868,C. PROBLEM FORMULATION
+i32,3125,J
+i32,3126,j k
+i32,3476,B. EQUIVALENT TRANSFORMATION VIA THE CHANNELOCCUPANCY MATRIX AND THE SLOTOCCUPANCY MATRIX
+i32,3579,A A A X Y X Y W
+i32,3956,i j k
+i32,3991,f x e y
+i32,4492,k M t t
+i32,4834,"Given the values of X and Y , we can rewrite (13) as thefollowing power optimization problem"
+i32,6200,f
+i32,6320,B. PROPOSED GRADIENT PROJECTION BASED METHOD
+i32,6376,k
+i32,7920,n
+i33,1866,A. SYSTEM SCENARIO AND NOTATIONS
+i33,2133,P h ω + n .
+i33,3033,A. STACKELBERG GAME MODEL
+i33,3484,B. SOLUTION TO THE GAME
+i33,3766,P
+i33,3974,h h h h h h h h P c
+i33,4491,P h h h P P P P
+i34,2201,B. RCM
+i34,3949,C. TIMING ANALYSIS
+i34,6328,A. FDA2RCM
+i34,7286,B. HDA2RCM
+i34,7695,C. MERGE AND A2RCM
+i35,1535,"Fig. 1 shows a full-duplex secure transmission model, whichis composed of one source ( S ), one full-duplex destina-tion ( D ), and one eavesdropper ( E ). The number of antennasat S , D , and E is 1, N , and 1, respectively. Denote A and A as the sets of N transmit antennas and N receive antennas respectively, with N + N = N , where N represents the"
+i35,1970,g g
+i35,1996,SE S DE E E
+i35,3186,B. THE OPA SCHEME FOR STATISTICAL ECSIs
+i35,4525,N N
+i35,4599,C. THE EXHAUSTIVE SEARCHING AMS-OPA SCHEME
+i35,4769,D. THE PROPOSED AMS-OPA SCHEME
+i35,5113,E. COMPLEXITY ANALYSIS
+i35,5309,F. PERFORMANCE ANALYSIS OF THE PROPOSED AMS-OPA SCHEME
+i35,6197,N P N N N N
+i35,6376,N N N N
+i35,6777,"= = 5 for two conventional FD-DBJ schemes.The PA factor is set as α = 0 . 3 for the conventional FD-DBJscheme without OPA, and set as (26) for that with OPA. FromFig. 4, we can ﬁnd that our proposed optimization scheme isvalid even in circumstance that the legitimate nodes can onlyobtain the statistical ECSIs."
+i35,7089,A. PROOF OF THEOREM 1
+i35,7195,-31 (cid:16) (cid:17)
+i35,7197,1 + γ γ − γ (cid:17) 1 + γ γ − γ
+i35,7612,B. PROOF OF THEOREM 2
+i37,3044,B. CALIBRATION METHOD AND STATISTICAL METRICS
+i37,4080,B. FOUR-YEAR MONTHLY TREND
+i37,4722,B. RESULTS OF CREST CALIBRATION AND VALIDATION
+i37,6777,"relatively less increase ( + 18%) in rainfall. Gauged and sim-ulated discharges agree well with each other during the cali-bration and validation periods, with the gauged precipitationand 3B42V7 as precipitation forcing. TMPA-3B42V7 prod-uct shows comparable hydrologic utility with the referenceprecipitation in hydrological prediction at Shehong basin.Monthly model runoff estimates show considerable agree-ment with gauge observations recorded at Shehong station,indicating CREST model can capture the soil moisture stor-age variability. Change in storage patterns (the sum of changein storage is close to zero) indicate that CREST modelreproduces the water cycle processes at Shehong basin withacceptable skills. In terms of water balance reconstructionresults, the model is proven to be beneﬁcial in address-ing issues pertaining to sustainability of water resourceswithin the catchment with respectto model robustnessand effectiveness. Therefore, Satellite precipitation prod-ucts help to understand the potential hydrological utility of remote sensing data for hydrological modelling studies in ungauged or poorly gauged basins. As retrospectively pro- cessed GPM-era IMERG datasets are released, more studies to simulate the key hydrological processes and reconstruct the water budget are required in the future."
+i38,1829,A. PATIENT DATA KNOWLEDGE BASE (PDKB)
+i38,1937,B. PROBABLE COMORBID PREDICTION AND TIMERANGE PROBABILITY PREDICTION MODULES
+i38,3104,A. PATIENT DATA KNOWLEDGE BASE
+i38,3175,a: PATIENT RELATIONSHIP
+i38,4020,b: TIME RELATIONSHIP
+i38,7970,B. PROBABLE COMORBIDITIES
+i38,10749,x
+i38,10757,PDF e
+i39,1994,k th u s u s k th
+i39,1996,o k th o k k o o o k k th o
+i39,2134,2 (λ + λ ) π re
+i39,2136,r
+i39,2269,f
+i39,2981,B. ERGODIC RATE OF THE k USER
+i39,3227,I
+i39,3232,r dr
+i39,3233,f
+i39,3654,p
+i39,3768,dt R
+i39,5392,"As shown in Fig. 8, the throughput will increase withincreasing number of SBSs, but the number of users is ﬁxed.The throughput increases slowly when the network is fullyloaded with increasing number of SBSs. The throughputincreases quickly when the network is partially loaded. Mean-while, as shown in Fig. 8, the throughput achieves differentvalues at different SIR thresholds when other parametersare the same. This is because lower can provide greatercoverage probability but will reduce the spectrum efﬁciency,and vice versa. The larger threshold can guarantee morethroughput when the number of SBSs is larger. However,a relatively small threshold should be chosen when thereare not as many SBSs to achieve better performance."
+i4,1490,B. Transponder Setup
+i4,2140,C. ASE Line Loading
+i4,3281,A. PS-64-QAM With Maxwell-Boltzmann Distribution
+i4,3958,B. Forward Error Correction
+i4,4659,C. Digital Signal Processing
+i4,4834,D. Launch Power Optimization
+i4,6479,E. Transmission Results
+i40,1047,o o
+i40,1048,bi obi ooi c o og oa o
+i40,1049,o o g oa c o bi o bi o oi o o
+i40,1372,-4
+i40,1550,T C I C
+i40,1903,C
+i40,2101,B. LINEARIZATION OF THE MODELS
+i40,2127,I
+i40,3126,d d
+i40,3232,b c a d
+i40,4044,B. ATTITUDE PATH PLANNING
+i40,4494,NOTE 1:
+i40,4711,where
+i40,4839,I
+i40,5443,C. LINEAR QUADRATIC REGULATOR WITHEIGENVALUE PLACEMENT
+i40,5670,0 0 0 0 0 0 0 0
+i40,6375,b a
+i40,6376,b a c
+i40,6413,"Step 1) Given a linear system as in (53), assign such that − is parallel with the imaginary axis, which would representthe line beyond which the closed-loop pole will be placedin the sector shown in Fig. 4. Assign the positive-deﬁnitematrix , and solve the equation − ( + ) − ( + ) = 0"
+i40,6500,h i
+i41,1328,i i
+i41,2086,A. NOMENCLATURE
+i41,2131,", , Coefﬁcients of the quadratic cost function of"
+i41,2136,R P R
+i41,4837,Rule 3: Rule 1
+i41,6380,B QA Q
+i41,6506,I
+i41,7119,B. PERFORMANCE COMPARISON
+i41,7256,C. DISCUSSIONS
+i42,1142,lifeloveandthepursuitofplay.com
+i42,1306,C. RECENT ADVANCES
+i42,1829,D. THE VitalPAD APPLICATION
+i42,2008,A. CLINICIAN OBSERVATION
+i42,2260,E. AIM OF STUDY
+i42,8037,c: SCENARIOS 3 AND 4 – REMINDER AND HANDOVER
+i42,8061,e: OVERALL FEEDBACK
+i43,1983,r s sr
+i43,1999,d
+i43,2134,"output SNR at the destination, γ , can be written as | γ = γ + γ = P (cid:107) P (cid:107) N"
+i43,2136,P x
+i43,2271,N N
+i43,2272,A h
+i43,2339,P N P
+i43,2344,P x i
+i43,3061,(cid:88)
+i43,3771,N j s
+i43,4034,A. ASYMPTOTIC BER ANALYSIS
+i43,4492,N N N i i MN N
+i43,4493,N
+i43,4494,x
+i43,4889,r r r
+i43,5305,C. DIVERSITY GAIN
+i43,8137,G P A A
+i44,1205,A. REDUCING THE SENSING INTERVAL
+i44,1450,B. REDUCING THE COOPERATION INTERVAL
+i44,1890,IV. SYSTEM MODEL
+i44,1923,C. INCREASING THE TRANSMISSION INTERVAL
+i44,1974,A. MODEL DESCRIPTION
+i44,2825,B. SPECTRUM SENSING USING ENERGY DETECTION
+i44,2971,D. REPORTING OR COOPERATION INTERVAL
+i44,3102,C. SPECTRUM SENSING ERROR PROBABILITY
+i44,3995,p
+i44,4044,B. ACTIVITY FACTOR IMPLICIT ESTIMATION
+i44,4519,A. PERFORMANCE METRICS
+i44,4756,C. OVERHEAD PERCENTAGE
+i45,1960,A. FERMAT POINT MODEL
+i45,4032,D. FP-MPP-APIT ALGORITHM
+i45,4494,x y z
+i45,4529,PS PS x y z
+i45,4711,if
+i45,5341,A. PERFORMANCE ANALYSIS: LOCALIZATION ACCURACY
+i46,1366,F P x y x y F p p a b a b p P x y E 2 F y x ax b
+i46,1472,E F E F
+i46,1855,B. DEFINITION OF THE ADD OPERATIONON AN ELLIPTIC CURVE
+i46,1977,C. DEFINITION OF THE MULTIPLE POINT OPERATION ON AN ELLIPTIC CURVE
+i46,2075,D. ELLIPTIC CURVE DISCRETE LOGARITHMPROBLEM (ECDL)
+i46,2149,E. COMPUTATIONAL DIFFIE-HELLMAN PROBLEM (CDH)
+i46,2163,B. ARCHITECTURE OF THE PROPOSED ENCHANCEDSECURE IM SCHEME
+i46,2211,A. REQUIREMENTS OF THE ENHANCED SECURE IM SCHEME
+i46,2989,C. SETUP OF AN IDENTITY-BASED PUBLICKEY CRYPTOSYSTEM
+i46,3125,q
+i46,3769,T m H T ID T s Q s m Q r k q
+i46,4483,R ID P P R H ID R P
+i46,4495,L ID T e T L ID T T T SK e T e P SK T ID T e T L SK
+i46,5506,m ID T T message type M H T m r s
+i46,6364,D. PERFORMANCE EFFICIENCY ANDEXPERIMENTAL ANALYSIS
+i46,6414,"a) User A chooses a number randomly and calculates = · . Then, obtain the current timestamp andsign the message with the user’s private key by ECDSAand send the organized message to user ."
+i47,1036,I I I J I n I I I J I I n n n N
+i47,1128,i
+i47,1142,n n
+i47,1409,i
+i47,1557,N
+i47,1884,R R G N
+i47,1936,W w w w w
+i47,1960,A. PARAFAC MODEL N I G N
+i47,2125,A a a a A a a a
+i47,2287,A A SA A S A A S Y A A S A A S s s s Y
+i47,2289,Y Y Y
+i47,2782,A
+i47,2789,I N P P
+i47,2808,A A A
+i47,2811,A R G A
+i47,3539,B. COMPUTATIONAL COMPLEXITY
+i47,3593,Z Z Y
+i47,4008,A. ALGORITHM IDENTIFIABILITY
+i48,4461,C. FUNCTIONAL MAPPING OF THE PROPOSED SYSTEMWITH PHASES OF THE CRISP-DM
+i48,4717,D. METHODOLOGY FOR THE DATAUNDERSTANDING PHASE
+i48,6196,positivepredictive value
+i48,6777,"Production Rule Generation From Decision Trees ( = , ) : = , : Input dataset (decision tree algorithm, classiﬁcation model) : − Rule set"
+i48,7826,A. EVALUATION OF THE UNIFIED FEATURESSCORING METHODOLOGY
+i48,7970,B. EVALUATION OF THE DATA PREPROCESSING TASKS
+i49,2187,A. PRODUCT RETRIEVAL SYSTEM
+i49,2235,B. ID-AVL TREE
+i49,3591,Algorithm 1 DepthFirstSearch while
+i49,3655,u V
+i49,4020,B. RETRIEVAL PROCESS OF THE INTERESTED PRODUCTS
+i5,1865,B. RANDOM NODE ANTENNA ARRAY MODEL
+i5,2085,C. ENERGY MODEL
+i5,2152,A. NETWORK MODEL
+i5,2972,B. ARRAY NODE LOCATION SELECTION OPTIMIZATION
+i5,3638,C. EXCITATION CURRENT OPTIMIZATION
+i5,4710,D. ARRAY NODE SELECTION ANDOPTIMIZATION PROCESS
+i5,6459,E. OVERHEAD ANALYSIS OF SEOANS
+i5,7148,F. FAULTY TOLERANT MECHANISM
+i5,8126,A. RADIATION BEAM PATTERN
+i5,10683,C. ENERGY CONSUMPTION ANALYSIS
+i5,10744,B. COMMUNICATION DELAY ANALYSIS
+i50,1518,"The rest of the paper is organised as follows. Section II out-lines relevant problems and related works. Section III presentsan analysis of a large tag dataset from three different but related perspectives. First, tag co-occurrence patterns are analysed and our ﬁndings are presented in Section III-A. Second, we validatethe dataset labels and discuss the effects of label noise on neu-ral network training and evaluation in Section III-B. We thenassess the capacity of the trained network to represent musicalknowledge in terms of similarity between predicted labels and co-occurrences between ground truth labels in Section III-C."
+i50,4882,positive negative N
+i50,5800,> > >
+i50,6500,ρ ρ
+i6,1342,A. TRAJECTORY DATA
+i6,1937,C. UNCERTAINTY IN TRAJECTORIES
+i6,2182,B. TRAJECTORY MINING
+i6,2259,A. UNCERTAIN EVENTS
+i6,2937,B. UNCERTAIN DATA MODEL
+i6,3519,C. EXPECTED SUPPORT COMPUTATION
+i6,4068,D. UNCERTAIN TRAJECTORY MINING
+i6,4492,C. TRAJECTORY MINING
+i6,4685,A. DATASET
+i6,4817,B. DATA PREPARATION
+i7,1221,A. SYSTEM MODEL
+i7,1462,B. COALITION & PRICING BASED DATAOFFLOADING SCHEME
+i8,1967,A. Supervisory Control Theory
+i8,3974,B. Simulation and Implementation
+i8,4524,A. Speciﬁcation of the System and Its Desired Behavior
+i8,4697,B. System and Requirement Models
+i8,6207,C. Supervisor Synthesis
+i8,6501,A. Model-Based Simulation
+i8,7498,B. Implementation
+i9,2338,B. Top-Down Data Interpretation: Framing
+i9,4948,A. Sentinel App
+i9,5506,B. SentiSum App
+i9,6081,A. Study 1: Regional Situation Awareness
+i9,7427,B. Study 2: Tracking the Effects of a High-Proﬁle Crime
+i9,8144,C. Study 3: Assessing Community Impacts of a Major Event
